@@ -1,0 +1,90 @@
+{
+ "code": "PH226",
+ "title": "Philosophy of Society",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Philosophy, Logic and Scientific Method",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Jason Alexander"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in International Relations, BSc in Philosophy and Economics, BSc in Philosophy, Logic and Scientific Method, BSc in Philosophy, Politics and Economics, BSc in Politics and Philosophy, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "This course examines how a number of traditional philosophical questions take on an interesting new character when we consider our existence as socially embedded entities. The course will investigate the nature of personal identity, the possibility of understanding others, social structures, the philosophical theory of action, the situationist critique of virtue ethics, the nature of social norms, and other topics. The kinds of questions considered will span epistemology, moral and political philosophy, scientific modelling, and metaphysics. The primary aim will not be to reach an agreed view on any of the issues discussed, but to develop an understanding of the concepts and theoretical frameworks which can be used to construct arguments for a particular position.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "Students will be expected to write one formative essay in the Autumn Term which they may develop into a summative essay based on the feedback received. Class presentations or weekly activities may also be required, depending on the pedagogical approach of the class teacher.",
+ "indicativeReading": [
+  "A detailed reading list will be provided at the beginning of the course. Indicative readings include:",
+  "Nancy Cartwright and Elinora Montuschi (eds.),",
+  "Philosophy of the Social Sciences: a new introduction",
+  ");",
+  "Harold Kincard, John Dupré, and Alison Wylie (eds.),",
+  "Value-Free Science: Ideals and Illusions;",
+  "Jon Elster,",
+  "Explaining Social Behaviour;",
+  "John H. Miller and Scott Page,",
+  "Complex Adaptive Systems",
+  ";",
+  "Dawn Langan Teele,",
+  "Field Experiments and Their Critics: Essays on the Uses and Abuses of Experimentation in the Social Sciences;",
+  "J. McKenzie Alexander,",
+  "The Open Society as an Enemy",
+  "Alex Rosenberg,",
+  "Philosophy of Social Science (Fifth edition)",
+  ";",
+  "Harold Kincaid,",
+  "Philosophical Foundations of the Social Sciences",
+  ";",
+  "Daniel Steel and Francesco Guala (eds.),",
+  "The Philosophy of Social Science Reader;",
+  "Michael Martin and Lee McIntyre (eds.),",
+  "Readings in the Philosophy of Social Science",
+  "."
+ ],
+ "assessmentText": "Exam (50%), duration: 120 minutes, reading time: 15 minutes in the January exam period. Essay (50%, 2000 words). The summative assessment for this course will consist of one essay and one exam. The summative essay can be a revised and expanded version of the formative essay, taking into account the feedback received. If this is done, an additional 500-word supplementary response needs to be submitted, explaining how the essay was revised in light of the feedback received, detailing the changes made along with the reasons why.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 50
+  },
+  {
+   "type": "Essay",
+   "weight": 50
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 51,
+  "avgClassSizePrevYear": 13,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PH/2026_PH226.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

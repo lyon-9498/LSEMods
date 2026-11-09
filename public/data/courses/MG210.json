@@ -1,0 +1,71 @@
+{
+ "code": "MG210",
+ "title": "Corporate Social Responsibility and International Labour Standards",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Management",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Chunyun Li"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Management, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley, International Exchange (1 Term) and International Exchange (Full Year). This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course has a limited number of places (it is capped).",
+ "description": "Corporate Social Responsibility (CSR) is becoming an expected element of corporate strategy. This course critically evaluates CSR, focusing on firms’ attempts to prevent labour standards violations in their supply chains. We begin by analysing the rise of CSR, setting it in the context of global value chains and transnational regulation of labour standards. We then analyse topics such as the impact of CSR on corporate financial performance; whether CSR is an effective means of raising labour standards; theories of CSR; how to embed CSR within the firm and human rights due diligence. The course includes plenty of examples of how large firms are dealing with the ethical challenges posed by global supply chains. The course is interdisciplinary and will include a few sessions from CSR professionals to share real-world challenges and practices.",
+ "teaching": "10 hours of lectures and 15 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term. In its Ethics Code, LSE upholds a commitment to intellectual freedom. This means we will protect the freedom of expression of our students and staff and the right to engage in healthy debate in the classroom.",
+ "formativeAssessment": "Students will have the opportunity to write 1 essay in the WT.",
+ "indicativeReading": [
+  "Porter, M. E., & Kramer, M. R. (2011). The Bid Idea: Creating shared value. Harvard business review, 89(1), 1-17.",
+  "Locke, R. M. (2013). The promise and limits of private power: Promoting labor standards in a global economy. Cambridge University Press.",
+  "Anner, M. (2021). Three labour governance mechanisms for addressing decent work deficits in global value chains. International Labour Review, 160(4), 611-629."
+ ],
+ "assessmentText": "Course participation (10%). Essay (60%, 2000 words). Project (30%). This component of assessment includes an element of group work. For detailed assessment information, including all deadlines and timings, please see the relevant course Moodle page. Assessment timings will be available at the start of each term.",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 10
+  },
+  {
+   "type": "Essay",
+   "weight": 60
+  },
+  {
+   "type": "Project",
+   "weight": 30
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 58,
+  "avgClassSizePrevYear": 19,
+  "capped": "Yes(60)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MG/2026_MG210.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

@@ -1,0 +1,61 @@
+{
+ "code": "IR312",
+ "title": "Genocide",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International Relations",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Jens Meierhenrich"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in International Relations, BSc in International Relations and Chinese, BSc in International Relations and History, BSc in Politics and International Relations, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is not available as an outside option to students on other programmes. This course is available with permission to General Course students. This course has a limited number of places (it is capped). This course cannot be taken in conjunction with SO309 Atrocity and Justice.",
+ "description": "This lecture course provides an introduction to the study of genocide. The course's disciplinary ambit ranges from anthropology to economics, from history to law, and from political science to sociology. Against the background of diverse disciplinary approaches, it explores major theoretical and empirical aspects of the role(s) of genocidal campaigns in international politics, inter alia, their origins, development, and termination; the manner of their perpetration, progression, and diffusion; their impact on the maintenance of international peace and security; their consequences for the reconstruction and development of states and the building of nations; and their adjudication in domestic and international courts and tribunals. Empirical cases to be discussed range from Australia to Gaza, and from Germany to Rwanda. The course is designed to equip students with the analytic tools necessary for making sense of the evolution of the international system from the nineteenth century to the present - and for critically assessing the promise and limits of responding to collective violence.",
+ "teaching": "20 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Students are required to research and write one formative essay (1,000 words) due in Week 7 of Winter Term. Essays must be fully - and carefully - referenced using one of the major conventions consistently. The formative essay provides students with an opportunity to write an essay and receive feedback to support their preparation for the summative essay.",
+ "indicativeReading": [
+  "Lee Ann Fujii, Show Time: The Logic and Power of Violent Display (Ithaca: Cornell University Press, 2021)",
+  "Christian Gerlach, The Extermination of the European Jews (Cambridge: Cambridge University Press, 2016)",
+  "Jens Meierhenrich, Genocide: A Reader (Oxford: Oxford University Press, 2014)",
+  "Pankaj Mishra, The World after Gaza (London: Fern Press, 2025)",
+  "A. Dirk Moses, The Problems of Genocide: Permanent Security and the Language of Transgression (Cambridge: Cambridge University Press, 2021)",
+  "Diane M. Nelson, Who Counts? The Mathematics of Death and Life after Genocide (Durham and London: Duke University Press, 2015)",
+  "Gérard Prunier, Africa’s World War: Congo, the Rwandan Genocide, and the Making of a Continental Catastrophe (Oxford: Oxford University Press, 2009)",
+  "Sean R. Roberts, The War on the Uyghurs: China’s Internal Campaign against a Muslim Minority (Princeton: Princeton University Press, 2020)",
+  "William A. Schabas, Genocide in International Law: The Crimes of Crimes, Third edition (Cambridge: Cambridge University Press, 2025)"
+ ],
+ "assessmentText": "Essay (100%, 3000 words).",
+ "assessment": [
+  {
+   "type": "Essay",
+   "weight": 100
+  }
+ ],
+ "skills": [],
+ "stats": {
+  "totalStudentsPrevYear": 24,
+  "avgClassSizePrevYear": 12,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/IR/2026_IR312.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "SO309",
+   "title": "Atrocity and Justice",
+   "note": "Suspended 2026/27"
+  }
+ ],
+ "unlocks": []
+}

@@ -1,0 +1,67 @@
+{
+ "code": "LL141",
+ "title": "Introduction to Legal Systems",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 0.0,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Prof Niki Lacey"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BA in Anthropology and Law and LLB in Laws. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This is an intensive foundation course that prepares students to take LL1xx level courses.",
+ "description": "The course is designed as an intensive foundation course to familiarise law students with the basic characteristics and functioning of legal systems. While most LLB courses focus on particular areas of law, covering the main doctrinal rules and principles which govern them, this course is distinctive in equipping students with three further important tools for a rounded understanding of law, its practical operation, and its impact in society. These are, first, an examination of the main paradigms elucidating the nature of law itself; second, a detailed study of the rules, protocols and conventions which govern the judicial interpretation and development of law in the English legal system; of the continent of Europe, and the common law system of the United States, implying key difference in the constitutions of these legal systems; third, an examination of the distinctive ways in which legal rules and processes are embedded in particular institutional structures and traditions, and of the ways in which these institutions have been changing in recent decades, with implications for the social impact of law and for the relationship between law and other social rules, conventions and regulatory systems. The course, which will run over the first two weeks of the Autumn Term, will be prefaced by a session in Welcome week, introducing students to varieties of legal order - civilian and common law; national; sub-national; transnational; international - along with a comparative and historical analysis of the different rules, protocols and institutional frameworks characterising these systems. The course will include the following topics: Welcome week: Varieties of Legal Order What is law? Reading Law: Statutory interpretation Reading Law: Common law and judicial precedent Adjudication and Due Process: the role of the trial The Judiciary: Does it matter who the judges are? Developments in Civil Justice; Alternative forms of Dispute Resolution Social Ordering beyond Formal Law: Legal Pluralism Legal Decision-making beyond Lawyers: Lay Participation",
+ "teaching": "18 hours of lectures in the Autumn Term. The course will run over the first two weeks of the Autumn Term with an additional session in Week 0 (Welcome Week). Material covered in this course will be discussed in classes that are scheduled as part of Contract Law, Tort Law, Public Law, and Criminal Law.",
+ "formativeAssessment": "There is Mandatory Formative coursework, which consists of an essay of up to 1500 words to be completed during the December-January vacation. Any student who fails to complete this essay to a satisfactory standard will have to resubmit their essay during the Winter Term. The content and skills we aim to develop in this intensive course are designed to feed into students’ approach to their four full unit courses.",
+ "indicativeReading": [
+  "Tom Bingham, The Rule of Law (2010: Penguin 2011)",
+  "The Secret Barrister (Macmillan 2018: Pan Macmillan Paperback 2019)",
+  "Alexandra Wilson, In Black and White: A Young Barrister’s Story of Race and Class in a Broken Justice System (Endeavour 2020).",
+  "Additional reading",
+  "Abdullahi An-Na’Im, (2010) ‘The Compatibility Dialectic’ Modern Law Review, 73(1): 1-29.",
+  "David Dyzenhaus, (2008) ‘The Grudge Informer Case Revisited’, New York University Law Review, 83 (4): 1000-1034. Please read pages 1-7 of the SSRN version of this article available on Moodle.",
+  "Lon Fuller, (1949) ‘The Case of the Speluncean Explorers,’ Harvard Law Review, 62 (4): 616-645.",
+  "Rosemary Hunter (2015) ‘More than just a different face? Judicial Diversity and decision making’ Current Legal problems. Vol. 68, pp. 119-141.",
+  "Nicola Lacey, A Life of H.L.A. Hart: The Nightmare and the Noble Dream (OUP 2004) Chapter 8 pp. 197-201; Chapter 9, pp. 224-226.",
+  "LSE/Guardian Report: Reading the Riots: pp. 18-33. Available on Moodle.",
+  "Lammy, David The Lammy Review: Final Report (2017) pp. 3-14.",
+  "Philip Sales, \"The Common Law: Context and Method\" (2019) 135 Law Q Rev 47-66. Available on Westlaw UK.",
+  "R (Youngsam) v Parole Board [2019] EWCA Civ 229, in particular per Leggatt LJ esp at paras 58-9."
+ ],
+ "assessmentText": null,
+ "assessment": [],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Communication",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 210,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL141.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

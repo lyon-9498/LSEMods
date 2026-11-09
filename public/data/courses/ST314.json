@@ -1,0 +1,78 @@
+{
+ "code": "ST314",
+ "title": "Multilevel and Longitudinal Models",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Statistics",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Fiona Steele"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Data Science, BSc in Economics and Data Science, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "This course considers statistical methods for the analysis of data with a multilevel (clustered) structure with applications in social research. Examples of multilevel structures include students nested within schools or universities, and individuals nested within households or geographical areas. Multilevel structures also arise in longitudinal or panel studies where repeated measurements over time are taken on subjects (e.g. individuals or countries). The course has an applied emphasis, and will consider practical issues such as the choice of an appropriate method of analysis for a given dataset and research question, descriptive analysis and modelling, model selection, and visualisation and interpretation of results. Students will gain hands-on experience of data analysis using R and datasets drawn from a range of social science disciplines. The course will include the following topics: Introduction to multilevel data structures and research questions Simple model for a two-level structure; comparison of fixed effects and random effects approaches Random intercept models Handling level 2 endogeneity in random effects models Random slope models Higher-level explanatory variables: contextual, between-group and cross-level interaction effects Longitudinal data analysis Model selection Special topics, e.g. models for three-level structures and for non-hierarchical structures LSE is currently evaluating the use of edit tracking tools for AI-resilient assessment. This course might use edit tracking tools for assessments.",
+ "teaching": "10 hours of computer workshop and 20 hours of lectures in the Winter Term. This course has a reading week in Week 6 of Winter Term. Students are required to install R on their own laptops for use in the computer workshops.",
+ "formativeAssessment": "Students will be expected to produce 4 problem sets in the WT. Students will work on weekly, structured problems in the computer classes. Students will be expected to submit their answers to four problem sets as homework. Individual feedback will be given on homework and solutions will be provided at the end of each week for each problem set.",
+ "indicativeReading": [
+  "T A B Snijders and R J Bosker, Multilevel Analysis: An Introduction to Basic and Advanced Multilevel Modeling, 2nd edition, Sage (2011).",
+  "S W Raudenbush and A S Bryk, Hierarchical Linear Models: Applications and Data Analysis Methods, 2nd edition, Sage (2002).",
+  "J Hox Multilevel Analysis: Techniques and Applications. Quantitative Methodology Series, 2nd edition. Taylor & Francis (2010).",
+  "D M Bates, lme4: Mixed-Effects Modeling with R https://stat.ethz.ch/~maechler/MEMo-pages/lMMwR.pdf"
+ ],
+ "assessmentText": "Exam (70%), duration: 120 minutes in the Spring exam period. Project (30%). The course is assessed by a group project (30%) to be submitted in WT and an exam (70%) in the spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 70
+  },
+  {
+   "type": "Project",
+   "weight": 30
+  },
+  {
+   "type": "The course is assessed by a group project",
+   "weight": 30
+  },
+  {
+   "type": "Wt and an exam",
+   "weight": 70
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 40,
+  "avgClassSizePrevYear": 40,
+  "capped": "Yes(40)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/ST/2026_ST314.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

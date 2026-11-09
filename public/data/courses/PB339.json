@@ -1,0 +1,99 @@
+{
+ "code": "PB339",
+ "title": "Leadership in Challenging Times",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Psychological and Behavioural Science",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Miriam Tresh",
+  "Dr Ilka Gleibs"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Psychological and Behavioural Science. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "Overall, the course draws from a rich variety of theoretical and cultural perspectives: Collective leadership strategies Feminist theory and its applications to leadership Social identity approaches to leadership Cross-cultural perspectives on leadership Psychological theories of implicit leadership Relational leadership models Critical management perspectives Thus, the course material demonstrates commitment to presenting diverse viewpoints and challenging traditional Western-centric leadership models. It balances theoretical frameworks with practical applications, particularly in crisis contexts, while incorporating contemporary research and real-world examples from various cultural and organizational settings. Case Studies and References: The course incorporates diverse contemporary examples and cases, including: Jacinda Ardern's leadership style as an example of feminist leadership The January 6th US Capitol assault as a case study of destructive leadership Climate change leadership challenges COVID-19 crisis management (New Zealand's/ Taiwan's approach) Contemporary political and organizational crisis situations Leadership in Challenging Times Leadership is a universal feature of human societies, evident across cultures, institutions, and social structures. From early childhood, we encounter leadership in various forms—parents, teachers, and community figures play influential roles in guiding behaviour and decisions. No society exists without leadership, though the forms and structures it takes can vary widely, and many do not depend on a singular, overarching leader. In this course, we critically explore leadership as a central topic in social sciences, one that has also spawned a global industry focused on leadership development and training. Yet, many dominant leadership models oversimplify a complex and dynamic process. Common leadership paradigms emphasize a strong, singular leader at the top of a hierarchy, suggesting that the success of a group is contingent upon this leader’s unique qualities. However, such models overlook critical social realities: leadership may be diffuse, hierarchies may be contested, and positions of power can be both illegitimate and exclusionary. In a world facing complex challenges—such as economic instability, political conflict, and the climate crisis—leadership becomes more intricate, requiring a nuanced understanding of power, influence, and cooperation. This course will examine the psychology of leadership as a social influence process and its potential for navigating crises. We will explore contemporary leadership theories, assessing their relevance for crisis management and problem-solving in today’s interconnected and challenging world. Learning Outcomes By the end of this course, students will be able to: Outline and critically evaluate leadership models and explain leadership as both a universal and context-dependent feature of societies. Describe the psychology of leadership as a social influence process in times of crisis. Identify barriers to effective leadership in times of crisis and consider the role of individual and collective efforts in addressing global challenges. Drawing on the relationship between theoretical approaches, critically assess contemporary challenges (e.g., political, economic, environmental) for leadership in times of crisis, and consider its application to real world contexts. General reading: Knights, D., Liu, H., Smolović-Jones, O., & Wilson, S. (Eds.). (2024). The Routledge Critical Companion to Leadership Studies . Taylor & Francis.",
+ "teaching": "15 hours of lectures and 10 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Project. Project. For each major and minor assessment option there is an equivalent piece of formative coursework. These are designed to help students to prepare for the summative assessments. Please use this section to provide any additional information to your students about the formative assessment (information included here will appear in the course guide). This might include, for example, anything that is unusual or specific about the assessment or how it might support their development (in terms of knowledge and/or skills).",
+ "indicativeReading": [
+  "Gleibs, I. H. (2024). A social identity approach to crisis leadership. British Journal of Social Psychology, 00, 1–8.",
+  "Grint, K. (2024). Is leadership the solution to the wicked problem of climate change?",
+  "Leadership",
+  ",",
+  "20",
+  "(2), 77-95.",
+  "https://doi.org/10.1177/1742715023122359",
+  "Riggio, R. E., & Newstead, T. (2023). Crisis leadership.",
+  "Annual Review of Organizational Psychology and Organizational Behavior",
+  ",",
+  "10",
+  ", 201–224.",
+  "Johns, G. (2024). The context deficit in leadership research.",
+  "The Leadership Quarterly",
+  ",",
+  "35",
+  "(1), 101755",
+  "Kerrissey, M., & Edmondson, A. (2020). What good leadership looks like during this pandemic. Harvard Business Review Digital Articles.",
+  "Indicative Topics:",
+  "History of Leadership/ Crisis Leadership; Implicit Leadership Theories; Challenging the 'hero' myth; leaderless leadership; feminist approaches to leadership; relational models of leadership; populism and leadership/ destructive leadership",
+  "Knights, D., Liu, H., Smolović-Jones, O., & Wilson, S. (Eds.). (2024).",
+  "The Routledge Critical Companion to Leadership Studies",
+  ". Taylor & Francis.",
+  "Haslam, S. A., Reicher, S., & Platow, M. (2020, 2.ed).",
+  "The new psychology of leadership : identity, influence, and power",
+  ". Psychology Press.",
+  "Riggio, R. E., & Newstead, T. (2023). Crisis leadership.",
+  "Annual Review of Organizational Psychology and Organizational Behavior",
+  ",",
+  "10",
+  ", 201–224.",
+  "Johns, G. (2024). The context deficit in leadership research.",
+  "The Leadership Quarterly",
+  ",",
+  "35",
+  "(1), 101755."
+ ],
+ "assessmentText": "Project (70%). Project (30%). Students will choose ONE minor and ONE major assessment from a list of assessments. Please use this section to provide any additional information to your students about the summative assessment (information included here will appear in the course guide). This might include, for example, anything that is unusual or specific about the assessment or how it might support their development (in terms of knowledge and/or skills). Please do not use this section to provide any instructions about grading schemes.",
+ "assessment": [
+  {
+   "type": "Project",
+   "weight": 70
+  },
+  {
+   "type": "Project",
+   "weight": 30
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 8,
+  "avgClassSizePrevYear": 8,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PB/2026_PB339.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

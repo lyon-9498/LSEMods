@@ -1,0 +1,69 @@
+{
+ "code": "GV325",
+ "title": "Topics in Political Economy: Applications",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 0.5,
+ "studyPeriod": "Winter and Spring Term",
+ "terms": [
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Stephane Wolton"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": "Students are expected to have a knowledge of econometrics at the level of GV249 or EC2C3. A knowledge of game theory and microeconomic theory to the level of GV225 Public Choice and Politics, or EC2A3 Microeconomics II, or EC2A1 Microeconomics II, or equivalent, is useful. Students are strongly recommended to take GV325 in conjunction with EC312 to take full advantage of the material presented in GV325. Note that GV325 is mutually exclusive with EC302.",
+ "availability": "This course is available on the BA in Social Anthropology, BSc in History and Politics, BSc in International Social and Public Policy with Economics, BSc in International Social and Public Policy with Politics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations, BSc in Politics and Philosophy, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students.",
+ "description": "This course provides an overview of recent research in political economy. The focus will be on empirical approaches to the understanding of contemporary political issues. During the lectures, we will cover some seminal and more recent papers to think critically about the topics studied. Empirical findings will be related to theoretical models of politics, though we will not cover those models in depth. Students will learn to assess critically the usefulness and limitations of empirics. Themes covered change every year as a function of current debates in the scholarly community and of pressing problems in the world at large. In recent years, the topics studied in the course have included, among others, populism, media and democracy, democratic backsliding, terrorism. Questions covered during the lectures have included the sources of populists’ success, the effect of biased media on political outcomes, what are the causes of democratic backsliding, or the evaluation of counter-terrorist policies, among many others.",
+ "teaching": "15 hours of lectures and 10 hours of classes in the Winter Term. 1.5 hours of lectures and 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Winter Term. There will be a ninety-minute mock exam and a one-hour revision class in the ST.",
+ "formativeAssessment": "Mock exam in Spring Term Week 1. Problem sets. Students will complete one problem set in the WT to further their understanding of the concepts covered in the course. There will also be a timed exam in ST Week 1 to allow practice on essay writing under exam conditions.",
+ "indicativeReading": [
+  "Dal Bo, Ernesto, Frederico Finan, Olle Folke, Torsten Persson, and Johanna Rickne. 2023. \"Economic and Social Outsiders but Political Insiders: Sweden's Radical Right.\" Review of Economic Studies 90(2): 675-706.",
+  "Graham, Matthew H., and Milan W. Svolik. 2020. \"Democracy in America? Partisanship, Polarization, and the Robustness of Support for Democracy in the United States.\" American Political Science Review 114(2): 392-409.",
+  "Most of the reading is from journal articles; a complete list will be supplied at the start of the term."
+ ],
+ "assessmentText": "Exam (100%), duration: 90 minutes, reading time: 15 minutes in the Spring exam period. GENERAL COURSE STUDENTS ONLY: The Class Summary Grade for General Course students will be calculated as follows: 50% formative assessment and 50% class participation (including attendance).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 12,
+  "avgClassSizePrevYear": 6,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV325.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "EC302",
+   "title": "Political Economy",
+   "note": null
+  }
+ ],
+ "unlocks": []
+}

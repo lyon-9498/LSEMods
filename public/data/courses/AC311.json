@@ -1,0 +1,83 @@
+{
+ "code": "AC311",
+ "title": "Results Accountability and Management Control for Strategy Implementation",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Accounting",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Oscar Timmermans"
+ ],
+ "prerequisites": "Students must have completed AC106 or AC103 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": "Intermediate Management Accounting (AC206) is recommended to complement either AC106 or AC103, but not required. AC311 can be taken together with Performance Measurement, Strategy, and Uncertainty (AC312) in the Winter Term, which focuses in more depth on one aspect of management control systems, namely performance measurement. In this course (AC311), however, performance measurement is just one aspect of a broader management control focus that entails results controls, incentive systems and various other organisational design features (e.g., responsibility centres and planning and budgeting). Students interested in careers in management consulting may benefit from taking both AC311 and AC312. Nevertheless, each course is also valuable as a standalone option.",
+ "availability": "This course is compulsory on the BSc in Accounting and Finance. This course is available on the BSc in Econometrics and Mathematical Economics, BSc in Economics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course is not capped, any student that requests a place will be given one, subject to the permissions. It is also available to students on other undergraduate/Diploma programmes with the permission of the BSc Programme Director.",
+ "description": "AC311 examines results accountability and organisational control issues, focusing on how both financial and non-financial “results-oriented” practices underpin decision rights, planning and budgeting, and performance measurement and incentive systems, among other key organisational design features, to guide and ensure “strategy-aligned” decision-making in decentralised organisations. In other words, AC311 seeks to broaden and deepen your conceptual and technical understanding of accounting as it is used for management purposes—to implement strategy and ensure that everyone’s objectives and decisions are aligned with the organisation’s objectives by way of the key concept of results accountability. The emphasis in AC311 is on financial controls, which are prevalent at managerial levels in all but the smallest organisations. Using financial controls requires managers to make decisions about: (1) responsibility structures (e.g., cost centres, profit centres); (2) performance measures and targets/benchmarks (e.g., market, financial, and/or non-financial measures and targets); (3) performance evaluations, which take into consideration these performance measures and targets/benchmarks; and (4) rewards (including incentive-compensation). The course is issue-oriented, with current and emerging topics as its major focus. Aided by case studies and academic research, AC311 provides students with valuable insights into how financial results control systems vary across contexts, and how several situational factors, including organisational structure, culture, decision-making processes, and behavioural variables influence the design of financial results control systems. Some cases involve real-world data and the use of data analytics for strategic decision-making to address these management control problems. The course is intended as an overview for those who will make business decisions, evaluate organisational performance, or evaluate others (and/or be evaluated) through the use of financial and non-financial information. And because management control is a core function of management, all students interested in business or management can benefit from this course. However, the course should be particularly useful for those who are, or aspire to be, managers, management consultants, financial specialists (e.g., controllers, budget analysts, auditors) or human resource specialists (e.g., compensation consultants).",
+ "teaching": "The course consists of 10 principal topics delivered in two weekly 90-minute sessions across Autumn Term. The first part of each week provides an introduction, positioning, and conceptual analysis of the key foundational elements of each topic. Students are expected to attend the session, together with having done the suggested readings for the week. The second part each week offers a further discussion and expansion of the issues through case study analysis and real-world applications. The case study analyses and discussions permit the exploration of management control issues in a broad range of settings (e.g., large and small firms, manufacturing and service firms, multinational firms, startups and firms in distress, amongst others). The case method of instruction, however, requires advance preparation by the students, and every student should be ready to contribute to the case discussion. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "The course makes extensive use of case studies. Students are expected to contribute to the case discussions by having read the case study and related materials in advance of the session and by participating in the discussion and offering their own analysis, views and/or perspectives on the issue at hand during the session.",
+ "indicativeReading": [
+  "The main textbook for AC311 is:",
+  "K. Merchant; W. Van der Stede; 2023.",
+  "Management control systems: Performance measurement, evaluation and incentives",
+  "(5th ed.). Pearson Education Limited.",
+  "In addition to the textbook, additional materials are accessible via Moodle."
+ ],
+ "assessmentText": "Exam (75%), duration: 120 minutes, reading time: 15 minutes in the January exam period. Project (25%). The objective of the autumn term group project is to write one case report per group in which you use data analytics to evaluate an existing performance measurement and evaluation system at a large bank. Further details relating to assessment and coursework, as well as feedback, will be made available on Moodle nearer the scheduled start time of the course and will be updated as the course progresses with specific instructions, guidance, and feedback.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 75
+  },
+  {
+   "type": "Project",
+   "weight": 25
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 131,
+  "avgClassSizePrevYear": 44,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AC/2026_AC311.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "course",
+    "code": "AC106"
+   },
+   {
+    "type": "course",
+    "code": "AC103"
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

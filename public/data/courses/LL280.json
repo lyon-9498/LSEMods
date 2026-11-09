@@ -1,0 +1,72 @@
+{
+ "code": "LL280",
+ "title": "Advanced Issues in Public International Law",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Margot Salomon"
+ ],
+ "prerequisites": null,
+ "corequisites": "Students must complete LL279 either before taking this course or in the same year as this course.",
+ "additionalRequisites": "Students must have taken LL279 Public International Law in order to enrol in this course.",
+ "availability": "This course is available on the BA in Anthropology and Law, BSc in Environment and Sustainable Development with Economics, BSc in International Relations, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "In this advanced-level course, we build on Public International Law (LL279) by considering how foundational concepts and ideas that are explored in that course play out in a number of specialised fields of international law. We are interested in understanding how those fields and their associated institutions function, with a keen focus on the particular legal ordering – categories, inclusions and exclusions – they create. We will begin with an introduction to the course, by the teaching team, exploring how international law works in the world, and, in making explicit the terms of legal ordering across the fields, expose what kinds of politics, protections and wrongs they make possible. While the selected fields and case studies may change year to year, we tend to begin with feminist approaches to international law whereby we interrogate the boundaries, assumptions, and beneficiaries set by the international legal system. Feminist approaches to international law is addressed through a range of fields, including peace and security, international humanitarian law and international human rights law. From there, the course will dedicate two weeks to the study of a chosen field of international law, starting with a detailed lecture on the law and architecture of that field followed by a cutting-edge case study that engages explicitly with its complexities of legal ordering. Fields that we have covered include International Environmental Law, followed by an indepth case study on the Rights of Nature and the turn to centring ecosystems as bearers of legal rights. We've studied International Investment Law before delving into a case study on the topic of seabed mining, with its impacts on the marine environment and local communities, and the plurality of interests and norms that are engaged by investment treaty disputes. From there, we might take a deep dive into the field of International Trade Law to understand theories of free trade and the core World Trade Organization principles and rules before unpacking, through the case study, a highly topical issue such as the first ever use of security exceptions to justify WTO-inconsistent trade measures in a case brought by Ukraine against Russia. The next field we may want to understand is International Human Rights Law, internationally and regionally. Our case study here has explored how law conditions our political and economic order and how the recent UN Declaration on the Rights of Peasants to seeds, food sovereignty and decommodification attempts to reorder international law. This is an engaging course that offers students an opportunity to study, and grapple with, conceptual and practical complexities of some of the most significant topics in international law today.",
+ "teaching": "20 hours of lectures and 9 hours of classes in the Winter Term. 2 hours of lectures and 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Essay.",
+ "indicativeReading": [
+  "Reading assignments are provided for each seminar and draw from various primary and secondary source materials. Some other works to which you may wish to refer include: H. Charlesworth and C. Chinkin,",
+  "The Boundaries of International Law",
+  "; J. Klabbers,",
+  "International Law",
+  "; G. Hernandez,",
+  "International Law",
+  ";",
+  "People Make the World: A Conversation with Georges Abi-Saab,",
+  "Opinio Juris",
+  "Podcast; J.T. Gathii and N. Tzouvala, ‘Racial Capitalism and International Economic Law: Introduction’ 25",
+  "Journal of International Economic Law 2",
+  "(2022)."
+ ],
+ "assessmentText": "Exam (100%), duration: 150 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 26,
+  "avgClassSizePrevYear": 9,
+  "capped": "Yes(60)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL280.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": {
+  "type": "course",
+  "code": "LL279"
+ },
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

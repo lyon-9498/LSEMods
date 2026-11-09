@@ -1,0 +1,66 @@
+{
+ "code": "ST312",
+ "title": "Applied Statistics Project",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Statistics",
+ "units": 0.5,
+ "studyPeriod": null,
+ "terms": [],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Yunxiao Chen"
+ ],
+ "prerequisites": "Students must have completed ST102 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": "This course is suitable for third-year students.",
+ "availability": "This course is compulsory on the BSc in Data Science. This course is available on the BSc in Actuarial Science, BSc in Actuarial Science (with a Placement Year), BSc in Economics and Data Science and BSc in Mathematics, Statistics and Business. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is not controlled access. If you request a place and meet the criteria you are likely to be given a place.",
+ "description": "Students will produce a project involving a critical investigation and collation of statistical data on a topic of their own interest.",
+ "teaching": "This course will be delivered through a combination of workshops and seminars totalling a minimum of 9 hours across Autumn term, 2 hours of workshop in the Winter term and 2 hours of workshop in the Spring term. Students on this course will have a research week in week 6 of Autumn term where they can look up data sources for their assessed project.",
+ "formativeAssessment": "Oral presentations at the end of Autumn term and Week 6 of Winter term.",
+ "indicativeReading": [
+  "Bryman (2008) ‘Social Research Methods’",
+  "Saunders (2009) ‘Research Methods for Business Students’",
+  "Johnson (2009) ‘Writing a Quantitative Research Thesis’",
+  "Verzani (2002) ‘Using R for Introductory Statistics’"
+ ],
+ "assessmentText": "Presentation (10%). Project (90%).",
+ "assessment": [
+  {
+   "type": "Presentation",
+   "weight": 10
+  },
+  {
+   "type": "Project",
+   "weight": 90
+  }
+ ],
+ "skills": [
+  "Communication",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 39,
+  "avgClassSizePrevYear": 39,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/ST/2026_ST312.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "course",
+  "code": "ST102"
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

@@ -1,0 +1,321 @@
+{
+ "name": "BSc in Management",
+ "code": "UBMG",
+ "department": "Management",
+ "years": [
+  {
+   "year": 1,
+   "papers": [
+    {
+     "label": "LSE100",
+     "lines": [
+      "LSE100 is a half unit taken by all students, running across Autumn and Winter Terms in the first year. The course provides one of the marks that is eligible to be included in the calculation of the First Year Average for purposes of classification.",
+      "Students will choose ONE of the three half-unit options below:",
+      "LSE100A The LSE Course: How can we transform our climate futures? (0.5)",
+      "LSE100B The LSE Course: How can we control AI? (0.5)",
+      "LSE100C The LSE Course: How can we create a fair society? (0.5)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "LSE100A",
+      "LSE100B",
+      "LSE100C"
+     ],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": true,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 1",
+     "lines": [
+      "FM101 Finance (0.5)",
+      "AND one of the following:",
+      "AC102 Elements of Financial Accounting (0.5)",
+      "AC103 Elements of Management Accounting, Financial Management and Financial Institutions (0.5)"
+     ],
+     "compulsory": [
+      "FM101"
+     ],
+     "choice": true,
+     "options": [
+      "AC102",
+      "AC103"
+     ],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": true,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 2",
+     "lines": [
+      "EC1A3 Microeconomics I (0.5) and EC1B3 Macroeconomics I (0.5)"
+     ],
+     "compulsory": [
+      "EC1A3",
+      "EC1B3"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 3",
+     "lines": [
+      "MA107 Quantitative Methods (Mathematics) (0.5) and ST107 Quantitative Methods (Statistics) (0.5)"
+     ],
+     "compulsory": [
+      "MA107",
+      "ST107"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 4",
+     "lines": [
+      "MG104 Operations Management (0.5) and MG105 Organisational Behaviour and Leadership (0.5)"
+     ],
+     "compulsory": [
+      "MG104",
+      "MG105"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  },
+  {
+   "year": 2,
+   "papers": [
+    {
+     "label": "Paper 6",
+     "lines": [
+      "MG207 Managerial Economics (1.0)"
+     ],
+     "compulsory": [
+      "MG207"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 7",
+     "lines": [
+      "MG205 Econometrics: Theory and Applications (1.0)"
+     ],
+     "compulsory": [
+      "MG205"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 8",
+     "lines": [
+      "Courses to the value of 1.0 unit(s) from the following:",
+      "Methods Electives List",
+      "(OR)",
+      "Applications Electives List"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [],
+     "lists": [
+      "Methods Electives List",
+      "Applications Electives List"
+     ],
+     "unitsNeeded": 1.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 5",
+     "lines": [
+      "Courses to the value of 1 unit(s) from the following:",
+      "MG212 Marketing (0.5)",
+      "MG213 Information Systems (0.5)",
+      "MG214 Human Resource Management (0.5)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "MG212",
+      "MG213",
+      "MG214"
+     ],
+     "lists": [],
+     "unitsNeeded": 1.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  },
+  {
+   "year": 3,
+   "papers": [
+    {
+     "label": "Paper 9",
+     "lines": [
+      "MG301 Strategy (1.0)"
+     ],
+     "compulsory": [
+      "MG301"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 10",
+     "lines": [
+      "Courses to the value of 1 unit(s) from the following:",
+      "Methods Electives List"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [],
+     "lists": [
+      "Methods Electives List"
+     ],
+     "unitsNeeded": 1.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 11",
+     "lines": [
+      "Courses to the value of 1 unit(s) from the following:",
+      "Applications Electives List"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [],
+     "lists": [
+      "Applications Electives List"
+     ],
+     "unitsNeeded": 1.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 12",
+     "lines": [
+      "Courses to the value of 1.0 unit(s) from the following (if not already taken under papers 8, 10 or 11):",
+      "Methods Electives List",
+      "(OR)",
+      "Applications Electives List",
+      "(OR)",
+      "Languages List"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [],
+     "lists": [
+      "Methods Electives List",
+      "Applications Electives List",
+      "Languages List"
+     ],
+     "unitsNeeded": 1.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  }
+ ],
+ "lists": {
+  "Methods Electives List": [
+   "AC102",
+   "AC103",
+   "AC331",
+   "AC332",
+   "EC2B3",
+   "FM210",
+   "FM211",
+   "FM214",
+   "FM215",
+   "MA207",
+   "MA213",
+   "MA221",
+   "MA222",
+   "MA301",
+   "MA324",
+   "MA330",
+   "MG206",
+   "MG308",
+   "MG311",
+   "MG317"
+  ],
+  "Applications Electives List": [
+   "AC205",
+   "AC206",
+   "EH240",
+   "FM310",
+   "FM311",
+   "MG209",
+   "MG210",
+   "MG212",
+   "MG213",
+   "MG214",
+   "MG303",
+   "MG305",
+   "MG307",
+   "MG312",
+   "MG316",
+   "MG318",
+   "PH225",
+   "ST205",
+   "ST327"
+  ],
+  "Languages List": [
+   "LN200",
+   "LN210",
+   "LN220",
+   "LN230",
+   "LN240",
+   "LN320",
+   "LN330"
+  ]
+ },
+ "warnings": [],
+ "id": "2024-BScManagement",
+ "cohort": 2024,
+ "url": "https://www.lse.ac.uk/resources/calendar2026-2027/programmeRegulations/undergraduate/2024/BScManagement.htm"
+}

@@ -1,0 +1,348 @@
+{
+ "name": "BA in Geography",
+ "code": "UBGY2",
+ "department": "Geography and Environment",
+ "years": [
+  {
+   "year": 1,
+   "papers": [
+    {
+     "label": "LSE100",
+     "lines": [
+      "LSE100 is a half unit taken by all students, running across Autumn and Winter Terms in the first year. The course provides one of the marks that is eligible to be included in the calculation of the First Year Average for purposes of classification.",
+      "Students will choose ONE of the three half-unit options below:",
+      "LSE100A The LSE Course: How can we transform our climate futures? (0.5)",
+      "LSE100B The LSE Course: How can we control AI? (0.5)",
+      "LSE100C The LSE Course: How can we create a fair society? (0.5)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "LSE100A",
+      "LSE100B",
+      "LSE100C"
+     ],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": true,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 1",
+     "lines": [
+      "GY100 Introduction to Geography (1.0)"
+     ],
+     "compulsory": [
+      "GY100"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 2",
+     "lines": [
+      "GY140 Introduction to Geographical Research (1.0)"
+     ],
+     "compulsory": [
+      "GY140"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 3",
+     "lines": [
+      "GY144 Human Geography and the City (1.0)"
+     ],
+     "compulsory": [
+      "GY144"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 4",
+     "lines": [
+      "Courses to the value of 1.0 unit(s) from the following:",
+      "GY103 Contemporary Europe (1.0)",
+      "GY120 Environmental Change: Past, Present and Future (1.0)",
+      "GY121 Sustainable Development (1.0)",
+      "(OR) An approved paper taught outside the Department to the value of 1.0 unit from the following:",
+      "AN100 Being Human: Contemporary Themes in Social Anthropology (1.0)",
+      "GV101 Introduction to Political Science (1.0)",
+      "HY113 Empires and Resistance in Global History (1.0)",
+      "SO110 Power, Inequality, and Difference: Contemporary Themes in Sociology (1.0)",
+      "EC1A3 Microeconomics I (0.5) and EC1B3 Macroeconomics I (0.5)",
+      "EC1A5 Microeconomics I (0.5) and EC1B5 Macroeconomics I (0.5)",
+      "(OR) A language option to the value of 1.0 unit from the following:",
+      "Language Courses List 1"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "GY103",
+      "GY120",
+      "GY121",
+      "AN100",
+      "GV101",
+      "HY113",
+      "SO110",
+      "EC1A3",
+      "EC1B3",
+      "EC1A5",
+      "EC1B5"
+     ],
+     "lists": [
+      "Language Courses List 1"
+     ],
+     "unitsNeeded": 1.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": "allowed"
+    },
+    {
+     "label": "Skills Course",
+     "lines": [
+      "GY101 Succeeding in your degree: Critical skills for Geography and Environment students (0.0)"
+     ],
+     "compulsory": [
+      "GY101"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  },
+  {
+   "year": 2,
+   "papers": [
+    {
+     "label": "Paper 5",
+     "lines": [
+      "GY245 Quantitative Methods in Geography and GIS (0.5)",
+      "GY246 Field Methods in Geography (0.5)"
+     ],
+     "compulsory": [
+      "GY245",
+      "GY246"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 6",
+     "lines": [
+      "GY212 Pathways in Human Geography (0.5)",
+      "One course to the value of 0.5 units from the following:",
+      "GY204 Political Geography (0.5)",
+      "GY206 Urban Geography and Globalisation (0.5)",
+      "GY207 Economy, Society and Place (0.5)"
+     ],
+     "compulsory": [
+      "GY212"
+     ],
+     "choice": true,
+     "options": [
+      "GY204",
+      "GY206",
+      "GY207"
+     ],
+     "lists": [],
+     "unitsNeeded": 0.5,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Papers 7 & 8",
+     "lines": [
+      "Courses to the value of 2.0 unit(s) from the following, other than what is selected under Paper 6:",
+      "GY204 Political Geography (0.5)",
+      "GY206 Urban Geography and Globalisation (0.5)",
+      "GY207 Economy, Society and Place (0.5)",
+      "GY209 The Economic Geography of Trade, Production and Development (0.5)",
+      "GY210 The Economics of Cities (0.5)",
+      "GY211 Introduction to Global Development (0.5)",
+      "GY222 Applied Environmental Economics (1.0)",
+      "GY223 Environmental Science, Policy and Action (0.5)",
+      "GY224 Science, Technology and Environmental Governance (0.5)",
+      "Language Courses List 2"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "GY204",
+      "GY206",
+      "GY207",
+      "GY209",
+      "GY210",
+      "GY211",
+      "GY222",
+      "GY223",
+      "GY224"
+     ],
+     "lists": [
+      "Language Courses List 2"
+     ],
+     "unitsNeeded": 2.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  },
+  {
+   "year": 3,
+   "papers": [
+    {
+     "label": "Paper 9",
+     "lines": [
+      "GY350 Dissertation (1.0)"
+     ],
+     "compulsory": [
+      "GY350"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Papers 10, 11 & 12",
+     "lines": [
+      "Course(s) to the value of 3.0 units from the following:",
+      "GY307 Regional Economic Development (0.5)",
+      "GY308 The Economic Geography of Growth and Development (0.5) (suspended 2026/27)",
+      "GY310 Urban Politics (0.5) (suspended 2026/27)",
+      "GY311 The Political Economy of Urbanisation (0.5)",
+      "GY313 Firms and Economic Geography: Location, Technology and Innovation (0.5)",
+      "GY314 The Economics of Housing Markets and Migration (0.5)",
+      "GY315 Geographies of Race (0.5)",
+      "GY316 Gender, Space and Power (0.5)",
+      "GY317 Geographies of Urban Violence (0.5)",
+      "GY326 Sustainable Business and Finance (0.5)",
+      "GY327 Global Environmental Governance (0.5)",
+      "GY328 Political Ecology of Development (0.5)",
+      "GY329 Applied Economics of Environment and Development (0.5)",
+      "GY331 Geographies of Global Migration (0.5)",
+      "Language Courses List 3"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "GY307",
+      "GY311",
+      "GY313",
+      "GY314",
+      "GY315",
+      "GY316",
+      "GY317",
+      "GY326",
+      "GY327",
+      "GY328",
+      "GY329",
+      "GY331"
+     ],
+     "lists": [
+      "Language Courses List 3"
+     ],
+     "unitsNeeded": 3.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  }
+ ],
+ "lists": {
+  "Language Courses List 1": [
+   "LN100",
+   "LN101",
+   "LN102",
+   "LN104",
+   "LN110",
+   "LN112",
+   "LN120",
+   "LN121",
+   "LN122",
+   "LN130",
+   "LN131",
+   "LN132",
+   "LN140",
+   "LN142",
+   "LN200",
+   "LN210",
+   "LN220",
+   "LN230",
+   "LN240",
+   "LN320",
+   "LN330"
+  ],
+  "Language Courses List 2": [
+   "LN100",
+   "LN102",
+   "LN110",
+   "LN112",
+   "LN120",
+   "LN122",
+   "LN130",
+   "LN132",
+   "LN140",
+   "LN142",
+   "LN200",
+   "LN210",
+   "LN220",
+   "LN230",
+   "LN240",
+   "LN320",
+   "LN330"
+  ],
+  "Language Courses List 3": [
+   "LN100",
+   "LN110",
+   "LN120",
+   "LN130",
+   "LN140",
+   "LN200",
+   "LN210",
+   "LN220",
+   "LN230",
+   "LN240",
+   "LN320",
+   "LN330"
+  ]
+ },
+ "warnings": [],
+ "id": "2026-BAGeography",
+ "cohort": 2026,
+ "url": "https://www.lse.ac.uk/resources/calendar2026-2027/programmeRegulations/undergraduate/2026/BAGeography.htm"
+}

@@ -1,0 +1,102 @@
+{
+ "code": "EC333",
+ "title": "Problems of Applied Econometrics",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economics",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Mark Schankerman",
+  "Dr Pasquale Schiraldi"
+ ],
+ "prerequisites": "Before taking this course, students must have completed: (EC2A1 or EC2A3) and (EC2C1 or (EC2C3 and EC2C4)).",
+ "corequisites": null,
+ "additionalRequisites": "Students who have completed EC2C3 in combination with EC2C4, rather than EC2C1, should refer to Dr Schiraldi for advice before starting the course regarding additional preparatory work for Autumn term course material.",
+ "availability": "This course is available on the BSc in Econometrics and Mathematical Economics, BSc in Economics, BSc in Economics and Data Science, BSc in Economics and Economic History, BSc in Mathematics and Economics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad) and BSc in Politics and Economics. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is not available to General Course students.",
+ "description": "The purpose of this course is to provide a solid grounding in recent developments in applied micro-econometrics. A major feature of the course is the use of both analytical and computer-based (data) exercises for the classes, as well as reading applied economic papers from the journals which apply the techniques being taught. This mix will enable students to gain practical experience in analysing a wide variety of econometric problems. The topics covered in the Autumn term include randomised control experiments, matching methods, difference-in-differences estimation, instrumental variables and the identification of the local average treatment effect, technique for estimating the marginal treatment effect, and sharp and fuzzy regression discontinuity design. The lectures will be focused on the methodology, with particular emphasis on understanding the key assumptions required for each technique to deliver consistent estimates of the treatment effects. The Winter term will cover the following topics, among others: threats to the identification of causal relationships; the analysis of cross-sectional and panel data (including fixed and random effects); and methods for computing standard errors in more complex settings. It will also cover binary and more general discrete choice models and their estimation, and introduce demand and supply estimation, highlighting key identification challenges. A consistent methodological approach will be maintained throughout the Winter term.",
+ "teaching": "15 hours of lectures and 10 hours of classes in the Autumn Term. 15 hours of lectures and 9 hours of classes in the Winter Term. 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Winter Term. This course is delivered through a combination of classes and lectures totalling a minimum of 50 hours across Autumn Term, Winter Term and Spring Term.",
+ "formativeAssessment": "Autumn term: Required weekly “referee reports” (3-4 pages) on assigned journal articles, and/or analytical exercises, with two graded. The choice of graded reports/exercises will not be announced beforehand. Feedback to be provided by the class teacher. Winter term: A required problem set, usually to include econometric questions and/or applications. Feedback to be provided by the class teacher.",
+ "indicativeReading": [
+  "A detailed reading list will be provided at the beginning of each term of the course. In parts of the Autumn we will use sections from the textbook \"Mostly Harmless Econometrics\" by Angrist and Pischke. A complementary text, which is also available in an online version, is Scott Cunningham’s “Causal Inference: The Mixtape.” It is a good reference to gain intuition about the core causal methods we will study in the semester (although we will not have the time to cover all the methods discussed in the book). The level is somewhere between Stock & Watson and Angrist & Pischke.",
+  "There is no single text for the Winter term, but useful books include “A Guide to Modern Econometrics” by Marno Verbeek, “Introduction to Econometrics” By Stock and Watson (somewhat less advanced than the lectures) and “Econometric Analyses of Cross Section and Panel Data” by Wooldridge (somewhat more advanced than the lectures)."
+ ],
+ "assessmentText": "Exam (100%), duration: 180 minutes, reading time: 15 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 41,
+  "avgClassSizePrevYear": 21,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EC/2026_EC333.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "or",
+    "children": [
+     {
+      "type": "course",
+      "code": "EC2A1"
+     },
+     {
+      "type": "course",
+      "code": "EC2A3"
+     }
+    ]
+   },
+   {
+    "type": "or",
+    "children": [
+     {
+      "type": "course",
+      "code": "EC2C1"
+     },
+     {
+      "type": "and",
+      "children": [
+       {
+        "type": "course",
+        "code": "EC2C3"
+       },
+       {
+        "type": "course",
+        "code": "EC2C4"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

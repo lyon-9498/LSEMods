@@ -1,0 +1,62 @@
+{
+ "code": "LL342",
+ "title": "International Protection of Human Rights",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Theodora Christou"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, BSc in International Relations, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course should be taken in the third year.",
+ "description": "This course aims to provide a comprehensive and analytical account of the application of human rights standards in international law, and the operation of the existing international machinery for the protection of human rights. The course engages with both the theory and practice of international human rights law and, in that process, some of the most vexing issues facing us today will be considered. What’s the geographical scope of a state’s human rights obligations? How does human rights law apply in war? What is the scope of the right to privacy in a digital age? What are the human rights obligations in the context of climate change ? How do human rights inform responses to modern slavery? What rights do asylum seekers have when they are fleeing conflict? Does existing law adequately protect women’s rights, minorities or indigenous peoples? What is the role of human rights law in achieving the sustainable development goals? The law of human rights reflects attempts made internationally to articulate basic legal standards for the protection of individuals and groups in their relations with the state, and to use the authority of international law, institutions, and procedures, to secure compliance with such standards. Human rights law is a modern phenomenon; but it has an ancient lineage. Some account of its evolution is given, from natural rights, civil liberties, the history of minorities protection, and the progressive development of human rights in public international law since 1945. However, the major part of the course relates to post-1945 events concerning the protection of human rights. A section of the course deals with the role and reform of the United Nations to promote and secure the observance, on a universal basis, of international standards of human rights. The development of important legal standards (such as those of non-discrimination) is traced; and the work of various UN bodies in applying and promoting human rights is analyzed. Comparisons are also drawn with regional attempts to promote and protect human rights, with the European system, the Inter-American system and the African system receiving special attention as regards their treaties, their institutions, procedure, and case-law. By the end of the course students should have a good understanding of the substantive content of contemporary human rights and of the existing and alternative means available for protecting these rights and fundamental freedoms. Extensive use is made of relevant case law, of the Civil and Political Covenant, the European Convention, the American Convention, the African Charter, and the International Court of Justice; and particular rights (such as those of persons belonging to minorities or indigenous peoples, the right to life, the prohibition of torture, the right to a fair trial, family life, and the fundamental freedoms) are studied in considerable detail.",
+ "teaching": "20 hours of seminars in the Autumn Term. 20 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Students are expected to produce 1 essay in Autumn Term and 1 essay in Winter Term.",
+ "indicativeReading": [
+  "R. Smith,",
+  "International Human Rights",
+  "; Ilias Bantekas and Lutz Oette,",
+  "International Human Rights Law and Practice."
+ ],
+ "assessmentText": "Exam (100%), duration: 210 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 20,
+  "avgClassSizePrevYear": 20,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL342.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

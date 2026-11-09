@@ -1,0 +1,112 @@
+{
+ "code": "MY105W",
+ "title": "Data for Data Science",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Methodology",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Jon Cardoso Silva"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": "There are no pre-requisites to enter this course, just a strong willingness to learn how to code in Python.",
+ "availability": "This course is available on the Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "IMPORTANT NOTE : This is the same course as DS105W from previous years. It has simply been assigned a different code now that the course is part of the LSE Department of Methodology. What the course is about: This course teaches students how to transform, manipulate and analyse 'real data' through a fully hands-on, practical approach from the very beginning. Students are introduced to Python programming in a way that welcomes coding beginners, with weekly coding tasks that build foundational skills progressively. Live coding demonstrations guide students through practical exercises, which they can follow in real-time on their own devices. The I ntended Learning Outcomes of this course (what you can expect to learn) are: Master the fundamentals of data types, structures, and common data formats Apply Python and pandas to clean, reshape and transform raw data Design and implement practical data analysis workflows Use Git and GitHub for version control and collaborative workflows Identify and resolve common data quality issues Integrate data from multiple sources Understand database normalisation concepts and basic SQL queries Create visualisations using seaborn but under the principles of grammar-of-graphics Critically evaluate visualisations and distinguish between correlation and causation Understand the fundamentals of markup languages, including HTML, and the Markdown format for formatting documents and web pages. Create and maintain simple websites using HTML and CSS Craft clear, accurate and responsible data reports The course treats data wrangling as a set of decisions that need to be critically examined and justified. Every time students reshape, filter, or transform data, we expect them to explain how those choices affect what the resulting analysis can and cannot show. Students work with diverse datasets and case studies, practise distinguishing correlation from causation, and learn to spot when a visualisation misrepresents the underlying data. The course also covers the responsible use of generative AI tools as part of the data science workflow. Notes Older iterations of this course can be seen on the course's public website .",
+ "teaching": "20 hours of lectures and 15 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Achieving proficiency in data science skills, much like programming in general, relies heavily on consistent and continuous practice. To facilitate this, we release structured problem sets very early in the course (typically, every week from Week 01 until Week 04 of the course). These exercises are closely tied to in-class activities and follow the same submission structure as the graded problem sets that will be introduced later. Example exercises include navigating the computer terminal, accessing computer servers, and writing code to read and save data.",
+ "indicativeReading": [
+  "Core Textbooks",
+  "Python programming and pandas",
+  "[Indicative]",
+  "McKinney, W. (2022).",
+  "Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython",
+  "(3rd ed.). O'Reilly Media.",
+  "Available online",
+  "Written by pandas' creator, this definitive guide covers modern pandas practices (2.0+) with numerous practical examples.",
+  "[Recommended]",
+  "VanderPlas, J. (2023).",
+  "Python Data Science Handbook: Essential Tools for Working with Data",
+  "(2nd ed.). O'Reilly Media.",
+  "This updated edition provides excellent coverage of the Python data science ecosystem, particularly strong on data manipulation with pandas and visualization with Matplotlib.",
+  "[Recommended]",
+  "Janssens, J. (2021).",
+  "Data Science at the Command Line",
+  "(2nd ed.). O'Reilly Media.",
+  "Offers a unique command-line perspective on data science workflows that complements Python-based approaches, with practical tools for data manipulation and exploration.",
+  "Data visualisation and critical evaluation",
+  "[Indicative]",
+  "Wilke, C. O. (2019).",
+  "Fundamentals of Data Visualization",
+  ". O'Reilly Media.",
+  "Provides essential principles for creating accurate, effective visualizations with practical guidance on avoiding common pitfalls and misrepresentations.",
+  "[Recommended]",
+  "Cairo, A. (2019).",
+  "How Charts Lie: Getting Smarter about Visual Information",
+  ". W.W. Norton & Company.",
+  "Examines how visualizations can mislead and provides frameworks for critical evaluation, ideal for teaching students to avoid misleading representations.",
+  "Data ethics and critical thinking",
+  "[Indicative]",
+  "Bergstrom, C. T., & West, J. D. (2020).",
+  "Calling Bullshit: The Art of Skepticism in a Data-Driven World",
+  ". Random House.",
+  "Focuses on critical thinking skills for evaluating data-driven claims with particular emphasis on understanding correlation vs. causation—a core requirement of the course.",
+  "[Recommended]",
+  "D'Ignazio, C., & Klein, L. F. (2020).",
+  "Data Feminism",
+  ". MIT Press.",
+  "Examines data science through an intersectional lens, presenting principles for challenging power imbalances and addressing ethical considerations in data projects.",
+  "Database concepts and SQL",
+  "[Recommended]",
+  "Teate, R. M. P. (2021).",
+  "SQL for Data Scientists: A Beginner's Guide for Building Datasets for Analysis",
+  ". Wiley.",
+  "Specifically written for data scientists, focusing on the SQL skills most frequently used in data analysis rather than database administration."
+ ],
+ "assessmentText": "Problem sets (60%). Project (40%). The individual Problem Sets require students to create computational notebooks (either Jupyter or Quarto) to demonstrate the coding and documentation skills acquired throughout the course. Although not a strict rule, these problem sets have two submission deadlines, one around Week 07 and the second around Week 10. The final Project is a group and involves delivering a pitch presentation during the last seminar in Week 11, followed by the submission of a final public report in the form of a public website during the Spring Term (around Week 04).",
+ "assessment": [
+  {
+   "type": "Problem sets",
+   "weight": 60
+  },
+  {
+   "type": "Project",
+   "weight": 40
+  }
+ ],
+ "skills": [],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MY/2026_MY105W.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "DS105A",
+   "title": "Data for Data Science",
+   "note": "Withdrawn 2026/27"
+  },
+  {
+   "code": "DS105W",
+   "title": "Data for Data Science",
+   "note": "Withdrawn 2026/27"
+  },
+  {
+   "code": "MY105A",
+   "title": "Data for Data Science",
+   "note": "Suspended 2026/27"
+  }
+ ],
+ "unlocks": []
+}

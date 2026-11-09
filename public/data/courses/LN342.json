@@ -1,0 +1,69 @@
+{
+ "code": "LN342",
+ "title": "Academic Chinese for International Relations",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Centre for Language Studies",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Catherine Xiang"
+ ],
+ "prerequisites": "Students must have completed LN240 before taking this course. Assumed prior knowledge: Language skills and knowledge of Mandarin at B2/C1 level of the Common European Reference Framework for Languages are required.",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in International Relations and Chinese. This course is available on the Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. However, requests to take LN341 as an unlisted course will be considered in special circumstances.",
+ "description": "This course aims to develop students' linguistic skills at a near mastery level through studying authentic materials relevant to Year 4 international relation students. Possible topics such Sino-UK relation, Sino-USA relation, Modernity and the State in China, China’s recent rise, e-Commerce, wealth inequality, gender discrimination, migrant workers, and so on ( Four themes -- China and the world, China: past and current, China: economic development, China: human rights and equality). The students will be given opportunities to learn the key vocabulary related to China’s history and current society, foreign policy, economic development, and human rights. Meanwhile, they will discuss and analyse real cases using methods/tools they have developed from their IR courses. The course is communicative and interactive. The students are required to read authentic materials in the target language and learn to discuss, summarise and debate ideas and issues in China as well as consider the applicability in different social/culture context. COMMUNICATIVE CONTENT: • Fluently express one’s opinion in mandarin Chinese • Fluently read and comprehend newspaper articles in mandarin Chinese (1500-2000 words) • Skillfully summarise newspaper articles • Understand presentations, talks, lectures in related areas in mandarin Chinese. • Clearly and convincingly express one’s subject analysis and viewpoint in mandarin Chinese",
+ "teaching": "22 hours of classes in the Autumn Term. 22 hours of classes in the Winter Term. 2 hours of classes in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term. 2 hour classes per week. The teaching will be theme based, communicative and using integrated approaches. The teaching will be focusing on: Learn proficiency/mastery level Chinese phrases and expressions (equivalent to HSK 6) specific to IR. Chinese proverbs. Longer sentences and more complicated sentence structures. Introduction of traditional Chinese characters and classical Chinese",
+ "formativeAssessment": "Students will be expected to produce a range of essays, presentations, exercises and project work in the AT and WT.",
+ "indicativeReading": [
+  "The students will be working with authentic materials in this unit, such as newspaper, journal articles and chapter selection from Chinese books."
+ ],
+ "assessmentText": "Oral examination (30%). Continuous assessment (70%). Language courses map to the Common European Framework for Language Learning. This framework defines linguistic proficiency in the four language skills (reading, writing, speaking and listening) at different levels. To pass this course, students are therefore required to achieve a pass mark in each element of the assessment (continuous assessment, oral and written exams), as these test all four skills.",
+ "assessment": [
+  {
+   "type": "Oral examination",
+   "weight": 30
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 70
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 15,
+  "avgClassSizePrevYear": 10,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LN/2026_LN342.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "course",
+  "code": "LN240"
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

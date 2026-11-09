@@ -1,0 +1,70 @@
+{
+ "code": "SO315",
+ "title": "The Sociology of Generations",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Sociology",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Monika Krause"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Language, Culture and Society and BSc in Sociology. This course is not available as an outside option to students on other programmes. This course is available with permission to General Course students. This course has a limited number of places (it is capped). Places are allocated on a first come first served basis.",
+ "description": "This course introduces undergraduate students to sociological research, which examines and explains the role of generations in social life in contrast to and intersection with cohorts, social class, and groupings based on life-stage, gender, faith, race and ethnicity and geographical location. We will examine what research has to say about popular labels such as “generation z” or “generation x” as well as about the idea of a conflict between generations. We will explore how historical events shape particular groups of people who experience them at around the same age and how such groups then shape political debates in different national contexts. We will read the classic statement in the sociology of generations by Karl Mannheim (who taught at LSE after fleeing Germany from 1933 to 1947 but actually seems to have had a difficult experience here) and draw on a range of excellent studies from a range of historical contexts from around the world. With support, you will conduct one interview with someone who could be considered to be part of your grandparents’ generation. By considering cultural differences between and within generations, we gain critical perspectives in terms of how selves and social arrangements have been and could be otherwise. LSE is currently evaluating the use of edit tracking tools for AI-resilient assessment. This course might use edit tracking tools for assessments.",
+ "teaching": "This course has a reading week in Week 6 of Winter Term. This course is usually delivered through seminars. There will be two hours or more of teaching each week in WT.",
+ "formativeAssessment": "Discussion post. Each student will post short \"interventions” once per term, and will respond to other students’ interventions.",
+ "indicativeReading": [
+  "Mannheim, Karl (1952). \"The Problem of Generations\". In Kecskemeti, Paul (ed.). Essays on the Sociology of Knowledge: Collected Works, Volume 5. New York: Routledge. pp. 276–322.",
+  "Beck, Ulrich and Elisabeth Beck-Gernsheim (2009). Global Generations and the Trap of Methodological Nationalism For a Cosmopolitan Turn in the Sociology of Youth and Generation 25 (1): 25-36.",
+  "Yang, Guobin (2016). The Red Guard Generation and Political Activism in China. New York: Columbia University Press.",
+  "Frei, Raimundo. (2020). “In my home nobody spoke about religion, politics or football”: Communicative silences among generations in Argentina and Chile”. Memory Studies 13 (4), 570-585.",
+  "Von Hodenberg, Christina and Rachel Ward. (2024). The Other ’68. A Social History of West Germany’s Revolt. Oxford: Oxford University Press."
+ ],
+ "assessmentText": "Portfolio (100%, 2000 words) in May. Portfolio (100%, 2000 words plus an interview transcript) in the term following the teaching. The portfolio includes an intervention on course readings (500 words) and a short essay (1500 words) in response to a prompt provided by the instructor. An electronic copy of the portfolio, to be uploaded to Moodle for the relevant departmental deadline. Attendance at all classes and submission of all set coursework is required.",
+ "assessment": [
+  {
+   "type": "Portfolio",
+   "weight": 100
+  },
+  {
+   "type": "Portfolio",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SO/2026_SO315.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

@@ -1,0 +1,74 @@
+{
+ "code": "GY315",
+ "title": "Geographies of Race",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Geography and Environment",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Austin Zeiderman"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Geography, BSc in Economic History and Geography, BSc in Environment and Sustainable Development, BSc in Environment and Sustainable Development with Economics, BSc in Geography with Economics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course is capped. Places will be assigned on a first come first served basis",
+ "description": "This course will explore the intimate relationship between race and geography in the modern world. Through a range of historical and contemporary cases, it will examine how interconnected forms of racial and spatial difference are produced, reproduced, and transformed. Focusing on the material and cultural formation of racialised geographies, students will learn to recognise how the production of space, place, and location matter to racial classification, identification, and discrimination. The course will be organised around a series of archetypal spaces: for example, the body, the nation, the colony, the city, the home, the prison, the plantation, the border, the school, or the street. In each case, students will situate the confluence of race and space within broader themes, such as colonialism, capitalism, urbanisation, globalisation, environmentalism, migration, and incarceration. Since race often intersects with other forms of difference, students will also learn to interrogate the role of gender, class, religion, nationality, and sexuality. Texts from human geography, cultural studies, history, sociology, and anthropology in addition to other media, such as film, literature, journalism, and photography, will provide students with conceptual resources and methodological tools. The ultimate objective is to advance a comparative, critical analysis of the relationship between geography and race, past and present, and to explore the conditions of future possibility for anti-racism and spatial justice.",
+ "teaching": "15 hours of lectures and 10 hours of classes in the Autumn Term. This course has a reading week in Week 6 of Autumn Term. In the Department of Geography and Environment, teaching will be delivered through a combination of classes/seminars, pre-recorded lectures, live online lectures and other supplementary interactive live activities.",
+ "formativeAssessment": "Students will be expected to produce one piece of formative work in the Autumn Term.",
+ "indicativeReading": [
+  "A detailed reading list will be provided at the beginning of the course, including works such as:",
+  "Stuart Hall, “Race, Articulation and Societies Structured in Dominance” (1980);",
+  "Michael Omi and Howard Winant, “Racial Formation” (1986);",
+  "Kimberlé Crenshaw, “Mapping the margins: Intersectionality, identity politics, and violence against women of color” (1991);",
+  "Katherine McKittrick and Clyde Woods, Black Geographies and the Politics of Place (2007);",
+  "Paul Gilroy, There Ain’t No Black in the Union Jack: The Cultural Politics of Race and Nation (1987);",
+  "Edward Said, Orientalism (1978); Frantz Fanon, The Wretched of the Earth (1961);",
+  "Cedric Robinson, Black Marxism: The Making of the Black Radical Tradition (1982);",
+  "Laura Pulido, “Rethinking Environmental Racism: White Privilege and Urban Development in Southern California” (2000);",
+  "bell hooks, “Homeplace: A Site of Resistance” (1991);",
+  "C. L. R. James, The Black Jacobins: Toussaint L’Ouverture and the San Domingo Revolution (1938);",
+  "Michelle Alexander, The New Jim Crow: Mass Incarceration in the Age of Colorblindness (2010);",
+  "Ruth Wilson Gilmore, Golden Gulag: Prisons, Surplus, Crisis, and Opposition in Globalizing California (2007);",
+  "Paul Gilroy, Black Atlantic: Modernity and Double Consciousness (1993)."
+ ],
+ "assessmentText": "Exam (100%), duration: 120 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 22,
+  "avgClassSizePrevYear": 7,
+  "capped": "Yes(55)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GY/2026_GY315.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

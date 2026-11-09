@@ -1,0 +1,81 @@
+{
+ "code": "AC205",
+ "title": "Intermediate Financial Accounting",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Accounting",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Fulvia Oldrini"
+ ],
+ "prerequisites": "Students must have completed AC102 or AC105 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Accounting and Finance. This course is available on the BSc in Management, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. For students who have not completed the pre-requisites of (1) Introduction to Financial Accounting (AC105), or (2) Elements of Financial Accounting (AC102), please seek permission from the course leader to assess the equivalence of other similar courses This course is capped at 225 students.",
+ "description": "This is a half-unit course that builds on the foundation laid by the first-year financial accounting course. The course opens with an examination of the regulatory framework governing financial accounting. It then concentrates on the preparation and analysis of published financial statements for public interest entities, whether operating independently or as part of a group structure. The course also explores the purpose and content of published financial statements, the challenges associated with consolidated accounts, and the use of accounting information to assess corporate performance. In addition, it covers a range of specific financial accounting issues, including segment reporting, foreign currency translation, corporate pension reporting, and the treatment of taxation. The precise mix of topics may vary from year to year to reflect the latest developments in financial reporting, standard-setting, and related debates.",
+ "teaching": "30 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term. Teaching is delivered in two weekly one and a half hour seminars over 10 weeks in the Winter Term with a reading week in week 6. Seminars contain a variety of concept-focused content, practical exercises, and case analyses.",
+ "formativeAssessment": "Students are expected to attend each seminar having read and engaged with the assigned course materials. Several online quizzes will be used to assess student’s knowledge and progress on a formative basis and to provide feedback. Feedback on performance and progress will be given during seminars, on selected written homework assignments, and during academic support and feedback hours.",
+ "indicativeReading": [
+  "Detailed course programmes and reading lists will be made available via Moodle and Reading List before the start of the term. A range of textbook chapters, academic papers and professional reports will be used in the course."
+ ],
+ "assessmentText": "Exam (70%), duration: 120 minutes, reading time: 15 minutes in the Spring exam period. Project (30%). Further details of all aspects of assessment and coursework, as well as feedback, will be made available on Moodle nearer the scheduled start time of the course and will be updated as the course progresses with specific instructions, guidance, and feedback.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 70
+  },
+  {
+   "type": "Project",
+   "weight": 30
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 193,
+  "avgClassSizePrevYear": 64,
+  "capped": "Yes(225)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AC/2026_AC205.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "course",
+    "code": "AC102"
+   },
+   {
+    "type": "course",
+    "code": "AC105"
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

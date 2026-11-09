@@ -1,0 +1,96 @@
+{
+ "code": "ST311",
+ "title": "Artificial Intelligence",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Statistics",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Kostas Kalogeropoulos"
+ ],
+ "prerequisites": "Before taking this course, students must have completed: ST102 or (EC1C1 and ST109).",
+ "corequisites": null,
+ "additionalRequisites": "Equivalent combinations may be accepted at the lecturer's discretion. A computer programming course using Python, e.g. ST101 Programming for Data Science. Students who have no previous experience in Python are required to complete an online pre-sessional Python course from the Digital Skills Lab before the start of the course (https://moodle.lse.ac.uk/course/view.php?id=7696). Students should be comfortable with basic matrix algebra and calculus.",
+ "availability": "This course is compulsory on the BSc in Data Science and BSc in Economics and Data Science. This course is available on the BSc in Actuarial Science, BSc in Actuarial Science (with a Placement Year), BSc in Finance, BSc in Mathematics with Data Science, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "The objective of this course is to introduce students to basic principles of artificial intelligence (AI) systems. By AI, we refer to machines (or computers) that mimic cognitive functions that humans associate with the human mind, such as learning and problem solving. The course will take a practical approach, explaining the main principles and methods used in the design of AI systems. The course will provide an introduction to main principles of deep learning, covering topics of neural nets as universal approximators, design of neural network architectures, backpropagation and optimisation methods for training neural networks, and some special deep neural network architectures commonly used for solving AI tasks such as image classification, sequence modelling, natural language processing and generative models. Students will gain practical knowledge to learn and evaluate deep learning algorithms using PyTorch.",
+ "teaching": "15 hours of seminars and 20 hours of lectures in the Winter Term. The lectures cover fundamental methodological and theoretical principles while computer workshops provide students with an opportunity to gain hands-on-experience by solving exercises using PyTorch. Students are required to use a Python programming environment, e.g. by installing Anaconda / Jupyter notebooks on their own laptops or using Google Colab, and to use their own laptops in the workshops.",
+ "formativeAssessment": null,
+ "indicativeReading": [
+  "1. A. Zhang, Z. Lipton, M. Li and A. Smola, Dive into Deep Learning, 2022, http://d2l.ai",
+  "2. I. Goodfellow, Y. Bengio and A. Courville, Deep Learning, MIT Press, 2017, http://www.deeplearningbook.org",
+  "3. R. Sutton and A. C. Barto, Reinforcement Learning: An Introduction, 2nd Edition, MIT Press, 2018",
+  "4. M. Nielsen, Neural Networks and Deep Learning, 2016, online book.",
+  "5. S. Russell and P. Norvig, Artificial Intelligence: A Modern Approach, 3rd Edition, Pearson, 2016"
+ ],
+ "assessmentText": "Quiz (40%). Project (50%). Data analysis (10%). Randomised follow-up interviews take place on this course in the form of a 15mins discussion on the homework submitted.",
+ "assessment": [
+  {
+   "type": "Quiz",
+   "weight": 40
+  },
+  {
+   "type": "Project",
+   "weight": 50
+  },
+  {
+   "type": "Data analysis",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 106,
+  "avgClassSizePrevYear": 21,
+  "capped": "Yes(100)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/ST/2026_ST311.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "course",
+    "code": "ST102"
+   },
+   {
+    "type": "and",
+    "children": [
+     {
+      "type": "course",
+      "code": "EC1C1"
+     },
+     {
+      "type": "course",
+      "code": "ST109"
+     }
+    ]
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

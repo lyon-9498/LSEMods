@@ -1,0 +1,105 @@
+{
+ "code": "EC317",
+ "title": "Labour Economics",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economics",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Stephen Machin",
+  "Prof Guy Michaels"
+ ],
+ "prerequisites": "Before taking this course, students must have completed: (EC2A1 or EC2A3) and (EC2C1 or (EC2C3 and EC2C4)).",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Econometrics and Mathematical Economics, BSc in Economics, BSc in Economics and Data Science, BSc in Economics and Economic History, BSc in International Social and Public Policy with Economics, BSc in Mathematics and Economics, BSc in Philosophy and Economics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics and Economics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students.",
+ "description": "This course is an introduction to the economic analysis of behaviour and institutions in labour markets. In the AT, primarily microeconomic models are applied to labour market phenomena, such as labour supply and participation for individuals and households, labour demand by firms, wage determination, employment, and unemployment under different institutional settings. Specific topics to be studied in the WT include: labour market outcomes by gender; labour market discrimination; labour market inequalities and technological change; education and wage returns; minimum wages; trade unions; alternative work arrangements; crime and the labour market. Students will learn in classes how to distinguish alternative theories empirically using real world data. The course explores how models and empirical analysis can be applied to evaluate labour market policies, some examples being the minimum wage, school dropout ages, welfare programmes, and immigration restrictions. The goal of the course is to enable students to think critically and independently about labour market issues, drawing on the models and tools developed during the course.",
+ "teaching": "15 hours of lectures and 10 hours of classes in the Autumn Term. 15 hours of lectures and 9 hours of classes in the Winter Term. 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Winter Term. There will be a reading week in Week 6 of WT (no lectures or classes that week). This course is delivered through a combination of classes and lectures totalling a minimum of 50 hours across Autumn Term, Winter Term and Spring Term.",
+ "formativeAssessment": "Problems sets in the course involve hands-on statistical analysis of real world data.",
+ "indicativeReading": [
+  "G Borjas, Labor Economics. Additional reading, drawn from chapters of books, specific reviews and journals, are suggested during the course and specified in the reading list."
+ ],
+ "assessmentText": "Exam (85%), duration: 180 minutes, reading time: 15 minutes in the Spring exam period. Course participation (15%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 85
+  },
+  {
+   "type": "Course participation",
+   "weight": 15
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 22,
+  "avgClassSizePrevYear": 11,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EC/2026_EC317.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "or",
+    "children": [
+     {
+      "type": "course",
+      "code": "EC2A1"
+     },
+     {
+      "type": "course",
+      "code": "EC2A3"
+     }
+    ]
+   },
+   {
+    "type": "or",
+    "children": [
+     {
+      "type": "course",
+      "code": "EC2C1"
+     },
+     {
+      "type": "and",
+      "children": [
+       {
+        "type": "course",
+        "code": "EC2C3"
+       },
+       {
+        "type": "course",
+        "code": "EC2C4"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

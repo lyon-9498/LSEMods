@@ -1,0 +1,65 @@
+{
+ "code": "MA221",
+ "title": "Further Mathematical Methods (Calculus)",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Mathematics",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Adam Ostoja-Ostaszewski"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Actuarial Science, BSc in Actuarial Science (with a Placement Year), BSc in Financial Mathematics and Statistics, BSc in Mathematics and Economics, BSc in Mathematics with Data Science, BSc in Mathematics with Economics and BSc in Mathematics, Statistics and Business. This course is available on the BSc in Data Science, BSc in Economics, BSc in Economics and Data Science, BSc in Management, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and MSc in Economics (2 Year Programme). This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students.",
+ "description": "This course develops ideas first presented in MA100. It explores how integrals may be calculated or transformed by a variety of manipulations, and how they may be applied to the solution of differential equations. This aim is achieved by studying the following topics: Limit calculations. Riemann integral. Multiple integration. Improper integrals. Manipulation of integrals. Laplace transforms. Riemann-Stieltjes integral, to a level of detail dependent on time constraints.",
+ "teaching": "This course is delivered through a combination of classes and lectures totalling a minimum of 30 hours across Autumn Term.",
+ "formativeAssessment": "Written answers to set problems will be expected on a weekly basis.",
+ "indicativeReading": [
+  "Useful background texts:",
+  "Adam Ostaszewski, Advanced Mathematical Methods, (Cambridge University Press 1999)",
+  "Ken Binmore and Joan Davies, Calculus, Concepts and Methods (Cambridge University Press 2002);",
+  "Robert C. Wrede and Murray R. Spiegel, Advanced Calculus (McGraw-Hill Education; 3rd edition 2010)."
+ ],
+ "assessmentText": "Exam (100%), duration: 90 minutes in the January exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 298,
+  "avgClassSizePrevYear": 15,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MA/2026_MA221.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

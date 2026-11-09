@@ -1,0 +1,61 @@
+{
+ "code": "LL253",
+ "title": "The Law of Corporate Insolvency",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Sarah Paterson"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the LLB in Laws. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "This course is concerned with English corporate insolvency law. Specifically, the course (1) examines the possible solutions for a company that is in financial distress, and the legal procedures that are available to achieve them; and (2) examines important principles of English corporate insolvency law and how they impact not only financially distressed companies but also healthy companies contracting outside insolvency. In Autumn Term, and for the first two weeks of Winter Term, we analyse the principal insolvency procedures available in English law, with a view to evaluating the extent to which they meet their aims and objectives and the case for reform. For the rest of Winter Term, we analyse the legal rules affecting distressed and insolvent companies and those concerned with them (for example, creditors, directors, and employees) and the issues and principles underlying a corporate insolvency regime. This will lead us to consider how different goals are balanced in the corporate insolvency legislation, for example: ensuring that vulnerable stakeholders are protected while encouraging the rescue of financially distressed companies; giving companies a chance to recover while ensuring that companies cease to trade when failure is inevitable and losses must be stopped; and saving jobs while encouraging the purchase of financially distressed businesses. (Students may find that taking The Law of Business Associations as well as The Law of Corporate Insolvency will give them a broad understanding of major themes relating to corporate activity. Students who have studied, or are studying, Commercial Contracts also find that the courses complement each other in some respects.) Syllabus: Corporate Borrowing Outline of corporate borrowing and development and nature of security interests: fixed and floating charges; intercreditor issues. The test of insolvency. Insolvency Procedures Out-of-court rescue in the era of the London Approach Receivership Administration (i) as a business rescue tool; and (ii) as a corporate rescue tool Part A1 moratorium Pre-packaged administration Company Voluntary Arrangements Schemes of Arrangement Part 26A restructuring plan procedure Liquidation Principles of Corporate Insolvency Law Setting aside transactions The distributional order of priority Quasi-security devices for consumer creditors and commercial suppliers Liability of company directors Employees The regulation of insolvency practitioners",
+ "teaching": "20 hours of seminars in the Autumn Term. 20 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term. This course will have a minimum of two hours of teaching content each week in Autumn Term and Winter Term. This course includes a reading week in Weeks 6 of Autumn Term and Winter Term.",
+ "formativeAssessment": "At least one formative (unassessed) essay per term.",
+ "indicativeReading": [
+  "Detailed reading lists will be provided during the course. The recommended book is V. Finch and D. Milman,",
+  "Corporate Insolvency Law: Perspectives and Principles",
+  "( 3rd ed., 2017) (Cambridge University Press)."
+ ],
+ "assessmentText": "Exam (100%), duration: 210 Minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 30,
+  "avgClassSizePrevYear": 30,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL253.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

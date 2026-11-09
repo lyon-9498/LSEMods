@@ -1,0 +1,65 @@
+{
+ "code": "GY210",
+ "title": "The Economics of Cities",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Geography and Environment",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Henry Overman"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Economic History and Geography and BSc in Geography with Economics. This course is available on the BA in Geography, BSc in Economics, BSc in Environment and Sustainable Development, BSc in Environment and Sustainable Development with Economics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is capped at 80 students.",
+ "description": "Urban economics is concerned with the spatial form of cities and the division of national economic activity into cities, both at a point in time and over time. Three fundamental questions are: (1) Why are economic activities within a country so unequally distributed across space? (2) Why do cities (and agglomerations of firms and workers) emerge and in what locations? (3) How and why are economic activities within cities unequally distributed in general and between the city centre and the suburbs? The main topics covered in this course include: - Why do cities exist and why do firms cluster? - What determines equilibrium city size and features of the urban system? - City growth and spatial transformation - Diseconomies in cities: Urban location, land rents and land use patterns - The role of local governments",
+ "teaching": "7 hours of classes and 18 hours of lectures in the Winter Term. This course has a reading week in Week 6 of Winter Term. In the Department of Geography and Environment, teaching will be delivered through a combination of classes/seminars, pre-recorded lectures, live online lectures and other supplementary interactive live activities.",
+ "formativeAssessment": "Students will undertake a two-hour mock exam, most likely around week 11.",
+ "indicativeReading": [
+  "O’Sullivan. A., Urban Economics. Boston: Irwin- McGraw-Hill, 9th Edition, 2019.",
+  "Greenstone M. R. Hornbeck & E. Moretti (2010). Identifying agglomeration economies: Evidence from winners and losers of large plant openings, Journal of Political Economy, Vol. 118, No. 3, 536-598.",
+  "Duranton, G. & Puga, D. (2001). Nursery cities: Urban diversity, process innovation, and the life cycle of products. American Economic Review, 91(5).",
+  "Ahlfeldt, G. M., & McMillen, D. P. (2018). Tall buildings and land values: Height and construction cost elasticities in Chicago, 1870–2010. Review of Economics and Statistics, 100(5), 861-875.",
+  "Hilber, C. A., & Vermeulen, W. (2016). The impact of supply constraints on house prices in England. The Economic Journal, 126(591), 358-405.",
+  "Hilber, C.A.L. & Lyytikäinen, T. (2017). Transfer Taxes and Household Mobility: Distortion on the Housing or Labor Market? Journal of Urban Economics 101, 57-73."
+ ],
+ "assessmentText": "Exam (100%), duration: 120 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 84,
+  "avgClassSizePrevYear": 14,
+  "capped": "Yes(102)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GY/2026_GY210.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

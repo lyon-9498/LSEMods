@@ -1,0 +1,74 @@
+{
+ "code": "LL229",
+ "title": "The European Market",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 0.5,
+ "studyPeriod": "Winter and Spring Term",
+ "terms": [
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Jan Zglinski"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students.",
+ "description": "The EU's internal market is one of the most powerful economic and legal constructs in the world. It shapes what products appear on our shelves, how our data is governed online and what rules financial institutions must follow from Frankfurt to Singapore. Understanding it means understanding not just how Europe's economy works, but how law is used to balance competing values – economic efficiency, social protection, cultural diversity and environmental sustainability. This course unpacks how the internal market is built and contested, and why it matters. You will explore the interplay between judicial and legislative power, and examine how landmark cases and legislation have shaped – and continue to reshape – European economic life. The course zooms in on some of the most dynamic and high-profile areas of the market: corporate regulation, financial services, the digital economy and green transition. It also steps back to ask bigger questions about the EU's place in global trade and its evolving relationship with the UK post-Brexit. Throughout, you will be encouraged to think critically. Sessions combine lecture elements with facilitated discussion, collaborative problem-solving and small-group work. The course follows Universal Design for Learning principles to ensure an inclusive environment for all students. Slides and questions are shared in advance, and readings are chosen to reflect a broad range of perspectives and voices. Topics: The Structure of the Internal Market: Judicial and Legislative The Corporate Market The Social Market The Digital Market The Financial Market The Green Market The Global Market",
+ "teaching": "20 hours of seminars in the Winter Term. 2 hours of seminars in the Spring Term.",
+ "formativeAssessment": "1,500 word essay.",
+ "indicativeReading": [
+  "Bradford,",
+  "The Brussels Effect: How the European Union Rules the World",
+  "(OUP 2020)",
+  "Van den Brink, Dawson and Zglinski, ‘Revisiting the asymmetry thesis: negative and positive integration in the EU’ (2025) 32 Journal of European Public Policy 209",
+  "De Gregorio, ‘The Rise of Digital Constitutionalism in the European Union’ (2021) 19 International Journal of Constitutional Law 41",
+  "Vėlyvytė, ‘Competence creep in EU free movement case law’ (2023) 48 European Law Review 636",
+  "Garben, ‘The Constitutional (Im)balance between “the Market” and “the Social” in the European Union’ (2017) 13 European Constitutional Law Review 23",
+  "Quaglia, ‘The politics of an “incomplete” Banking Union and its “asymmetric” effects’ (2019) 41 Journal of European Integration 955",
+  "Lehman, ‘MiCAR – Gold Standard or Regulatory Poison for the Crypto Industry?’ (2024) 61 Common Market Law Review 699",
+  "Bogojević, ‘Carbon removals, ecosystems and the European Green Deal’ (2024) 3 European Law Open 199",
+  "Lu, ‘Europe’s Farmer Protests Are Part of a Bigger Problem’ Foreign Policy (20 February 2024)",
+  "McNamara, ‘Transforming Europe? The EU's industrial policy and geopolitical turn’ (2024) 31 Journal of European Public Policy 2371."
+ ],
+ "assessmentText": "Exam (100%), duration: 150 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL229.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

@@ -1,0 +1,357 @@
+{
+ "name": "BA in Anthropology and Law",
+ "code": "UBANLL2",
+ "department": "Anthropology",
+ "years": [
+  {
+   "year": 1,
+   "papers": [
+    {
+     "label": "LSE100",
+     "lines": [
+      "LSE100 is a half unit taken by all students, running across Autumn and Winter Terms in the first year. The course provides one of the marks that is eligible to be included in the calculation of the First Year Average for purposes of classification.",
+      "Students will choose ONE of the three half-unit options below:",
+      "LSE100A The LSE Course: How can we transform our climate futures? (0.5)",
+      "LSE100B The LSE Course: How can we control AI? (0.5)",
+      "LSE100C The LSE Course: How can we create a fair society? (0.5)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "LSE100A",
+      "LSE100B",
+      "LSE100C"
+     ],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": true,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Introductory course",
+     "lines": [
+      "LL141 Introduction to Legal Systems (0.0)"
+     ],
+     "compulsory": [
+      "LL141"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 1",
+     "lines": [
+      "AN100 Being Human: Contemporary Themes in Social Anthropology (1.0)"
+     ],
+     "compulsory": [
+      "AN100"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 2",
+     "lines": [
+      "AN101 A History of Anthropological Theory (1.0)"
+     ],
+     "compulsory": [
+      "AN101"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 3",
+     "lines": [
+      "LL142 Contract Law (1.0)"
+     ],
+     "compulsory": [
+      "LL142"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 4",
+     "lines": [
+      "LL108 Criminal Law (1.0)"
+     ],
+     "compulsory": [
+      "LL108"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Skills course",
+     "lines": [
+      "LL100 Legal Studies Skills (0.0)",
+      "LL150 Introduction to Careers in Law (0.0) (suspended 2026/27)"
+     ],
+     "compulsory": [
+      "LL100"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  },
+  {
+   "year": 2,
+   "papers": [
+    {
+     "label": "Paper 5",
+     "lines": [
+      "AN253 Politics and Power: Debates in Anthropology (0.5) and AN279 Anthropology of Law and Human Rights (0.5)"
+     ],
+     "compulsory": [
+      "AN253",
+      "AN279"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 6",
+     "lines": [
+      "LL106 Public Law (1.0)"
+     ],
+     "compulsory": [
+      "LL106"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 7",
+     "lines": [
+      "LL143 Tort Law (1.0)"
+     ],
+     "compulsory": [
+      "LL143"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 8",
+     "lines": [
+      "Courses to the value of 1.0 unit(s) from the following:",
+      "Anthropology Selection List A",
+      "Anthropology Selection List B"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [],
+     "lists": [
+      "Anthropology Selection List A",
+      "Anthropology Selection List B"
+     ],
+     "unitsNeeded": 1.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  },
+  {
+   "year": 3,
+   "papers": [
+    {
+     "label": "Paper 9",
+     "lines": [
+      "Courses to the value of 0.5 unit(s) from List A AND Courses to the value of 0.5 unit(s) from List B:",
+      "List A Foundations: Transnational Law",
+      "List B Foundations: Legal Theory"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [],
+     "lists": [
+      "List A Foundations: Transnational Law",
+      "List B Foundations: Legal Theory"
+     ],
+     "unitsNeeded": 0.5,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 10",
+     "lines": [
+      "LL276 Property (1.0)"
+     ],
+     "compulsory": [
+      "LL276"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Papers 11",
+     "lines": [
+      "Courses to the value of 1.0 unit(s) from the following:",
+      "Anthropology Selection List A",
+      "Anthropology Selection List B"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [],
+     "lists": [
+      "Anthropology Selection List A",
+      "Anthropology Selection List B"
+     ],
+     "unitsNeeded": 1.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 12",
+     "lines": [
+      "Courses to the value of 1.0 unit(s) from the following:",
+      "Anthropology Selection List A",
+      "Anthropology Selection List B",
+      "Law Selection List",
+      "List A Foundations: Transnational Law",
+      "List B Foundations: Legal Theory"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [],
+     "lists": [
+      "Anthropology Selection List A",
+      "Anthropology Selection List B",
+      "Law Selection List",
+      "List A Foundations: Transnational Law",
+      "List B Foundations: Legal Theory"
+     ],
+     "unitsNeeded": 1.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  }
+ ],
+ "lists": {
+  "Anthropology Selection List A": [
+   "AN286",
+   "AN336",
+   "AN350",
+   "AN369",
+   "AN376",
+   "AN377",
+   "AN389",
+   "AN395",
+   "AN3A1",
+   "AN3A2",
+   "AN3A3",
+   "AN3A4"
+  ],
+  "Anthropology Selection List B": [
+   "AN256",
+   "AN285",
+   "AN287",
+   "AN288",
+   "AN290"
+  ],
+  "List A Foundations: Transnational Law": [
+   "LL217",
+   "LL228",
+   "LL279"
+  ],
+  "List B Foundations: Legal Theory": [
+   "LL225",
+   "LL245",
+   "LL285",
+   "LL306",
+   "LL307"
+  ],
+  "Law Selection List": [
+   "LL203",
+   "LL204",
+   "LL205",
+   "LL211",
+   "LL212",
+   "LL213",
+   "LL216",
+   "LL220",
+   "LL221",
+   "LL222",
+   "LL224",
+   "LL225",
+   "LL233",
+   "LL244",
+   "LL245",
+   "LL249",
+   "LL250",
+   "LL251",
+   "LL257",
+   "LL280",
+   "LL284",
+   "LL293",
+   "LL295",
+   "LL300",
+   "LL303",
+   "LL304",
+   "LL308",
+   "LL342"
+  ]
+ },
+ "warnings": [],
+ "id": "2025-BAAnthropologyAndLaw",
+ "cohort": 2025,
+ "url": "https://www.lse.ac.uk/resources/calendar2026-2027/programmeRegulations/undergraduate/2025/BAAnthropologyAndLaw.htm"
+}

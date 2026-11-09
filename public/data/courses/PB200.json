@@ -1,0 +1,93 @@
+{
+ "code": "PB200",
+ "title": "Biological Psychology",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Psychological and Behavioural Science",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Chen-Ta Sung"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Psychological and Behavioural Science. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "This course offers an introductory and integrated perspective on the biological bases of behaviour. After a discussion of the philosophical and historical background of biological psychology, the course will consider neurophysiology and how the structure of the brain connects to research methods. The course will then frame biological psychology by reference to theories of concepts such as behavioural genetics, evolutionary psychology and the impact of hormones on behaviour. Following this, the course moves on to consider the biological underpinnings of cognition and behaviour. It appraises the applied application of biological psychology and is concerned with identifying how the biology of psychology can inform our understanding and interpretation of real-world issues. By the end of the course, you should: Have a broad understanding of the fundamental principles of Biological Psychology. Be able to critically appraise the philosophy and development of Biological Psychology. Be able to understand the biological underpinnings of cognition and behaviour. Be able to identify how Biological Psychology can inform real-world issues.",
+ "teaching": "15 hours of lectures and 10 hours of classes in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "Podcast episode plan Mock In Class Test",
+ "indicativeReading": [
+  "Breedlove, S.M., & Watson, N.V. (2010).",
+  "Biological psychology: An introduction to behavioural, cognitive, and clinical neuroscience",
+  ". Sunderland, MA: Sinauer Associates.",
+  "Cacioppo, J.T, Visser, P.S., & Pickett, C.L. (2006).",
+  "Social neuroscience: People thinking about thinking people",
+  ". Cambridge, MA: MIT Press",
+  "Gazzaniga, M.S., Ivry, R.B., & Mangun, G.R. (2014).",
+  "Cognitive neuroscience: The biology of the mind",
+  ". New York, NY: W.W. Norton.",
+  "Glimcher, P. W., Camerer, C., Poldrack, R. A., & Fehr, E. (2013).",
+  "Neuroeconomics: Decision making and the brain",
+  ". Amsterdam: Academic Press.",
+  "Kolb, B., Wishaw, I.Q., & Teskey, C.C., (2016).",
+  "An introduction to brain and behaviour",
+  "(6th ed.). New York, NY: Worth Publishers.",
+  "Nettle D. (2009).",
+  "Evolution and genetics for psychology",
+  ". Oxford: Oxford University Press.",
+  "Pinel, J.P.J. & Barnes, S.J. (2013).",
+  "Biopsychology",
+  "(Global Edition). Harlow: Pearson",
+  "Plomin, R., DeFries, J.C., Knopic, V.S., & Neiderhiser, J.M. (2013).",
+  "Behavioral Genetics",
+  ". New York, NY: Worth Publishers."
+ ],
+ "assessmentText": "In class test (60%). Podcast (30%). Essay (10%, 3000 words).",
+ "assessment": [
+  {
+   "type": "In class test",
+   "weight": 60
+  },
+  {
+   "type": "Podcast",
+   "weight": 30
+  },
+  {
+   "type": "Essay",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 48,
+  "avgClassSizePrevYear": 12,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PB/2026_PB200.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

@@ -1,0 +1,79 @@
+{
+ "code": "LN110",
+ "title": "German Language and Society 3 (advanced)",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Centre for Language Studies",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Peter Skrandies"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": "An A-level or its equivalent is required. An interview with the course co-ordinator prior to registration is compulsory.",
+ "availability": "This course is available on the BA in Geography, BA in Social Anthropology, BSc in Economic History, BSc in Economic History and Geography, BSc in Economics and Economic History, BSc in Environment and Sustainable Development, BSc in Environment and Sustainable Development with Economics, BSc in International Relations, BSc in International Relations and History, BSc in Language, Culture and Society, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and MA in Modern History. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course has a limited number of places (it is capped) and priority will be given to Language Centre BSc students and students from other Departments following a Language Specialism. This course is available as an outside option to students on other programmes where regulations permit and on the MA in Modern History. This course is available with permission to General Course students. All students should seek approval from the teacher responsible before completing course selection. Please see here for information on seeking approval for undergraduate modern language degree courses (https://www.lse.ac.uk/language-centre/undergraduate-degree-courses/degree-courses-as-part-of-an-undergraduate-degree).",
+ "description": "Advanced study of the German language within the framework of the social sciences and culture. In a dynamic and communicative way the course develops all four language skills (i.e. speaking, listening, reading and writing) through individual and group work, topical discussions, and the use of authentic multi-media materials. The focus is on accuracy and communication that advance students' language competence, transferable skills and cultural awareness.",
+ "teaching": "40 hours of classes in the Autumn Term. 40 hours of classes in the Winter Term. 4 hours of classes in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term. Four hours per week, which will feature: (a) interactive topical work; (b) oral practice; (c) grammar and vocabulary work; (d) tutorials; and (e) guided study using IT and web-based materials.",
+ "formativeAssessment": "Weekly language exercises",
+ "indicativeReading": [
+  "Beattie, S. (ed.) (2007)",
+  "Collins German Dictionary",
+  ", 7th edition, Glasgow: Harper Collins",
+  "Durrell, Martin et al. (2015)",
+  "Essential German Grammar",
+  ", 2nd edition, London: Routledge",
+  "Wolski, Werner (2012),",
+  "Pons Kompaktwörterbuch Deutsch als Fremdsprache",
+  ", Stuttgart: Klett Verlag"
+ ],
+ "assessmentText": "Exam (30%), duration: 90 minutes in the Spring exam period. Oral examination (30%). Continuous assessment (40%). Language courses map to the Common European Framework for Language Learning. This framework defines linguistic proficiency in the four language skills (reading, writing, speaking and listening) at different levels. To pass this course, students are therefore required to achieve a pass mark in each element of the assessment (continuous assessment, oral and written exams), as these test all four skills.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 30
+  },
+  {
+   "type": "Oral examination",
+   "weight": 30
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 40
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 6,
+  "avgClassSizePrevYear": 6,
+  "capped": "Yes(16)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LN/2026_LN110.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

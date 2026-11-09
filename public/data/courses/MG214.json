@@ -1,0 +1,92 @@
+{
+ "code": "MG214",
+ "title": "Human Resource Management",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Management",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Jeffrey Thomas"
+ ],
+ "prerequisites": "Students must have completed MG105 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Management, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley, International Exchange (1 Term) and International Exchange (Full Year). This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course has a limited number of places (it is capped). Students who have this course as a compulsory course are guaranteed a place. Places for all other students are allocated on a first come first served basis.",
+ "description": "This course is designed to provide insights into Human Resource Management, especially in a way that appeals to students of management who are quite international in their orientation. The course starts by examining talent management in human resources and worker psychology at the individual level. Then the course shifts to understanding Human resources from the level of organizations and inter-organizational collaborations. Finally, the course examines key policy issues at the individual and organizational level, including examination of ethics, compensation, culture, decision making, competitiveness, and the role of power and status differences within organizations. This then allows us to gain an overview of the potential contribution that HRM can make to the dynamic capabilities of firms generally. Topic outline Talent Management: Psychological Contracts and Motivation Talent Management: Recruitment and Selection [including Artificial Intelligence (AI) Screening in Hiring] Competition, Cooperation, and Employee Negotiations Managing human resources in International Mergers and Acquisitions Ethics and Corporate Social Responsibility Talent Management: Compensation, Pay Comparisons, & Pay Transparency vs. Pay Secrecy National Cultural Context and Management Perception, Influence, and Employee Decision-Making in Organizations Reputation, Relative Comparison, and Competitive Performance Motivation Organizational Hierarchy, Status, and Power",
+ "teaching": "15 hours of lectures and 13.5 hours of classes in the Autumn Term. This course has a reading week in Week 6 of Autumn Term. In its Ethics Code, LSE upholds a commitment to intellectual freedom. This means we will protect the freedom of expression of our students and staff and the right to engage in healthy debate in the classroom.",
+ "formativeAssessment": "The formative assessment will help students to prepare for the summative assessment.",
+ "indicativeReading": [
+  "Caligiuri, P. M. (2006). Chapter 9 Performance management in a cross-national context. In Bennett, W., Jr., Lance, C., & Woehr, D. (Eds.). Performance measurement: Current perspectives and future challenges. Mahwah, NJ: Erlbaum.",
+  "Cappelli, P. (2015). Why We Hate HR and What HR Can Do About It. Harvard Business Review, July – August.",
+  "Giangreco, A., Sebastiano, A., & Peccei, R. (2009). Trainees’ reactions to training: an analysis of the factors affecting overall satisfaction with training. The International Journal of Human Resource Management, 20(1), 96-111.",
+  "Randall S Schuler, Ibraiz Tarique, Susan E Jackson (2004), Managing Human Resources in Cross-Border Alliances, in (ed.) 3 (Advances in Mergers & Acquisitions, Volume 3), Emerald Group Publishing Limited, pp.103-129.",
+  "Briscoe, D., Schuler, Randall S, & Tarique, Ibraiz. (2016). Chapter 6 International Employment Law, Labor Standards, and Ethics. In (Eds.) International human resource management: Policies and practices for multinational enterprises (5th ed.). New York, NY: Routledge.",
+  "Brown, M. P., Sturnam, M. C., & Simmering, M. J. (2003). Compensation Policy and Organizational Performance: The Efficiency, Operational, and Financial Implications of Pay Levels and Pay Structure. The Academy of Management Journal, 46, 752-762.",
+  "Lewicki, R.J., Barry, B. and Saunders, D.M.2010. Negotiation. New York: McGraw-Hill.",
+  "Chapter 1 –The Nature of Negotiation, pp. 1-31.",
+  "The course also draws on additional articles from a variety of international journals in the field e.g. The International Journal of Human Resource Management, British Journal of Industrial Relations, Harvard Business Review. Students will also analyse multiple cases from Insead and Harvard Business Publishing."
+ ],
+ "assessmentText": "Presentation (35%). This component of assessment includes an element of group work. Course participation (15%). Essay (50%). Participation Grade (15%) , The participation grade is based on presence and quality of participation in classes and engagement with lecture material. Absence without reason in classes will influence the participation grade and lecture attendance is strongly encouraged as students are expected to demonstrate their engagement with lecture material during classes. The Group project presentation (35%) will be group work. Students will have the opportunity to form their own project groups within their allocated class, but the course teaching team will retain the right to make changes to group membership where necessary. Peer review will be conducted and will provide context for the marker of the group projects, while allowing students to develop the skills of peer review. Individual Final Project: Multi-media Essay (50%) in the period between AT and WT. The essay will be a \"multi-media\" essay. It requires a written text essay, complimented by another form of media: either a video, or an audio interview, or a graphic - illustrating the effects of HR theory and research on the practice of each students' target job after graduation.",
+ "assessment": [
+  {
+   "type": "Presentation",
+   "weight": 35
+  },
+  {
+   "type": "Course participation",
+   "weight": 15
+  },
+  {
+   "type": "Essay",
+   "weight": 50
+  },
+  {
+   "type": "Participation grade",
+   "weight": 15
+  },
+  {
+   "type": "The group project presentation",
+   "weight": 35
+  },
+  {
+   "type": "Multi-media essay",
+   "weight": 50
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 104,
+  "avgClassSizePrevYear": 12,
+  "capped": "Yes(180)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MG/2026_MG214.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "course",
+  "code": "MG105"
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

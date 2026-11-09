@@ -1,0 +1,71 @@
+{
+ "code": "AN287",
+ "title": "Environmental Anthropology",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Anthropology",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Mareike Winchell"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, BA in Social Anthropology, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley, Exchange Programme for Students in Anthropology (Cape Town), Exchange Programme for Students in Anthropology (Fudan), Exchange Programme for Students in Anthropology (Melbourne) and Exchange Programme for Students in Anthropology (Tokyo). This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students.",
+ "description": "While the ‘environment’ may appear to be whatever is not human, ultimately all human societies shape and have been reshaped by specific environments. Departing from more conventional quantitative approaches to the environment, this course explores theoretical and empirical developments in understanding the relationship of people to the environment, including questions of inequality, race, nonhumans, and ontological difference. With case studies from Amazonia to the Arctic, the Andes to North America, East Asia and Europe, we will examine how different groups respond to the environments they help co-create through social organization and kinship, subsistence practices, conservation, technology, and religion. Topics to be addressed include: political ecology, environmental history, climate change, environmental and climate justice, Black and Indigenous rights, natural resource management, unequal development, cultural ecologies and the ‘loss’ of alternate ecological knowledges, population growth and resource consumption, imaginaries of sustainability and practiced collaborations to address climate change, minoritarian environmentalisms, and growing appeals to plural ontological systems including within Rights of Nature frameworks. In recent years, a flurry of political activity and scholarship interrogates the ways that cosmo-politics (more-than-humans in political life), new ontologies (emergent ways of being or forms of existence), and broader collaborative zones of social and environmental worlding interrupt familiar concepts of humanity as exceptional. Along with supplying students with a grounding in social scientific debates about environments and the human, this course also historicizes these debates to link them to an older canon of ethnographic and ethnological research concerning pre-colonial religiosities, land management and settlement, property regimes, and exchange networks. By drawing together and building upon classic texts on human ecological adaptations, the co-production of people, culture and place, and recent ethnographies of human/environmental co-articulation, the course aims to historicize contemporary phenomena including eco-politics, conflicts over water, oil, natural gas, lithium, bauxite cobalt, and copper, expanding soy and meat production frontiers, the growing influence of plantations, green jobs and agri-business, conservationism and sustainability initiatives, and political organizing for the most affected people and areas of climate breakdown and the personhood and rights of nonhumans. The course introduces students to key questions and analytic tools in the subfield of environmental anthropology, and also invites them to position these questions and tools in relation to real-world cases. By the end of the course, it is expected that students will have a grounding in classic debates in environmental anthropology and be able to apply social scientific concepts to emergent environmental and political case studies. As scholars, activists, and social movement actors rewrite relations between people and the environment, they allow us to re-assess who or what is an agent and where responsibility lies for the unequal burdens of contemporary ecological crises. What is the relationship between culture and ecology? How can environments produce inequalities? Is there such a thing as wilderness? Where is the boundary between the human and the non-human? How is ‘nature’ understood in different communities? And how do different people and communities around the world live with the uneven burdens of resource loss, land dispossession, toxicity, climate change, and broader environmental violence?",
+ "teaching": "7 hours of lectures, 7 hours of classes and 9 hours of workshops in the Autumn Term. 1 hour of lectures in the Spring Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "Essay (1500 words). Students will have the opportunity to submit one formative essay of up to 1500 words during the course. Students will be informed of their formative submission deadline by email by the end of Week 3 of term.",
+ "indicativeReading": [
+  "Cruikshank, Julie. 2005. Do Glaciers Listen? Local Knowledge, Colonial Encounters, and Social Imagination. Vancouver: University of British Columbia Press.",
+  "Crumley, Carole L, (editor). 2001. New Directions in Anthropology and Environment: Intersections. London: Rowman and Littlefield, AltaMira Press.",
+  "Hecht, Susanna and Alexander Cockburn. 2011. The Fate of the Forest: Developers, Destroyers, and Defenders of the Amazon. University of Chicago Press.",
+  "Heise, Ursula K., Jon Christensen, and Michelle Niemann 2017. The Routledge Companion to the Environmental Humanities. New York: Routledge.",
+  "Haenn, Nora, Richard Wilk, and Allison Harnish (eds). 2016. The Environment in Anthropology: A Reader in Ecology, Culture, and Sustainable Living, 2nd ed. New York: NYU Press.",
+  "Lorimer, Jamie. 2015. Wildlife in the Anthropocene: Conservation after Nature. Minneapolis: University of Minnesota Press.",
+  "Ogden, Laura A. 2011. Swamplife: People, Gators, and Mangroves Entangled in the Everglades. Minneapolis: University of Minnesota Press.",
+  "Parreñas, Juno Salazar. 2018. Decolonizing Extinction: The Work of Care in Orangutan Rehabilitation. Durham, NC: Duke University Press.",
+  "Sowers, Jeannie, Stacy D. VanDeveer, and Erika Weinthal (editors). 2021. The Oxford Handbookon Comparative Environmental Politics. United Kingdom: Oxford University Press.",
+  "Townsend, Patricia K. 2018. Environmental Anthropology: From Pigs to Policies. 3rd ed. Long Grove, IL: Waveland Press."
+ ],
+ "assessmentText": "Exam (100%), duration: 120 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 26,
+  "avgClassSizePrevYear": 13,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AN/2026_AN287.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

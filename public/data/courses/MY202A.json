@@ -1,0 +1,94 @@
+{
+ "code": "MY202A",
+ "title": "Machine Learning for Social Scientists",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Methodology",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": "A-level maths or equivalent. An important note on programming : While programming is not strictly a pre-requisite for this course, basic programming knowledge, preferably in R or Python, is highly recommended. Students should be comfortable creating and updating variables, creating simple functions, and using flow control expressions like if-else statements, for and while loops, etc. Those who are new to coding may find the course challenging. We therefore recommend that students with limited programming experience explore courses such as MY105A, MY105W, ST101, the Digital Skills Lab workshops or the self-paced pre-sessional course listed on the MY202 Moodle page. Note: This iteration of the course is taught in R.",
+ "availability": "This course is compulsory on the BSc in Psychological and Behavioural Science. This course is available on the Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. Material from the previous year can be found on the course's dedicated public webpage: https://lse-dsi.github.io/DS202/",
+ "description": "IMPORTANT NOTE: This is the same course as [DS202A] from previous years. It has simply been assigned a different code now that the course is part of the LSE Department of Methodology. The main goal of this course is to provide students with a hands-on introduction to the most fundamental machine learning algorithms, as well as the metrics commonly used to assess algorithmic performance and decision-making aspects in real-life scenarios. The course will be taught through a combination of staff-led lectures and classes, with a primary focus on social science applications. R will be the primary programming language, and there will be a recap of base R and the tidyverse ecosystem in the first weeks of the course. Python will be referenced for more advanced text-mining algorithms, though use of this programming language will not be examined. In terms of content, the learning objectives of this course are to: Understand the fundamentals of the data science approach, with an emphasis on social scientific analysis and the study of the social, political, and economic worlds; Understand how classical methods such as regression analysis or principal components analysis can be treated as machine learning approaches for prediction or for data mining; Know how to fit and apply supervised machine learning models for classification and prediction; Know how to evaluate and compare fitted models, and to improve model performance; Use applied computer programming, including the hands-on use of programming through course exercises; Apply the methods learned to real data through hands-on exercises; Integrate the insights from data analytics into knowledge generation and decision-making; Understand an introductory framework for working with natural language (text) data using techniques of machine learning; Learn how data science methods have been applied to a particular domain of study (applications).",
+ "teaching": "15 hours of classes and 20 hours of lectures in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "Just like for programming, achieving proficiency in data analysis, modeling and machine learning requires constant and consistent practice. To help with this, we release a structured problem set very early in the course (around Week 04). The exercises of this problem set are closely tied to in-class activities and follow the same submission structure as the graded problem sets that will be introduced after Reading Week.",
+ "indicativeReading": [
+  "James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani.",
+  "An Introduction to Statistical Learning: With Applications in R. 2nd edition",
+  ". Springer Texts in Statistics. New York [NY]: Springer, 2021. Made freely available online by the author:",
+  "https://www.statlearning.com/",
+  ".",
+  "Kuhn, Max, and Julia Silge.",
+  "Tidy Modeling with R: A Framework for Modeling in the Tidyverse",
+  ". 1st edition. Beijing Boston Farnham Sebastopol Tokyo: O’Reilly, 2022. Made freely available online by the author:",
+  "https://www.tmwr.org/",
+  ".To see the",
+  "tidymodels",
+  "ecosystem in action, we heartily recommend Julia Silge’s YouTube channel:",
+  "https://www.youtube.com/@JuliaSilge",
+  ".",
+  "Wickham, Hadley, Mine Çetinkaya-Rundel and Garrett Grolemund.",
+  "R for Data Science: Import, Tidy, Transform, Visualize, and Model Data",
+  ". 2nd edition. Sebastopol [CA]: O’Reilly, 2023. Made freely available online by the author:",
+  "https://r4ds.hadley.nz/",
+  ".",
+  "We will be working with Positron as the IDE of choice for DS202. See:",
+  "https://positron.posit.co/",
+  "For feature engineering using text data, we will be using",
+  "quanteda",
+  ":",
+  "https://quanteda.io/"
+ ],
+ "assessmentText": "Problem sets (60%). Project (40%). This component of assessment includes an element of group work. The Project component of assessment includes an element of group work.",
+ "assessment": [
+  {
+   "type": "Problem sets",
+   "weight": 60
+  },
+  {
+   "type": "Project",
+   "weight": 40
+  }
+ ],
+ "skills": [],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MY/2026_MY202A.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "DS202A",
+   "title": "Machine Learning for Social Scientists",
+   "note": "Withdrawn 2026/27"
+  },
+  {
+   "code": "DS202W",
+   "title": "Machine Learning for Social Scientists",
+   "note": "Withdrawn 2026/27"
+  },
+  {
+   "code": "MY202W",
+   "title": "Machine Learning for Social Scientists",
+   "note": "Suspended 2026/27"
+  },
+  {
+   "code": "ST201",
+   "title": "Statistical Models and Data Analysis",
+   "note": null
+  }
+ ],
+ "unlocks": []
+}

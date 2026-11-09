@@ -1,0 +1,92 @@
+{
+ "code": "PB340",
+ "title": "Modelling Minds in Society",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Psychological and Behavioural Science",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Miriam Tresh",
+  "Dr Jens Madsen"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Psychological and Behavioural Science. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "The first half of the course focuses on individual-level computational approaches. We discuss the philosophical and scientific methodological assumptions that underpin the approaches to individual behaviour and exemplify this via Bayesian modelling. At the end of the first half, students should be able to generate their own Bayesian inference models of psychological and behavioural assumptions. The second half focuses on meso-level computational approaches. That is, behaviours that unfold in dynamic contexts where people decide what to do within socio-cultural, economic, and organisational constraints and where the actions of others can influence their behaviour. These interactions can cause feedback loops in the system, which makes system complex and malleable. We exemplify this via agent-based modelling. By the end of the second half, students should be able to generate the structure of a simple agent-based model. In summary, the course is relevant to students who want to enhance their analytical and technical skills and to foster a deeper understanding of human behaviour through the lens of computational science. The following is a proposed overview of the course structure across a 10-week period. While the specific course content will be finalised later, the following provides an example of the lectures and classes that would take place during the module. The course will give students an introduction to the philosophical assumptions that underpin computational models in psychological and behavioural science as well as allow students to do a deeper dive into two specific methods (Bayesian and agent-based models) and how these relate to psychological and behavioural science. We will look at misinformation and environmental sustainability as examples of the models, but the course will discuss general principles of how to translate psychological and behavioural theories into computational models.",
+ "teaching": "15 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Project. Project. For each major and minor assessment option there is an equivalent piece of formative coursework. These are designed to help students to prepare for the summative assessments.",
+ "indicativeReading": [
+  "Pearl, J. (2009).",
+  "Causality",
+  ". Cambridge university press.",
+  "Epstein, J. & Axtell, R. (1997)",
+  "Growing Artificial Societies: Social Science from the Bottom Up",
+  ", MIT Press",
+  "Griffiths, T. L., Chater, N., & Tenenbaum, J. B. (Eds.). (2024).",
+  "Bayesian models of cognition: reverse engineering the mind",
+  ". MIT Press.",
+  "Johnson, N. (2007)",
+  "Simply Complexity: A clear guide to complexity theory",
+  ", One World",
+  "Lee, M. D., & Wagenmakers, E. J. (2014).",
+  "Bayesian cognitive modeling: A practical course",
+  ". Cambridge university press.",
+  "Miller, J. H. & Page, S. E. (2007)",
+  "Complex Adaptive Systems: An Introduction to Computational Models of Social Life",
+  ", Princeton University Press",
+  "Oaksford, M., & Chater, N. (2007).",
+  "Bayesian rationality: The probabilistic approach to human reasoning",
+  ". Oxford University Press, USA.",
+  "Schelling, T. C. (2006)",
+  "Micromotives and Macrobehavior",
+  ", W. W. Norton & Company",
+  "Sun, R. (2006)",
+  "Cognition and multi-agent interaction: From cognitive modelling to social simulation,",
+  "Cambridge University Press"
+ ],
+ "assessmentText": "Project (70%). Project (30%). Students will choose ONE minor and ONE major assessment from a list of assessments.",
+ "assessment": [
+  {
+   "type": "Project",
+   "weight": 70
+  },
+  {
+   "type": "Project",
+   "weight": 30
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Communication",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PB/2026_PB340.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

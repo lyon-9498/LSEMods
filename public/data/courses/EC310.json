@@ -1,0 +1,89 @@
+{
+ "code": "EC310",
+ "title": "Behavioural Economics",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economics",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Matthew Levy"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Econometrics and Mathematical Economics, BSc in Economics, BSc in Economics and Data Science, BSc in Mathematics and Economics, BSc in Mathematics with Economics, BSc in Mathematics, Statistics and Business, BSc in Philosophy and Economics and BSc in Politics and Economics. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is not available to General Course students. Students taking the course as an outside option are required to meet the pre-requisites as detailed below.",
+ "description": "The course will expose students to a number of major topics in Behavioural Economics and will link theory with empirical applications. The first half of the course will focus on departures from neoclassical preferences, while the latter half will cover departures from rational expectations. The particular topics to be covered include: • Reference Dependent Preferences and Loss Aversion • Social Preferences • Hyperbolic Discounting • Naiveté and Self-Control • Projection Bias • Happiness and Adaptation • Heuristics and Biases • Inattention and Shrouding • Nudging and Framing • Behavioural Welfare Analysis",
+ "teaching": "15 hours of lectures and 10 hours of classes in the Autumn Term. 15 hours of lectures and 9 hours of classes in the Winter Term. 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Winter Term. There will be a reading week in Week 6 of WT (no lectures or classes that week). This course is delivered through a combination of classes and lectures totalling a minimum of 50 hours across Autumn Term, Winter Term, and Spring Term.",
+ "formativeAssessment": "At least four exercises or pieces of written work will be assessed by class teachers and feedback provided.",
+ "indicativeReading": [
+  "Congdon, William, Jeffrey Kling, and Sendhil Mullainathan.",
+  "Policy and Choice: Public Finance Through the Lens of Behavioral Economics",
+  "(selected chapters). Brookings Institution Press: Washington, D.C. 2011",
+  "[Free eBook download at http://www.brookings.edu/press/Books/2011/policyandchoice.aspx]",
+  "Rabin, Matthew. ‘",
+  "Psychology and Economics’",
+  ", Journal of Economic Literature, 36(1), 1998: 11-46.",
+  "DellaVigna, Stefano. ‘",
+  "Psychology and Economics: Evidence from the Field’",
+  ", Journal of Economic Literature, 47(2), 2009: 315-372.",
+  "Fehr, Ernst and Simon Gachter. ‘",
+  "Fairness and Retaliation: The Economics of Reciprocity’",
+  ", Journal of Economic Perspectives, 14(3), 2000: 159-181.",
+  "Laibson, David. ‘",
+  "Golden Eggs and Hyperbolic Discounting’",
+  ", The Quarterly Journal of Economics, 112(2), 1997: 443-477.",
+  "Camerer, Colin, Linda Babcock, George Loewenstein, and Richard Thaler. ‘",
+  "Labor",
+  "Supply of New York City Cabdrivers: One Day at a Time",
+  "’, The Quarterly Journal of Economics, 112, 1997: 407-441.",
+  "Gabaix, Xavier and David Laibson.",
+  "‘Shrouded Attributes, Consumer Myopia, and Information Suppression in Competitive Markets’",
+  ", The Quarterly Journal of Economics, 121(2): 505-540.",
+  "Bernartzi, Shlomo and Richard Thaler.",
+  "‘Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving",
+  "’, Journal of Political Economy, 112(1), 2004: S164-S187.",
+  "Kahneman, Daniel and Amos Tversky.",
+  "‘Prospect Theory: An Analysis of Decision under Risk’",
+  ", Econometrica, 47(2), 1979: 263-292."
+ ],
+ "assessmentText": "Exam (100%), duration: 180 minutes, reading time: 15 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 24,
+  "avgClassSizePrevYear": 12,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EC/2026_EC310.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

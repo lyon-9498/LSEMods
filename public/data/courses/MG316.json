@@ -1,0 +1,78 @@
+{
+ "code": "MG316",
+ "title": "Brand Strategy",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Management",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Guido Van Garderen"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Management, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley, International Exchange (1 Term) and International Exchange (Full Year). This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course has a limited number of places (it is capped).",
+ "description": "Steven Forbes, founder of Forbes magazine, once stated “Your brand is the single most important investment you can make in your business” as it persuades customers to pay more, purchase more frequently, and retains their loyalty. In short, strong brands influence the behavior of customers, which subsequently drives business results. In this course you will learn how to evaluate a brand strategy and how to use defined models and analytical tools to improve upon it. It covers the complete process, from consumer research, competitor analysis and positioning, to bringing the brand to life through design and activations. The course is based on the latest academic insights and infused with examples from our daily lives. It will help you prepare for a future as a marketeer, brand strategist or entrepreneur.",
+ "teaching": "20 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term. In its Ethics Code, LSE upholds a commitment to intellectual freedom. This means we will protect the freedom of expression of our students and staff and the right to engage in healthy debate in the classroom.",
+ "formativeAssessment": "Students will work in groups during class, where they will do exercises and receive immediate feedback. The groups will use the same exercises to create their final group project. Detailed guidelines on the group project will be provided in the course syllabus and sample projects will be available.",
+ "indicativeReading": [
+  "• David A. Aaker (1996) Building strong brands. New York: The Free Press.",
+  "• Byron Sharp (2010) How brands grow - what marketers don’t know. Melbourne: Oxford University Press.",
+  "• Youngme Moon (2010) Different, Escaping the Competitive herd. New York: Crown Business, Random House.",
+  "• Kevin Lane Keller, Brian Sternthal and Alice Tybout (2002) Three questions you need to ask about your brand, Harvard Business Review, volume 80, issue 9, page 80-86.",
+  "• March Chong (2007) The role of internal training and communication in infusing corporate values and delivering brand promise: Singapore Airlines’ Experience, Corporate Reputation Review, Volume 10, Number 3, page 201-211.",
+  "• David A. Aaker and Erich Joachimsthaler (2000) The Brand Relationship Spectrum – The Key to the Brand Architecture Challenge, California Management Review, Volume 42, Number 4, pages 8-23."
+ ],
+ "assessmentText": "Exam (50%), duration: 120 minutes in the Spring exam period. Course participation (10%). Project (40%). For detailed assessment information, including all deadlines and timings, please see the relevant course Moodle page. Assessment timings will be available at the start of each term.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 50
+  },
+  {
+   "type": "Course participation",
+   "weight": 10
+  },
+  {
+   "type": "Project",
+   "weight": 40
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 115,
+  "avgClassSizePrevYear": 19,
+  "capped": "Yes(120)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MG/2026_MG316.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

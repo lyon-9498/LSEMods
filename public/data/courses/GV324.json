@@ -1,0 +1,68 @@
+{
+ "code": "GV324",
+ "title": "Applied Quantitative Methods for Political Science",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Valentino Larcinese"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Social Anthropology, BSc in History and Politics, BSc in International Social and Public Policy with Politics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations, BSc in Politics and Philosophy, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course will be freely available to students with the required background. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "This course provides an introduction to the most commonly used methods for causal inference in the social sciences using observational data. It covers simple and multiple regression (particularly focussing on the conditions for a causal interpretation of the coefficients), matching, panel data, diff-in-diff, instrumental variables, regression discontinuity. The course will prioritize the practical understanding and application of the methods rather than their statistical foundations. Applications will be selected from existing research literature.",
+ "teaching": "20 hours of lectures and 10 hours of seminars in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "Problem sets fortnightly.",
+ "indicativeReading": [
+  "Stock & Watson: \"Introduction to Econometrics\", Pearson International (various editions, all equally valid)",
+  "Dunning: \"Natural experiments in the social sciences\", CUP 2012",
+  "Angrist & Pischke: \"Mastering metrics\", Princeton University Press 2015"
+ ],
+ "assessmentText": "Exam (75%), duration: 120 minutes, reading time: 15 minutes in the Spring exam period. Project (25%, 3500 words) in Winter Term Week 1. This component of assessment includes an element of group work. The group project includes a presentation element. GENERAL COURSE STUDENTS ONLY: The Class Summary Grade for General Course students will be calculated as follows: 50% participation and 50% formative assessment.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 75
+  },
+  {
+   "type": "Project",
+   "weight": 25
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 13,
+  "avgClassSizePrevYear": 13,
+  "capped": "Yes(17)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV324.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

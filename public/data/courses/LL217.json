@@ -1,0 +1,65 @@
+{
+ "code": "LL217",
+ "title": "European Human Rights Law",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Kai Moller"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "The course offers an introduction to the law of the European Convention on Human Rights (ECHR) and the jurisprudence of the European Court of Human Rights (ECtHR), with a special emphasis on the human rights implications of morally and politically sensitive and controversial issues. The course starts with an introduction to the ECHR and the doctrinal framework that the ECtHR has developed (in particular: proportionality; the margin of appreciation; the living instrument doctrine; the emerging consensus doctrine; negative and positive obligations). This will be followed by five weeks in which we will study the Court’s jurisprudence on a number of important human rights, including freedom of expression, freedom of religion, freedom of association and the right to vote, freedom from torture and inhuman or degrading treatment or punishment, and the right to respect for private and family life. In studying these rights, we will focus on morally and politically controversial issues, such as questions relating to the protection of hate speech, the relevance of offence to religious feelings, the protection of religious symbols and religious dress such as Christian crosses and Islamic burqas, the protection of sexual practices such as sado-masochism and incest, the human rights status of same-sex relationships, and the question of the applicability of the right to freedom from torture and inhuman or degrading treatment in the context of extradition and deportation. The goal of this part of the course is to enable the students to develop subtle, sophisticated, and balanced arguments about controversial human rights issues. The final part of the course introduces the students to theories of human rights adjudication, including Robert Alexy’s theory of rights as principles and optimisation requirements, Mattias Kumm’s theory of rights adjudication as Socratic contestation, Ronald Dworkin’s theory of rights as trumps, and the culture of justification. Syllabus: The European Convention on Human Rights and the European Court of Human Rights; proportionality, the margin of appreciation, the living instrument doctrine, emerging consensus, negative and positive obligations. Freedom from torture and inhuman or degrading treatment or punishment; freedom of expression; freedom of association, the right to vote, and ‘militant democracy’; freedom of religion; the right to respect for private and family life. Theories of rights adjudication: Robert Alexy’s theory of rights as principles; Mattias Kumm’s theory of rights adjudication as Socratic contestation; Ronald Dworkin’s theory of rights as trumps; the culture of justification and the right to justification.",
+ "teaching": "20 hours of lectures and 9 hours of classes in the Autumn Term. 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "Students will be expected to produce one formative essay.",
+ "indicativeReading": [
+  "For the European Convention on Human Rights, interested students may want to take a look at",
+  "Harris, O’Boyle and Warbrick,",
+  "Law of the European Convention on Human Right",
+  "s 5th edn (OUP, 2023).",
+  "For the more theoretical aspects of the course, see",
+  "Kai Möller.",
+  "The Global Model of Constitutional Rights",
+  "(OUP, 2015)."
+ ],
+ "assessmentText": "Exam (100%), duration: 150 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 24,
+  "avgClassSizePrevYear": 12,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL217.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

@@ -1,0 +1,54 @@
+{
+ "code": "EC2A0",
+ "title": "Introductory Course in Microeconomic Principles",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economics",
+ "units": 0.0,
+ "studyPeriod": "Pre-sessional",
+ "terms": [],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Frank Cowell"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the MSc in Economics (2 Year Programme). This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "EC2A0 is an introduction to the compulsory core microeconomics EC2A1 covered in the AT and WT of year 1 of the MSc in Economics (2 Year Programme). The course aims to provide students with an understanding of the essential analysis of individual economic agents in a market setting: firms, consumers and workers. It is designed to deliver a solid basis for EC2A1 Microeconomics, taught in the AT and WT of the first year of the MSc in Economics (2 Year Programme). The course starts with a brief overview of optimisation in economics: constraints, objectives and maximisation techniques. The two main topic areas then apply this optimisation analysis as follows: The firm: Profit maximisation and cost minimisation. Demand for inputs and supply of output in competitive markets. Market equilibrium. Analysis of monopoly. The consumer: Utility maximisation subject to budget constraints. Demand for commodities. Extensions to factor supply. Applications to intertemporal decision-making and labour-market decisions. Extension to decision-making under uncertainty. Topics of the linear algebra workshops include: rules and properties of summation notation; properties of expectation, variance, and covariance; matrix algebra; definitions of terms regarding convergence of random variables and properties of estimators; and derivation of the OLS estimator. The content regarding matrix algebra is most prominent. It begins with basic operations (such as addition and multiplication), includes discussion of important definitions (such as “idempotent” and “symmetric”) and includes content on transposes, inverses, and rank of a matrix.",
+ "teaching": "20 hours of lectures, 10 hours of classes and 5 hours of workshops. 20 hours of microeconomics lectures, 10 hours of interactive microeconomics classes and 5 linear algebra workshops delivered in person over 3 weeks in September.",
+ "formativeAssessment": "Students will be required to complete daily sets of self-testing exercises during the course.",
+ "indicativeReading": [
+  "Recommended readings and preparation materials will be provided over the summer."
+ ],
+ "assessmentText": "At the end of the course, students will be assessed through a closed-book, timed examination on optimisation by competitive firms and households.",
+ "assessment": [],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 54,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EC/2026_EC2A0.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

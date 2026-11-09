@@ -1,0 +1,95 @@
+{
+ "code": "HY200",
+ "title": "The Rights of Man: the History of Human Rights Discourse from the Antigone to Amnesty International",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International History",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Tim Hochstrasser"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in History, BA in Social Anthropology, BSc in History and Politics, BSc in International Relations and History, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "Human Rights are often assumed to have a precise twentieth-century origin in the 1948 Universal Declaration or in the succeeding decades of increasing activism. However, the history of human rights discourse and its practical impact emerged as only the latest stage of a sequence of intellectual debates and real-life struggles in specific historical settings over political, religious, economic rights, broadly defined. Different cultural milieus have produced a variety of contexts for working out tensions between claims by individuals or minorities for autonomy on the one hand and the rival demands of collective obligation and identity on the other. This course will seek to explore an (inevitably selective) range of these historical contexts in order to demonstrate the continuity of perennial themes of conflict between the claims of individual actors and corporate institutions, whether states, churches, empires or other institutions, while also showing how and when key changes take place in the recognition of rights of political action, conscience, property ownership, gender identity and workers’ rights etc. The growth of toleration and free speech, the abolition of slavery and torture, and the role of Declarations of Rights will all be examined, but less familiar subjects will also find their place. The contribution of the conceptual legacy and historical inspiration of Greece and Rome will be recognised as will the crucial role of the political thought of the High Middle Ages, and at the other end of the course specific connection will be made to the recent development of human rights organisations. In each session a contrasted selection of contemporary writings will be studied to recover the intellectual framework of the discussion and the role of the dispositive political, social, and economic circumstances of the debate will also be considered.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. 10 hours of lectures and 10 hours of classes in the Winter Term. 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term. Students will be expected to read essential primary and secondary material for each weekly meeting, to participate fully in class discussions and offer an assessed presentation. Both presentations and participation will form part of summative assessment.",
+ "formativeAssessment": "There will be two essays of 2,000 words to be submitted in the Autumn and the Winter Terms.",
+ "indicativeReading": [
+  "Michael Barnett, Empire of Humanity: A History of Humanitarianism (Ithaca, 2011)",
+  "Akira Iriye, Petra Goedde and William Hitchcock (eds.), The Human Rights Revolution: An International History (Oxford, 2012)",
+  "R. Ishay, The History of Human Rights, (Berkeley, 2004)",
+  "Jenny S Martinez, The Slave Trade and the Origins of International Human Rights Law (New York, 2012)",
+  "Samuel Moyn, The Last Utopia, (Harvard, 2010)",
+  "Jack N Rakove, Declaring Rights: a brief history with documents (Boston, 1998)",
+  "Further reading:",
+  "Gary J Bass, Freedom’s Battle: the Origins of Humanitarian Intervention (New York, 2008)",
+  "Richard A Bauman, Human Rights in Ancient Rome (New York, 2000)",
+  "Robin Blackburn, American Crucible: Slavery, Emancipation, and Human Rights (New York, 2011)",
+  "Elizabeth Borgwardt, A New Deal for the World: America’s Vision for Human Rights (Cambridge Mass, 2006)",
+  "Christopher Leslie Brown, Moral Capital: the Foundations of British Abolitionism, (Chapel Hill, 2006)",
+  "Roland Burke, Decolonization and the Evolution of International Human Rights (Philadelphia, 2010)",
+  "Stefan-Ludwig Hoffmann (ed.) Human Rights in the Twentieth Century (Cambridge 2011)",
+  "Lynn Hunt, Inventing Human Rights. A History. (New York/London, 2007)",
+  "John Hutchinson, Champions of Charity: War and the Rise of the Red Cross, (Boulder, 1996)",
+  "Michael Ignatieff, Human Rights as Politics and Idolatry (Princeton, 2001)",
+  "Margaret E Keck and Kathryn Sikkink, Activists Beyond Borders: Advocacy networks in International Politics (Ithaca, 1998)",
+  "Martti Koskenniemi The Gentle Civiliser of Nations: the rise and fall of International Law, 1870-1960, (Cambridge, 2002)",
+  "Pauline Maier, American Scripture: Making the Declaration of Independence (New York, 1997)",
+  "Johannes Morsink, The Universal Declaration of Human Rights: origins, drafting, and intent (Philadelphia, 1999)",
+  "Roger Normand and Sarah Zaidi, Human Rights at the UN: the Political History of Universal Justice (Bloomington, 2007)",
+  "Larry Siedentop, Inventing the Individual. The Origins of Western Liberalism (London, 2014)",
+  "AWB Simpson, Human Rights and the End of Empire: Britain and the Genesis of the European Convention (Oxford, 2001)",
+  "Dale Van Kley (ed.), The French Idea of Freedom: The Old Regime and the Declaration of the Rights of 1789 (Stanford, 1994)"
+ ],
+ "assessmentText": "Exam (70%), duration: 180 minutes in the Spring exam period. Presentation (15%). Course participation (15%). Students MUST give a summative presentation in either the AT or the WT.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 70
+  },
+  {
+   "type": "Presentation",
+   "weight": 15
+  },
+  {
+   "type": "Course participation",
+   "weight": 15
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 23,
+  "avgClassSizePrevYear": 12,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/HY/2026_HY200.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

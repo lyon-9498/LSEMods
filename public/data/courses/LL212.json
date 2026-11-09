@@ -1,0 +1,62 @@
+{
+ "code": "LL212",
+ "title": "Conflict of Laws",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Jacco Bomhoff"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is freely available to General Course students. It does not require permission. Interested students may wish to consider taking this course as an option in their third year. That said, over the past years many second year students have taken this course without any problems. The only required background understanding relates to (English) law of obligations. Basic issues of EU law relevant to the course will be covered in class. It is also available as an outside option to third year students where regulations permit and with the permission of the course teacher. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "Conflict of laws – also known as private international law – is the area of law concerned with private law cases that cross borders. Conflict of laws differs from public international law in that it deals with transactions between private individuals, rather than with those directly implicating States or international organizations. What rules should an English court apply to a contract between companies from different countries, or to a tort claim arising out of an environmental disaster abroad? Should foreign celebrities be allowed to sue in the English courts when they feel they have been defamed in an article posted on an American website? Should the English courts recognize judgments from other countries, even when they conflict with English ideas of right and wrong? Should courts in EU countries still give effect to the judgments from English courts in a post-Brexit world? It is questions like these that make up the subject of the conflict of laws. The field’s central technical questions are (1) jurisdiction (will an English court or a foreign court hear the case?), (2) choice of law (should the court apply its own law or that of a foreign country?), and (3) the recognition and enforcement of foreign judgments. During the course, these three questions will frame reflection on a range of topics, including commercial/practical issues (how can companies structure their cross-border transactions?), but also questions of a more political nature (to what extent should States be able to regulate matters beyond their own borders?) or with a strong social/cultural dimension (how should foreign cultural values be accommodated in English law?). Although conflict of laws has a long history within English law, for some areas many of the relevant rules have changed dramatically in recent years under the influence of EU legislation and case law. Some of these EU rules have been retained in English law after Brexit. Others have been replaced by either English law or by international treaties. In this course, we will look at English law, EU law, and international treaty regimes where relevant; and we will take a comparative look at selected topics in US law. During the course, we will look at (1) jurisdiction in international commercial litigation, (2) choice of law issues in contract and tort, (3) recognition and enforcement of foreign judgments, and (4) comparative aspects and theoretical foundations of conflict of laws. Most of the material for this course (cases, literature extracts, text, and further reading references) is contained in a Course Reader which is uploaded in instalments on the course Moodle page. Syllabus: Jurisdiction of English courts under the traditional English rules for actions in personam: Service of a claim form within the jurisdiction & out of the jurisdiction, choice of court clauses, stay of proceedings, restraining foreign proceedings (anti-suit injunctions). Jurisdiction of courts in other EU Member States under European Union Council Regulation 1215/2012 (basics and selected case-studies). Recognition & enforcement of foreign judgments at common law (in English courts), under European Union rules (in EU Member States), and under the Hague Conventions. Choice of law relating to contracts under the assimilated rules of the EU Rome I Regulation: Interpreting choice of law clauses in contracts, applicable law in absence of choice, overriding mandatory rules, public policy, foreign illegality in English law. Choice of law relating to tort under the assimilated rules of the Rome II Regulation, older English approach, ‘interest analysis’ and other approaches of the ‘US conflict of laws revolution’ and the Second and Third Restatements. The 2005 Hague Choice of Court Convention and the 2019 Hague Judgments Convention. Comparative conflict of laws & Theoretical foundations",
+ "teaching": "20 hours of seminars in the Autumn Term. 20 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "One formative (unassessed) essay per term.",
+ "indicativeReading": [
+  "Briggs,",
+  "The Conflict of Laws",
+  "(5th ed., Oxford University Press, 2024);",
+  "Resources: www.conflictoflaws.net (Topical references, cases and reviews)"
+ ],
+ "assessmentText": "Exam (100%), duration: 210 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 29,
+  "avgClassSizePrevYear": 29,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL212.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

@@ -1,0 +1,68 @@
+{
+ "code": "EH225",
+ "title": "Latin America and the International Economy",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economic History",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Andres Irarrázaval García-Huidobro"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in History, BSc in Economic History, BSc in Economic History and Geography, BSc in Economics, BSc in Economics and Economic History, BSc in International Relations, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "Latin America is the most unequal region in the world. Relatively rich countries such as Chile and Argentina sit alongside low-income ones like Bolivia and Haiti, yet all exhibit persistently high levels of inequality. How can we account for the region's uneven development and enduring concentration of wealth? This course traces Latin America's development trajectory from the colonial period (c. 1500–1800s) to the present, placing the region in comparative and historical perspective with Europe, Africa, and Asia. It pays particular attention to how political, economic, institutional, and environmental factors shaped, and were shaped by, Latin America's integration into the world economy. Key themes include the long-run determinants of Latin American development; the legacy of colonialism and its role in the region's persistent inequality; and the formation of modern states and markets after independence. We examine Latin America's troubled integration into international markets as a commodity exporter, and its post-war industrialisation efforts, especially in contrast to the European and East Asian experiences. We also trace the evolution of political regimes — from authoritarianism to democracy — through successive waves of populism and military rule, including the coups of the 1970s and the role of US interventionism in the region. Finally, we explore the recurring tension between short-term growth spells and macroeconomic instability, from hyperinflation to debt crises. Throughout, the course emphasises the interaction between policy choices, political culture, and economic outcomes, and their short- and long-run effects on poverty, inequality, and prospects for sustainable development. Given its interdisciplinary scope, the course will appeal to students in Economic History, Economics, International History, Political Science, Development Studies, and International Relations.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. 10 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Students are expected to write a short weekly report, to be presented verbally, either individually or in a team throughout the course.",
+ "indicativeReading": [
+  "V. Bulmer-Thomas (2014) The Economic History of Latin America since Independence, Cambridge University Press, Ibid. (2012) The Economic History of the Caribbean since the Napoleonic Wars, Cambridge University Press; P. Franko, (2007) The puzzle of Latin American economic development, Rowman & Littlefield; J. L. Gallup, (2003) Is geography destiny?: lessons from Latin America, World Bank; E. Stein, et al. (2008) Policymaking in Latin America: how politics shapes policies, IADB; V. Bulmer-Thomas, JH Coatsworth, and R. Cortés Conde (2006) The Cambridge Economic History of Latin America, Cambridge University Press 2 vols; Ocampo, JA, and Ross, J (2011). The Oxford Handbook of Latin American Economics. Oxford: Oxford University Press; Bértola, L and Ocampo, JA (2012), The economic development of Latin America since independence. Oxford: Oxford University Press. Scartascini, CG., Stein E. and Tommasi, M (2010). How democracy works: political institutions, actors, and arenas in Latin American policymaking. [Washington, D.C.]: IADB; Blake, C.H (2007) Politics in Latin America 2nd edition Boston, Houghton Mifflin Company. Edwards, S, Esquivel, G & Márquez, G. (2007) The decline of Latin American economies growth, institutions, and crises. Chicago: University of Chicago Press; Bethell, L. (1984/2008) The Cambridge History of Latin America, Cambridge University Press, vols IV and VI"
+ ],
+ "assessmentText": "Exam (70%), duration: 120 minutes in the Spring exam period. Essay (30%, 3000 words).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 70
+  },
+  {
+   "type": "Essay",
+   "weight": 30
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 54,
+  "avgClassSizePrevYear": 14,
+  "capped": "Yes(60)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EH/2026_EH225.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

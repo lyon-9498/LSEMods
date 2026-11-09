@@ -1,0 +1,60 @@
+{
+ "code": "SO244",
+ "title": "The Sociology of Race and Empire",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Sociology",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Piro Rexhepi"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Language, Culture and Society, BSc in Sociology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is not available as an outside option to students on other programmes. This course is available with permission to General Course students. This course has a limited number of places (it is capped). Places are allocated on a first come first served basis.",
+ "description": "The course provides an introduction to theoretical, historical and contemporary debates around race, racism and empire. It covers the following thematic areas: history; theory; experience; futurism. We begin by exploring the historical events and contemporary afterlives that have created a world structured by racism and colonialism. From the Enlightenment to nationalism; from science to secularism, we look at how this world came to be, and why these often-hidden histories matter. We then look at different ways people have tried to understand this world. Theoretical paradigms include anticolonial theory, the Black Radical Tradition, Queer theory, Trans* theory, and postcolonial theory, decoloniality and settler colonialism, among others. The third block looks at the everyday experiences of race and empire. From the food we eat to the way we travel, we will see that race and empire are never far from the scene. We look at the politics around tourism, climate change, technology, intimacy, movement and food to unpack the very minute and not-so-minute ways race and empire seep into and structure our daily lives. We end the course by thinking about abolition as a means of imagining a future free of racism.",
+ "teaching": "This course has a reading week in Week 6 of Winter Term. This course is usually delivered through a combination of lectures and seminars. There will be two hours or more of teaching each week in WT.",
+ "formativeAssessment": "Essay (1500 words) in Winter Term Week 7.",
+ "indicativeReading": [
+  "Cesaire, A. 1955. Discourse on Colonialism. Grove Press.",
+  "Said, E., 1978. Orientalism: Western representations of the Orient. Pantheon.",
+  "Steinmetz, G., 2013. Sociology and empire. Duke University Press.",
+  "Fanon, F., 1963. The wretched of the earth. Grove Press.",
+  "Mills, C.W., 2014. The racial contract. Cornell University Press.",
+  "Davis, A.Y., 2011. Women, race, & class. Vintage.",
+  "Mohanty, C.T., 1988. Under Western eyes: Feminist scholarship and colonial discourses. Feminist review, (30), 61-88.",
+  "Sharpe, C., 2016. In the wake: On blackness and being. Duke University Press.",
+  "Wekker, G., 2016. White innocence: Paradoxes of colonialism and race. Duke University Press.",
+  "Collins, P.H., 2002. Black feminist thought: Knowledge, consciousness, and the politics of empowerment. Routledge."
+ ],
+ "assessmentText": "Presentation (20%). This component of assessment includes an element of group work. Essay (80%, 3000 words) in May. Attendance at all classes and submission of all set coursework is required.",
+ "assessment": [
+  {
+   "type": "Presentation",
+   "weight": 20
+  },
+  {
+   "type": "Essay",
+   "weight": 80
+  }
+ ],
+ "skills": [],
+ "stats": {
+  "totalStudentsPrevYear": 24,
+  "avgClassSizePrevYear": 24,
+  "capped": "Yes(26)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SO/2026_SO244.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

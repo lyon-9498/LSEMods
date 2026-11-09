@@ -1,0 +1,72 @@
+{
+ "code": "AN395",
+ "title": "Digital Anthropology",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Anthropology",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Nick Long"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, BA in Social Anthropology, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley, Exchange Programme for Students in Anthropology (Cape Town), Exchange Programme for Students in Anthropology (Fudan), Exchange Programme for Students in Anthropology (Melbourne) and Exchange Programme for Students in Anthropology (Tokyo). This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "This course examines how people around the world are engaging with, and having their lives mediated by, digital technologies. Ethnographies of digital activities have revealed how the constraints and affordances of various platforms are potentiating distinct modes of relationality, communication and experience. At the same time, anthropological research complicates simplistic metanarratives of ‘the digital’ by revealing the use and experience of digital devices to be powerfully shaped by cultural, historical, infrastructural and political-economic context, amongst other factors. By attending to these various insights, the course will enable students to develop conceptual frameworks that they can use not only to understand diverse ethnographic case materials, but also to inform their responses to pressing political and ethical questions surrounding ‘the digital’, and to shape future engagements with digital technologies in their personal and professional lives. Course content will address three main areas. Firstly, drawing on diverse ethnographic case studies, it will examine how humans interact with, within, and alongside digital devices and environments. Topics in this part of the course may include: human-robot relations; the culture and character of ‘virtual worlds’; digital addiction; online gaming; augmented reality; and the character of relationships that straddle ‘the offline’ and ‘the online’. Secondly, the course will explore the implications of various digital technologies and platforms for processes of cultural transmission and transformation. Topics in this part of the course may include: virality, ‘trending’, and internet celebrity; influencer cultures; ; digital marketing; disinformation and conspiracy; and digital activism. Finally, the course will consider the specific contributions anthropological research can make to contemporary ethical and policy questions surrounding ‘digital futures’ in relation to questions such as redesigning social media platforms, developing new ways of relating to and managing digital data, and reconceptualising the platform economy.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. This course has a reading week in Week 6 of Autumn Term. Lectures will introduce key themes, debates and theories. Classes will involve structured discussion of readings and case studies related to each week's lecture material.",
+ "formativeAssessment": "Position piece (1200 words). As part of their work for this course, students will have the opportunity to submit up to three position pieces, in which they articulate their views on a number of issues in digital anthropology. Only the two position pieces with the highest marks will count towards the student’s final grade for the course. If a student submits all three position pieces, the position piece with the lowest mark will be treated as formative work. Students are not required to submit all three position pieces but are encouraged to do so to allow one position piece to count as formative coursework.",
+ "indicativeReading": [
+  "Abidin, Crystal. 2018. Internet Celebrity: Understanding Fame Online. Bingley: Emerald.",
+  "Bentley, R. Alexander. and Michael O’Brien. 2017. The Acceleration of Cultural Change: From Ancestors to Algorithms. Cambridge, MA: MIT Press.",
+  "Boellstorff, Tom. 2008. Coming of Age in Second Life: An Anthropologist Explores the Virtually Human. Princeton: Princeton University Press.",
+  "del Nido, Juan M. 2022. Taxis vs. Uber: Courts, Markets, and Technology in Buenos Aires. Stanford: Stanford University Press.",
+  "McGlotten, Shaka. 2013. Virtual Intimacies: Media, Affect, and Queer Sociality. Albany: SUNY Press.",
+  "Miller, Daniel, Elisabetta Costa, Nell Haynes, Tom McDonald, Razvan Nicolescu, Jolynna Sinanan, Juliano Spyer, Shriram Venkatraman, and Xinyuan Wang. 2016. How the World Changed Social Media. London: UCL Press.",
+  "Schüll, Natasha D. 2012. Addiction by Design: Machine Gambling in Las Vegas. Princeton: Princeton University Press.",
+  "Walter, Maggie, Tahu Kukutai, Stephanie Russo Carroll and Desi Rodriguez-Lonebear (eds). 2020. Indigenous Data Sovereignty and Policy. London: Routledge.",
+  "Wright, James. 2023. Robots Won't Save Japan: An Ethnography of Eldercare Automation. Ithaca: Cornell University Press.",
+  "Zhou Yongming. 2006. Historicizing Online Politics: Telegraphy, the Internet, and Political Participation in China. Stanford: Stanford University Press."
+ ],
+ "assessmentText": "Portfolio (100%, 2400 words). Students will produce a portfolio of position pieces (worth 100% of the total mark), with three opportunities to contribute over the Autumn Term, Christmas vacation and Winter Term. Each position piece should be up to 1200 words in length. These pieces may take various forms, including: argumentative interventions into the debates covered in the course, self-reflexive commentaries on students’ own digital activities, understood in the light of the course materials; and case study assignments analysing and commenting upon particular digital phenomena. Portfolios will be assessed periodically throughout the course, with the final grade determined by the two highest scoring position pieces. Students who submit fewer than two position pieces will receive a mark of zero for each missed assessment. The overall mark will be the average of the two position pieces with the highest grades, including any zeroes for missed assessments. Students who submit at least one position piece and fail the course will be expected to add to their portfolio at resit in order to achieve a pass. Students who do not submit any position pieces (0 out of 3), will be awarded a Zero Absent for the whole course and cannot be awarded the degree until they submit sufficient work at resit to complete the course.",
+ "assessment": [
+  {
+   "type": "Portfolio",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 42,
+  "avgClassSizePrevYear": 14,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AN/2026_AN395.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

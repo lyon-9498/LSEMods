@@ -1,0 +1,75 @@
+{
+ "code": "GY317",
+ "title": "Geographies of Urban Violence",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Geography and Environment",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Gareth Jones"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Geography, BSc in Environment and Sustainable Development, BSc in Environment and Sustainable Development with Economics, BSc in Geography with Economics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course is capped. Places will be assigned on a first come first served basis",
+ "description": "The course examines the relationships between urban space and different forms of violence. Cities are often depicted as inherently, even naturally, violent spaces such that the urban condition is understood to generate, reproduce and transform violence, while for many people the urban experience is framed by living with possibilities of violence and the effectiveness of security measures. The course will analyze four main claims. First, the case for understanding violences as plural socio-spatial processes that produce urban spaces. Second, the case for urban processes such as planning, infrastructure interventions, and segregation producing violences. Third, the case for understanding how people’s everyday lives are framed by violences and policy responses, and how these affect their relations with cities. Fourth, the case for cities as spaces for innovations in violence management and reduction. Students will be introduced to an interdisciplinary range of literatures plus materials from think-tanks, film, and journalism, and if possible, engagement with civil society and policy-makers. The course aims to challenge the dominance of US and European focused research to understandings and policy prescriptions to violences in cities and draw from perspectives relevant to the Global South.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term. This course is delivered through a combination of lectures and classes, including walks, in Winter Term.",
+ "formativeAssessment": "Students will be expected to produce 1 essay outline in the WT.",
+ "indicativeReading": [
+  "Alves, J.A. 2018. The Anti-Black City: police terror and black urban life in Brazil, University of Minnesota Press.",
+  "Dikec, M. 2017. Urban Rage: The Revolt of the Excluded, Yale University Press.",
+  "Elfversson, E.; Gusic, I. & K. Höglund (eds) 2020. The Spatiality of Violence in Post-war Cities, Routledge.",
+  "Feltran, G. 2021. The Entangled City: crime as urban fabric in Sao Paulo, Manchester University Press.",
+  "Graham, S. 2010. Cities under Siege: the new military urbanism, Verso.",
+  "Hazen, J. & D. Rodgers (eds) 2014. Global Gangs: street violence across the world, University of Minnesota Press.",
+  "Jones, G.A. & D. Rodgers (eds) 2009. Youth Violence in Latin America: Gangs and Juvenile Justice in Perspective, Macmillan-Palgrave.",
+  "Kaldor, M. and S. Sassen (eds.) 2020. Cities at War: Global Insecurity and Urban Resistance, Columbia University Press.",
+  "Pavoni, A. & S. Tulumello 2020. What is urban violence? Progress in Human Geography, 44(1), 49–76.",
+  "Salahub, J.E. & M. Gottsbacher (eds) 2019. Reducing Urban Violence in the Global South: Towards Safe and Inclusive Cities, Routledge."
+ ],
+ "assessmentText": "Presentation (20%). Essay (80%, 2500 words).",
+ "assessment": [
+  {
+   "type": "Presentation",
+   "weight": 20
+  },
+  {
+   "type": "Essay",
+   "weight": 80
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 46,
+  "avgClassSizePrevYear": 12,
+  "capped": "Yes(65)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GY/2026_GY317.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

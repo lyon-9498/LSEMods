@@ -1,0 +1,80 @@
+{
+ "code": "ST211",
+ "title": "Applied Regression",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Statistics",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Mingwei Lin"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": "Students who have no previous experience in R are required to complete an online pre-sessional R course from the Digital Skills Lab before the start of the course (https://moodle.lse.ac.uk/course/view.php?id=7745) Students must have completed one of the following two combinations of courses: (a) ST102, or (b) ST109 and EC1C1. Equivalent combinations may be accepted at the lecturer’s discretion.",
+ "availability": "This course is compulsory on the BSc in Data Science and BSc in Mathematics, Statistics and Business. This course is available on the BSc in Economics and Data Science. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is not available to General Course students. Specifically the course is available to Accounting and Finance students who have taken ST102. This course cannot be taken with ST201 Statistical Models and Data Analysis. This course is capped. Places will be assigned on a first come first served basis. Guest lecturer for 2026/27: Dr Mingwei Lin.",
+ "description": "Statistical data analysis in R covering the following topics: Simple and multiple linear regression, Model diagnostics, Detection of outliers, Multicollinearity, Introduction to GLMs.",
+ "teaching": "30 hours of computer workshop and 20 hours of lectures in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Regular Moodle quizzes.",
+ "indicativeReading": [
+  "Gelman and Hill, Data analysis Using Regression and Multilevel/Hierarchical models (CUP, 2007) First part.",
+  "Neter, J., Kutner, M., Nachtsheim, C. and Wasserman, W. Applied Linear Statistical Models, McGraw-Hill, Fourth Edition. (2004).",
+  "Abraham, B. Ledolter, J. Introduction to Regression Modelling, Thomson Brooks Cole. (2006).",
+  "S. Weisberg Applied Linear Regression, Wiley, 3rd edition. (2005)(intermediate).",
+  "Fox (2016) Applied Regression Analysis and Generalized Linear Models."
+ ],
+ "assessmentText": "Project (10%, 1500 words) in Winter Term Week 6. This component of assessment includes an element of group work. Project (35%, 1500 words) in Spring Term Week 2. Project (55%, 2500 words) in Spring Term Week 2. This component of assessment includes an element of group work. 10% project: A group work mini-project to be handed in at the end of reading week. This is followed by a 15 minute face to face feedback session which is also the main purpose of this assessment. This project would ideally be formative, however students do not do it if it is formative. 35% project: An individual logistic regression project to be handed in by the second week of the ST. For this component to help safeguard the integrity of the individual projects 10% of students will be subject to randomised interviews. The aim of these interviews is to check against the unauthorised use of GenAI and that the work submitted was the students’ own. 55% project: A group multiple linear regression project to be handed in by the second week of the ST.",
+ "assessment": [
+  {
+   "type": "Project",
+   "weight": 10
+  },
+  {
+   "type": "Project",
+   "weight": 35
+  },
+  {
+   "type": "Project",
+   "weight": 55
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 95,
+  "avgClassSizePrevYear": 32,
+  "capped": "Yes(90)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/ST/2026_ST211.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "ST201",
+   "title": "Statistical Models and Data Analysis",
+   "note": null
+  }
+ ],
+ "unlocks": [
+  "ST326"
+ ]
+}

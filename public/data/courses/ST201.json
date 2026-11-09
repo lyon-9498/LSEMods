@@ -1,0 +1,100 @@
+{
+ "code": "ST201",
+ "title": "Statistical Models and Data Analysis",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Statistics",
+ "units": 0.5,
+ "studyPeriod": "Winter and Spring Term",
+ "terms": [
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Yunxiao Chen"
+ ],
+ "prerequisites": "Students must have completed ST107 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": "Previous programming experience is not required, but students who have no previous experience in R must complete an online pre-sessional R course from the Digital Skills Lab before the start of the course",
+ "availability": "This course is available on the Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. Also available to students who have studied statistics and mathematics to the level of ST107 Quantitative Methods or equivalent. This course is not controlled access. If you request a place and meet the criteria you are likely to be given a place.",
+ "description": "A second course in statistics with an emphasis on data analysis with applications in the social sciences. Students will gain hands on experience using R-- a programming language and software environment for data analysis and visualisation. The course contains five topics, including (1) principles of statistical analysis, including data preparation, statistical models, regression and classification, inference, prediction, and bias-variance tradeoff, (2) multiple linear regression, including its assumptions, inference, data transformations, diagnostics, model selection, (3) regression tree method, (4) logistic regression, including odds ratios, likelihood, classification, and ROC curve, and (5) Bayes rule for classification and linear discriminant analysis.",
+ "teaching": "20 hours of lectures and 16 hours of classes in the Winter Term. 2 hours of lectures in the Spring Term. This course has a reading week in Week 6 of Winter Term. Students will be given their assessed project in week 9 which is due in Week 1 of Spring Term.",
+ "formativeAssessment": "Exercise questions in computer workshops",
+ "indicativeReading": [
+  "James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning. New York, NY: Springer.",
+  "Fox, J. (2015). Applied regression analysis and generalized linear models. Thousand Oaks, CA: Sage Publications."
+ ],
+ "assessmentText": "Exam (80%), duration: 120 minutes in the Spring exam period. Project (20%). A quantitative research project (worth 20% of the marks) and an exam (worth 80% of the marks)",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 80
+  },
+  {
+   "type": "Project",
+   "weight": 20
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 15,
+  "avgClassSizePrevYear": 8,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/ST/2026_ST201.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "course",
+  "code": "ST107"
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "DS202A",
+   "title": "Machine Learning for Social Scientists",
+   "note": "Withdrawn 2026/27"
+  },
+  {
+   "code": "DS202W",
+   "title": "Machine Learning for Social Scientists",
+   "note": "Withdrawn 2026/27"
+  },
+  {
+   "code": "MY202A",
+   "title": "Machine Learning for Social Scientists",
+   "note": null
+  },
+  {
+   "code": "MY202W",
+   "title": "Machine Learning for Social Scientists",
+   "note": "Suspended 2026/27"
+  },
+  {
+   "code": "ST211",
+   "title": "Applied Regression",
+   "note": null
+  }
+ ],
+ "unlocks": [
+  "FM321"
+ ]
+}

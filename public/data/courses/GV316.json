@@ -1,0 +1,73 @@
+{
+ "code": "GV316",
+ "title": "Advanced Issues in Applied Political Theory",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Kai Spiekermann"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Social Anthropology, BSc in History and Politics, BSc in International Social and Public Policy with Politics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations, BSc in Politics and Philosophy and BSc in Social Anthropology. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is capped at two groups.",
+ "description": "An investigation of contemporary questions in applied political theory. Taking as a starting point a pressing social and political challenge, the course instructs students to systematically apply different political theories to approach the problem, to understand and critically discuss different normative viewpoints, and to develop and defend their own position in these debates. Examples of such themes include environmental and climate change, free speech, multiculturalism and toleration, poverty and global justice, colonialism, or surveillance and privacy. The topics are selected each year to reflect current debates and the interests of the course convener. The course gives students the opportunity to experience research-led teaching, as the course convener will typically create a syllabus to reflect their current research projects. In 2026-27, the focus of the course will be on political-philosophical questions in the context of environmental change, especially climate change. It draws primarily on contemporary analytical political philosophy, political theory, and environmental ethics, but with cross-disciplinary input from the natural and social sciences. Some key questions will be abstract and theoretical, including: What kind of problem is climate change? How do we value nature? How ought we to distribute the costs of climate? How are the injustices of climate change related to other historical injustice? What do we owe future generations? At the same time, the course also challenges us to think about the application of theories from philosophy and the social sciences, leading to questions like: How can we improve the knowledge about climate change? How do we motivate citizens and states to reduce emissions? How do we decide what to preserve for future generations? Is civil or uncivil disobedience a promising route to bring about social change? Which democratic institutions might support effective climate policies?",
+ "teaching": "15 hours of lectures and 10 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Essay. One short formative essay in the WT.",
+ "indicativeReading": [
+  "John Broome (2012) Climate Matters: Ethics in a Warming World, New York (W.W. Norton);",
+  "Stephen Gardiner, Simon Caney, Dale Jamieson and Henry Shue, eds. (2010) Climate Ethics: Essential Readings, Oxford (Oxford University Press);",
+  "Denis G. Arnold, ed. (2011) The ethics of global climate change, Cambridge (Cambridge University Press);",
+  "Stephen M. Gardiner (2011) A Perfect Moral Storm: The Ethical Tragedy of Climate Change, Oxford (OUP);",
+  "Jeremy Moss, ed. (2015). Climate Change and Justice, Cambridge: Cambridge University Press;",
+  "Simon Caney (2020). “Climate Justice”, in: Stanford Encyclopedia of Philosophy, Ed. Edward N. Zalta. Available at: https://plato.stanford.edu/entries/justice-climate/;",
+  "Intergovernmental Panel on Climate Change (2021-2) Sixth Assessment Report, Available at www.ipcc.ch."
+ ],
+ "assessmentText": "Course participation (20%). Essay (80%, 3000 words) in Spring Term Week 1.",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 20
+  },
+  {
+   "type": "Essay",
+   "weight": 80
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 34,
+  "avgClassSizePrevYear": 17,
+  "capped": "Yes(34)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV316.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

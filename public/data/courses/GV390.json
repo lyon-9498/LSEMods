@@ -1,0 +1,73 @@
+{
+ "code": "GV390",
+ "title": "Government Dissertation Option",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Michael Bruter"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Social Anthropology, BSc in History and Politics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations, BSc in Politics and Philosophy and BSc in Social Anthropology. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course may be taken only in the third year. A BSc Politics and History student cannot choose both HY300 and GV390; a BSc Politics and Philosophy student cannot choose both GV390 and PH399; and a BSc Politics and International Relations student cannot choose both GV390 and IR398.",
+ "description": "A dissertation of not more than 10,000 words on a topic to be approved by a proposed dissertation supervisor and the Course Convener. The topic should be chosen from any area within the field covered by the degree course and supported by a member of the academic staff from the Department of Government willing to act as dissertation supervisor. Following the dissertation information session organised by the department in the second year of the students’ curriculum, candidates should approach their academic mentor during the Winter Term or Spring Term of their second year to discuss the possibility of a proposed dissertation topic. After also having received approval for a topic by a prospective supervisor, students must submit a dissertation form detailing the final title and synopsis/prospectus to the Course Convener for approval. Dissertation approval forms must be submitted no later than the deadline. Please note that any change from what was approved in the dissertation form will require the formal approval of the dissertation supervisor. In 2026/7 the deadline for submitting Dissertation Approval Forms will be Tuesday 6 October 2026, AT Week 2. It is recommended that students contact potential supervisors in ST of their 2nd year. Students who fail to submit a proposal approved by an eligible supervisor by the deadline will be unenrolled from the course. Note that there is no automatic right to change topics or supervisor after the form has been approved and submitted so students should complete it carefully.",
+ "teaching": "1.5 hours of lectures and 3 hours of seminars in the Autumn Term. 1.5 hours of lectures and 3 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term. This course provides dissertation-focussed seminars totalling 9 hours over the Autumn and Winter terms. There will be a reading week in Week 6 of each term. There are two separate tracks for students completing an empirical dissertation (convened by Michael Bruter) and students completing a political theory dissertation (convened by Sarah Goff). The teaching involves separate streams for students writing an empirical dissertation and those writing a theory dissertation with students asked to choose which stream they feel will help them most. Four of the six sessions will be taught separately for the two streams whilst two will be common.",
+ "formativeAssessment": null,
+ "indicativeReading": [
+  "King, G., Keohane, R. and Verba, S. Designing Social Inquiry",
+  "Bruter, M., and Lodge, M. (eds) Political Science research methods in action",
+  "Przeworski A., and Teune, H. The Logic of Comparative Social Inquiry"
+ ],
+ "assessmentText": "Dissertation (100%, 10000 words) in Spring Term Week 3.",
+ "assessment": [
+  {
+   "type": "Dissertation",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 34,
+  "avgClassSizePrevYear": 11,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV390.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "GV398",
+   "title": "Inside the Mind of a Voter: Research in Electoral Psychology",
+   "note": "Suspended 2026/27"
+  }
+ ],
+ "unlocks": []
+}

@@ -1,0 +1,67 @@
+{
+ "code": "LL295",
+ "title": "Media Law",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Andrew Scott"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "The course examines freedom of speech and the legal and administrative regulation of the mainstream and social media. It centres on law and regulation in the UK, as influenced by European and international law. The course opens with introductory lectures that introduce themes such as the ‘media ‘landscape’, the sources and forms of media law (ethical, cultural and technological constraints, self-regulation, common law, statute, EC law and international law), and the rights and values that frame this area of law (free speech; privacy; impartiality; the protection of rights to a fair trial). Thereafter, the course moves through three ‘blocks’ of study. These blocks of study focus on: regulating content in defence of private interests (misuse of private information, data protection, confidentiality, copyright and defamation) regulating content in defence of public interests (contempt and the integrity of justice; political diversity and impartiality; disinformation, fabrication and ‘fake news’; offensive content; terrorism and national security), and the control of journalistic newsgathering practices (risks to and protection of sources; technological circumvention of source protection; access to state information (FoI, and official secrets); open justice and access to courts and court documents; the regulation of the journalistic ‘dark arts’ (misrepresentation and subterfuge).",
+ "teaching": "20 hours of seminars in the Autumn Term. 20 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term. Teaching will be conducted primarily through weekly two-hour seminars and a recorded introductory lecture.",
+ "formativeAssessment": "Essay. Essay. Students will be expected to submit two formative essays, one at the end of the Autumn Term and one in the Winter Term.",
+ "indicativeReading": [
+  "Supporting texts for the course include:",
+  "Greenawalt, ‘Free Speech Justifications’ (1989) 89 Columbia Law Review 119,",
+  "Parkes and Busutill (eds), Gatley on Libel and Slander 13th edn, Thomson Reuters, 2022),",
+  "Waldron, The Harm in Hate Speech (Harvard University Press, 2012),",
+  "Millar and Scott, Newsgathering: Law, Regulation and the Public Interest (OUP, 2016),",
+  "Kenyon and Scott (eds), Positive Free Speech: Rationales, Methods and Implications (Hart Publishing, 2020),",
+  "Moreham and Warby (eds), Tugendhat and Christie: The Law of Privacy and the Media (3rd edn, Oxford University Press, 2016), and",
+  "Leveson, An Inquiry Into the Culture, Practices and Ethics of the Press: Report, HC 780, 2012.",
+  "These and other materials relevant to the course are generally made available via the BLPES electronic resources or online."
+ ],
+ "assessmentText": "Exam (100%), duration: 210 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 30,
+  "avgClassSizePrevYear": 30,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL295.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

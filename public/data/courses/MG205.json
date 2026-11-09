@@ -1,0 +1,99 @@
+{
+ "code": "MG205",
+ "title": "Econometrics: Theory and Applications",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Management",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Jordi Blanes I Vidal"
+ ],
+ "prerequisites": "Before taking this course, students must have completed: (MA107 or MA108) and ST107.",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Management. This course is available on the Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course has a limited number of places (it is capped). Students who have this course as a compulsory course are guaranteed a place. Places for all other students are allocated on a first come first served basis.",
+ "description": "Simple and Multiple Regression; Hypothesis Testing; Mechanics and Limitations of OLS; Causality; Natural, Field and Laboratory Experiments. Panel Data and Fixed Effect Models. Instrumental Variables Regression. The main aim of this course is to provide a thorough understanding of the quantitative techniques which guide evidence-based managerial decision-making. It seeks to develop a framework in which students can examine whether the predictions of managerial, social or economic theory are supported by empirical evidence. Particular emphasis is made on (a) illustrating the many ways in which evidence is abused in the academic or managerial debate, and (b) trying to establish causality in the relationship between variables. The approach is both formal, as the course makes extensive use of econometric theorems and techniques, and solidly grounded in intuition, as it provides numerous examples of tests of real-life relations. Many of these examples will be illustrated using the STATA software package, and the students will be expected to learn the basics of data manipulation and regression running. A solid base of introductory statistics and probability (equivalent to that provided by ST107) and introductory algebra and calculus (equivalent to that provided by MA107 or MA108) will be expected.",
+ "teaching": "20 hours of lectures and 10 hours of classes in the Autumn Term. 20 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term. In its Ethics Code, LSE upholds a commitment to intellectual freedom. This means we will protect the freedom of expression of our students and staff and the right to engage in healthy debate in the classroom.",
+ "formativeAssessment": "Students will be expected to produce 1 problem sets in the AT and 1 problem sets in the WT. There will be two formative assessments, one in the last week of each term. During lecture time, the students will be given a shorter exam and an hour to complete it. The lecturer will then discuss the answers in the second hour of the lecture. The exams will be marked and given back to the students.",
+ "indicativeReading": [
+  "The textbook for the course is:",
+  "James H. Stock and Mark W. Watson, Introduction to Econometrics, Second Edition, Pearson, 2007.",
+  "Two other very useful (complementary) books are:",
+  "Christopher Dougherty, Introduction to Econometrics, Third Edition, Oxford University Press, 2007;",
+  "Jeffrey M. Wooldridge, Introductory Econometrics - A Modern Approach, Third Edition, South-Western, 2006."
+ ],
+ "assessmentText": "Exam (100%), duration: 180 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Application of information skills",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 177,
+  "avgClassSizePrevYear": 15,
+  "capped": "Yes(204)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MG/2026_MG205.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "or",
+    "children": [
+     {
+      "type": "course",
+      "code": "MA107"
+     },
+     {
+      "type": "course",
+      "code": "MA108"
+     }
+    ]
+   },
+   {
+    "type": "course",
+    "code": "ST107"
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "EC2C3",
+   "title": "Econometrics I",
+   "note": null
+  },
+  {
+   "code": "EC2C4",
+   "title": "Econometrics II",
+   "note": null
+  }
+ ],
+ "unlocks": [
+  "ST327"
+ ]
+}

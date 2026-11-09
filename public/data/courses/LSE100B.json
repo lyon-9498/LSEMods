@@ -1,0 +1,77 @@
+{
+ "code": "LSE100B",
+ "title": "The LSE Course: How can we control AI?",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "London School of Economics",
+ "units": 0.5,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Jillian Terry",
+  "Dr Christopher Blunt"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "All first year undergraduate students take one of LSE100A, LSE100B or LSE100C. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "LSE100 is LSE’s flagship interdisciplinary course taken by all first-year undergraduate students as part of your degree programme. The course is designed to build your capacity to tackle multidimensional problems through research-rich education, and provides you with unique opportunities to examine global challenges in collaboration with peers from other departments and leading academics from across the School. Before registering at LSE, you will have the opportunity to select one of three themes to focus on during LSE100, each of which foregrounds a complex and pressing question facing social scientists. In 2026/27, the available themes are: How can we transform our climate futures? How can we control AI? How can we create a fair society? In the ‘How can we control AI?’ theme, you will explore the emergence of artificial intelligence and its implications. Developments in artificial intelligence (AI) are reshaping the world we live in, offering new solutions to complex problems while exposing social and ethical dilemmas for humans to grapple with. Who controls whether AI transforms society for the better, or reinforces existing biases, inequalities, and structures of power? How can we harness the potential of AI for good? How much control over our lives, decisions and data should we cede to AI? Throughout LSE100, you will investigate how social systems are being transformed by technological change. You will learn to use the tools and frameworks of systems thinking to analyse the impacts of AI, broaden your intellectual experience, and deepen your understanding of your own discipline as you test theories, evidence and ideas from different disciplinary perspectives.",
+ "teaching": "7.5 hours of seminars in the Autumn Term. 7.5 hours of seminars in the Winter Term. 90-minute seminars take place in alternate weeks. Students will attend an LSE100 seminar in either weeks 1, 3, 5, 7 and 9 or weeks 2, 4, 6, 8 and 10 of Autumn Term, and weeks 1, 3, 5, 7 and 9 or weeks 2, 4, 6, 8 and 10 of Winter Term. In addition to seminars students will engage with bespoke video lectures featuring academics from across the School (approx. 20 minutes per seminar).",
+ "formativeAssessment": "In seminars throughout both terms, students will practice: analysing quantitative and qualitative data using systems thinking and systems change tools constructing and communicating evidence-based academic arguments Teachers will provide feedback during seminars and in post-seminar communications to groups and individuals. During the Winter Term, groups will have the opportunity to submit and receive formative feedback on a project brief, summarising their research project. Students will also try out the tools of systems thinking and systems change that they will use in their summative group research project.",
+ "indicativeReading": [
+  "The following readings are indicative of the texts students will be assigned. The total amount of reading assigned for each seminar will be a maximum of 20 pages.",
+  "Kate Crawford & Ryan Calo (2016) ‘There is a blind spot in AI research’ in Nature, 538: 311-3",
+  "Sarah Myers West, Meredith Whittaker & Kate Crawford (2019) Discriminating Systems: gender, race and power in AI (AI Now Institute)",
+  "Emily Bender, et al. (2021). 'On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?', in FAccT '21: Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, pp.610-623.",
+  "Oran R. Young (2017). ‘The age of complexity’ in Governing Complex Systems: Social Capital for the Anthropocene (MIT Press)",
+  "Ruha Benjamin (2019). ‘Default Discrimination: Is the Glitch Systemic?’ in Race after Technology: Abolitionist Tools for the New Jim Code (Polity).",
+  "Frank Levy (2018). ‘Computers and populism: artificial intelligence, politics and jobs in the near term’ in Oxford Review of Economic Policy, Volume 34, Issue 3, Pages 393–417: https://doi-org.gate3.library.lse.ac.uk/10.1093/oxrep/gry004",
+  "Mark Coeckelbergh (2020). ‘AI for climate: freedom, justice, and other ethical and political challenges’ in AI Ethics https://doi.org/10.1007/s43681-020-00007-2",
+  "Robert Sparrow & Mark Howard (2017) ‘When human beings are like drunk robots: driverless vehicles, ethics and the future of transport’ in Transportation Research, Part C: 80: 206-15"
+ ],
+ "assessmentText": "Critical evaluation (50%, 1000 words). Project (50%, 3000 words).",
+ "assessment": [
+  {
+   "type": "Critical evaluation",
+   "weight": 50
+  },
+  {
+   "type": "Project",
+   "weight": 50
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 1082,
+  "avgClassSizePrevYear": 25,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LS/2026_LSE100B.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

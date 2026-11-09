@@ -1,0 +1,70 @@
+{
+ "code": "IR326",
+ "title": "The Rule of Law: A Global History",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International Relations",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Jens Meierhenrich"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in International Relations, BSc in International Relations and Chinese, BSc in International Relations and History, BSc in Politics and International Relations, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is not available as an outside option to students on other programmes. This course is available with permission to General Course students. This course has a limited number of places (it is capped).",
+ "description": "This taught seminar course introduces students to the theory and history of the rule of law, one of the most frequently invoked - and least understood - ideas of political theory and practice. What exactly is the rule of law? Is it still a harbinger of liberty or just the latest manifestation of neocolonial domination? Is it a moral ideal or merely a means to an end? Can it really facilitate democracy, development, and economic growth? And why is the rule of law compatible with authoritarianism? In answer to these and related questions debated in law and the social sciences as well as in international organizations, governments, think tanks, and NGOs the world over, this interdisciplinary course introduces students to important advocates of the rule of law (from A. V. Dicey to the World Bank) and also to notable critics (including Thomas Hobbes, Carl Schmitt, Judith Shklar, and Eric Posner). Through close readings of seminal texts and a global analysis of historical cases and trajectories, students will gain an innovative and in-depth understanding of the promise - and limits - of one of the most foundational concepts of the modern world.",
+ "teaching": "This course has a reading week in Week 6 of Autumn Term. This course is delivered through classes totalling a minimum of 20 hours across Autumn Term. Students on this course will have a reading week in Week 6, in line with departmental policy.",
+ "formativeAssessment": "Students are required to research and write one formative essay (1,000 words) on an assigned topic and due in Week 7 of Lent Term. This essay will be used to sketch out ideas for the summative essay. Essays must be fully - and carefully - referenced using one of the major conventions consistently. The formative essay provides students with an opportunity to write an essay and receive feedback to support their preparation for the summative essay.",
+ "indicativeReading": [
+  "Jens Meierhenrich and Martin Loughlin, eds., The Cambridge Companion to the Rule of Law (Cambridge: Cambridge University Press, 2021)",
+  "Lauren Benton and Lisa Ford, Rage for Order: The British Empire and the Origins of International Law, 1800–1850 (Cambridge: Harvard University Press, 2016)",
+  "Tom Ginsburg and Tamir Moustafa, eds., Rule by Law: The Politics of Courts in Authoritarian Regimes (Cambridge: Cambridge University Press, 2008)",
+  "Ardi Imseis, The United Nations and the Question of Palestine: Rule by Law and the Structure of International Legal Subalternity (Cambridge: Cambridge University Press, 2023)",
+  "R. W. Kostal, Laying Down the Law: The American Legal Revolutions in Occupied Germany and Japan (Cambridge: Harvard University Press, 2019)",
+  "Martin Krygier, Tempering Power: Beyond the Rule of Law (Cambridge: Cambridge University Press, 2026)",
+  "Mark Fathi Massoud, Shari‘a, Inshallah: Finding God in Somali Legal Politics (Cambridge University Press, 2021)",
+  "Jens Meierhenrich, The Remnants of the Rechtsstaat: An Ethnography of Nazi Law (Oxford: Oxford University Press, 2018)",
+  "Eric Posner, The Perils of Global Legalism (Oxford: Oxford University Press, 2009)",
+  "Jeremy Waldron, Thoughtfulness and the Rule of Law (Cambridge: Harvard University Press, 2023)"
+ ],
+ "assessmentText": "Essay (100%, 3000 words). Essays must be fully - and carefully - referenced using one of the major conventions consistently.",
+ "assessment": [
+  {
+   "type": "Essay",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/IR/2026_IR326.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

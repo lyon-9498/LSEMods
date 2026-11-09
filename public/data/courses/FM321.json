@@ -1,0 +1,128 @@
+{
+ "code": "FM321",
+ "title": "Risk Management and Modelling",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Finance",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Jon Danielsson"
+ ],
+ "prerequisites": "Before taking this course, students must have completed: ((FM215 and FM214) or (FM211 and FM210)) and (EC2C1 or EC2C3 or ST102 or ST201).",
+ "corequisites": null,
+ "additionalRequisites": "Students who have not taken Principles of Finance (FM210 and FM211 OR FM214 and FM215), but have an excellent quantitative background, may be allowed to take this course at the discretion of the course leader. Mathematical Methods (MA100) is desirable but not required.",
+ "availability": "This course is compulsory on the BSc in Financial Mathematics and Statistics. This course is available on the BSc in Data Science, BSc in Econometrics and Mathematical Economics, BSc in Economics, BSc in Economics and Data Science, BSc in Finance, BSc in Mathematics and Economics, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course is not capped, any eligible student that requests a place will be given one. Permission forms from the General Course admin office should be submitted to the Department of Finance by email at finance.ug@lse.ac.uk with a copy of the transcript attached.",
+ "description": "This course is intended for third-year undergraduates and builds upon Principles of Finance (FM210 and FM211 OR FM214 and FM215). The main topics covered are financial risk analysis and financial risk. The course provides students with a thorough understanding of market risk from both a practical and technical point of view. A representative list of topics covered includes: • Empirical properties of market prices (fat tails, volatility clusters, non-linear dependence) • Concepts of financial risk (volatility, Value-at-Risk, Expected Shortfall) • Forecasting of conditional volatility with univariate and multivariate volatility models (ARCH, GARCH) • Implementation of risk forecasts with parametric and non-parametric methods • Evaluation of risk forecasts with backtesting • Endogenous risk • Market risk financial regulations • Recent stress events, such as the global crisis in 2008, Covid-19 in 2020, Russia’s invasion of Ukraine recent inflation and the Trump tariffs are used to illustrate the various methodologies presented in the course. Students apply the models to real financial data using Python, a programming environment widely used in industry and academia. No prior knowledge of programming is assumed: students will learn-by-doing in class. Further information on Python as used in the course can be found in the Python Notebook at https://www.financialriskforecasting.com/notebook.",
+ "teaching": "20 hours of lectures and 15 hours of classes in the Autumn Term.",
+ "formativeAssessment": "Students will be expected to produce written work for classes and to make positive contributions to class discussion. The homework assignments are designed to guide the students to all stages of the analytical process, from locating, downloading and processing financial data to the implementation of the tools and interpretation of results. Students will have the opportunity to explore the databases available at the LSE and to become comfortable working with real data.",
+ "indicativeReading": [
+  "J Danielsson, Financial Risk Forecasting: The Theory and Practice of Forecasting Market Risk will be the required textbook for the course. The lecture slides and supporting programming material can be found on www.financialriskforecasting.com.",
+  "Other background reading is Ruey Tsay (2010), Analysis of Financial Time Series; Peter Christoffersen (2003) Elements of Financial Risk Management; Alexander J. McNeil, Rüdiger Frey, et al., (2015) Quantitative Risk Management: Concepts, Techniques and Tools.",
+  "Additional readings may be assigned as needed."
+ ],
+ "assessmentText": "Exam (50%), duration: 90 minutes in the January exam period. Continuous assessment (50%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 50
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 50
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Application of information skills",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 164,
+  "avgClassSizePrevYear": 27,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/FM/2026_FM321.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "or",
+    "children": [
+     {
+      "type": "and",
+      "children": [
+       {
+        "type": "course",
+        "code": "FM215"
+       },
+       {
+        "type": "course",
+        "code": "FM214"
+       }
+      ]
+     },
+     {
+      "type": "and",
+      "children": [
+       {
+        "type": "course",
+        "code": "FM211"
+       },
+       {
+        "type": "course",
+        "code": "FM210"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "type": "or",
+    "children": [
+     {
+      "type": "course",
+      "code": "EC2C1"
+     },
+     {
+      "type": "course",
+      "code": "EC2C3"
+     },
+     {
+      "type": "course",
+      "code": "ST102"
+     },
+     {
+      "type": "course",
+      "code": "ST201"
+     }
+    ]
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "ST330",
+   "title": "Stochastic and Actuarial Methods in Finance",
+   "note": null
+  }
+ ],
+ "unlocks": []
+}

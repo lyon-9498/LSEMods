@@ -1,0 +1,73 @@
+{
+ "code": "LL279",
+ "title": "Public International Law",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Gerry Simpson"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, BSc in Environment and Sustainable Development with Economics, BSc in International Relations, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "Public international law is traditionally understood as the law governing the coexistence and cooperation between states. This course provides an introduction to the concepts, principles, institutions, history and argumentative structure of this distinctive, and distinctively political, legal order. The aim of the course is to lay the basis for an informed assessment of the contribution, limits and possibilities of international law as a language of, and force in, world affairs. We begin by asking what kind of legal order we are dealing with (in the particular context of recent challenges to the whole concept of international legality itself). We then turn to the question of how international legal norms emerge (through custom and treaty) among entities known as sovereign states, in something called an ‘international society’ (composed also of international organizations, non-governmental organizations, corporations and individuals) and we ask how those states seek to resolve disputes in that (anarchic) order and are held responsible for wrongs they commit. Later in the term, we consider the origins of the system in European colonial arrangements across the modern period and we consider the emancipatory potential of the principle of self-determination as a response to these arrangements. The term end with seminars on the problem of war in international law. International law increasingly forms part of the law practised in the UK, and an understanding of international law will be important for those interested in foreign affairs, investment arbitration, regulation of AI and other digital technologies, global supply chains, global commodities, climate change, environmental law, refugee and human rights law. This course is a prerequisite for LL280 Advanced Issues in Public International Law which will run in Winter Term.",
+ "teaching": "20 hours of lectures and 9 hours of classes in the Autumn Term. 2 hours of lectures and 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "One formative essay.",
+ "indicativeReading": [
+  "Reading lists will be provided for each topic on Moodle. You are asked to buy M. Evans (ed.),",
+  "International Law",
+  "(Oxford: OUP, 6th ed, 2024) and",
+  "Blackstone’s International Law Documents",
+  ".",
+  "Some other works to which you may wish to refer include the most recent editions of: D. Harris,",
+  "International Law: Cases and Materials",
+  "; H. Charlesworth and C. Chinkin,",
+  "The Boundaries of International Law",
+  "; M. Shaw, International Law; M. Koskenniemi,",
+  "From Apology to Utopia",
+  "; V. Lowe,",
+  "International Law",
+  "; and J. Crawford, Brownlie’s",
+  "Principles of Public International Law",
+  "."
+ ],
+ "assessmentText": "Exam (100%), duration: 150 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 85,
+  "avgClassSizePrevYear": 14,
+  "capped": "Yes(90)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL279.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

@@ -1,0 +1,88 @@
+{
+ "code": "PB310",
+ "title": "Independent Research Project",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Psychological and Behavioural Science",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Miriam Tresh"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Psychological and Behavioural Science. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. The BSc in Psychological and Behavioural Science is accredited by the British Psychological Society. Students will be eligible for Graduate Basis for Chartered Membership if they gain a lower second classification (2:2) overall and pass this course.",
+ "description": "The Independent Research Project is an empirical investigation, carried out by students under supervision. Research topics and methodologies vary considerably, but must relate to Psychological and Behavioural Science as broadly understood. All research topics will need to be approved in advance by a supervisor who is a faculty member of the Department of Psychological and Behavioural Science. The final lectures in PB230, Intermediate Statistics and Research Methods for Psychological and Behavioural Science, will serve as an introduction to the Independent Research Project. After this, students will be presented with the research interests and skills of supervising faculty. Students will then decide on potential topics during the summer vacation, ready to start work in early Michaelmas Term of Year 3. Faculty can supervise both qualitative and quantitative projects. Supervisors will meet regularly with students individually and as groups to; guide the formulation of the research question and investigative methods, complete pre-registration, plan a timeline, develop reading lists, obtain ethical approval, and provide feedback on the research as it unfolds. Students should see the project as much as an exercise in project management as it is an investigation. Throughout the process, attention should be given to replicability and transparency.",
+ "teaching": "Supervisors will offer regular sessions and each student will be expected to meet with their supervisor at least twice in Autumn term and twice in Winter term. Supervision sessions will be available both individually and within groups. After the introduction at the end of PB230, there will be several lectures and workshops in Year 3 which are designed as check-in points. There will also be regular support sessions available with staff from the Behavioural Lab for Research and Teaching to assist with the planning and completion of experimental work.",
+ "formativeAssessment": "To ensure continued progress throughout the year students will be expected to: Draft a timeline in discussion with their supervisor in AT. Write a short summary of progress on their research in WT.",
+ "indicativeReading": [
+  "American Psychological Association. (2020).",
+  "Publication manual of the American psychological association",
+  "(7th Edition).",
+  "Bernard, H. R. (2000)",
+  "Social Research Methods: Qualitative and quantitative approaches.",
+  "London: Sage.",
+  "Dittmann, M. (2005) Starting the dissertation",
+  "GradPsych",
+  "2005(1)",
+  "Flick, U. (2015)",
+  "Introducing Research Methodology: A Beginner’s Guide to doing a research project",
+  "(2nd ed.). London: Sage.",
+  "Harrison, E., & Rentzelas, P. (2020).",
+  "Your Psychology Dissertation",
+  ". London: Sage.",
+  "Holman, A.J. & Jones, T. (2018) Identifying a Topic for a Psychology Dissertation: A Process Map for Students",
+  "Psychology Teaching Review",
+  "24(1)",
+  "Levin, P. (2005)",
+  "Excellent Dissertations",
+  "Maidenhead: Open University Press"
+ ],
+ "assessmentText": "Research project (20%, 3000 words). Research project (80%).",
+ "assessment": [
+  {
+   "type": "Research project",
+   "weight": 20
+  },
+  {
+   "type": "Research project",
+   "weight": 80
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 49,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PB/2026_PB310.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

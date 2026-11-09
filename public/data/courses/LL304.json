@@ -1,0 +1,83 @@
+{
+ "code": "LL304",
+ "title": "Global Commodities: The Rise of International Law",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Stephen Humphreys"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. The course is historical and theoretical in nature. It deals in the main with events from the colonial period (c.1510-1960) as they relate to the history of international and transnational law. It does not aim to prepare students to work in commodity trading nor to equip them with expertise in the contemporary law of commodity markets. (For topics in these areas, see LL202, LL203, LL253, or LL300). While this class is complementary to LL279, it is not necessary to have studied LL279 to take this class. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "This course provides a critical introduction to the history of international law, with a focus on the colonial histories of Asia, Africa and the Americas. We take our cue from specific moments across this period during which key commodities—silver, spices, sugar, coffee, rubber, oil—entered into a then-nascent global commodity, focusing on the engendering, through the same process, of what has become the international legal system. The histories of the acquisition, production, and markets for the mass-consumption of these commodities tell the origin-story of today’s global economy in microcosm. Their evolving regulation and exchange has provided the base for central elements of the contemporary international and transnational legal architecture. In exploring this history, we will touch on cross-cutting issues relating to some or all of the following areas of international law: the law of the sea, human rights, trade law, environmental law, the laws of war, labour law, climate change and animal welfare law. We will also be looking at theories of consumption and production more generally, adopting a broad definition of ‘commodity’, drawn from Marxian and post-Marxist thought, to enrich our understanding and discussion of these topics. Our examination of emerging commodity markets will remain cognizant of the state-formation processes, international law developments, economic and legal theories, and trans-global networking entailed in their consolidation. Following completion of the course, students can expect to have a broad understanding of the historical evolution of global law, with specific knowledge of how certain commodities have contributed to and shaped the most important international law challenges of our time. Through individual presentations and research projects students are expected to develop critical perspectives on aspects of the topics covered throughout the year as well as hone presentation skills. On completion students should be able to demonstrate: A broad understanding of the historical rise in trade of global commodities and of its contribution to the development of international law, especially during colonial times. An awareness of intersecting legal issues relating to, for example: human rights, trade disputes, law of the sea, laws of war, environmental law, labour, animal welfare and illegal trade. An understanding of the impact that historical patterns of production and consumption of commodities around the world have had on contemporary international law structures. An appreciation of the critical theories that inform scholarly analysis of the global economy.",
+ "teaching": "20 hours of seminars in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "Presentation. Students will undertake a presentation in the final two weeks of terms. The topic will be chosen in the second week of term and a draft presentation submitted for feedback at the end of reading week.",
+ "indicativeReading": [
+  "Fernand Braudel,",
+  "The Perspective of the World",
+  "(Civilization and Capitalism), 3 vols. trans. Sian Reynolds (Collins, 1984); Sarah Rose,",
+  "For All the Tea in China",
+  "(Arrow Books, 2010); Jean Baudrillard,",
+  "The Consumer Society",
+  "(Sage, 1998 [1970]); Duncan Kennedy (1985) 'The Role of Law in Economic Thought: Essays on the Fetishism of Commodities' 34",
+  "The American University Law Review",
+  "939-1001; Hugo Grotius,",
+  "The Freedom of the Seas, or the Right Which Belongs to the Dutch to take part in the East Indian Trade",
+  "[Mare Liberum], trans. Ralph Van Deman Magoffin (Oxford UP, 1916); David Graeber, Debt: the First 5000 Years (Melville House, 2011); Martti Koskenniemi (2011) ‘Empire and International Law: The Real Spanish Contribution’ 61",
+  "University of Toronto Law Journal",
+  "1-36; Lauren Benton and Benjamin Straumann (2010) ‘Acquiring Empire by Law: From Roman Doctrine to Early Modem European Practice’ 28",
+  "Law and History Review",
+  "1-37; Michel Foucault,",
+  "Territory, Security, Population",
+  "(Palgrave, 2009); Anne Orford (2005) ‘Beyond Harmonization: Trade, Human Rights and the Economy of Sacrifice’ 18",
+  "Leiden Journal of International Law",
+  "179-213; Peter Linebaugh and Marcus Rediker,",
+  "The Many-Headed Hydra: The Hidden History of the Revolutionary Atlanti",
+  "c (Verso 2002); Steven Topik, Carlos Marichal and Zephyr Frank (eds),",
+  "From Silver to Cocaine: Latin American Commodity Chains and the Building of the World Economy",
+  ", 1500-2000 (Duke University Press, 2006)."
+ ],
+ "assessmentText": "Exam (100%), duration: 150 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Application of information skills",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 17,
+  "avgClassSizePrevYear": 17,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL304.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

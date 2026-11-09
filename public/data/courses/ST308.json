@@ -1,0 +1,102 @@
+{
+ "code": "ST308",
+ "title": "Bayesian Inference",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Statistics",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Ieva Kazlauskaite"
+ ],
+ "prerequisites": "Before taking this course, students must have completed: (MA100 and ST102) or (EC1C1 and MA107 and ST109).",
+ "corequisites": null,
+ "additionalRequisites": "Equivalent combinations may be accepted at the lecturer's discretion. ST202 is also recommended. Previous programming experience is not required but students who have no previous experience in R must complete an online pre-sessional R course from the Digital Skills Lab before the start of the course (https://moodle.lse.ac.uk/course/view.php?id=7745).",
+ "availability": "This course is available on the BSc in Actuarial Science, BSc in Actuarial Science (with a Placement Year), BSc in Data Science, BSc in Economics and Data Science, BSc in Mathematics with Data Science, BSc in Mathematics with Economics, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "Statistical decision theory: risk, decision rules, loss and utility functions, Bayesian expected loss, Frequentist risk. Bayesian Inference: Bayes theorem, prior, posterior and predictive distributions, conjugate models (Normal-Normal, Poisson-Gamma, Beta-Binomial), Bayesian point estimation, credible intervals and hypothesis testing, Bayes factors and model selection. Comparison with Frequentist approaches. Implementation: Asymptotic approximations (Laplace approximation, Monte Carlo methods), Markov Chain Monte Carlo (MCMC) simulation (Gibbs sampler, Metropolis-Hastings algorithm). Computer tools (R). Applications: Linear models in Regression and Classification (Bayesian Linear Regression, Generalized Linear Models, Logistic Regression), Hierarchical/ Multilevel Models, Bayesian Nonparametrics.",
+ "teaching": "10 hours of classes and 18 hours of lectures in the Winter Term.",
+ "formativeAssessment": "Optional problem sets and computer exercises.",
+ "indicativeReading": [
+  "J.K. Kruschke, Doing Bayesian Data Analysis. An tutorial with R, JAGS and Stan. 2nd edition.",
+  "J.O. Berger, Statistical Decision Theory and Bayesian Analysis.",
+  "D. Gamerman, H. F. Lopes, Markov Chain Monte Carlo: Stochastic Simulation for Bayesian Inference",
+  "A. Gelman, Bayesian data analysis."
+ ],
+ "assessmentText": "Exam (80%), duration: 120 minutes in the Spring exam period. Project (20%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 80
+  },
+  {
+   "type": "Project",
+   "weight": 20
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 108,
+  "avgClassSizePrevYear": 22,
+  "capped": "Yes(125)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/ST/2026_ST308.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "and",
+    "children": [
+     {
+      "type": "course",
+      "code": "MA100"
+     },
+     {
+      "type": "course",
+      "code": "ST102"
+     }
+    ]
+   },
+   {
+    "type": "and",
+    "children": [
+     {
+      "type": "course",
+      "code": "EC1C1"
+     },
+     {
+      "type": "course",
+      "code": "MA107"
+     },
+     {
+      "type": "course",
+      "code": "ST109"
+     }
+    ]
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

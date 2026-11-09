@@ -1,0 +1,60 @@
+{
+ "code": "LL250",
+ "title": "Law and The Environment",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Giulia Leonelli"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, BSc in Environment and Sustainable Development, BSc in Environment and Sustainable Development with Economics, BSc in International Relations, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "I. General features of environmental law in the UK: The introductory sessions examine how we understand ‘the value of the environment’ as an object of legal protection, and how environmental law evolved through time. We review international and EU law as important sources of environmental law in the UK, and consider legal change after Brexit. We study how environmental law is developed, adopted and enforced in the UK and beyond. II. Controlling space This section reviews legal strategies for environmental protection through the management of the built environment, parks and nature. It covers planning law, environmental impact assessment, and nature conservation law. III. Controlling climate change Seminars on climate change examine international law and the politics of climate change, different regulatory strategies to respond to the climate change challenge, and climate change litigation in the UK. IV. Controlling enterprise Section IV looks at how environmental harm can be prevented or limited by regulating heavily polluting industries. We study mandatory permitting approaches, and also pay attention to the role of ESG and CSR in shaping the environmental performance of private actors. We examine the relationship between international trade law and environmental protection, both generally and in the context of climate change. Section IV also addresses the legacy of industrial exploitation. We examine the statutory framework for the clean up of contaminated land, and explore the contribution of the common law to holding polluters accountable, both for local environmental harm and for damage caused in the Global South V. The future of environmental law The final section focuses on new and upcoming developments in environmental law, both at the UK level and beyond. It includes an examination of the role of human rights in the pursuit of environmental protection, and discusses the potential for animal and nature rights.",
+ "teaching": "20 hours of seminars in the Autumn Term. 20 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Students are expected to write a formative essay and participate in a mock exam.",
+ "indicativeReading": [
+  "There is no set book that covers the entire course, however, several sessions use Bell, McGillivray, Pedersen et. al, Environmental Law (10th edition, Oxford University Press, 2024). A detailed reading list is provided for each seminar. All materials are digitally accessible, either via the course reading list which links to the LSE Library or Materials that are not sourced from Bell, McGillivray & Pedersen are made available on Moodle.",
+  "A good alternative source is Fisher, Lange & Scotford, Environmental Law. Text, Cases and Materials (2nd edition, OUP, 2019). Older but still useful introductory books include: Lazarus, The Making of Environmental Law, 2004; Holder & Lee, Environmental Protection, Law & Policy, 2007; R Carson, Silent Spring, 1962; R Eckersley, Environmentalism and Political Theory,1992."
+ ],
+ "assessmentText": "Exam (100%), duration: 210 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 23,
+  "avgClassSizePrevYear": 23,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL250.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

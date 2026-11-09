@@ -1,0 +1,57 @@
+{
+ "code": "LN250",
+ "title": "English Literature and Society",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Centre for Language Studies",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Olga Sobolev"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Social Anthropology, BSc in Economic History, BSc in Economic History and Geography, BSc in Economics and Economic History, BSc in International Relations, BSc in International Relations and History, BSc in Language, Culture and Society, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. Available as an outside option to students on all undergraduate programmes where regulations permit, and to General Course students. Students can take this course in any year of their studies. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "(a) Study of 20th century British literature (prose, poetry and drama) in its socio-political context; Study of individual authors (in weekly lectures) - these form the basis of the examination assessment (b) Study of major cultural themes running through the century e.g. Imperialism; Feminism; Modernism; Political writing - these form the basis of the student's research project presentation. (c) Several trips to theatre productions during the year; (d) Extensive use of archive recordings of authors, and video; (e) Students encouraged to draw upon background in their main discipline, and to read widely.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. 10 hours of lectures and 10 hours of classes in the Winter Term. 1 hour of lectures and 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term. Structured activities during the reading week in the AT and WT. Revision workshops and tutorials in the ST.",
+ "formativeAssessment": "Two essays per year; topically based research presentations.",
+ "indicativeReading": [
+  "(Primary texts) Conrad Heart of Darkness; T S Eliot The Waste Land; Virginia Woolf Mrs Dalloway; James Joyce Portrait of the Artist E.M. Forster Passage to India George Orwell Nineteen Eighty-Four; Philip Larkin Collected Poems; Seamus Heaney Collected Poems; Doris Lessing The Golden Notebook; Salman Rushdie Midnight's Children (Secondary text) The Cambridge History of Twentieth-Century English Literature (The New Cambridge History of English Literature) by Laura Marcus and Peter Nicholls Cambridge: CUP, 2012"
+ ],
+ "assessmentText": "Exam (70%), duration: 180 minutes in the Spring exam period. Presentation (20%). Course participation (10%). Presentation of the assigned research topic",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 70
+  },
+  {
+   "type": "Presentation",
+   "weight": 20
+  },
+  {
+   "type": "Course participation",
+   "weight": 10
+  }
+ ],
+ "skills": [],
+ "stats": {
+  "totalStudentsPrevYear": 12,
+  "avgClassSizePrevYear": 4,
+  "capped": "Yes(32)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LN/2026_LN250.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

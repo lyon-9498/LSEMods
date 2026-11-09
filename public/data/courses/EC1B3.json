@@ -1,0 +1,84 @@
+{
+ "code": "EC1B3",
+ "title": "Macroeconomics I",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economics",
+ "units": 0.5,
+ "studyPeriod": "Winter and Spring Term",
+ "terms": [
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Junius Olivier"
+ ],
+ "prerequisites": "Students must have completed EC1A3 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": "A-level mathematics, or equivalent.",
+ "availability": "This course is compulsory on the BSc in Accounting and Finance, BSc in Actuarial Science, BSc in Actuarial Science (with a Placement Year), BSc in Economics and Data Science, BSc in Economics and Economic History, BSc in Environment and Sustainable Development with Economics, BSc in Finance, BSc in Financial Mathematics and Statistics, BSc in Geography with Economics, BSc in International Social and Public Policy with Economics, BSc in Management, BSc in Mathematics and Economics, BSc in Mathematics with Economics, BSc in Philosophy and Economics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad) and BSc in Politics and Economics. This course is available on the BA in Geography, BSc in Data Science, BSc in Economic History and Geography, BSc in Environment and Sustainable Development, BSc in Mathematics, Statistics and Business, BSc in Politics, BSc in Politics and International Relations, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students.",
+ "description": "This course is an introduction to macroeconomic analysis. We will study how countries’ economic performance is determined in the long run. We will learn why we observe economic growth and development in some countries but not in others. We will discuss how the labour market works and how unemployment is determined. We will analyse how the largest components of GDP, consumption and investment, are formed. We will also cover the role of policy and how it affects the economy. We will look at fiscal challenges in the long run. Emphasis will be given to concepts and tools used by macroeconomists in the analysis of macroeconomic phenomena. This course, in combination with either EC1A3 or EC1A5, exempts those who complete them from BA1 Fundamentals of Business Economics of the Chartered Institute of Management Accountants (CIMA). This course, combined with EC1A3, contributes to the CB2 Exemption of the Institute and Faculty of Actuaries (IFoA).",
+ "teaching": "20 hours of lectures and 9 hours of classes in the Winter Term. 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Winter Term. There will be a reading week in Week 6 of WT only (no lectures or classes that week). This course is delivered through a combination of classes and lectures totalling a minimum of 30 hours across Winter Term and Spring Term.",
+ "formativeAssessment": "There will be weekly assignments and feedback will be given on two.",
+ "indicativeReading": [
+  "There is no set textbook for the course. The required reading material will sample from the textbooks listed below and it will possibly include e.g. reports from international organisations, academic research articles, video presentations, and academic blog posts. Lecture material may occasionally be complemented by supplementary readings, either required or optional, discussing the topics in more detail.",
+  "• Mankiw, G. (2019), Macroeconomics, 10th edition or later, Macmillan, London. Available online on the LSE Library website",
+  "• Jones, C. (2020), Macroeconomics (Fifth Edition), 5th Edition or later, W. W. Norton. Available online on the LSE Library website",
+  "• Williamson, S. (2019), Macroeconomics, 6th Edition, Pearson Education. Available online on the LSE Library website"
+ ],
+ "assessmentText": "Exam (90%), duration: 120 minutes, reading time: 15 minutes in the Spring exam period. Continuous assessment (10%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 90
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 762,
+  "avgClassSizePrevYear": 20,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EC/2026_EC1B3.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "course",
+  "code": "EC1A3"
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "EC1B5",
+   "title": "Macroeconomics I",
+   "note": null
+  }
+ ],
+ "unlocks": [
+  "EC2A3",
+  "EC2B3",
+  "EC334",
+  "EC339",
+  "MG206",
+  "MG301"
+ ]
+}

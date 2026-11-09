@@ -1,0 +1,94 @@
+{
+ "code": "SO312",
+ "title": "Work, Inequality and Society",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Sociology",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Pat McGovern"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Language, Culture and Society, BSc in Sociology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is not available as an outside option to students on other programmes. This course is available with permission to General Course students. This course is not available as a first year option. This course has a limited number of places (it is capped). Places are allocated on a first come first served basis.",
+ "description": "Sociological perspectives on cross-national differences in employment and social inequality. Theoretical perspectives on inequality; gender in the labour market; occupational segregation; the ‘glass ceiling’; immigrant employment; race, ethnicity and discrimination; social class at work; class reproduction in elite firms; the rise of wage inequality; and income inequality in the mass media. LSE is currently evaluating the use of edit tracking tools for AI-resilient assessment. This course might use edit tracking tools for assessments.",
+ "teaching": "This course has a reading week in Week 6 of Autumn Term. This course is usually delivered through a combination of lectures and seminars. There will be two hours or more of teaching each week in AT.",
+ "formativeAssessment": "Essay (1500 words) in Autumn Term Week 8.",
+ "indicativeReading": [
+  "W. Bottero , W. (2018)",
+  "A Sense of Inequality",
+  ";",
+  "Friedman, S. and Laurison, D. (2020)",
+  "The Class Ceiling",
+  ";",
+  "Tilly, C. & C. Tilly (1998)",
+  "Work Under Capitalism",
+  ";",
+  "Grusky, D. (2014) (4th ed)",
+  "Social Stratification",
+  ";",
+  "McGovern, P. et al. (2007)",
+  "Market, Class, and Employment",
+  ";",
+  "Padavic, I. & Reskin, B. (2002)",
+  "Women and Men at Work",
+  ";",
+  "Payne, G. (ed.) (2013)",
+  "Social Divisions",
+  ";",
+  "L. Platt, L. (2011)",
+  "Understanding Inequalities",
+  ";",
+  "D. Tomaskovic-Devy, D. and D. Avent-Holt (2018)",
+  "Relational Inequalities",
+  ".",
+  "Further reading will be detailed in the course syllabus."
+ ],
+ "assessmentText": "Course participation (15%). Essay (85%, 3000 words) in January. Attendance at all classes and submission of all set coursework is required.",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 15
+  },
+  {
+   "type": "Essay",
+   "weight": 85
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 33,
+  "avgClassSizePrevYear": 17,
+  "capped": "Yes(34)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SO/2026_SO312.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

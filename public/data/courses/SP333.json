@@ -1,0 +1,72 @@
+{
+ "code": "SP333",
+ "title": "NGOs, Social Policy and Development",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Social Policy",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Timothy Hildebrandt"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in International Social and Public Policy, BSc in International Social and Public Policy with Economics, BSc in International Social and Public Policy with Politics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students. This course is only available to third year undergraduate students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "While the study of social and public policy has traditionally been concerned with actions taken by governments, the wider non-governmental sector is increasingly recognised as playing a key role. This course focuses on both international and local ‘non-governmental organizations’ (NGOs) that have emerged around the world to address a wide range of social, political and environmental concerns. It offers a critical perspective on NGOs in the context of development and social policy, covering both theoretical and policy issues. The focus is on two main inter-related themes: how NGOs serve as vehicles through which citizens organise, and how NGOs are instruments through which states, businesses and funding agencies pursue their interests. Most of the examples in the lectures and the readings will relate to the Global South, but many of the issues covered are also relevant in rich industrialised countries. Topics covered include definitions and history of NGOs; the changing policy contexts in which development NGOs operate; conceptual debates around ‘civil society’ and third sector; competing theoretical perspectives on NGOs; the domestic, international and global dimensions of non-governmental action; shifting relationships with other policy actors; service delivery and advocacy roles; international humanitarianism; challenges of NGO legitimacy and accountability; resource dilemmas; voluntarism and volunteering; and NGO organisational growth and change.",
+ "teaching": "15 hours of lectures and 13.5 hours of classes in the Autumn Term. 1.5 hours of lectures in the Spring Term. This course has a reading week in Week 6 of Autumn Term. All teaching will be in accordance with the LSE Academic Code which specifies a minimum of two hours taught contact time per week when the course is running in the Autumn Term (AT) and/or Winter Term (WT). Social Policy courses are predominantly taught through a combination of in-person lectures and In person classes/seminars. Further information will be provided by the Course Convenor in the first lecture of the course.",
+ "formativeAssessment": "Essay in Autumn Term Week 5. By Week 5 , you must submit a structured outline of your essay via Moodle. This is an unassessed but compulsory submission, and written feedback will be returned to you before the formative pitch in Week 7. Your outline should be no more than 400–500 words and should include: Your chosen context — a brief description of the NGO operating environment you will analyse Your main argument — a clear statement of the position you intend to develop in response to the essay question Key theoretical frameworks — the course concepts and frameworks you plan to draw on Proposed structure — a brief indication of how you intend to organise your essay The outline is your opportunity to check that your topic is well-scoped, your argument is focused, and your use of course frameworks is appropriate before you invest significant time in the full essay. Feedback will be returned via Moodle within one week.",
+ "indicativeReading": [
+  "Banks, Nicola, David Hulme, Michael Edwards (2015) ‘NGOs, states, and donors revisited: still too close for comfort?’ World Development, Volume 66, pp.707–718.",
+  "Keck, M. E. & Sikkink, K. (1998) Activists Beyond Borders: Advocacy Networks in International Politics. Cornell University Press.",
+  "Lewis, David (2014) Non-Governmental Organisations, Management and Development. Routledge.",
+  "Schuller, M. (2012) Killing with Kindness: Haiti, International Aid, and NGOs. Rutgers University Press.",
+  "Swidler, Ann and Susan Cotts Watkins (2016) A Fraught Embrace: The Romance and Reality of AIDS Altruism in Africa. Princeton University Press.",
+  "Wallace, Tina, Fenella Porter and Mark Ralph-Bowman (eds. 2013) Aid, NGOs and the Realities of Women’s Lives: A Perfect Storm. Practical Action Publishing."
+ ],
+ "assessmentText": "Course participation (10%). Presentation (40%) in Autumn Term Week 11. Essay (50%, 3000 words) in Winter Term Week 1. The essay is a piece of independent analytical writing in which you examine an NGO-related policy question or context of your choosing through the theoretical frameworks and concepts covered in the course. It accounts for 50% of your final mark and should be 3,000 words in length (excluding bibliography). Your essay topic will also form the basis of your NGO Pitch Simulation. While the two assessments share a topic, they reward different skills: the essay asks you to analyse, while the pitch asks you to apply and advocate. Your essay should not read like a pitch script, and you should not simply reproduce your essay argument in your pitch. NGO Pitch Simulation The pitch is a live, assessed exercise in which you take on the role of a representative of a non-governmental organisation and make a case to a panel of assessors. It draws directly on the analytical work developed in your essay, asking you to translate academic argument into practical advocacy. Full details are available in the NGO Pitch Simulation Brief on Moodle. A formative pitch will take place in Week 7 , giving you the opportunity to road-test your argument in an informal setting and receive feedback before the summative. Summative pitch sessions will take place in [Week 10 / assessment period TBC] .",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 10
+  },
+  {
+   "type": "Presentation",
+   "weight": 40
+  },
+  {
+   "type": "Essay",
+   "weight": 50
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 31,
+  "avgClassSizePrevYear": 16,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SP/2026_SP333.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

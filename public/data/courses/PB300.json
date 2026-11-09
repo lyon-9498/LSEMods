@@ -1,0 +1,79 @@
+{
+ "code": "PB300",
+ "title": "Advances in Psychological and Behavioural Science",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Psychological and Behavioural Science",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Miriam Tresh"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Psychological and Behavioural Science. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "This course will offer an advanced-level account of applying psychological and behavioural science to real world issues. The course is delivered as four distinct but interlinked blocks. We will start by re-examining and developing our understanding of the intellectual foundations behind behavioural and psychological science, this will be an opportunity not only to re-consider what was covered in Year 1 and Year 2 but also to develop your depth of understanding. Topics include schools of thought, ethics and interdisciplinarity. The remaining lectures relate these intellectual foundations to real-world issues. Faculty from the department and professionals working at the cutting edge of applying psychological and behavioural science will join us to present on their areas of expertise. The specific topics will be relevant and timely and thus will change each year; in previous years lectures have covered themes of technology, climate change and sustainability, conflict and development, work, wellbeing, and heterogenous practices. Throughout the course we’ll consider the key issue of scalability and cultural sensitivity in applying evidence-based psychological and behavioural science insights to real-world policy and practice. The goal of the course is to explore and critically reflect on the process of integrating theory into policy, and we do this practically through the lens of Next Generation Behavioural Science (NGBS), our fictious not-for-profit consultancy firm. We’ll talk about how such organisations work, the professional roles available and the type and scopes of projects. The assessments see students applying to work for NGBS and then working on a project. Throughout the course there will be regular opportunities for synthesis, recap, review and reflection. By the end of the course, you should: Have an in-depth understanding of recent advances in psychological and behavioural science. Be able to critically appraise the evidence base, tools, and impact of select recent studies. Have an in-depth understanding of how psychological and behavioural science link to the other social sciences and the real world. Understand how to apply and integrate theories in the real-world policy and practice.",
+ "teaching": "20 hours of classes in the Autumn Term. 20 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term. The weekly lecture and class will be delivered as a single 2-hour session, and will involve students considering the theoretical and empirical foundations of applying insights from psychological and behavioural science, as well as a discussion of the practicalities and pragmatics of behavioural public policy.",
+ "formativeAssessment": "Students will complete several pieces of formative work to cement learning and prepare for summative assessments: Plan for Showcase Portfolio Preparation for the Simulation exercise",
+ "indicativeReading": [
+  "Cialdini, R. (2016).",
+  "Pre-Suasion: A Revolutionary Way to Influence and Persuade",
+  ". New York: Random House.",
+  "Halpern, D. (2015).",
+  "Inside the Nudge Unit: How small changes can make a big difference",
+  ". London: W H Allen.",
+  "Lewis, A. (Ed.) (2012).",
+  "The Cambridge Handbook of Psychology and Economic Behaviour.",
+  "Cambridge: CUP.",
+  "Oliver, A. (Ed.) (2013).",
+  "Behavioural Public Policy",
+  ". Cambridge: CUP."
+ ],
+ "assessmentText": "Portfolio (50%, 3000 words). Project (50%, 3500 words). Project - group work",
+ "assessment": [
+  {
+   "type": "Portfolio",
+   "weight": 50
+  },
+  {
+   "type": "Project",
+   "weight": 50
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 49,
+  "avgClassSizePrevYear": 49,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PB/2026_PB300.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

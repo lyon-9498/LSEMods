@@ -1,0 +1,85 @@
+{
+ "code": "AN3A3",
+ "title": "Comparing China",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Anthropology",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Hans Steinmuller"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, BA in Social Anthropology, BSc in International Relations and Chinese, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley, Exchange Programme for Students in Anthropology (Cape Town), Exchange Programme for Students in Anthropology (Fudan), Exchange Programme for Students in Anthropology (Melbourne) and Exchange Programme for Students in Anthropology (Tokyo). This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "This course provides an interdisciplinary introduction to the comparative social science of China. The main object of the course is to help students develop ways of putting the politics, economy and social life of China into a framework in which they can compare and juxtapose it with other polities, economies and societies. Students will bring to this comparison whatever theoretical approaches they have already learned and are continuing to learn, and will be expected to demonstrate and explain how they are using them as well as to listen to other approaches and disciplinary perspectives.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "Essay (1500 words). Students will have the opportunity to submit one formative essay of up to 1500 words during the course. Students will be informed of their formative submission deadline by email by the end of Week 3 of term.",
+ "indicativeReading": [
+  "Candea, Matei 2019.",
+  "Comparison in Anthropology: The Impossible Method",
+  ". Cambridge: Cambridge University Press.",
+  "Fei Xiaotong 1992 [1948].",
+  "From the Soil, the Foundations of Chinese Society: A Translation of Fei Xiaotong’s Xiangtu Zhongguo, with an Introduction and Epilogue",
+  ", transl. Gary Hamilton and Wang Zheng, Berkeley: University of California Press.",
+  "Harrison, Henrietta 2001.",
+  "China (Inventing the Nation)",
+  ". London: Arnold.",
+  "Pelkmans, Mathijs and Harry Walker (eds.) 2023.",
+  "How People Compare.",
+  "Abington: Routledge.",
+  "Stockman, Norman 2000.",
+  "Understanding Chinese Society",
+  "Cambridge: Polity.",
+  "Spence, Jonathan D. 1991.",
+  "The search for modern China",
+  ". New York: Norton.",
+  "Weber, Max 1951.",
+  "The Religion of China: Confucianism and Taoism",
+  ", transl. Hans H. Gerth, New York: The Free Press.",
+  "Yan Yunxiang 2003.",
+  "Private Life under Socialism. Love, Intimacy, and Family Change in a Chinese Village 1949-1999",
+  ". Stanford, CA: Stanford University Press."
+ ],
+ "assessmentText": "Exam (100%), duration: 120 Minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AN/2026_AN3A3.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

@@ -1,0 +1,67 @@
+{
+ "code": "SO100",
+ "title": "Key Concepts: Introduction to Social Theory",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Sociology",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Kristin Surak",
+  "Dr David Pinzur"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Language, Culture and Society and BSc in Sociology. This course is available on the BSc in International Relations, BSc in International Social and Public Policy, BSc in Politics, BSc in Politics and International Relations, BSc in Psychological and Behavioural Science, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course has a limited number of places (it is capped). Students who have this course as a compulsory course are guaranteed a place. Places for all other students are allocated on a first come first served basis.",
+ "description": "The course aims to introduce students to sociological theory by examining the work and ideas of normally eight key thinkers in social thought. For each thinker, the course will provide an overview of their contribution to the discipline of sociology, examine in detail one or more of their important texts, and also consider how their analysis could be applied to contemporary social issues.",
+ "teaching": "This course has a reading week in Week 6 of Autumn and Winter Term. This course is usually delivered through a combination of lectures and classes. There will be two hours or more of teaching each week across AT and WT. There will also be revision sessions in early ST.",
+ "formativeAssessment": "Essay plan. Essay. Mock exam. Students will be expected to complete an essay plan in AT, and an essay and mock exam in WT.",
+ "indicativeReading": [
+  "A detailed reading list will be available at the first lecture, but for general preparatory reading, students might wish to consult the following: D Lee & H Newby,",
+  "The Problem of Sociology",
+  "; Z Bauman,",
+  "Thinking Sociologically",
+  "; S Bruce,",
+  "Sociology: A Very Short Introduction."
+ ],
+ "assessmentText": "Exam (100%), duration: 180 Minutes in the Spring exam period. Attendance at all classes and submission of all set coursework is required.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 66,
+  "avgClassSizePrevYear": 13,
+  "capped": "Yes(75)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SO/2026_SO100.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

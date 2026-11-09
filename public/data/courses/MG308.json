@@ -1,0 +1,68 @@
+{
+ "code": "MG308",
+ "title": "Simulations for Managerial Decisions",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Management",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Nayat Horozoglu"
+ ],
+ "prerequisites": "Students must have completed ST107 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": "A core understanding of and practical experience with Microsoft Excel are required.",
+ "availability": "This course is available on the BSc in Management, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley, International Exchange (1 Term) and International Exchange (Full Year). This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course has a limited number of places (it is capped).",
+ "description": "This course introduces students to concepts, techniques and applied aspects of the development and analysis of simulation models. Students will not only gain insights into simulation modelling, which is a widely used technique in real-life decision-making, but also develop valuable graduate skills such as communicating complex technical information to expert and non-expert audiences. The course covers two main approaches for modelling problems bound by uncertainty (stochastic behaviour): Monte Carlo Simulations and Discrete Event Simulations. The modelling process is at the core of the course and enables students to explore how different inputs affect outcomes under uncertainty. Students will learn to structure complex managerial problems, translate them into simulation models using specialist Microsoft Excel-based tools and software, and make informed decisions using simulation outputs. LSE is currently evaluating the use of edit tracking tools for AI-resilient assessment. This course might use edit tracking tools for assessments.",
+ "teaching": "15 hours of seminars, 10 hours of help session and 10 hours of lectures in the Winter Term. This course has a reading week in Week 6 of Winter Term. In its Ethics Code, LSE upholds a commitment to intellectual freedom. This means we will protect the freedom of expression of our students and staff and the right to engage in healthy debate in the classroom.",
+ "formativeAssessment": "One formative assessment will be set in WT.",
+ "indicativeReading": [
+  "The extensive lecture notes provided are the essential reading for this course. These lecture notes can be complemented with the following background readings:",
+  "Banks, J., Carson, J., Nelson, B., & Nicol, D. (2013). Discrete-event system simulation. Harlow: Pearson Education.",
+  "Rees, M. (2015). Business risk and simulation modelling in practice: Using Excel, VBA and @RISK. New York: John Wiley & Sons.",
+  "Robinson, S. (2014). Simulation: The practice of model development and use (2nd ed.). London: Bloomsbury Publishing.",
+  "Ross, S. M. (2012). Simulation (5th ed.). San Diego: Elsevier Science & Technology."
+ ],
+ "assessmentText": "Project (100%). For detailed assessment information, including all deadlines and timings, please see the relevant course Moodle page. Assessment timings will be available at the start of each term.",
+ "assessment": [
+  {
+   "type": "Project",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 64,
+  "avgClassSizePrevYear": 16,
+  "capped": "Yes(64)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MG/2026_MG308.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "course",
+  "code": "ST107"
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

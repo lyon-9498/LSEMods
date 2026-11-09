@@ -1,0 +1,51 @@
+{
+ "code": "EH307",
+ "title": "The Economic History of South Asia, 1600-2000",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economic History",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Tirthankar Roy"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Economic History, BSc in Economic History and Geography and BSc in Economics and Economic History. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "South Asia is one of the fastest growing economies of the world. The region is also home to nearly one-third of the world's poorest people. How did this paradoxical mix between the creation of wealth and persistence of poverty come into being? Does economic history suggest an answer? The course introduces the stylized facts and major debates in the economic history of modern South Asia. It considers the legacies of empires and developmental states, globalizations of the past and the present times, and the role of indigenous institutions and resource endowments. The course begins with a discussion of empires and markets before European colonial rule began, with special reference to maritime trade and craft production, in which the European East India companies were interested in. For the colonial period, the major theme is the transformation engendered by colonialism and international economic integration. In the sixty years since the end of colonial rule, developmental states tried to overcome the obstacles to growth as the economists interpreted them. The course considers how successful they were in meeting the aim, and why they were limitedly successful.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. 10 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Students are expected to write three essays or equivalent pieces of written work.",
+ "indicativeReading": [
+  "1. Bishnupriya Gupta, An Economic History of India (2025)",
+  "2. B.R. Tomlinson, The Economy of Modern India (2013)",
+  "3. Tirthankar Roy, The Economic History of India (2020)",
+  "4. Latika Chaudhary and others, eds., A New Economic History of Colonial India (2016)"
+ ],
+ "assessmentText": "Exam (100%), duration: 180 Minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [],
+ "stats": {
+  "totalStudentsPrevYear": 20,
+  "avgClassSizePrevYear": 10,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EH/2026_EH307.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

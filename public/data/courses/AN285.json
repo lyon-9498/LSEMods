@@ -1,0 +1,78 @@
+{
+ "code": "AN285",
+ "title": "Mind and Society",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Anthropology",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Laura Bear"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, BA in Social Anthropology, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley, Exchange Programme for Students in Anthropology (Cape Town), Exchange Programme for Students in Anthropology (Fudan), Exchange Programme for Students in Anthropology (Melbourne) and Exchange Programme for Students in Anthropology (Tokyo). This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students.",
+ "description": "This course will introduce students to different ways in which anthropologists (and others) have sought to understand the human mind in its social and cultural context. It will survey a range of classic and contemporary theoretical perspectives within psychological anthropology and cognate disciplines, including psychoanalytic and post-psychoanalytic social theory; phenomenological approaches in anthropology; scientific and folk theories of mind; and other anthropological engagements with the psy disciplines. Students will learn to assess the value and limits of such perspectives by placing them in dialogue with ethnographic studies of selected mental phenomena and mediating social practices. Specific topics addressed in any given year will reflect the current research interests of the course teacher, but indicative themes could include: mental health and illness; the uncanny; the unconscious and freedom; will, trance and hypnosis; psychedelics; dreams; neuroscience and its discontents; neurodiversity; hallucinations and visions; trauma; healing practices; multisensory ethnography; perceptions of time; emotions and affect. Classroom teaching will involve some experiential exercises.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "Essay (1500 words). Students will have the opportunity to submit one formative essay of up to 1500 words during the course. Students will be informed of their formative submission deadline by email by the end of Week 3 of term.",
+ "indicativeReading": [
+  "Abi-Rached, J. and Rose, N. 2022. Neuro: The New Brain Sciences and the Management of the Mind. Princeton: Princeton University Press.",
+  "Lepselter, Susan. The Resonance of Unseen Things: poetics, power, captivity, and UFOs in the American uncanny. University of Michigan Press, 2016.",
+  "Langlitz, Nicolas. Neuropsychedelia: The revival of hallucinogen research since the decade of the brain. Univ of California Press, 2013.",
+  "Mittermaier, Amira. Dreams that matter: Egyptian landscapes of the imagination. Univ of California Press, 2010.",
+  "Beatty, A. 2019. Emotional Worlds: Beyond an Anthropology of Emotion. Cambridge: Cambridge University Press.",
+  "Chodorow, N. 1999. The Power of Feelings: Personal Meaning in Psychoanalysis, Gender, and Culture. New Haven: Yale University Press.",
+  "Grinker, R. 2007. Unstrange Minds: Remapping the World of Autism. Philadelphia: Basic Books.",
+  "Jenkins, J. 2015. Extraordinary conditions: culture and experience in mental illness. Berkeley: University of California Press.",
+  "Mageo, J., & Sheriff, R.E. (eds.). 2020. New Directions in the Anthropology of Dreaming. Routledge.",
+  "Murphy, Keith M., and C. Jason Throop, eds. Toward an Anthropology of the Will. Stanford University Press, 2010",
+  "Mitchell, J. and Petty, K. (eds.). 2020. Uncanny Landscapes. Special Issue of Material Religion 16(4).",
+  "Hollan, Douglas W. 2022.\"Anthropology and Psychoanalysis: The Looping Effects of Persons and Social Worlds.\" Annual Review of Anthropology 51",
+  "Desjarlais, Robert, and C. Jason Throop. 2011. \"Phenomenological approaches in anthropology.\" Annual review of anthropology 40",
+  "Rutherford, Danilyn. 2016 \"Affect theory and the empirical.\" Annual Review of Anthropology 45",
+  "Bear, Laura. 2016. \"Time as technique.\" Annual Review of Anthropology 45",
+  "Porcello, T., Meintjes, L., Ochoa, A. M., & Samuels, D. W. 2010. “The reorganization of the sensory world.” Annual Review of Anthropology, 39.",
+  "Howes, David. 2019 \"Multisensory anthropology.\" Annual Review of Anthropology 48."
+ ],
+ "assessmentText": "Exam (100%), duration: 480 minutes in the January exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 38,
+  "avgClassSizePrevYear": 13,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AN/2026_AN285.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

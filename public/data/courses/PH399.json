@@ -1,0 +1,64 @@
+{
+ "code": "PH399",
+ "title": "Dissertation in Philosophy",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Philosophy, Logic and Scientific Method",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Remco Heesen"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Philosophy and Economics, BSc in Philosophy, Logic and Scientific Method, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad) and BSc in Politics and Philosophy. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "Selection of topic and supervisor The dissertation may be on any topic for which a suitable supervisor in the Philosophy department can be found. Candidates should start consulting with potential supervisors as early as possible in Autumn Term (but not before). Candidates should have the subject of their dissertation approved by their supervising member of department by week 5 of Autumn Term. Arrangements for supervision The dissertation is an opportunity to do extended independent research and writing and to present this work to one's peers. It should reflect the candidate's own views but must develop out of some established part of the philosophical literature. Students should carefully discuss their topic and approach with their supervisor who will also advise on reading and give feedback on written work. Students must have regular meetings with their supervisor, submit written work regularly, and keep a formal record of their work and progress. Other feedback Students must also present an early version of their argument to fellow students and will be given feedback on the quality of their presentation as well as on the content of their arguments. Finally, students must design a poster on the topic of their dissertation for the end-of-degree showcase event, typically held in week 1 of ST. LSE is currently evaluating the use of edit tracking tools for AI-resilient assessment. This course might use edit tracking tools for assessments.",
+ "teaching": "3 hours of seminars in the Autumn Term. 15 hours of seminars in the Winter Term. 1 hour of seminars in the Spring Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "The formative coursework sets out several steps towards the dissertation: a literature review (due in AT); a first 2,000 words (due in week 1 of WT), a subsequent 3,000 words (which may be in part a revision of the first 2,000 words), due in week 6 of WT; a full draft of the dissertation, due in week 11 of WT; and a presentation of the student's arguments in WT; All written coursework must be submitted by email to both the student's supervisor and the course convenor. Students who fail to submit this coursework on time may be barred from submitting the dissertation.",
+ "indicativeReading": [],
+ "assessmentText": "Continuous assessment (15%). Dissertation (85%, 7000 words). Dissertations must be submitted in the ST, exact date to be confirmed. They should be 5,000-7,000 words, and should be typewritten. The precise format, requirements, and any deadlines for continuous assessment will be announced by the course convenor in Autumn Term. In previous years this has typically consisted of some combination of: participation in the weekly seminar, the quality of the WT presentation, and the quality of the poster.",
+ "assessment": [
+  {
+   "type": "Continuous assessment",
+   "weight": 15
+  },
+  {
+   "type": "Dissertation",
+   "weight": 85
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 23,
+  "avgClassSizePrevYear": 12,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PH/2026_PH399.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

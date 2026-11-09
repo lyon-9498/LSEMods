@@ -1,0 +1,69 @@
+{
+ "code": "LN341",
+ "title": "Mandarin in the Global Workplace",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Centre for Language Studies",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Catherine Xiang"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": "The students should have completed their third year abroad in China.",
+ "availability": "This course is compulsory on the BSc in International Relations and Chinese. This course is available on the Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. However, requests to take LN341 as an unlisted course will be considered in special circumstances.",
+ "description": "The linguistic focus will continue to advance students’ receptive and productive skills, as well as to develop their mediation skills (translation and interpretation skills) in order to expand students’ coherent and detailed subject knowledge into vocabulary, syntactic (semantic) structures and pragmatic usages associated with International Relations discourse. The course will also target improving students’ analytical and critical thinking abilities to evaluate one or more aspect of culture, history, geography, politics, social and economic structures in Chinese societies, using and improving intercultural and transferable skills. This will ultimately ensure students’ autonomous problem solving ability and key/generic skills within a structured environment. The ultimate aim of this course is to help students to establish the effective communication between English and Chinese in international relations contexts, both orally and in writing, and therefore to improve their professional competence employability. COMMUNICATIVE CONTENT: The course is focused on the following communicative functions: Providing critical reasoning. Giving coherent description and logical comment. Participating constructively in discussion or debate. Exchanging specific information in international relations contexts: international law (such as human rights), international conventions and international organisations. Assessing the relevance and importance of the ideas of others. Reading and summarising texts from newspapers, journals, TV news and radio broadcasting. Competitive translation and interpretation skills on international relation topics. Writing essays to discuss issues with International Relations elements. Fostering intercultural awareness and understanding. Adopting a non-Eurocentric perspective.",
+ "teaching": "22 hours of classes in the Autumn Term. 22 hours of classes in the Winter Term. 2 hours of classes in the Spring Term. Two hours per week, which will feature: (a) interactive topical work; (b) oral practice; (c) grammar and vocabulary work; (d) tutorials; and (e) guided study using IT and web-based materials.",
+ "formativeAssessment": "Students will be expected to produce 2 essays, 2 problem sets, 2 presentations, 2 projects and 2 other pieces of coursework in the AT and WT. The students will be required to complete weekly exercises. This includes vocabulary quiz, presentation, writing, translation/interpretation and online communicative materials.",
+ "indicativeReading": [
+  "Authentic materials will be used in this class."
+ ],
+ "assessmentText": "Oral examination (30%). Continuous assessment (70%). Language courses map to the Common European Framework for Language Learning. This framework defines linguistic proficiency in the four language skills (reading, writing, speaking and listening) at different levels. To pass this course, students are therefore required to achieve a pass mark in each element of the assessment (continuous assessment, oral and written exams), as these test all four skills.",
+ "assessment": [
+  {
+   "type": "Oral examination",
+   "weight": 30
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 70
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 12,
+  "avgClassSizePrevYear": 8,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LN/2026_LN341.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

@@ -1,0 +1,73 @@
+{
+ "code": "ST360",
+ "title": "Placement Year",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Statistics",
+ "units": 0.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Pik Liew"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Actuarial Science (with a Placement Year). This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "The BSc Actuarial Science with a Placement Year programme offers students the opportunity to complete a 9-month (minimum) to 12-month (maximum) full-time placement working in an organisation of their choice for them to acquire essential work-based skills with which to enrich their academic learning. In addition to the completion of the work placement, students are required to complete the assessment of this course to be eligible for graduation from the BSc in Actuarial Science with a Placement Year. This is a non-credit bearing course. There are no classes for this course. Students instead undertake a work placement during which they will be employed by an external organisation. The work placement should be relevant or related to the field of actuary and/or statistics. Students must hold a formal offer, in writing, of an appropriate work placement before the start of the Spring Term in Year 2 for approval to progress to Year 3 (i.e., placement year) of the BSc in Actuarial Science with a Placement Year. Students will be responsible for securing a placement role as well as its administration, with support and advice from the LSE Careers, a placements coordinator, and the Department. Students will organise and undertake their placement at a host organisation. The Placements Coordinator will support students with documentation checking and ensure that the placement roles are suitable and acceptable by LSE. During the placement, students will continue to be registered as LSE students and, therefore will have access to all the normal services such as the library, student support, and the LSE Students’ Union. Students will also be supported with regular check-ins by the Placements Coordinator and the Department. Students will complete coursework at three points during the placement year: 1) mid-Autumn term, 2) during the Winter term, and 3) at the start of the Spring term. The three coursework builds upon one another, with the final coursework being the culmination of the knowledge, skills, and professional development during the placement. Assessment for this course will consist of students’ reflections on their placement experience and feedback received from the workplace manager and colleagues, in terms of what they have learned and achieved, how the theories and concepts learned during the first and second year of the BSc Actuarial Science with a Placement Year were applied in practice, and how their skills and goals have developed as a result of the placement experiences.",
+ "teaching": "There is no taught component on this course, although students will be offered preparatory sessions during their first and second year organised by the Department in conjunction with the LSE Careers and Placements Coordinator. These will consist of a series of workshops focusing on CV preparation, making placement applications, interview technique, assessment centre preparation, appraisal and development, as well as a session on expectations in a professional environment and a briefing on the assessment of the placement. In addition to placement support by the Placements Coordinator, students will also be offered online office hours with the Course Leader and the Placements Coordinator to provide guidance on the preparation of the coursework of the placement assessment.",
+ "formativeAssessment": "There is no formative coursework for this course. Students are expected to seek formative feedback from the workplace manager and colleagues on their performance of tasks assigned to them during the placement year and reflect and discuss the feedback with the workplace manager and colleagues. Students are encouraged to contact the Placements Coordinator and the Department for support and advice on a regular basis.",
+ "indicativeReading": [
+  "A detailed reading list will be made available on Moodle for each part of the course nearer the time of its scheduled start."
+ ],
+ "assessmentText": "Presentation (50%) in Winter Term Week 8. Learning Log / reflective learning report (20%, 500 words) in Autumn Term Week 6. Learning Log / reflective learning report (30%, 500 words) in Spring Term Week 1. The first and last coursework will be a reflective statement based on the feedback from the workplace manager and colleague. The AT Reflective Statement will include students’ reflections on their placement experience up to Week 5 of the Autumn term. The ST Reflective Statement will be students’ reflections on the culmination of the knowledge, skills, and professional development during the placement. The word limit for each reflective statement is 500 words. Evidence of feedback from the workplace manager and colleague is recommended to be included as appendices in the submissions where appropriate and permitted with consent from relevant people in the workplace. The second coursework is an individual oral presentation on campus during the WT. Students should inform their employing organisation and workplace manager about this assessment at the start of their employment so that students will be allowed a day off to be back on campus for this assessment. All coursework will be marked out of 100 but the overall course mark will be given on a Pass/Fail basis. Students enrolled on the BSc Actuarial Science with a Placement Year programme must satisfactorily complete the work placement and pass this course to be eligible for graduation from the BSc Actuarial Science with a Placement Year programme. If they fail this course, they will be reverted to progress to the three-year BSc Actuarial Science programme and will not be eligible to graduate from the BSc Actuarial Science with a Placement Year programme. More details of the assessment will be made available on Moodle nearer the scheduled start time of the course.",
+ "assessment": [
+  {
+   "type": "Presentation",
+   "weight": 50
+  },
+  {
+   "type": "Learning log / reflective learning report",
+   "weight": 20
+  },
+  {
+   "type": "Learning log / reflective learning report",
+   "weight": 30
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/ST/2026_ST360.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

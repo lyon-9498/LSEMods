@@ -1,0 +1,85 @@
+{
+ "code": "HY335",
+ "title": "History of Foreign Relations of the People's Republic of China, 1949-2008",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International History",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Qingfei Yin"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in History, BA in Social Anthropology, BSc in History and Politics, BSc in International Relations and History, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "China’s reemergence as a global player raises important questions about the origins of the country’s foreign policy and the impact of its international strategy on the Asia-Pacific region and the world. This course provides a comprehensive introduction to the history of foreign relations of the People’s Republic of China (PRC) from 1949 to the early 21st century. In particular, students will assess competing explanations, such as historical experience, domestic politics, ideology, and geopolitics, for key events and policies. The seminar combines a chronological and thematic approach. It begins with two important historical legacies of China’s interactions with the outside world: the “tributary system” and the “century of humiliation.” It then traces the foreign relations of the PRC from the Maoist era to the post-Maoist period, with special attention to the country’s involvement in important regional conflicts, entanglement with the great powers, and relations with the Third World. The last part of the course introduces students to some new approaches to the studies of the history of PRC’s foreign relations, such as historical memory, borderlands, and migration. The weekly readings will be drawn from both scholarly works and translated primary sources. Upon completion of the course, students should be able to critically examine how the past shapes China’s relations with the world in present day.",
+ "teaching": "20 hours of seminars in the Autumn Term. 20 hours of seminars in the Winter Term. 2 hours of seminars in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "One formative source analysis (‘gobbet’), 500 words, in the Autumn Term. One formative essay, 2000 words, in the Winter Term. A 90-minute, timed written exercise consisting of an essay and gobbet answer in the Spring Term.",
+ "indicativeReading": [
+  "Secondary Sources",
+  "Brazinsky, Gregg A. Winning the Third World: Sino-American Rivalry During the Cold War. Chapel Hill, NC: University of North Carolina Press, 2017.",
+  "Chen, Jian. Mao’s China and the Cold War. Chapel Hill, NC: University of North Carolina Press, 2001.",
+  "Fravel, M. Taylor. Strong Borders, Secure Nation: Cooperation and Conflict in China’s Territorial Disputes. Princeton, NJ: Princeton University Press, 2008.",
+  "Friedman, Jeremy. Shadow Cold War: The Sino-Soviet Competition for the Third World. Chapel Hill, NC: University of North Carolina Press, 2015.",
+  "Garver, John W. China’s Quest: The History of the Foreign Relations of the People’s Republic of China. New York: Oxford University Press, 2016.",
+  "Hunt, Michael H. The Genesis of Chinese Communist Foreign Policy. New York: Columbia University Press, 1996. Lüthi, Lorenz M. The Sino-Soviet Split: Cold War in the Communist World. Princeton, NJ: Princeton University Press, 2008.",
+  "Niu, Jun. From Yan’an to the World: The Origin and Development of Chinese Communist Foreign Policy. Translated by Steven I. Levine. Norwalk, CT: EastBridge, 2003.",
+  "Khan, Sulmaan Wasif. Muslim, Trader, Nomad, Spy: China’s Cold War and the People of the Tibetan Borderlands. Chapel Hill, NC: University of North Carolina Press, 2015.",
+  "Radchenko, Sergey. Two Suns in the Heavens: The Sino-Soviet Struggle for Supremacy, 1962-1967. Stanford, CA: Stanford University Press, 2009.",
+  "Shen, Zhihua, and Yafeng Xia. A Misunderstood Friendship: Mao Zedong, Kim Il-Sung, and Sino-North Korean Relations, 1949-1976. New York: Columbia University Press, 2020.",
+  "Westad, Odd Arne. Restless Empire: China and the World Since 1750. New York: Basic Books, 2015.",
+  "Zhai, Qiang. China and the Vietnam Wars, 19501-1975. Chapel Hill, NC: University of North Carolina Press, 2000.",
+  "Zhang, Xiaoming. Deng Xiaoping’s Long War: The Military Conflict between China and Vietnam, 1979-1991. Chapel Hill, NC: University of North Carolina Press, 2015. Zhou, Taomo. Migration in the Time of Revolution: China, Indonesia and the Cold War. Ithaca, NY: Cornell University Press, 2019.",
+  "Primary Sources Collections",
+  "Chinese Foreign Policy Database. Wilson Center Digital Archive. History and Public Policy Program. Washington, DC: Woodrow Wilson International Center for Scholars. https://digitalarchive.wilsoncenter.org/theme/chinese-foreign-policy-database.",
+  "China: Trade, Politics and Culture 1793-1980: Sources from the School of Oriental and African Studies and the British Library, London. Adam Matthew Digital."
+ ],
+ "assessmentText": "Exam (85%), duration: 180 minutes in the Spring exam period. Course participation (15%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 85
+  },
+  {
+   "type": "Course participation",
+   "weight": 15
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 17,
+  "avgClassSizePrevYear": 17,
+  "capped": "Yes(17)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/HY/2026_HY335.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

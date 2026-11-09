@@ -1,0 +1,67 @@
+{
+ "code": "LL284",
+ "title": "Topics in Sentencing and Criminal Justice",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Richard Martin"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is freely available to General Course students. It does not require permission.",
+ "description": "This course offers a focused study of sentencing law and practice in England and Wales, set alongside comparative perspectives drawn from other common law jurisdictions. We treat sentencing as a distinctive legal field — one charged with the difficult task of quantifying, communicating and regulating the state's response to crime — and we trace its operation from the underlying theories of punishment through to the statutory provisions, sentencing guidelines and judicial decisions that give those theories practical shape. Two concerns run through the course. The first is how sentencing law translates the aims of punishment into legal form: how rationales such as retribution, deterrence, rehabilitation and public protection are expressed in statute, structured by guidelines, and ultimately delivered through the sentence imposed in the individual case. The second is how the sentencing judge is to be regulated: how to strike the balance between doing justice to the particular case in front of the court and ensuring consistency across cases, and what role guidelines, appellate review, and increasingly the use of risk prediction tools and artificial intelligence should play in shaping that judgment. We pursue these questions against the backdrop of the substantial dilemmas now confronting sentencing in the United Kingdom — among them those raised by the Independent Sentencing Review, alongside the deeper pressures of prison capacity, public confidence, and proportionality. Topics we examine in detail include the retributivist and consequentialist rationales of sentencing and the architecture of guidelines; the regulation of judicial discretion and the pursuit of consistency; the sentencing of rioters and of those engaged in civil disobedience and non-violent protest, as case studies in proportionality and the politics of punishment; the mandatory life sentence for murder; race and sentencing; and the role of risk prediction and AI in the sentencing decision. By the end of the course, students will be equipped to assess critically how sentencing law works, how it might be reformed, and what we should expect of the judges who apply it. Course aims: To examine the legal frameworks, principles and theories of punishment that govern sentencing in England and Wales, and to set these alongside the approaches taken in other common law jurisdictions. To explore in detail how sentencing judges exercise their role: how their discretion is structured, how consistency across cases is pursued, and how justice in the individual case is delivered. To engage critically with contemporary developments in sentencing law and practice — including the persistence of racial disparity, the use of risk prediction tools and artificial intelligence, and the reform agenda raised by the Independent Sentencing Review. To equip students with the doctrinal, theoretical and empirical tools to evaluate sentencing law and to reason carefully about its reform. Topics by Week: The Field of Sentencing: Dilemmas, Reform and the Independent Sentencing Review Rationales of Punishment I: Retributivism Rationales of Punishment II: Consequentialist Theories Sentencing Frameworks: Statutes, Guidelines and the Sentencing Council Sentencing Discretion: Individual Justice and Consistency Across Cases Reading Week Sentencing the Rioters Sentencing Civil Disobedience and Non-Violent Protest The Mandatory Life Sentence for Murder Race and Sentencing Prediction, Risk and AI in Sentencing",
+ "teaching": "20 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term. I will begin the seminar with some introductory remarks, outlining the topic or setting out its legal or political context. There are PowerPoint slides which will be uploaded on the Course’s Moodle webpage in advance of each seminar. We will work in and out of these slides during the seminar. Each seminar’s key learning outcomes can be found on the first PowerPoint slide; these outcomes will be reiterated at beginning of the seminar. It should go without saying that seminars are your opportunity to discuss, debate and reason with one another – it is essential you come to the seminar well-read and prepared to contribute to our discussions, whichever material you have chosen to read. Seminars include small group discussion and full seminar discussions; you should focus your seminar preparation on the discussion questions and be ready to share you answer in the seminar.",
+ "formativeAssessment": "Students will be expected to produce a 1500-word literature review.",
+ "indicativeReading": [
+  "There is textbook reading, the material and topics assigned are designed to be as contemporary and engaging as possible, so the course supplements these texts with more recent articles or chapters that are particularly helpful or insightful.",
+  "The 5th edition of Campbell, Ashworth and Redmayne’s The Criminal Process (2019) is very good and can be accessed via OUP’s Law Trove.",
+  "The standard sentencing text for England and Wales is: Ashworth and Kelly (2022) Sentencing and Criminal Justice (7th ed., Hart) and S. Easton and C. Piper (2016) Sentencing and Punishment: The Quest for Justice (4th ed., Oxford: OUP) is also good.",
+  "Most of our readings are articles in journal e.g. British Journal of Criminology (BJ Crim), the Criminal Law Review (Crim LR) and the Journal of Law and Society (J. Law & Soc) and chapters in edited collection (various readings come from the sixth edition of the Oxford Handbook of Criminology).",
+  "The course is designed to give students the time, support and intellectual freedom to read and research issues for themselves.",
+  "The Summative Assessments, will after all, be testing students ability to read broadly, but purposefully, in order to critically evaluate a topic and advance a clear argument."
+ ],
+ "assessmentText": "Exam (100%), duration: 150 minutes in the Spring exam period. Exam (100%), duration: 150 Minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  },
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL284.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

@@ -1,0 +1,66 @@
+{
+ "code": "GV264",
+ "title": "Politics and Institutions in Europe",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Vesselin Dimitrov"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Social Anthropology, BSc in Environment and Sustainable Development with Economics, BSc in History and Politics, BSc in International Relations, BSc in International Social and Public Policy with Politics, BSc in Philosophy, Politics and Economics, BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations, BSc in Politics and Philosophy, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "The course aims to give students an understanding of the full range of leading topics and areas of debate and research relevant to the analysis of political institutions and politics in Europe. The course focuses on both core fields of comparative enquiry, such as the study of party competition and voting behaviour, and emerging fields of interest, such as national and European identities, and immigration. The course places particular emphasis on the diverse experiences of liberal democracy in different parts of Europe. The course covers not only long-established democracies in Western Europe, but also the relatively new democracies in Central and Eastern Europe. In the Winter Term, the course will study in depth a number of European countries, such as Britain, France and Germany, analysing the main developments in the country concerned in the last twenty years (elections, parties, governments), and then examining issues of particular interest related to that country. Course topics include: electoral behaviour; ideology and issues; political parties and party competition; government formation and coalitions; regionalism and federalism; national and European identities; and immigration.",
+ "teaching": "15 hours of lectures and 9 hours of classes in the Autumn Term. 15 hours of lectures and 10 hours of classes in the Winter Term. 1.5 hours of lectures in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Essay (2000 words) in Autumn Term Week 5. Essay (2000 words) in Autumn Term Week 10. Essay (2000 words) in Winter Term Week 7. Students will be expected to produce two essays in the AT and one essay in the WT (of 1,500-2,000 words each).",
+ "indicativeReading": [
+  "C De Vries, S Hobolt, S-O Proksch and J Slapin, Foundations of European Politics (2nd edn) (2025); T Bale, European Politics: A Comparative Introduction (4th edn) (2017); S Hix and B Hoyland, The Political System of the European Union (4th edn) (2022); V Dimitrov, K H Goetz & H Wollmann, Governing after Communism: Institutions and Policymaking (2006); A Lijphart, Patterns of Democracy (2nd edn) (2012); M Gallagher et al, Representative Government in Modern Europe (5th edn) (2011); E Jones, P M Heywood, M Rhodes and U Sedelmeier (eds), Developments in European Politics 2 (2011)."
+ ],
+ "assessmentText": "Exam (100%), duration: 180 minutes in the Spring exam period. GENERAL COURSE STUDENTS ONLY: The Class Summary Grade for General Course students will be calculated as follows: 15% general contribution to class discussions, 15% presentation(s) and, if applicable, essay outline(s), 60% grading of formative coursework (20% for each of the three essays), 10% attendance.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 66,
+  "avgClassSizePrevYear": 13,
+  "capped": "Yes(75)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV264.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

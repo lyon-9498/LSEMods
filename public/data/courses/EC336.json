@@ -1,0 +1,108 @@
+{
+ "code": "EC336",
+ "title": "Econometric Theory A",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economics",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Taisuke Otsu"
+ ],
+ "prerequisites": "Before taking this course, students must have completed: ((ST102 or ST109) and MA100 and EC1C1) and ((EC2C3 and EC2C4) or EC2C1).",
+ "corequisites": null,
+ "additionalRequisites": "A good knowledge of linear algebra, calculus and statistical theory is essential, so Mathematical Methods (MA100) and either Elementary Statistical Theory (ST102) or Elementary Statistical Theory I (ST109) in combination with Econometrics I (EC1C1), or equivalent. Students should have also completed either Econometrics II (EC2C1) or have a strong performance in Econometrics I (EC2C3) and Econometrics II (EC2C4), or equivalent. Students seeking permission to take this course as an outside option should consult with Professor Otsu before selecting this course.",
+ "availability": "This course is available on the BSc in Econometrics and Mathematical Economics, BSc in Economics, BSc in Economics and Data Science, BSc in Mathematics and Economics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students.",
+ "description": "This proof-based course focuses on an in-depth exploration of cross-sectional data environments and linear models, consolidating and building on theoretical and analytical skills learned in the Year 2 econometrics sequence. The course will begin with a review of probability theory, and then covers basic asymptotic theory, method of moments, inference, theory for OLS, instrumental variables regression (linear), generalized method of moments (linear) and maximum likelihood.",
+ "teaching": "10 hours of classes and 15 hours of lectures in the Autumn Term.",
+ "formativeAssessment": "Students are expected to engage with problems on a weekly basis and to make positive contributions to class discussions. Students will receive feedback on two problem sets during the term.",
+ "indicativeReading": [
+  "Core reading will be from the following texts:",
+  "Hansen, Bruce. Probability and Statistics for Economists. Princeton University Press, 2022.",
+  "Hansen, Bruce. Econometrics. Princeton University Press, 2022."
+ ],
+ "assessmentText": "Exam (100%), duration: 120 minutes, reading time: 15 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 19,
+  "avgClassSizePrevYear": 19,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EC/2026_EC336.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "or",
+    "children": [
+     {
+      "type": "course",
+      "code": "ST102"
+     },
+     {
+      "type": "course",
+      "code": "ST109"
+     }
+    ]
+   },
+   {
+    "type": "course",
+    "code": "MA100"
+   },
+   {
+    "type": "course",
+    "code": "EC1C1"
+   },
+   {
+    "type": "or",
+    "children": [
+     {
+      "type": "and",
+      "children": [
+       {
+        "type": "course",
+        "code": "EC2C3"
+       },
+       {
+        "type": "course",
+        "code": "EC2C4"
+       }
+      ]
+     },
+     {
+      "type": "course",
+      "code": "EC2C1"
+     }
+    ]
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

@@ -1,0 +1,77 @@
+{
+ "code": "GV336",
+ "title": "Latin America: Democracy and Development",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Mathias Poertner"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Social Anthropology, BSc in History and Politics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations, BSc in Politics and Philosophy, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is not available as an outside option to students on other programmes. This course is available with permission to General Course students.",
+ "description": "Latin America has long been the center of dynamic political, social, and economic change. The region has suffered some of the most repressive political regimes, highest degrees of economic inequality, and worst organized crime. Yet Latin America has also been the focus of the some of the most innovative experiments in democratic participation and social mobilization. This course examines the course of political and economic change in twentieth and twenty-first century Latin America. The bulk of the course will focus on the rise of industrialization and populism in the 1930s and 1940s to the collapse of democracy and establishment of military regimes in the 1960s and 1970s, the return to democracy in the 1980s, and more recent processes of democratic consolidation and economic liberalization. In addition to learning about the politics and contemporary history of Latin American countries, we will also explore the theoretical terrain underlying the causes and consequences of phenomena such as populism, industrialization, authoritarianism, democratization, neoliberalism, and popular representation. The course will provide a combination of empirical exploration of the region and a variety of explanations for the general processes of change across the region and the variation across countries. Students will gain empirical knowledge on the region’s politics, a deeper theoretical understanding of issues of democratic representation and economic development, as well as crucial analytical skills. Tentative outline of weekly topics: Overview & Introduction Populism & the Growth of the Working Class Democratic Breakdown & Authoritarian Regimes Democratic Transitions The Politics of Economic Reform Civil Society and Social Movements Political Parties Ethnicity, Gender, and Class in Electoral Politics Clientelism The Inclusionary Turn and Participatory Institutions",
+ "teaching": "20 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Proposal. Students will be expected to produce 1 piece of coursework in the WT: a detailed outline (500 words) on the policy issue to be explored in detail through the group project (including key readings to be used).",
+ "indicativeReading": [
+  "Bulmer-Thomas, Victor. 2014. The Economic History of Latin America since Independence. Cambridge: Cambridge University Press, Ch. 9-11.",
+  "Collier, Ruth Berins and David Collier. 1991. Shaping the Political Arena: Critical Junctures, the Labor Movement, and Regime Dynamics in Latin America. Princeton: Princeton University Press, excerpts.",
+  "Kapiszewski, Diana, Steven Levitsky, and Deborah J. Yashar, eds., 2021. The Inclusionary Turn in Latin American Democracies. Cambridge: Cambridge University Press, excerpts.",
+  "Madrid, Raúl. 2008. “The Rise of Ethnopopulism in Latin America” World Politics 60(3): 475-508.",
+  "Magaloni, Beatriz. 2006. Voting for Autocracy: Hegemonic Party Survival and its Demise in Mexico. Cambridge: Cambridge University Press, pp. 1-43.",
+  "Poertner, Mathias. 2021. “The Organizational Voter: Support for New Parties in Young Democracies.” American Journal of Political Science 65(3): 634-651.",
+  "Williamson, John. 1990. “What Washington Means by Policy Reform.” In Williamson, ed., Latin American Adjustment: How Much Has Happened? Washington D.C.: Peterson Institute for International Economics."
+ ],
+ "assessmentText": "Presentation (20%) in Winter Term Week 11. Project (80%) in Spring Term Week 1. This component of assessment includes an element of group work. Classroom participation & country reporting (20%): Students should actively participate in class discussions, ask questions, listen to their fellow students, complete all required readings, and be attentive. Those who consistently demonstrate a sharp understanding of the readings and who use that understanding to move the discussion forward will earn an excellent participation grade. Participation does not only mean talking a lot; it means making comments and asking questions that reflect thought, e.g., about the readings. In addition to active participation in class, students are responsible for ongoing reporting about politics in one Latin American country, assigned in Week 1, throughout the course of the semester. Students will be responsible for following the news on “their” country every week. Once during the semester, each student will give a current event report on “their” country. This brief (5 minutes) presentation should describe one of the major political events that have affected “their” country within the last six months. Group project (50% for written policy analysis; 30% for oral presentation): The group project is meant to challenge students to work effectively in teams while relating theory and evidence to policy. For the group project, students will be split up into small groups. Each group will select a policy issue to analyze using the theoretical tools covered in class. Each group will then 1) write a policy analysis (1,500 words); and 2) prepare a detailed presentation on the topic. GENERAL COURSE STUDENTS ONLY: The Class Summary Grade for General Course students will be calculated as follows: 40% participation (including presentations and attendance), 60% detailed policy outline.",
+ "assessment": [
+  {
+   "type": "Presentation",
+   "weight": 20
+  },
+  {
+   "type": "Project",
+   "weight": 80
+  },
+  {
+   "type": "Group project",
+   "weight": 50
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV336.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

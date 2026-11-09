@@ -1,0 +1,368 @@
+{
+ "name": "BSc in Data Science",
+ "code": "UBDSC",
+ "department": "Statistics",
+ "years": [
+  {
+   "year": 1,
+   "papers": [
+    {
+     "label": "LSE100",
+     "lines": [
+      "LSE100 is a half unit taken by all students, running across Autumn and Winter Terms in the first year. The course provides one of the marks that is eligible to be included in the calculation of the First Year Average for purposes of classification.",
+      "Students will choose ONE of the three half-unit options below:",
+      "LSE100A The LSE Course: How can we transform our climate futures? (0.5)",
+      "LSE100B The LSE Course: How can we control AI? (0.5)",
+      "LSE100C The LSE Course: How can we create a fair society? (0.5)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "LSE100A",
+      "LSE100B",
+      "LSE100C"
+     ],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": true,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 1",
+     "lines": [
+      "ST102 Elementary Statistical Theory (1.0)"
+     ],
+     "compulsory": [
+      "ST102"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 2",
+     "lines": [
+      "MA100 Mathematical Methods (1.0)"
+     ],
+     "compulsory": [
+      "MA100"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 3",
+     "lines": [
+      "ST101A Programming for Data Science (0.5)",
+      "ST115 Managing and Visualising Data (0.5)"
+     ],
+     "compulsory": [
+      "ST101A",
+      "ST115"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 4",
+     "lines": [
+      "Courses to the value of 1 unit(s) from the following:",
+      "MA103 Introduction to Abstract Mathematics (1.0) (withdrawn 2026/27)",
+      "EC1A3 Microeconomics I (0.5) and EC1B3 Macroeconomics I (0.5)",
+      "OR Courses to the value of 0.5 unit(s) from the following:",
+      "AC102 Elements of Financial Accounting (0.5)",
+      "EC1A3 Microeconomics I (0.5)",
+      "MA102 Mathematical Proof and Analysis (0.5)",
+      "And Courses to the value of 0.5 unit(s) from the following:",
+      "AC103 Elements of Management Accounting, Financial Management and Financial Institutions (0.5)",
+      "FM101 Finance (0.5)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "EC1A3",
+      "EC1B3",
+      "AC102",
+      "MA102",
+      "AC103",
+      "FM101"
+     ],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  },
+  {
+   "year": 2,
+   "papers": [
+    {
+     "label": "Paper 5",
+     "lines": [
+      "MA222 Further Mathematical Methods (Linear Algebra) (0.5)",
+      "If MA102 or MA103 was not taken in Year 1:",
+      "MA102 Mathematical Proof and Analysis (0.5)",
+      "(OR)",
+      "Students must otherwise take one from:",
+      "MA203 Real Analysis (0.5)",
+      "MA221 Further Mathematical Methods (Calculus) (0.5)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "MA222",
+      "MA102",
+      "MA203",
+      "MA221"
+     ],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": true,
+     "outside": null
+    },
+    {
+     "label": "Papers 6 & 7",
+     "lines": [
+      "Courses to the value of 2.0 unit(s) from the following:",
+      "Either",
+      "ST206 Probability and Distribution Theory (0.5)",
+      "ST211 Applied Regression (0.5)",
+      "and 1.0 unit(s) from the options list below Or",
+      "ST202 Probability, Distribution Theory and Inference (1.0)",
+      "ST211 Applied Regression (0.5)",
+      "and 0.5 unit(s) from the options list below",
+      "Options list"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "ST206",
+      "ST211",
+      "ST202"
+     ],
+     "lists": [
+      "Options list"
+     ],
+     "unitsNeeded": 2.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 8",
+     "lines": [
+      "MA214 Algorithms and Data Structures (0.5) and ST207 Databases (0.5)"
+     ],
+     "compulsory": [
+      "MA214",
+      "ST207"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  },
+  {
+   "year": 3,
+   "papers": [
+    {
+     "label": "Paper 9",
+     "lines": [
+      "ST310 Machine Learning (0.5) and ST311 Artificial Intelligence (0.5)"
+     ],
+     "compulsory": [
+      "ST310",
+      "ST311"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 10",
+     "lines": [
+      "Courses to the value of 1.0 unit(s) from the following:",
+      "ST300 Regression and Generalised Linear Models (0.5)",
+      "ST302 Stochastic Processes (0.5)",
+      "ST304 Time Series and Forecasting (0.5)",
+      "ST308 Bayesian Inference (0.5)",
+      "ST314 Multilevel and Longitudinal Models (0.5)",
+      "ST326 Financial Statistics (0.5)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "ST300",
+      "ST302",
+      "ST304",
+      "ST308",
+      "ST314",
+      "ST326"
+     ],
+     "lists": [],
+     "unitsNeeded": 1.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 11",
+     "lines": [
+      "ST312 Applied Statistics Project (0.5)",
+      "and 0.5 unit(s) from the list of options below List of options",
+      "MA301 Mathematical Game Theory (0.5)",
+      "MA316 Graph Theory (0.5)",
+      "MA320 Mathematics of Networks (0.5)",
+      "MA324 Mathematical Modelling and Simulation (0.5)",
+      "MA333 Optimisation for Machine Learning (0.5)",
+      "ST301 Actuarial Mathematics (Life) (0.5)",
+      "ST303 Stochastic Simulation (0.5)",
+      "ST307 Aspects of Market Research (0.5)",
+      "ST313 Ethics for Data Science (0.5)",
+      "any 0.5 unit(s) course listed under paper 10",
+      "ST302 Stochastic Processes (0.5)",
+      "Paper 10 options list"
+     ],
+     "compulsory": [
+      "ST312"
+     ],
+     "choice": true,
+     "options": [
+      "MA301",
+      "MA316",
+      "MA320",
+      "MA324",
+      "MA333",
+      "ST301",
+      "ST303",
+      "ST307",
+      "ST313",
+      "ST302"
+     ],
+     "lists": [
+      "Paper 10 options list",
+      "Options list"
+     ],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 12",
+     "lines": [
+      "Courses to the value of 1.0 unit(s) from the following:",
+      "FM214 Principles of Finance I (0.5)",
+      "FM215 Principles of Finance II (0.5)",
+      "FM310 Corporate Finance, Investments and Financial Markets I (0.5)",
+      "FM311 Corporate Finance, Investments and Financial Markets II (0.5)",
+      "FM321 Risk Management and Modelling (0.5)",
+      "FM322 Derivatives (0.5)",
+      "MA330 Game Theory for Collective Decisions (0.5)",
+      "ST327 Market Research: An Integrated Approach (1.0)",
+      "ST330 Stochastic and Actuarial Methods in Finance (1.0)",
+      "any courses listed under papers 10 & 11",
+      "Papers 10 & 11 options list"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "FM214",
+      "FM215",
+      "FM310",
+      "FM311",
+      "FM321",
+      "FM322",
+      "MA330",
+      "ST327",
+      "ST330"
+     ],
+     "lists": [
+      "Papers 10 & 11 options list",
+      "Options list"
+     ],
+     "unitsNeeded": 1.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  }
+ ],
+ "lists": {
+  "Options list": [
+   "EC2A3",
+   "EC2B3",
+   "EC2C3",
+   "EC2C4",
+   "FM214",
+   "FM215",
+   "LL220",
+   "MA203",
+   "MA208",
+   "MA210",
+   "MA213",
+   "MA221",
+   "ST205",
+   "ST216",
+   "ST226",
+   "ST227"
+  ],
+  "Paper 10 options list": [
+   "ST300",
+   "ST302",
+   "ST304",
+   "ST308",
+   "ST314",
+   "ST326"
+  ],
+  "Papers 10 & 11 options list": [
+   "MA301",
+   "MA316",
+   "MA320",
+   "MA324",
+   "MA333",
+   "ST300",
+   "ST301",
+   "ST302",
+   "ST303",
+   "ST304",
+   "ST307",
+   "ST308",
+   "ST313",
+   "ST314",
+   "ST326"
+  ]
+ },
+ "warnings": [],
+ "id": "2025-BScDataScience",
+ "cohort": 2025,
+ "url": "https://www.lse.ac.uk/resources/calendar2026-2027/programmeRegulations/undergraduate/2025/BScDataScience.htm"
+}

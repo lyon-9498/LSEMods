@@ -1,0 +1,86 @@
+{
+ "code": "PH112",
+ "title": "Intermediate Logic and Probability",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Philosophy, Logic and Scientific Method",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Prof Miklos Redei"
+ ],
+ "prerequisites": null,
+ "corequisites": "Students must complete PH111 either before taking this course or in the same year as this course.",
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Philosophy and Economics. This course is available on the BSc in Philosophy, Logic and Scientific Method, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics and Philosophy, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "This course aims to familiarise students with intermediate topics in logic (building on PH111 Introduction to Logic). It focuses on concepts and theories that are useful for a deeper understanding and critical analysis of claims and arguments in contemporary philosophical research and in the social and natural sciences. The art of defining The modern theory of definitions offers a precise definition of ‘definition’ as well as rigorous criteria for checking whether a definition is formally correct. The skill of defining in a correct way can hardly be overestimated in areas such as philosophy, science, law and public policy. It prevents misunderstandings and can drastically improve the clarity of concepts, claims and arguments. It is particularly important for philosophers because many philosophical questions require definitions as answers (e.g., ‘What is knowledge?’, ‘What is truth?’, ‘What is a just society?’, ‘Under which conditions is an act morally wrong?’). Set theory and model theory Scientists often use mathematical structures to model real-world systems and to predict or explain their behaviour. Model theory is the study of mathematical structures from a logical point of view. It rests on set theory, which can be viewed as the foundation of modern mathematics. Students will be introduced to core concepts of set theory and model theory that help to better understand the formal architecture of scientific theories and models. Possible world semantics Classical logic only deals with truth-functional logical connectives (e.g., ‘not’, ‘and’, ‘or’). However, there are also non-truth-functional connectives which play a central role in philosophical and scientific reasoning. Prime examples are counterfactual conditionals (‘if A were the case, then B would be the case’) and modal notions (such as ‘it is possible that A’ and ‘it is necessary that A’). But what exactly is the meaning of these notions? In other words: how could a semantics for such non-truth-functional connectives look like? This course introduces students to the basic ideas of possible world semantics. Probability theory and inductive logic In the case of a deductively valid inference, it is utterly impossible that the conclusion is false when the premises are true. However, many inferences we draw in practice do not satisfy this ideal of validity. Often, it is only improbable that the conclusion is false given that the premises are true. In such cases, the premises support the conclusion to some degree, but their truth would not guarantee the truth of the conclusion. For example, it does not follow logically from the premise that someone smokes 40 cigarettes a day (together with background medical theories and data) that they will die early from smoking-related illness -- but it is much more probable that they will than if they did not smoke. Inductive logic is the systematic study of inferences of that type. Students will be introduced to the fundamentals of inductive logic and probability theory.",
+ "teaching": "15 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Formative coursework will take the form of problem sets and online quizzes. Students are required to complete problem sets before the associated class and to be ready to present and discuss their answers in class. Online quizzes serve as continuous formative assessment.",
+ "indicativeReading": [
+  "There will be comprehensive lecture materials covering the entire course content. Indicative background readings include:",
+  "Gupta, A. (2015): “Definitions”,",
+  "Stanford Encyclopedia of Philosophy",
+  ", URL=.",
+  "Fitelson, B. (2006): “Inductive Logic”, Sarkar, Sahotra and Jessica Pfeifer (eds.),",
+  "The Philosophy of Science: An Encyclopedia",
+  ", Routledge.",
+  "Hodges, W. and Scanlon, T. (2018): “First-order Model Theory”,",
+  "Stanford Encyclopedia of Philosophy",
+  ", URL=.",
+  "Papineau, D. (2012):",
+  "Philosophical Devices: Proofs, Probabilities, Possibilities and Sets.",
+  "OUP.",
+  "Salmon, M.H. (2013):",
+  "Introduction to Logic and Critical Thinking",
+  ". Wadsworth.",
+  "Sider, T. (2010):",
+  "Logic for Philosophy",
+  ". OUP.",
+  "Skyrms, B. (2010):",
+  "Choice and Chance: An Introduction to Inductive Logic",
+  ". Fourth edition. Wadsworth"
+ ],
+ "assessmentText": "Exam (100%), duration: 180 minutes, reading time: 15 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 64,
+  "avgClassSizePrevYear": 13,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PH/2026_PH112.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": {
+  "type": "course",
+  "code": "PH111"
+ },
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

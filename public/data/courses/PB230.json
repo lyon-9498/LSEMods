@@ -1,0 +1,101 @@
+{
+ "code": "PB230",
+ "title": "Intermediate Statistics and Research Methods for Psychological and Behavioural Science",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Psychological and Behavioural Science",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Thomas Curran"
+ ],
+ "prerequisites": "Students must have completed PB130 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Psychological and Behavioural Science. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "This course aims to provide students with integrated core knowledge and skills in contemporary research and analysis methods in psychological and behavioural science. Specific core methodological tools for preregistering and collecting data will be presented in lectures, selected to reflect parallel theoretical issues raised in PB200 Biological Psychology, PB201 Cognitive Psychology, PB202 Developmental Psychology, PB204 Social Psychology: Individuals, Groups and Culture, and PB205 Individual Differences and Why They Matter. This course presents conceptual and practical knowledge on the range of tools available to the psychological/behavioural scientist. In particular, this course will examine current controversies and new developments in research methods in psychology and behavioural science. The overall goal of the course is to learn to think critically about how psychological and behavioural science is conducted, how conclusions are drawn, and how data are appropriately analysed considering intermediate issues such as measurement error and clustering. We will cover both methodological and statistical issues that affect the validity of research in psychology, with an emphasis on psychological and behavioural sciences. We will also discuss the recent controversy in psychology about the replicability of scientific results and preregistration of both quantitative and qualitative research. The course also instructs students in the use of quantitative data collection methods, including surveys, experiments, assessment tools, and computerised tasks. It also covers principles and issues involved in the analysis of quantitative data, including the importance of transparency in data analysis and reporting. Where statistics are concerned, this course presents students with knowledge of, and practical exposure to, statistical modelling. It covers linear and non-linear models, factor analysis, structural equation modelling, multilevel modelling, and intermediate issues in data cleaning and imputation. These topics build directly on from the introduction to the linear model students received in PB130. Throughout the course, an understanding of key concepts such as statistical power and effect sizes will be emphasised in line with current controversies regarding replicability and questionable research practice. Practical sessions will equip students with knowledge of how to conduct the taught statistical techniques using the R programming language. By the end of the course you should: Be able to situate recent trends in open science in the context of psychological enquiry. Have practical experience of collecting and analysing psychological and/or behavioural data. Understand statistical methods needed to conduct intermediate data analyses. Understand intermediate methods of qualitative enquiry.",
+ "teaching": "This course is delivered through a combination of lectures, workshops, lab sessions and classes across Autumn Term and Winter Term. There is a reading week in Week 6 of both Autumn Term and Winter Term.",
+ "formativeAssessment": "Students will complete several pieces of formative work to cement learning and prepare for the summative assessments: Practice a pre-registration report Complete several statistics worksheets",
+ "indicativeReading": [
+  "American Psychological Association (2020).",
+  "Publication manual of the American Psychological Association",
+  ". (7th ed.) Washington DC: APA",
+  "Braun, V., & Clarke, V. (2013).",
+  "Successful qualitative research: A practical guide for beginners.",
+  "London: Sage.",
+  "Camerer, C. F., Dreber, A., Holzmeister, F., Ho, T. H., Huber, J., Johannesson, M., ... & Altmejd, A. (2018). Evaluating the replicability of social science experiments in Nature and Science between 2010 and 2015.",
+  "Nature Human Behaviour, 2",
+  "(9), 637-644.",
+  "Chambers, C. (2017).",
+  "The 7 deadly sins of psychology: A manifesto for reforming the culture of scientific practice",
+  ". Princeton, NJ: Princeton University Press.",
+  "Keith, T. (2015).",
+  "Multiple regression and beyond",
+  ". New York, NY: Routledge.",
+  "L. Haven, T., & Van Grootel, D. L. (2019). Preregistering qualitative research.",
+  "Accountability in Research",
+  ", 26(3), 229-244.",
+  "Munafo, M. R., Nosek, B. A., Bishop, D. V., Button, K. S., Chambers, C. D., Du Sert, N. P., ... & Ioannidis, J. P. (2017). A manifesto for reproducible science.",
+  "Nature human behaviour",
+  ", 1(1), 1-9.",
+  "Nosek, B. A., & Lakens, D. (2014). Registered reports: A method to increase the credibility of published results.",
+  "Social Psychology",
+  ", 45(3), 137-141.",
+  "Open Science Collaboration. (2015). Estimating the reproducibility of psychological science.",
+  "Science",
+  ", 349(6251).",
+  "Tabachnick, B., & Fidell, L. (2013).",
+  "Using multivariate statistics",
+  ". Boston, MA: Pearson Education."
+ ],
+ "assessmentText": "Data analysis (50%, 3500 words). Report (50%, 3000 words).",
+ "assessment": [
+  {
+   "type": "Data analysis",
+   "weight": 50
+  },
+  {
+   "type": "Report",
+   "weight": 50
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 48,
+  "avgClassSizePrevYear": 24,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PB/2026_PB230.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "course",
+  "code": "PB130"
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": [
+  "PB312"
+ ]
+}

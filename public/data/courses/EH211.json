@@ -1,0 +1,73 @@
+{
+ "code": "EH211",
+ "title": "Africa and the World Economy, 1500-2000",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economic History",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Leigh Gardner",
+  "Matthew Benson"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Economic History, BSc in Economic History and Geography, BSc in Economics and Economic History, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "This course examines the long-run economic history of Sub-Saharan Africa. Its overall aim is to situate Africa within global economic history, illustrating how Africa and Africans contributed to global economic change as well as exploring the impact of those changes on African economies. It provides a chronological introduction to significant periods in African history and draws on recent research to understand the dynamics of historically important periods such as the era of the slave trades, the colonial period, the transition to independence, and the more recent rise of Chinese influence in the continent. It also considers how these events have shaped development outcomes in the continent today. While lectures and classes focus on broader themes, assessed work includes a case study research project allowing students to learn about the diversity of experience around the continent.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. 10 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Students should expect to complete two formative assignments per term. This will include one essay or equivalent plus an assignment related to the summative case study project. Students will need to have the selection of their case study approved by the course convener by the end of AT, and prepare an outline and reading list by the middle of WT.",
+ "indicativeReading": [
+  "For a general overview of African history over the period, see R.J. Reid, A History of Modern Africa (2009); J. Iliffe, Africans: The History of a Continent (1995). For accessible introductions to a variety of themes in African economic history, see the African Economic History Network’s online textbook,",
+  "The History of African Development",
+  "(",
+  "https://www.aehnetwork.org/textbook/",
+  ")."
+ ],
+ "assessmentText": "Exam (70%), duration: 120 minutes in the Spring exam period. Project (30%, 3000 words). The research project will involve a case study (3000 words) of an African country, focused on one of the themes/questions addressed in the course.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 70
+  },
+  {
+   "type": "Project",
+   "weight": 30
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EH/2026_EH211.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

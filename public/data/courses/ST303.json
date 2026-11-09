@@ -1,0 +1,85 @@
+{
+ "code": "ST303",
+ "title": "Stochastic Simulation",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Statistics",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "David Itkin"
+ ],
+ "prerequisites": "Before taking this course, students must have completed: (ST202 or ST206).",
+ "corequisites": "Students must complete ST302 either before taking this course or in the same year as this course.",
+ "additionalRequisites": "Students must take ST302 at the same time to enrol in this course.",
+ "availability": "This course is available on the BSc in Actuarial Science, BSc in Actuarial Science (with a Placement Year), BSc in Data Science and BSc in Mathematics, Statistics and Business. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is not available to General Course students. Course capped at 70.",
+ "description": "An introduction to using R for stochastic simulation as well as Monte Carlo methods of simulating random variables, complicated quantities involving several random variables and paths of stochastic processes. Applications will focus on examples from insurance and finance.",
+ "teaching": "20 hours of lectures and 9 hours of computer workshop in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "Weekly exercises usually involving computing.",
+ "indicativeReading": [
+  "Introducing Monte Carlo methods with R (main reference), by G. Robert and G. Casella.",
+  "Useful reading:",
+  "Stochastic Simulation, Algorithms and Analysis by S. Asmussen.",
+  "Monte Carlo Methods in Financial Engineering by P. Glasserman."
+ ],
+ "assessmentText": "Exam (70%), duration: 120 minutes in the Spring exam period. Project (30%) in December. This component of assessment includes an element of group work. Randomised follow-up interviews to take place on this course in the form of 20-min discussion on the projects submitted. For group projects, interviews will be conducted with the entire group, while individual projects will involve one-to-one interviews. The aim of these interviews is to check against the unauthorised use of GenAI and that the work submitted is the student's own.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 70
+  },
+  {
+   "type": "Project",
+   "weight": 30
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 33,
+  "avgClassSizePrevYear": 11,
+  "capped": "Yes(70)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/ST/2026_ST303.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "course",
+    "code": "ST202"
+   },
+   {
+    "type": "course",
+    "code": "ST206"
+   }
+  ]
+ },
+ "coreqTree": {
+  "type": "course",
+  "code": "ST302"
+ },
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

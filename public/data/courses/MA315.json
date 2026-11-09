@@ -1,0 +1,74 @@
+{
+ "code": "MA315",
+ "title": "Algebra and its Applications",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Mathematics",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Jozef Skokan"
+ ],
+ "prerequisites": "Students must have completed MA103 before taking this course.",
+ "corequisites": "Students must complete MA211 either before taking this course or in the same year as this course.",
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Mathematics and Economics, BSc in Mathematics with Data Science, BSc in Mathematics with Economics, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students.",
+ "description": "The aim of the course is to continue the study of abstract algebraic structures and show how these structures can be used to solve concrete problems. There are three strands: Group actions; Rings, polynomials and fields; Applications, including coding and cryptography. Group actions; revision of permutation groups; orbits and stabilizers, the orbit-stabilizer theorem; applications to counting problems. Rings, polynomials and fields: revision of rings; quotient rings; polynomial rings and the Euclidean algorithm for polynomials; irreducible polynomials and factorisation of polynomials. fields; fields as quotients of polynomial rings; construction and properties of finite fields: Applications: Designs and orthogonal latin squares ; Error-correcting codes, including linear codes, cyclic codes and perfect codes; cryptography.",
+ "teaching": "20 hours of lectures and 10 hours of classes in the Winter Term. This course is delivered through a combination of classes and lectures totalling a minimum of 30 hours across Winter Term.",
+ "formativeAssessment": "Written answers to set problems will be expected on a weekly basis.",
+ "indicativeReading": [
+  "Lecture notes will be provided. No additional reading is required, but the following books are recommended for further reading.",
+  "Introduction to Algebra, Peter J Cameron (OUP 2007);",
+  "Codes, N.L. Biggs (Springer, 2008)."
+ ],
+ "assessmentText": "Exam (90%), duration: 120 minutes in the Spring exam period. Continuous assessment (10%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 90
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 7,
+  "avgClassSizePrevYear": 7,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MA/2026_MA315.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "course",
+  "code": "MA103"
+ },
+ "coreqTree": {
+  "type": "course",
+  "code": "MA211"
+ },
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

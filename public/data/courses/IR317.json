@@ -1,0 +1,65 @@
+{
+ "code": "IR317",
+ "title": "American Grand Strategy",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International Relations",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Peter Trubowitz"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in International Relations, BSc in International Relations and Chinese, BSc in International Relations and History, BSc in Politics and International Relations, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is not available as an outside option to students on other programmes. This course is available with permission to General Course students. This course has a limited number of places (it is capped).",
+ "description": "This course explores American foreign policy at the broadest level of analysis – the level known as grand strategy. The course showcases the main theoretical perspectives that inform the study of grand strategy and applies them to historical and contemporary cases of American statecraft. In this connection, we will assess the relevance of the U.S. experience for theorising about power politics and the implications of alternative theories for thinking critically about American international behaviour. Emphasis is placed on the debates and controversies that animate the study of grand strategy, as well as of the unique challenges posed by making foreign policy in the American political, economic, and cultural context.",
+ "teaching": "15 hours of classes and 15 hours of lectures in the Autumn Term.",
+ "formativeAssessment": "Blog post. Students will write short weekly blog posts on Moodle and provide an 800-word outline of their assessed essay by the end of Week 8. Feedback will be returned by the end of AT. The formative assessments are designed to help students develop and refine their ideas in preparation for the summative essay.",
+ "indicativeReading": [
+  "John Lewis Gadds, Strategies of Containment (2005)",
+  "Peter Trubowitz, Politics and Strategy (Princeton 2011)",
+  "Linda Weiss, America Inc.? (Cornell 2014)",
+  "Rebecca Thorpe, The American Warfare State (Chicago 2014)",
+  "Robert Kagan, The Jungle Grows Back (Knopf, 2018)",
+  "Joan Hoff, A Faustian Foreign Policy (Cambridge 2008)"
+ ],
+ "assessmentText": "Essay (100%, 2500 words). Students will write a 2,500 word assessed essay selecting from a list of topics and questions provided by the course convenor.",
+ "assessment": [
+  {
+   "type": "Essay",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 35,
+  "avgClassSizePrevYear": 12,
+  "capped": "Yes(45)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/IR/2026_IR317.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

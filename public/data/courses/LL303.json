@@ -1,0 +1,69 @@
+{
+ "code": "LL303",
+ "title": "Cultural Heritage and Art Law",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Tatiana Flessas"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "Cultural Property and Heritage Law is an expanding area of legal practice, scholarship and policy-making. It addresses the question 'who owns the past', by looking at ownership and regulatory claims to ancient objects, traditional cultural practices, and historic locations. The protection and management of heritage sites, antiquities, artefacts, and public and private museums give rise to increasing amounts of domestic and international legislation and regulation. This area of law is especially important to peoples attempting to claim (or reconstruct) their identity after war, colonialism, or other forms of culture loss; and to people or organizations that stand to make serious profits from memorial or historical goods and experiences. We also look at some very timely heritage disputes: is Russia taking cultural property out of Ukraine? Should statues of slaveowners still be in public places? Can producers in the United States produce Champagne? Can anyone tell the story of a particular group, or is it 'cultural appropriation' to do so? The second half of the course, 'Art Law', is the body of law, involving numerous disciplines, that protects, regulates and facilitates the creation, use and marketing of art and other cultural products like artisan foods. While this part of the course relies on specialised jurisprudence drawn from intellectual property law, no one jurisprudence applies to all legal matters vital to artists, purchasers, sellers, museums, dealers and others involved in the art and cultural world. The course will take both a practical and a scholarly and interpretive approach to the issues, drawing on property and trusts law, some criminal and tort law (for example, as applied to fakes and forgeries), regulations like import/export controls. We will be looking at international Conventions as well as domestic legislation and common-law approaches that attempt to define 'property', 'culture' and 'theft'. The selection of issues that may be discussed includes determining whether an artwork is a 'national treasure' and should be denied an export licence, title and authenticity provided by auction houses and art dealers, creation and protection of digital art, geographical indications for artisan foods and the protection of graffiti as street art. We will welcome guest speakers and experts from outside the LSE.",
+ "teaching": "20 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Students will be expected to produce a formative assessment in either case study or essay form.",
+ "indicativeReading": [
+  "Blake, J. (2000). On Defining the Cultural Heritage. International & Comparative Law Quarterly,49(1), 61-85.",
+  "Keane, D. (2004). The Failure to Protect Cultural Property in Wartime, DePaul J. Art, Tech. & Intell. Prop. L 14, 1-38.",
+  "Patty Gerstenblith, 'Getting Real: Cultural, Aesthetic and Legal Perspectives on the Meaning of Authenticity of Art Works', Columbia Journal of Law & the Arts 35 (2012), pp. 321–356.",
+  "Enrico Bondio,",
+  "Copyright in the Street - An Oral History of Creative Processes in Street Art and Graffiti Subcultures",
+  "(Cambridge University Press) 2023",
+  "Amy Adler, A. (2018). Why Art Does Not Need Copyright, 86(2), The George Washington Law Review, 313-374.",
+  "Colin Renfrew, Loot, Legitimacy and Ownership: The Ethical Crisis in Archaeology (Duckworth, 2000)."
+ ],
+ "assessmentText": "Exam (100%), duration: 150 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 30,
+  "avgClassSizePrevYear": 30,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL303.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

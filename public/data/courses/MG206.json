@@ -1,0 +1,103 @@
+{
+ "code": "MG206",
+ "title": "Firms, Management and Competitive Advantage",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Management",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Nilesh Dattani"
+ ],
+ "prerequisites": "Before taking this course, students must have completed: (EC1A5 and EC1B5) or (EC1A3 and EC1B3) or (EC1A1 and EC1B1).",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Management, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley, International Exchange (1 Term) and International Exchange (Full Year). This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course has a limited number of places (it is capped). Students who have this course as a compulsory course are guaranteed a place. Places for all other students are allocated on a first come first served basis.",
+ "description": "The salient question at the heart of this course is how firms can develop distinctive capabilities to enable them to create competitive advantage. It is not a conventional course on corporate strategy. Particular attention will be given to firms in technology-based industries and the management of innovation and contrasts will be made with public sector management. It focuses on the evolution of thinking about firms and the activity of management and examines firm advantages through conceptual ideas and empirical knowledge. There will be an emphasis on analysing firms as reservoirs of resources and capabilities and topics to be covered will include distinctive capabilities of firms, organisational design, decision making in firms, organisational routines, managerial leadership and the role of ethics.",
+ "teaching": "10 hours of lectures and 15 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term. In its Ethics Code, LSE upholds a commitment to intellectual freedom. This means we will protect the freedom of expression of our students and staff and the right to engage in healthy debate in the classroom.",
+ "formativeAssessment": "Students are expected to produce one piece of written work and to do the weekly class exercises.",
+ "indicativeReading": [
+  "A reading list will be available to students taking the course."
+ ],
+ "assessmentText": "Exam (100%), duration: 120 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Communication",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 46,
+  "avgClassSizePrevYear": 12,
+  "capped": "Yes(60)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MG/2026_MG206.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "and",
+    "children": [
+     {
+      "type": "course",
+      "code": "EC1A5"
+     },
+     {
+      "type": "course",
+      "code": "EC1B5"
+     }
+    ]
+   },
+   {
+    "type": "and",
+    "children": [
+     {
+      "type": "course",
+      "code": "EC1A3"
+     },
+     {
+      "type": "course",
+      "code": "EC1B3"
+     }
+    ]
+   },
+   {
+    "type": "and",
+    "children": [
+     {
+      "type": "course",
+      "code": "EC1A1"
+     },
+     {
+      "type": "course",
+      "code": "EC1B1"
+     }
+    ]
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

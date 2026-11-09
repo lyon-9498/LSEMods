@@ -1,0 +1,63 @@
+{
+ "code": "GY101",
+ "title": "Succeeding in your degree: Critical skills for Geography and Environment students",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Geography and Environment",
+ "units": 0.0,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Thomas Smith"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Geography, BSc in Environment and Sustainable Development, BSc in Environment and Sustainable Development with Economics and BSc in Geography with Economics. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is very strongly recommended for all first year Geography and Environment undergraduate students.",
+ "description": "This course seeks to provide an introduction to key study skills that Geography and Environmental Social Science students will use throughout their three years of undergraduate study. It will teach students how to get the most out of lectures and classes and, furthermore, how to best prepare for them through effective reading strategies and skills. During the course, students also will learn what makes a good essay, and how to effectively research, write and deliver them. The course will additionally introduce students to how their work is assessed and, moreover, how to best make use of feedback to improve their grades. All first-year undergraduates are strongly encouraged to take this course which has been purposefully designed to maximise their potential.",
+ "teaching": "4 hours of lectures in the Autumn Term. This course has a reading week in Week 6 of Autumn Term. In the Department of Geography and Environment, teaching will be delivered through a combination of classes/seminars, pre-recorded lectures, live online lectures and other supplementary interactive live activities.",
+ "formativeAssessment": null,
+ "indicativeReading": [
+  "Burns, T. and S. Sinfield (2016).",
+  "Essential Study Skills: The Complete Guide to Success at University",
+  ". 2nd edition. Sage.",
+  "Cottrell, S. (2013).",
+  "The Study Skills Handbook",
+  ". 4th edition. Palgrave Macmillan.",
+  "Greetham, B. (2018).",
+  "How to Write Better Essays",
+  ". 4th edition. Palgrave Macmillan."
+ ],
+ "assessmentText": null,
+ "assessment": [],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 82,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GY/2026_GY101.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

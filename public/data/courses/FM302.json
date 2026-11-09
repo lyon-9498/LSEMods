@@ -1,0 +1,76 @@
+{
+ "code": "FM302",
+ "title": "Theories of Corporate Finance",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Finance",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Ansgar Walther"
+ ],
+ "prerequisites": "Students must have completed FM215 and FM214 and FM200 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Finance. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course does not permit auditing students.",
+ "description": "This course introduces concepts and theories to critically assess major corporate financial policy decisions. The course focuses in particular on a firm's capital structure and the impact of taxes, bankruptcy costs, agency conflicts, and asymmetric information on a firm’s financing decisions. We will also discuss other major topics in corporate finance, such as the market for corporate control. In developing tools to analyse these issues, we will introduce the key concepts of corporate finance theory, including debt overhang, risk shifting, and the free-rider problem.",
+ "teaching": "33 hours of seminars in the Winter Term. This course is taught in an interactive format. There is no distinction between lectures and classes/seminars; there are simply “sessions” where the pedagogical approach is always interactive.",
+ "formativeAssessment": "Students will be expected to produce 9 problem sets in the WT.",
+ "indicativeReading": [
+  "Detailed course programmes and reading lists are distributed at the start of the course. Illustrative texts include: “Financial Markets and Corporate Strategy” by Hillier, Grinblatt and Titman. “Corporate Finance” by Ivo Welch, and “The Theory of Corporate Finance” by Tirole."
+ ],
+ "assessmentText": "Continuous assessment (100%).",
+ "assessment": [
+  {
+   "type": "Continuous assessment",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Application of information skills",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 64,
+  "avgClassSizePrevYear": 64,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/FM/2026_FM302.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "course",
+    "code": "FM215"
+   },
+   {
+    "type": "course",
+    "code": "FM214"
+   },
+   {
+    "type": "course",
+    "code": "FM200"
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

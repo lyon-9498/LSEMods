@@ -1,0 +1,106 @@
+{
+ "code": "ST313",
+ "title": "Ethics for Data Science",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Statistics",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Joshua Loftus"
+ ],
+ "prerequisites": "Before taking this course, students must have completed: ST102 and MA100 and (MA222 or ST206 or ST202).",
+ "corequisites": null,
+ "additionalRequisites": "Students who have no previous experience in R are strongly recommended to complete an online pre-sessional R course from the Digital Skills Lab before the start of the course. ( https://moodle.lse.ac.uk/course/view.php?id=8714 ).",
+ "availability": "This course is available on the BSc in Actuarial Science, BSc in Actuarial Science (with a Placement Year), BSc in Data Science, BSc in Economics and Data Science, BSc in Mathematics and Economics, BSc in Mathematics with Data Science, BSc in Mathematics with Economics, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students.",
+ "description": "This course covers a selection of topics central to the ethical practice of data science. Students will learn key concepts and methods to analyze a variety of case studies, from the historical and philosophical background of data technologies and ethics to the frontiers of research in machine learning, artificial intelligence, and socio-technical systems. These concepts will include some basic philosophical and legal ideas related to data ethics, frameworks for ethical practice developed by professional societies, formal statistical definitions and quantitative methods for objectives such as fairness and privacy, and an emphasis on the use of causal reasoning to evaluate data-driven systems and policies. Topics may include: Replication crisis, unfair algorithms, basics of normative ethics and causality Historical examples, professional ethical guidelines Transparency, reproducibility, open science Discrimination, statistical fairness, impossibility results Causal reasoning for fairness, pathway analysis, intersectionality Interventions, policy optimization, distributive justice Data provenance, privacy, differential privacy Strategic behavior, surveillance, democratic data Automation and AI, responsibility, complicity Causal statistical models will be used as a formal framework throughout to understand and stress test these ideas.",
+ "teaching": "15 hours of lectures and 15 hours of classes in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": null,
+ "indicativeReading": [
+  "Lecture notes will be provided. These will be supplemented with a variety of short readings, some of which will be taken from the following background references",
+  "https://www.bitbybitbook.com/en/1st-ed/ethics/",
+  "https://fairmlbook.org/",
+  "https://data-feminism.mitpress.mit.edu/",
+  "https://aiethics.princeton.edu/case-studies/",
+  "https://www.acm.org/code-of-ethics",
+  "https://rss.org.uk/RSS/media/News-and-publications/Publications/Reports%20and%20guides/A-Guide-for-Ethical-Data-Science-Final-Oct-2019.pdf",
+  "https://www.amstat.org/ASA/Your-Career/Ethical-Guidelines-for-Statistical-Practice.aspx",
+  "https://hastie.su.domains/CASI/",
+  "https://www.statlearning.com/"
+ ],
+ "assessmentText": "Exam (70%), duration: 120 minutes in the Spring exam period. Project (30%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 70
+  },
+  {
+   "type": "Project",
+   "weight": 30
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 55,
+  "avgClassSizePrevYear": 28,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/ST/2026_ST313.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "course",
+    "code": "ST102"
+   },
+   {
+    "type": "course",
+    "code": "MA100"
+   },
+   {
+    "type": "or",
+    "children": [
+     {
+      "type": "course",
+      "code": "MA222"
+     },
+     {
+      "type": "course",
+      "code": "ST206"
+     },
+     {
+      "type": "course",
+      "code": "ST202"
+     }
+    ]
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

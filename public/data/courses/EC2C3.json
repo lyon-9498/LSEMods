@@ -1,0 +1,137 @@
+{
+ "code": "EC2C3",
+ "title": "Econometrics I",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economics",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Michael Gmeiner"
+ ],
+ "prerequisites": "Before taking this course, students must have completed: (MA100 and ST102) or (MA108 and ST102) or (ST107 and MA107).",
+ "corequisites": null,
+ "additionalRequisites": "Students who have not taken the above requisite courses may still qualify if equivalent courses have been taken. For example, MA108 alongside MA107 and MA100 would be suitable background in mathematics.",
+ "availability": "This course is compulsory on the BSc in Accounting and Finance, BSc in Economics and Data Science, BSc in Economics and Economic History, BSc in Finance, BSc in Philosophy and Economics and BSc in Politics and Economics. This course is available on the BSc in Data Science, BSc in Environment and Sustainable Development, BSc in Environment and Sustainable Development with Economics, BSc in Geography with Economics, BSc in International Social and Public Policy with Economics, BSc in Mathematics and Economics, BSc in Mathematics with Data Science, BSc in Mathematics with Economics, BSc in Mathematics, Statistics and Business, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students.",
+ "description": "This course is an applied introduction to econometrics. The focus is on regression-based techniques and interpreting results in applied settings. The course will centre on how statistical tools can be used to answer causal “what-if” questions (e.g., “What is the effect of years of education on income?”). You will work with statistical software to analyse actual data sets and will learn basic programming in Stata through dedicated workshops. Topics include: randomised experiments, bivariate and multiple regression analysis, inference, omitted variable bias, functional form specification, measurement error, missing data, reverse causality, instrumental variables, difference-in-differences, and regression discontinuity.",
+ "teaching": "10 hours of classes, 30 hours of lectures and 5 hours of workshops in the Autumn Term. Student learning will be supported through the EC2C3 Support Lab and through a dedicated discussion forum.",
+ "formativeAssessment": "Students are expected to engage with the problem sets each week. At least two of these will be marked in detail and feedback provided. Other problem sets will be looked over to evaluate if students made a legitimate attempt.",
+ "indicativeReading": [
+  "Lecture materials are complemented by reading of J. D. Angrist and J. S. Pischke, Mastering ‘Metrics. The Path from Cause to Effect, Princeton University Press.",
+  "Lecture materials are self-contained with regards to econometric theory, so reading of econometrics textbooks is not required. The following texts are recommended for students interested in consulting a textbook.",
+  "• J. Wooldridge, Introductory Econometrics. A Modern Approach, Cengage",
+  "• J. H. Stock and M. Watson, Introduction to Econometrics, Pearson"
+ ],
+ "assessmentText": "Exam (90%), duration: 120 minutes, reading time: 15 minutes in the January exam period. Continuous assessment (10%). Continuous assessment (10%) in the AT. Exam (90%, duration: 2 hours, reading time: 15 minutes) in the January exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 90
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 10
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 10
+  },
+  {
+   "type": "Exam",
+   "weight": 90
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 425,
+  "avgClassSizePrevYear": 21,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EC/2026_EC2C3.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "and",
+    "children": [
+     {
+      "type": "course",
+      "code": "MA100"
+     },
+     {
+      "type": "course",
+      "code": "ST102"
+     }
+    ]
+   },
+   {
+    "type": "and",
+    "children": [
+     {
+      "type": "course",
+      "code": "MA108"
+     },
+     {
+      "type": "course",
+      "code": "ST102"
+     }
+    ]
+   },
+   {
+    "type": "and",
+    "children": [
+     {
+      "type": "course",
+      "code": "ST107"
+     },
+     {
+      "type": "course",
+      "code": "MA107"
+     }
+    ]
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "MG205",
+   "title": "Econometrics: Theory and Applications",
+   "note": null
+  }
+ ],
+ "unlocks": [
+  "EC313",
+  "EC317",
+  "EC328",
+  "EC331",
+  "EC333",
+  "EC334",
+  "EC335",
+  "EC336",
+  "FM321"
+ ]
+}

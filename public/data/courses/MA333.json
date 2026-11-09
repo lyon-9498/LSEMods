@@ -1,0 +1,73 @@
+{
+ "code": "MA333",
+ "title": "Optimisation for Machine Learning",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Mathematics",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Ahmad Abdi"
+ ],
+ "prerequisites": "Students should be familiar with the fundamentals of continuous optimisation, to the level in Optimisation Theory (MA208) or equivalent.",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Data Science, BSc in Mathematics and Economics, BSc in Mathematics with Data Science, BSc in Mathematics with Economics, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students.",
+ "description": "Machine learning uses tools from statistics, mathematics, and computer science for a broad range of problems in data analytics. The course introduces a range of optimization methods and algorithms that play fundamental roles in machine learning. This is primarily a proof-based course that focuses on the underlying mathematical models and concepts. The secondary goal of the course is to demonstrate implementations of the discussed algorithms on problems from machine learning, their limitations on large training sets, and how to overcome such obstacles. After a review of basic tools from convex analysis, Lagrangian duality, and Karush-Kuhn-Tucker conditions, the course makes a deep dive into first-order optimization methods and their convergence guarantees. These include projected, conditional (Frank-Wolfe), and stochastic gradient descent. The course also considers online convex optimization, and covers online gradient and multiplicative weight methods. If time allows, second-order optimization (Newton's method) may also be covered. A key component of the course is the application of optimization methods to machine learning. As such, we will see applications of the methods taught to linear regression, ridge and lasso regularization, logistic regression, binary classification and support vector machines, neural networks and backpropogation, and online learning algorithms such as Perceptron and Winnow. A key learning outcome is how to solve such problems in the presence of large training sets.",
+ "teaching": "20 hours of lectures and 10 hours of classes in the Winter Term. 2 hours of classes in the Spring Term. During the lectures, the focus will be on the optimisation methods and their convergence guarantees. During the classes, in addition to discussing the exercise sheets, implementations of the methods will be shown and their effectiveness on large training sets will be discussed.",
+ "formativeAssessment": "Students will be expected to submit solutions to a number of exercise sheets in the WT.",
+ "indicativeReading": [
+  "Vishnoi, N. (2018). Algorithms for Convex Optimization (2021). Cambridge University Press.",
+  "Boyd, S., & Vandenberghe, L. (2004). Convex optimization. Cambridge University Press.",
+  "Nesterov, Y. (2018). Lectures on convex optimization (Vol. 137). Springer.",
+  "B. Gärtner and M. Jaggi. Optimization for machine learning (lecture notes), 2021.",
+  "E. Hazan. Introduction to online convex optimization (lecture notes), 2021.",
+  "I. Goodfellow, Y. Bengio, and A. Courville. Deep Learning. MIT Press, 2016."
+ ],
+ "assessmentText": "Exam (90%), duration: 120 minutes in the Spring exam period. Continuous assessment (10%). A combination of weekly exercises and in-class quizzes count as the continuous assessment.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 90
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 24,
+  "avgClassSizePrevYear": 24,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MA/2026_MA333.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "course",
+  "code": "MA208"
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

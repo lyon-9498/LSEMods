@@ -1,0 +1,45 @@
+{
+ "code": "IR398",
+ "title": "Dissertation",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International Relations",
+ "units": 1.0,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Anna Getmansky"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in International Relations, BSc in International Relations and Chinese and BSc in Politics and International Relations. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "Dissertations offer students the chance to enhance their knowledge through an in-depth analysis of a question in an area of particular interest to them. The dissertation assesses different skills from examinations and other forms of assessment. The aim is to develop the ability to make independent judgements and decisions about a promising and feasible research question, and on selecting and analysing the most important and relevant material. The outcome will be a coherent, sustained, systematically developed, and well supported argument on a topic, typically combining empirical material and theoretical insights, within the field of International Relations. The subject of the dissertation can be anything within the field of International Relations that the International Relations Faculty are able to supervise. The dissertation may draw entirely on secondary literature. There is no requirement for the use of primary sources and original material such as unpublished documents, archives, or personal interviews. Candidates submit their dissertation of up to 10,000 words, excluding bibliography, but including notes and any appendices and tables, at the beginning of the Spring Term (ST). Candidates submit the title of their dissertation for approval by the IR398 Course Co-ordinator before the end of the Autumn Term (AT), and an outline of their project early in Winter Term (WT). Students also receive written feedback from their supervisors on a 2,000-3,000 word dissertation sample as long as this is submitted by the end of the Winter Term (WT).",
+ "teaching": "This course is delivered through a combination of classes, workshops, and lectures totalling a minimum of 10 hours and 30 minutes across Autumn Term (AT) and Winter Term (WT). In addition to formal teaching, students will see their dissertation supervisors regularly during both terms (usually twice per term, for a maximum of six times in total over the course of the year) for meetings of around 30 minutes each. The IR398 Course Co-ordinator will also run small group tutorials in the Winter Term (WT) and will be available for consultation throughout the year to help students address problems as and when they arise. IR398 contains lectures on how to formulate a research question, how to structure a dissertation, and how to find and use evidence. Classes explore how questions are formed, how literature is used, and how evidence is deployed. Workshops and tutorials are a chance for students to discuss outlines, and receive guidance on issues of structure, research design and evidence. There may also be a chance for some students to present their work. Advice and Assistance The IR398 Course Co-ordinator will provide guidance on the nature and process of writing an IR dissertation, through the course lectures, classes and workshops, and office hours. They will also be available for consultation throughout the year to help students address problems as and when they arise. While students will receive ample guidance and feedback on their work, the dissertation is an independent project. As such, although students will have a supervisor, and colleagues both in IR and other departments can be approached for informal advice, no Faculty member can read a full draft of the thesis. Students can proceed with IR398 only if they have a confirmed dissertation supervisor. Students who do not have a confirmed supervisor by the beginning of the course will be required to change their course selection and secure a place in another course or set of courses before the relevant course selection deadlines and based on course availability at that time.",
+ "formativeAssessment": null,
+ "indicativeReading": [],
+ "assessmentText": "Dissertation (100%, 10000 words).",
+ "assessment": [
+  {
+   "type": "Dissertation",
+   "weight": 100
+  }
+ ],
+ "skills": [],
+ "stats": {
+  "totalStudentsPrevYear": 32,
+  "avgClassSizePrevYear": 21,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/IR/2026_IR398.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

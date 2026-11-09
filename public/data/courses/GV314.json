@@ -1,0 +1,74 @@
+{
+ "code": "GV314",
+ "title": "Empirical Research in Government",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Edward Page"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Social Anthropology, BSc in History and Politics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations, BSc in Politics and Philosophy and BSc in Social Anthropology. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is capped at one group.",
+ "description": "The course introduces a variety of techniques and issues in the empirical study of political science and applies them to a practical research project in which students participate throughout the year. No prior knowledge of statistics or research methods is required. The focus of the course will be the practical research project. At the theoretical level the course will cover questions relating to the utilization of policy research, forms of research design, sampling, questionnaire construction, coding and converting non-quantitative to quantitative indicators, response rates, elite interviewing and research ethics. As the practical research project progresses classes will cover the development of practical skills such as, principles of research report writing and, where appropriate for the project, use of text processing programmes, and basic routines in the widely-used Statistical Package for the Social Sciences (SPSS), such as those used for compiling crosstabulations.",
+ "teaching": "20 hours of seminars in the Autumn Term. 20 hours of seminars in the Winter Term. 2 hours of seminars in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Essay. Students will be expected to produce 1 essay in the AT.",
+ "indicativeReading": [
+  "Ronald F. Czaja and Johnny E. Blair Designing Surveys: A Guide to Decisions and Procedures (2005, 2014 online accessible through LSE Library); Sandra Halperin and Oliver Heath, Political Research. Methods and Political Skills 2nd edn (2016); Sage Research Methods database (online accessible through LSE Library); Floyd J. Fowler Survey Research Methods, 5th edn (2013); Claus Moser and Graham Kalton, Survey Methods in Social Investigation, 2nd edn (1985); Melanie Mauthner et al (eds), Ethics in Qualitative Research (2002)."
+ ],
+ "assessmentText": "Exam (50%), duration: 120 Minutes in the Spring exam period. Essay (25%, 2500 words) in Winter Term Week 2. Research paper (25%, 3300 words) in Spring Term Week 2. Each student completes a 2,500 word essay (25%) in the Winter Term and writes up a 3,300 word report on the research project (25%) in the Spring Term. The mark for the research project report includes a small peer review element. There will also be a 2 hour exam (50%) in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 50
+  },
+  {
+   "type": "Essay",
+   "weight": 25
+  },
+  {
+   "type": "Research paper",
+   "weight": 25
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 11,
+  "avgClassSizePrevYear": 11,
+  "capped": "Yes(12)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV314.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

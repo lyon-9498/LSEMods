@@ -1,0 +1,74 @@
+{
+ "code": "IR327",
+ "title": "World Orders in International Relations: Past, Present and Future",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International Relations",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Martin Bayly"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in International Relations, BSc in International Relations and Chinese, BSc in International Relations and History and BSc in Politics and International Relations. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course has a limited number of places (it is capped).",
+ "description": "What is ‘world order’, how has it changed historically, and what sort of world order shifts are we living through today? These are some of the biggest questions in International Relations. This course approaches world order through two avenues: theory and history. First the course offers a focused introduction to theorising world order, revisiting topics of anarchy, hierarchy, and the practices of world order making. Second, and in parallel with this theoretical element, the course will cover historical instances of world orders and world order making. We will consider interstate orders, civilizational and cultural orders, imperial orders, ‘liberal’ orders, anti-colonial and insurgent orders, as well as orders of capital, knowledge, and ’non-human’ orders. Every week, a contemporary case study will complement the course content. By the end of the course, students will be able to (1) theorise order from different theoretical standpoints; (2) speak knowledgeably about recent works on international order in IR; (3) identify and describe the historical evolution of international order on a global scale; and (4) critically assess the contemporary international/world order and its possible futures.",
+ "teaching": "15 hours of classes and 10 hours of lectures in the Winter Term. This course has a reading week in Week 6 of Winter Term. This course is delivered through a combination of classes and lectures totalling a minimum of 25 hours in the Winter Term. Each week, in preparation for their classes, students will consider a practical example of world order and engage with a recent substantial text in historical International Relations and world order studies. Complementing this, a weekly lecture will offer intellectual scaffolding – supplying the theoretical tools and conceptual criteria associated with a particular approach to the theory and history of international and world order.",
+ "formativeAssessment": "This course adopts a ‘students as producers’ approach to formative coursework. Students will make a minimum of five regular contributions to an individual blog that they will manage and curate throughout the course. In addition, at the start of the course, students will be assigned to one of the weekly topics in agreement with the course convenor. In this week they will be required to submit a contribution to a shared class blog. This will form a key element to classwork, serving as part of the class conversation for that week. Collectively the students will thereby produce a shared course archive that will provide a core resource for their summative assessment. The formative blogs should demonstrate engagement with the set texts, and wider application to ‘real world’ examples within the individual posts. Students will receive feedback on their formative work in preparation for the summative Blog Portfolio.",
+ "indicativeReading": [
+  "Adler, Emanuel. World Ordering: A Social Theory of Cognitive Evolution. Cambridge: Cambridge University Press, 2019.",
+  "Allan, Bentley B. Scientific Cosmology and International Orders. Cambridge, United Kingdom ; New York, NY: Cambridge University Press, 2018.",
+  "Getachew, Adom. Worldmaking after Empire: The Rise and Fall of Self-Determination. Princeton Oxford: Princeton University Press, 2020.",
+  "Ikenberry, G. John. A World Safe for Democracy: Liberal Internationalism and the Crises of Global Order. Yale University Press, 2020.",
+  "Phillips, Andrew. How the East Was Won: Barbarian Conquerors, Universal Conquest and the Making of Modern Asia. Cambridge ; New York, NY: Cambridge University Press, 2021.",
+  "Sharman, J. C. Empires of the Weak: The Real Story of European Expansion and the Creation of the New World Order. Princeton, New Jersey: Princeton University Press, 2019.",
+  "Spruyt, Hendrik. The World Imagined: Collective Beliefs and Political Order in the Sinocentric, Islamic and Southeast Asian International Societies. Cambridge New York: Cambridge University Press, 2020.",
+  "Zarakol, Ayşe. Before the West: The Rise and Fall of Eastern World Orders. New edition. Cambridge New York, NY Melbourne New Delhi Singapore: Cambridge University Press, 2022."
+ ],
+ "assessmentText": "Course participation (20%). Blog post (80%, 2100 words). Students will submit three of their best blog entries for the Summative Blog Portfolio, up to a combined maximum word limit of 2,100 words. The Blog Portfolio includes an opening and closing statement that does not form part of the word limit.",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 20
+  },
+  {
+   "type": "Blog post",
+   "weight": 80
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "Yes(0)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/IR/2026_IR327.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

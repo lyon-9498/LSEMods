@@ -1,0 +1,82 @@
+{
+ "code": "GV346",
+ "title": "Global Political Thought",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Leigh Jenco"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Social Anthropology, BSc in History and Politics, BSc in International Social and Public Policy with Politics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations, BSc in Politics and Philosophy and BSc in Social Anthropology. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is capped at two groups.",
+ "description": "This course examines normative and conceptual theories of politics from a global, transhistorical perspective. We go beyond current theories of “decolonization” to consider how conversations about political life can be and have been transformed on the basis of distinctive concerns that emerge from specific times and places, marked by different levels of affluence, historical connections (or the lack thereof), textual or oral heritages, as well as the experience of imperialism. The course will bring these diverse sources into a meaningful discussion about the political questions that they pose, both on their own and in comparison with others. We consider how context should matter in the investigation of political ideas. We ask how, but also whether, we should integrate these disparate perspectives into a shared conversation. The course cannot aspire to comprehensiveness, but it aims for a certain integrity of themes and builds up a methodological toolbox for critical engagement with a diverse range of sources. All readings will be in English.",
+ "teaching": "10 hours of lectures and 10 hours of seminars in the Autumn Term. 10 hours of lectures and 10 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term. Lectures of 60 minutes; seminars of 60 minutes based on intensive student participation.",
+ "formativeAssessment": "Essay plan (1000 words). Students will be expected to produce one essay plan of 750-1000 words in the WT.",
+ "indicativeReading": [
+  "Ibn Tufayl, Muhammad ibn ʻAbd al-Malik,",
+  "Ibn Tufayl’s Hayy Ibn Yaqzan: A Philosophical Tale",
+  ". Trans. Lenn Evan Goodman. Updated edition. Chicago: The University of Chicago Press, 2009.",
+  "Tedlock, Dennis, ed. Popol Vuh:",
+  "The Mayan Book of the Dawn of Life",
+  ". Rev. ed. New York: Simon & Schuster, 1996.",
+  "Radhakrishnan, Sarvepalli, and Charles A. Moore, eds.",
+  "A Source Book in Indian Philosophy",
+  ". Princeton: Princeton University Press, 1957.",
+  "Confucius,",
+  "The Analects: With Selections from Traditional Commentaries",
+  ". Translated by Edward Slingerland. Indianapolis: Hackett Publishing, 2003."
+ ],
+ "assessmentText": "Course participation (20%). Essay (80%, 3000 words) in Spring Term Week 1. Course participation will be assessed throughout the AT and WT.",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 20
+  },
+  {
+   "type": "Essay",
+   "weight": 80
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV346.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "GV267",
+   "title": "Global Political Thought",
+   "note": "Withdrawn 2026/27"
+  }
+ ],
+ "unlocks": []
+}

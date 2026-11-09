@@ -1,0 +1,300 @@
+{
+ "name": "BSc in Geography with Economics",
+ "code": "UBGYWEC",
+ "department": "Geography and Environment",
+ "years": [
+  {
+   "year": 1,
+   "papers": [
+    {
+     "label": "LSE100",
+     "lines": [
+      "LSE100 is a half unit taken by all students, running across Autumn and Winter Terms in the first year. The course provides one of the marks that is eligible to be included in the calculation of the First Year Average for purposes of classification.",
+      "Students will choose ONE of the three half-unit options below:",
+      "LSE100A The LSE Course: How can we transform our climate futures? (0.5)",
+      "LSE100B The LSE Course: How can we control AI? (0.5)",
+      "LSE100C The LSE Course: How can we create a fair society? (0.5)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "LSE100A",
+      "LSE100B",
+      "LSE100C"
+     ],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": true,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 1",
+     "lines": [
+      "EC1A3 Microeconomics I (0.5) and EC1B3 Macroeconomics I (0.5)"
+     ],
+     "compulsory": [
+      "EC1A3",
+      "EC1B3"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 2",
+     "lines": [
+      "MA107 Quantitative Methods (Mathematics) (0.5) and ST107 Quantitative Methods (Statistics) (0.5)"
+     ],
+     "compulsory": [
+      "MA107",
+      "ST107"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 3",
+     "lines": [
+      "GY100 Introduction to Geography (1.0)"
+     ],
+     "compulsory": [
+      "GY100"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 4",
+     "lines": [
+      "One from the following:",
+      "GY103 Contemporary Europe (1.0)",
+      "GY121 Sustainable Development (1.0)",
+      "GY144 Human Geography and the City (1.0)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "GY103",
+      "GY121",
+      "GY144"
+     ],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Skills Course",
+     "lines": [
+      "GY101 Succeeding in your degree: Critical skills for Geography and Environment students (0.0)"
+     ],
+     "compulsory": [
+      "GY101"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  },
+  {
+   "year": 2,
+   "papers": [
+    {
+     "label": "Paper 5",
+     "lines": [
+      "EC2A3 Microeconomics II (0.5)",
+      "And either:",
+      "EC2B3 Macroeconomics II (0.5)",
+      "EC2C3 Econometrics I (0.5)"
+     ],
+     "compulsory": [
+      "EC2A3"
+     ],
+     "choice": true,
+     "options": [
+      "EC2B3",
+      "EC2C3"
+     ],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": true,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 6",
+     "lines": [
+      "GY209 The Economic Geography of Trade, Production and Development (0.5) and GY210 The Economics of Cities (0.5)"
+     ],
+     "compulsory": [
+      "GY209",
+      "GY210"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 7",
+     "lines": [
+      "GY245 Quantitative Methods in Geography and GIS (0.5) and GY247 Field Methods in Geography with Economics (0.5)"
+     ],
+     "compulsory": [
+      "GY245",
+      "GY247"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 8",
+     "lines": [
+      "Courses to the value of 1 unit(s) from the following:",
+      "EC2B3 Macroeconomics II (0.5)",
+      "EC2C3 Econometrics I (0.5)",
+      "EC2C4 Econometrics II (0.5)",
+      "GY204 Political Geography (0.5)",
+      "GY206 Urban Geography and Globalisation (0.5)",
+      "GY207 Economy, Society and Place (0.5)",
+      "GY211 Introduction to Global Development (0.5)",
+      "GY212 Pathways in Human Geography (0.5)",
+      "GY222 Applied Environmental Economics (1.0)",
+      "GY307 Regional Economic Development (0.5)",
+      "GY308 The Economic Geography of Growth and Development (0.5) (suspended 2026/27)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "EC2B3",
+      "EC2C3",
+      "EC2C4",
+      "GY204",
+      "GY206",
+      "GY207",
+      "GY211",
+      "GY212",
+      "GY222",
+      "GY307"
+     ],
+     "lists": [],
+     "unitsNeeded": 1.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  },
+  {
+   "year": 3,
+   "papers": [
+    {
+     "label": "Paper 9",
+     "lines": [
+      "GY313 Firms and Economic Geography: Location, Technology and Innovation (0.5) and GY314 The Economics of Housing Markets and Migration (0.5)"
+     ],
+     "compulsory": [
+      "GY313",
+      "GY314"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Papers 10, 11 & 12",
+     "lines": [
+      "Courses to the value of 3.0 unit(s) from the following: Students may take the following combinations: up to 3.0 unit(s) from Level 3 options up to 2.0 unit(s) from Approved economics options up to 1.0 unit(s) from Paper 8 options",
+      "Level 3 options",
+      "Approved economics courses",
+      "Paper 8 options list"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [],
+     "lists": [
+      "Level 3 options",
+      "Approved economics courses",
+      "Paper 8 options list"
+     ],
+     "unitsNeeded": 3.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  }
+ ],
+ "lists": {
+  "Level 3 options": [
+   "GY307",
+   "GY311",
+   "GY315",
+   "GY316",
+   "GY317",
+   "GY326",
+   "GY327",
+   "GY328",
+   "GY329",
+   "GY331",
+   "GY350"
+  ],
+  "Approved economics courses": [
+   "EC307",
+   "EC325",
+   "EC328",
+   "EC330",
+   "EC338",
+   "EC339"
+  ],
+  "Paper 8 options list": [
+   "EC2B3",
+   "EC2C3",
+   "EC2C4",
+   "GY204",
+   "GY206",
+   "GY207",
+   "GY211",
+   "GY212",
+   "GY222",
+   "GY307"
+  ]
+ },
+ "warnings": [],
+ "id": "2026-BScGeographyWithEconomics",
+ "cohort": 2026,
+ "url": "https://www.lse.ac.uk/resources/calendar2026-2027/programmeRegulations/undergraduate/2026/BScGeographyWithEconomics.htm"
+}

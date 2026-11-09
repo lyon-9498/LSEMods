@@ -1,0 +1,81 @@
+{
+ "code": "AN376",
+ "title": "Anthropology and the Anthropocene",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Anthropology",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Gisa Weszkalnys"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, BA in Social Anthropology, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley, Exchange Programme for Students in Anthropology (Cape Town), Exchange Programme for Students in Anthropology (Fudan), Exchange Programme for Students in Anthropology (Melbourne) and Exchange Programme for Students in Anthropology (Tokyo). This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students.",
+ "description": "The Anthropocene is a concept increasingly used to describe a new planetary epoch, one in which humans are leaving an irreversible mark on the earth’s bio- and geophysical systems. Although not formally recognised by stratigraphic scientists, the concept has already altered how we imagine and inhabit time. It has stirred much scientific, philosophical, and popular debate, echoing anxieties about climate change, the deterioration of global ecologies, and other environmental crises, as well as our political and cultural (in)capacity to devise adequate solutions. It has noticeably shifted popular discussion and scholarly theorising about more-than-human relations, human responsibility to sustain life on Earth, and what it means to be human. This course approaches the Anthropocene as a contested category, with evident political and ethical implications. We will ask whether there is a risk of the Anthropocene becoming less a marker of epochal transformation than of a profound anti-politics in the debate about the future of the planet, and to what extent alternative labels, such as the Capitalocene, Plasticene, or Plantationocene might help recuperate the term’s critical potential. In this course, we will discuss the dramatic historical changes in ecological relations due to, for example, shifts in resource extraction and energy use and embedded in racialised and exploitative systems of power. Ethnographic studies from across the world will enable us to identify specific Anthropocenic sites, including the plantation, the mine, and the city where everyday practices of extraction, consumption, pollution, waste, and recycling have shaped new subjectivities and the intersection of gender, race, and class. We will inspect grievance politics provoked by toxic contamination and climate change, and the forms of power, evidence, and authority that underpin them, but also the ways people seek to construct alternatives. What types of collaborative knowledge production, mutual care, and forms of social and economic justice might a critical Anthropocenic outlook encourage? What modes of sensing and knowing are available to apprehend and assess past and present processes of environmental change? Students will be expected to engage with various resources, including online publications, blogs, documentary and feature films, and other media, and an emergent interdisciplinary literature, spanning the social and natural sciences. We will assess how this literature expands on longstanding anthropological interrogations, for example, of binaries of human/nonhuman, subject/object, and nature/culture, and examine the critical valence of anthropologists’ enquiry into the Anthropos for an age so profoundly shaped by humans. What methods and modes of analysis are required to comprehend the diverse more-than-human interactions and seemingly incommensurable scales that the Anthropocene invokes? How do we anchor the manifold theoretical proposals that have been put forward not just in ethnographic examples but also in our own experiments for living?",
+ "teaching": "7 hours of lectures, 9 hours of workshops and 7 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term. The course is comprised of three cycles of three weeks plus an additional, concluding week. Each cycle consists of two weeks taught in the traditional lecture/class format, and a third week with a two-hour workshop in a larger group. While the one-hour classes will focus on core readings set by the lecturer, the two-hour workshop will, in addition, offer space for viewing other resources (films, online material), discussing students independently researched material, student presentations, etc.",
+ "formativeAssessment": "Essay (1500 words). Students will have the opportunity to submit one formative essay of up to 1500 words during the course. Students will be informed of their formative submission deadline by email by the end of Week 3 of term.",
+ "indicativeReading": [
+  "C. Ahmann (2024)",
+  "Futures after Progress: Hope and Doubt in Late Industrial Baltimore",
+  ". University of Chicago Press.",
+  "D. Haraway (2016) Staying with the Trouble: Making Kin in the Chthulucene",
+  "G. Hecht (2023) Residual Governance: How South Africa Foretells Planetary Futures",
+  "K. Hetherington (2019) Infrastructure, Environment, and Life in the Anthropocene",
+  "R. Morris (2024)",
+  "Unstable ground: the lives, deaths, and afterlives of gold in South Africa",
+  ". Columbia University Press.",
+  "J. Salazar Parreñas (2018) Decolonizing Extinction: The Work of Care in Orangutan Rehabilitation",
+  "A.L. Tsing, J. Deger, A.K. Saxena, and F. Zhou (2024) Field Guide to the Patchy Anthropocene: The New Nature",
+  "K. Yussof (2019)",
+  "A Billion Black Anthropocenes or None",
+  ". University of Minnesota Press."
+ ],
+ "assessmentText": "Essay (100%, 3000 words) in Spring Term Week 1.",
+ "assessment": [
+  {
+   "type": "Essay",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 6,
+  "avgClassSizePrevYear": 6,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AN/2026_AN376.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "AN276",
+   "title": "Anthropology and the Anthropocene",
+   "note": "Withdrawn 2025/26"
+  }
+ ],
+ "unlocks": []
+}

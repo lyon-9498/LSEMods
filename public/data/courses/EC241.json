@@ -1,0 +1,82 @@
+{
+ "code": "EC241",
+ "title": "PPE Interdisciplinary Research Seminar",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economics",
+ "units": 0.5,
+ "studyPeriod": "Winter and Spring Term",
+ "terms": [
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Jeremiah Dittmar"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Philosophy, Politics and Economics and BSc in Philosophy, Politics and Economics (with a Year Abroad). This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "Governments serve several functions key to economic development, including correcting market failures, raising taxes, delivering services, and protecting property rights. Yet, particularly in poor countries, they often fail to do so effectively. In this course, we will explore the empirical body of evidence on what can be done to improve service delivery. We view this evidence through an analytical framework emphasizing the agency problems between citizens, politicians and bureaucrats. Correspondingly, the course is divided into four sections. We will first focus on how democratic institutions select and constrain politicians. Second, we will explore issues of bureaucratic selection and incentives affecting bureaucrats. Third, we will review evaluations of specific reforms aimed at strengthening institutions, promoting accountability, and improving service delivery. In a final section, we will explore the interactions between governance, development, and political conflict. This section emphasizes cases where subnational conflict reflects a violent competition for legitimate political control. This discussion also will relate modern efforts at state building to classical philosophical and political discussions on the creation of legitimate states. We will also focus extensively on empirical case studies of policies, reforms, and innovations that have proven effective.",
+ "teaching": "10 hours of lectures and 9 hours of classes in the Winter Term. 1 hour of lectures and 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Winter Term. There will be a reading week in Week 6 of WT only (no lectures or classes that week). This course is delivered through a combination of classes and lectures totalling a minimum of 21 hours across Winter Term and Spring Term.",
+ "formativeAssessment": "Students are expected to prepare for weekly classes. Feedback will be given on select assignments.",
+ "indicativeReading": [
+  "Acemoglu, Daron and James Robinson, Why Nations Fail, Crown Books, 2012;",
+  "Besley, Timothy and Torsten Persson, Pillars of Prosperity: The Political Economics of Development Clusters, Princeton University Press, 2011"
+ ],
+ "assessmentText": "Exam (50%), duration: 120 Minutes, reading time: 15 minutes in the Spring exam period. Course participation (10%). Essay (40%). Course participation (10%) in the WT. Essay (40%, 1,500 words) in the WT. Exam (50%, duration: 2 hours, reading time: 15 minutes) in the spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 50
+  },
+  {
+   "type": "Course participation",
+   "weight": 10
+  },
+  {
+   "type": "Essay",
+   "weight": 40
+  },
+  {
+   "type": "Course participation",
+   "weight": 10
+  },
+  {
+   "type": "Essay",
+   "weight": 40
+  },
+  {
+   "type": "Exam",
+   "weight": 50
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 39,
+  "avgClassSizePrevYear": 13,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EC/2026_EC241.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

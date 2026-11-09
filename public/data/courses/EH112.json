@@ -1,0 +1,50 @@
+{
+ "code": "EH112",
+ "title": "Economic History Skills",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economic History",
+ "units": 0.0,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Economic History, BSc in Economic History and Geography and BSc in Economics and Economic History. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "This course is part of the student welcome and engagement programme blending academic skills with signposting and being available for questions. It has four objectives: 1. Introduce Economic History Students to university routines by providing advice on: Setting expectations (the transition from high school to university) Setting up for success (deliberate practise, incremental improvement, seeking to be good enough vs perfection and sequential versus concurrent working). Introducing them to academic reading (reading methods and a worked example) Preparing students for careers by shaping their values, motivations and skill set. Preparing them for revision for the 20 week courses. 2. Signposting them to resources to ensure that they are: Successful enrolled on their modules, in a timely fashion. Successful enrolled on language options Aware of teaching and exam “adjustments” and ensuring that they have applied for them if they need them. Building awareness of how to access the department’s engagement team, writing advisors, SAMs, Careers Counsellor, etc Building awareness of school wide resources such as LSE Life, the digital skills lab etc. 3. Onboarding the incoming cohort and introducing then to the departments’ academic community. This includes a welcome week competition, and an engagement visit to the National Gallery. 4. Establish a strong foundation for their training as LSE Economic Historians.",
+ "teaching": "This course has a reading week in Week 6 of Autumn Term. 5 hours of small (7 to 15 pers.) group classes in the Autumn Term. 2 hours of small group classes in the Winter Term are under review.",
+ "formativeAssessment": null,
+ "indicativeReading": [],
+ "assessmentText": null,
+ "assessment": [],
+ "skills": [
+  "Self-management",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EH/2026_EH112.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

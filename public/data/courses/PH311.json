@@ -1,0 +1,77 @@
+{
+ "code": "PH311",
+ "title": "Philosophy of Economics",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Philosophy, Logic and Scientific Method",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Remco Heesen"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Philosophy and Economics. This course is available on the BSc in Econometrics and Mathematical Economics, BSc in Economics, BSc in Economics and Data Science, BSc in Philosophy, Logic and Scientific Method, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics and Philosophy, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "This course provides a philosophical discussion of (1) the methods and (2) the normative commitments of contemporary economics. (1) Here the course will focus on economic methodology and the foundations of utility theory, with an eye to current debates in economics. We will discuss questions such as: What is utility, and how do economists measure it? Does evidence of widespread \"irrationality\" from behavioural economics undermine standard microeconomic theory? Can idealised models teach us anything about real-world phenomena? If yes, how? How should we measure important economic variables, such as inflation? How do we best find out what interventions work in development? Does macroeconomics need microfoundations? Is the economics profession to blame for its failure to predict the financial crisis? (2) The second area of focus is on various normative issues lying in the intersection of philosophy and economics. It will critically examine methods used by economists for policy evaluation, such as social welfare functions and cost-benefit analysis. And it will consider ethical questions related to economic institutions, such as taxation, property, and use of markets. Questions to be addressed may include the following. What is \"well-being\" and to what extent can it be measured and compared between individuals? Are inequalities in the distribution of well-being necessarily undesirable or unjust? Can it ever be preferable to prevent a very large number of headaches rather than saving a single life? Should the interests of future generations be given equal weight with those of the current generation? What sorts of goods and services are appropriately exchanged in markets?",
+ "teaching": "15 hours of lectures and 10 hours of classes in the Autumn Term. 15 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term. This course is delivered through a combination of seminars and lectures totalling a minimum of 50 hours across Autumn Term and Winter Term.",
+ "formativeAssessment": "There is no separate formative assessment, but the essays and the feedback received on these, as well as the continuous assessment, partially serve to help prepare students for the exam.",
+ "indicativeReading": [
+  "D. Hausman, The Philosophy of Economics: An Anthology; J. L. Bermudez, Decision Theory and Rationality; J. Cohen and W. Easterly, What Works in Development: Thinking Big and Thinking Small; D. Hausman and M. McPherson, Economic Analysis, Moral Philosophy, and Public Policy; M. D. Adler, Measuring Social Welfare: An Introduction; D. Satz, Why Some Things Should Not Be for Sale."
+ ],
+ "assessmentText": "Exam (50%), duration: 180 minutes in the Spring exam period. Continuous assessment (30%). Essay (10%, 1200 words). Essay (10%, 1200 words). The precise format, requirements, and any deadlines for continuous assessment will be announced by the course convenor around the time teaching starts. In previous years this has typically consisted of a mixture of weekly multiple-choice quizzes testing reading comprehension and class participation. There will be one summative essay assignment on the material covered in AT and one on the material covered in WT. These have relatively low weights (10% each) because their primary purpose is as practice for the exam.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 50
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 30
+  },
+  {
+   "type": "Essay",
+   "weight": 10
+  },
+  {
+   "type": "Essay",
+   "weight": 10
+  },
+  {
+   "type": "These have relatively low weights",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 247,
+  "avgClassSizePrevYear": 15,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PH/2026_PH311.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

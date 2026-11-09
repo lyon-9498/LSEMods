@@ -1,0 +1,97 @@
+{
+ "code": "GV249",
+ "title": "Research Design in Political Science",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Marta Antonetti"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Social Anthropology, BSc in History and Politics, BSc in International Social and Public Policy with Politics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations, BSc in Politics and Philosophy, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is not available as an outside option to students on other programmes. This course is available with permission to General Course students. This course is capped at 7 groups maximum.",
+ "description": "The course will introduce students to the design, conduct and analysis of research in empirical Political Science spanning different subfields. The first term covers the formulation of research questions, and the development of theory and empirically testable hypotheses. From there, we will discuss different types of data, measurement, the distinction between description and inference, as well as correlation and causation, and basic quantitative and qualitative data collection and analysis strategies. Moreover, students will learn about research ethics, and some of the major methodological challenges that we face as a discipline including p-hacking, the file-drawer problem, issues of statistical power, as well as potential solutions such as pre-registration and results-blind review. The second term introduces students to specific research designs including ethnographic research, comparative case studies, as well as experimental and quasi-experimental designs. Throughout the year, there is an emphasis on the importance of good research design, and a solid understanding of the assumptions underlying the design that have implications for data analysis. The ultimate goal of the course is to equip students with the knowledge and skills to conduct their own research projects such as their BA/BSc thesis, and to allow them to evaluate published and unpublished work, as well as scientific and journalistic claims, based on the quality of the underlying research design. In AT, the course includes an introduction to the statistical programming language R, where students will learn practical skills of basic data management and analysis.",
+ "teaching": "15 hours of lectures and 9 hours of classes in the Autumn Term. 15 hours of lectures and 10 hours of classes in the Winter Term. 1.5 hours of lectures and 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Problem sets. Students will complete three formative problem sets throughout the course, two in AT and one in WT, that allow them to apply material from the course to concrete political science examples (e.g., identifying design elements of a published research paper; proposing strategies for answering a given research question, etc.). Some of these problem sets will involve applied problems in R.",
+ "indicativeReading": [
+  "Bueno de Mesquita, E. & Fowler, A. 2022.",
+  "Thinking Clearly with Data: A Guide to Quantitative Reasoning and Analysis",
+  ". Princeton University Press.",
+  "Geddes, B. 2003.",
+  "Paradigms and Sand Castles: Theory building and research design in comparative politics",
+  ". Ann Arbor, Michigan: University of Michigan Press.",
+  "Gerber, A. S., and D. P. Green. 2008. Field experiments and natural experiments.",
+  "The Oxford Handbook of Political Science",
+  ". Oxford: Oxford University Press.",
+  "Healy, K. 2017. Fuck nuance,",
+  "Sociological Theory",
+  "35(2): 118–127.",
+  "Kellstedt, P.M. and Whitten, G.D., 2018.",
+  "The fundamentals of political science research.",
+  "Cambridge University Press.",
+  "King, G.; Keohane, R. O. & Verba, S. 1994.",
+  "Designing Social Inquiry",
+  ". Princeton University Press.",
+  "Mill, J.S. 1882. A System of Logic,",
+  "Chapter VIII. On the four methods of experimental inquiry",
+  ". 8th edition. Harper and Brothers.",
+  "Wedeen, L. 2010. Reflections on ethnographic work in political science.",
+  "Annual Review of Political Science",
+  "13: 255-272."
+ ],
+ "assessmentText": "Exam (60%), duration: 120 Minutes in the Spring exam period. Continuous assessment (20%). Research design (20%). This component of assessment includes an element of group work. The continuous assessment will be based on in-class quizzes in the AT and WT. The research design group project will take place in the WT and include a presentation element. GENERAL COURSE STUDENTS ONLY: The Class Summary Grade for General Course students will be calculated as follows: 33% Problem Set 1, 33% Problem Set 2, and 34% Problem Set 3.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 60
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 20
+  },
+  {
+   "type": "Research design",
+   "weight": 20
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 95,
+  "avgClassSizePrevYear": 14,
+  "capped": "Yes(105)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV249.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

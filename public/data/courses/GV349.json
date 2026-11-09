@@ -1,0 +1,76 @@
+{
+ "code": "GV349",
+ "title": "Central and Eastern Europe: Democracy, Authoritarianism and Nationalism",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Vesselin Dimitrov"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Social Anthropology, BSc in History and Politics, BSc in International Social and Public Policy with Politics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations, BSc in Politics and Philosophy and BSc in Social Anthropology. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is capped. Places will be assigned on a first-come first-served basis.",
+ "description": "Central and Eastern Europe has experienced radical political, social and economic changes in the last few decades, with a revolutionary transition from communism to liberal democracy in 1989, democratic backsliding and rise of authoritarianism since 2010, rapid economic progress, ever-closer integration with the European Union as well as a backlash against the integration process, and the rise of nationalism in many forms, ranging from civil wars and state collapse in the 1990s to the increasing role of populist nationalist parties since 2010. This course aims to provide students with an in-depth analytical assessment of these radical changes, rooted in the Comparative Politics literature on democratisation and democratic backsliding, populism, nationalism and European integration. The course will analyse both general trends across the region and variations across and within countries; comparisons will also be made with trends in advanced industrial democracies in Western Europe. Students will gain empirical knowledge of the region’s politics, a deeper theoretical understanding of key issues in political science, as well as crucial analytical skills.",
+ "teaching": "10 hours of lectures and 20 hours of seminars in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "Essay plan (700 words). The formative assessment comprises a detailed 700-word plan of the summative essay.",
+ "indicativeReading": [
+  "Dimitrov, Vesselin, Goetz, Klaus H. and Wollmann, Hellmut.",
+  "Governing after Communism: Institutions and Policymaking.",
+  "Vachudova, Milada A.",
+  "Europe Undivided: Democracy, Leverage, and Integration after Communism.",
+  "Lorenz, Astrid and Anders, Lisa H. (eds).",
+  "Illiberal Trends and Anti-EU Politics in East Central Europe.",
+  "Cohen, Lenard J.",
+  "Broken Bonds: Yugoslavia's Disintegration and Balkan Politics in Transition.",
+  "White, Stephen, Lewis, Paul G. and Batt, Judy (eds).",
+  "Developments in Central and East European Politics 5.",
+  "Przeworski, Adam.",
+  "Democracy and the Market: Political and Economic Reforms in Eastern Europe and Latin America.",
+  "Elster, Jon et al.,",
+  "Institutional Design in Post-Communist Societies."
+ ],
+ "assessmentText": "Essay (100%, 3500 words) in Winter Term Week 1. The summative assessment comprises a 3,500-word final essay on a topic on Central and Eastern Europe.",
+ "assessment": [
+  {
+   "type": "Essay",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV349.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

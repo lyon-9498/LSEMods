@@ -1,0 +1,79 @@
+{
+ "code": "ST213",
+ "title": "Introduction to Pricing, Hedging and Optimization",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Statistics",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "David Itkin"
+ ],
+ "prerequisites": null,
+ "corequisites": "Students must complete MA203 and ST202 either before taking this course or in the same year as this course.",
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Financial Mathematics and Statistics. This course is available on the Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students.",
+ "description": "This course introduces the concepts of valuation, hedging and portfolio selection in a discrete-time environment. Towards the end, it introduces continuous-time markets in a heuristic fashion. It covers the following topics: • The binomial model; pricing and replication. • Trinomial model and incompleteness, arbitrage-free price intervals. • General discrete-time models and the fundamental theorems. • Portfolio optimization and hedging. • Multi-period models and backwards induction methods. • Passage to continuous time Black & Scholes model.",
+ "teaching": "10 hours of seminars and 20 hours of lectures in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Students will be expected to produce 9 problem sets in the WT. Certain problem sets will be returned with feedback.",
+ "indicativeReading": [
+  "Lecture notes will be provided."
+ ],
+ "assessmentText": "Exam (80%), duration: 120 minutes, reading time: 15 minutes in the Spring exam period. Problem sets (20%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 80
+  },
+  {
+   "type": "Problem sets",
+   "weight": 20
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 39,
+  "avgClassSizePrevYear": 20,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/ST/2026_ST213.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "course",
+    "code": "MA203"
+   },
+   {
+    "type": "course",
+    "code": "ST202"
+   }
+  ]
+ },
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": [
+  "MA323"
+ ]
+}

@@ -1,0 +1,98 @@
+{
+ "code": "EC1B1",
+ "title": "Macroeconomics I",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economics",
+ "units": 0.5,
+ "studyPeriod": "Winter and Spring Term",
+ "terms": [
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Joe Hazell"
+ ],
+ "prerequisites": "Students must have completed ST109 and EC1P1 before taking this course.",
+ "corequisites": "Students must complete MA108 or MA100 either before taking this course or in the same year as this course.",
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Econometrics and Mathematical Economics and BSc in Economics. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "This course builds on the knowledge learned in EC1P1. You will learn why economic activity fluctuates over time (business cycles). We will discuss how government policy can affect short-term outcomes, such as unemployment, GDP and inflation. Other topics will include inequality and financial crises. We will apply the tools developed in the course to recent events, as well as historical events such as the Great Depression. An important aspect of the course is a coding exercise with data. This will help you acquire a deeper understanding of the material. EC1B1, in combination with EC1A1, contributes towards certificate level exemptions from professional Chartered Institute of Management Accountants (CIMA) examinations. This course, combined with EC1A1, contributes to the CB2 Exemption of the Institute and Faculty of Actuaries (IFoA).",
+ "teaching": "9 hours of classes and 20 hours of lectures in the Winter Term. 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Winter Term. There will be a reading week in Week 6 of WT only (no lectures or classes that week). This course is delivered through a combination of classes and lectures totalling a minimum of 30 hours across Winter Term and Spring Term.",
+ "formativeAssessment": "There will be weekly assignments and feedback will be given on two. The coursework will be a set of coding exercises, with data, in Python. This is a group project and the course will teach you the necessary programming skills.",
+ "indicativeReading": [
+  "There is no set textbook for the course. Lecture material may occasionally be complemented by supplementary readings.",
+  "Students wishing to complement their study should consult the following textbook:",
+  "C. Jones, Macroeconomics, W.W. Norton & Company, 5th Edition."
+ ],
+ "assessmentText": "Exam (85%), duration: 120 Minutes, reading time: 15 minutes in the Spring exam period. Project (15%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 85
+  },
+  {
+   "type": "Project",
+   "weight": 15
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 218,
+  "avgClassSizePrevYear": 20,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EC/2026_EC1B1.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "course",
+    "code": "ST109"
+   },
+   {
+    "type": "course",
+    "code": "EC1P1"
+   }
+  ]
+ },
+ "coreqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "course",
+    "code": "MA108"
+   },
+   {
+    "type": "course",
+    "code": "MA100"
+   }
+  ]
+ },
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": [
+  "EC2B1",
+  "MG206",
+  "MG301"
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "code": "AC206",
+ "title": "Intermediate Management Accounting",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Accounting",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Hyunjin Kim"
+ ],
+ "prerequisites": "Students must have completed AC103 or AC106 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": "or equivalent",
+ "availability": "This course is compulsory on the BSc in Accounting and Finance. This course is available on the BSc in Management, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. Please seek permission from the BSc in Accounting and Finance Programme Director Dr Saipriya Kamath (s.kamath2@lse.ac.uk). This course is capped at 225 students.",
+ "description": "AC206 is a half-unit course that builds on the foundation laid by the first-year management accounting courses. The course will provide students with the conceptual knowledge and practical understanding necessary for final-year courses in management accounting. This course will provide students with an in-depth knowledge and understanding of major accounting issues such as modern cost management, capital investment decision-making, and strategic management accounting. It will develop students’ ability to prepare, interpret, analyse, and critically evaluate management accounting information and issues within the broader economic, organisational, and social context.",
+ "teaching": "This course has a reading week in Week 6 of Autumn Term. Teaching is delivered in two weekly 1.5 hour seminars over 10 weeks in the Autumn Term with a reading week in Week 6. Seminars contain a variety of concept-focused content, practical exercises, and case analyses.",
+ "formativeAssessment": "Students are expected to come to each seminar prepared, having read and attempted the assigned course materials. The course is practical while covering fundamental concepts and theory. It will delve into real-life issues relating to management accounting activities in enterprises with case studies and illustrations from practice. The course is designed so that concepts, illustrations, and cases complement one another. Class participation is expected and will help you achieve the course objectives. Feedback on performance and progress will be provided during seminars and via the marking of a case analysis project..",
+ "indicativeReading": [
+  "Detailed course programmes and reading lists will be made available via Moodle and the Reading List before the first seminar of the term. The following textbooks are tentative and may be subject to change.",
+  "The main textbook for the course: A. Bhimani, C. Horngren, S. Datar, and M. Rajan. Management and Cost Accounting, Eighth Edition (Pearson, 2023).",
+  "Additional reference for the course: R. Hilton and D. Platt. Managerial Accounting, Twelfth Edition (McGraw-Hill, 2023)"
+ ],
+ "assessmentText": "Exam (60%), duration: 120 minutes, reading time: 15 minutes in the January exam period. Project (30%). Problem sets (10%). The final project presentation group will be randomly assigned. Further details of all aspects of assessment and coursework will be made available on Moodle nearer the scheduled start time of the course. They will also be updated as the course progresses with specific instructions, guidance, and feedback.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 60
+  },
+  {
+   "type": "Project",
+   "weight": 30
+  },
+  {
+   "type": "Problem sets",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 154,
+  "avgClassSizePrevYear": 51,
+  "capped": "Yes(225)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AC/2026_AC206.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "course",
+    "code": "AC103"
+   },
+   {
+    "type": "course",
+    "code": "AC106"
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

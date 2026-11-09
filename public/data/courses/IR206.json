@@ -1,0 +1,75 @@
+{
+ "code": "IR206",
+ "title": "International Political Economy",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International Relations",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr James Morrison",
+  "Dr Tuuli-Anna Huikuri"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Economics, BSc in International Relations, BSc in International Relations and Chinese, BSc in International Relations and History, BSc in Politics and International Relations, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course has a limited number of places (it is capped).",
+ "description": "The course examines the role of power and politics in international economic relations. Besides international structural factors, it emphasises the role of domestic political interests and their influence over foreign economic policies. Major approaches covered include historical views on international political economy, and contemporary systemic theories of international cooperation, interest groups politics, ideas and institutions. The course provides an overview and explanation of the international monetary and trade systems since 1944. It also discusses some of the most pressing challenges in contemporary world economy today, ranging from global production and uneven development to economic statecraft, gloablization backlash, and international political economy of the environment and technological change.",
+ "teaching": "9 hours of classes and 15 hours of lectures in the Autumn Term. 10 hours of classes and 15 hours of lectures in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Autumn Term: In class presentation Critical literature review Winter Term: Discussion opening Policy memo Students will receive feedback on their formative assessments to support their preparation for the summative literature review and policy memo.",
+ "indicativeReading": [
+  "Basic references are:",
+  "M Blyth (ed), Routledge Handbook of International Political Economy (IPE);",
+  "J Ravenhill (ed), Global Political Economy;",
+  "S Strange, States and Markets;",
+  "R Palan, Global Political Economy: Contemporary Theories;",
+  "J Frieden & D Lake, International Political Economy;",
+  "T Oatley, International Political Economy;",
+  "A Walter & G Sen, Analyzing the Global Political Economy.",
+  "A detailed reading list will be given at the beginning of the course."
+ ],
+ "assessmentText": "Critical evaluation (50%, 2000 words) in January. Memo (50%, 2000 words). Critical Literature Analysis 2,000 words (50%) in January and Policy memo 2,000 words (50%) in Spring Term",
+ "assessment": [
+  {
+   "type": "Critical evaluation",
+   "weight": 50
+  },
+  {
+   "type": "Memo",
+   "weight": 50
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 146,
+  "avgClassSizePrevYear": 13,
+  "capped": "Yes(165)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/IR/2026_IR206.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": [
+  "IR380"
+ ]
+}

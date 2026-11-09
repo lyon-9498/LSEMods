@@ -1,0 +1,85 @@
+{
+ "code": "AC331",
+ "title": "Contemporary Issues in Financial Accounting",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Accounting",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Carmine Pizzo"
+ ],
+ "prerequisites": "Students must have completed AC105 or AC102 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": "Intermediate Financial Accounting (AC205) is recommended to complement either AC105 or AC102, but not required.",
+ "availability": "This course is compulsory on the BSc in Accounting and Finance. This course is available on the BSc in Management, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students.",
+ "description": "AC331 considers key areas of topical interest and the impact of accounting standards on financial statements in an IFRS context. Specifically, the course critically analyses accounting practices and processes from the point of view of investors. The course will examine on revenue recognition, tangible and intangible assets, the reporting of financial instruments, off-balance-sheet accounting, stock-based compensation, as well as, issues related to the differential approaches to measurement including historical cost and fair values. However, the exact composition of the topics may vary from year to year driven by the latest developments in financial reporting, standard-setting and related debates. The course aims to enhance students’ understanding of contemporary issues in financial accounting. Throughout the course, taken-for-granted “wisdoms” will be critically evaluated and challenged. Finally, this course encourages and prepares students to become informed players on the debate around financial accounting and reporting issues.",
+ "teaching": "This course has a reading week in Week 6 of Autumn Term. Teaching is delivered in two weekly 90-minute sessions over 10 weeks across Autumn Term. There is a reading week in week 6 of AT. Teaching sessions contain a variety of conceptual content, case analyses and practical exercises.",
+ "formativeAssessment": "Students should prepare weekly written work for class discussion. One specified piece of written work will be collected for marking.",
+ "indicativeReading": [
+  "Detailed reading lists of books and journal articles will be provided during the course. No one book covers the entire course. Recommended books include:",
+  "Beaver, W.H. (1998) Financial Reporting: An Accounting Revolution, 3rd edition, Pearson;",
+  "Lewis and Pendril (2004) Advanced Financial Accounting,7th edition, Financial Times Prentice Hall;",
+  "Penman, S. (2013) Financial Statement Analysis and Security Valuation, 5th edition, McGrawHill",
+  "As well as accounting standards, firms’ press releases, analysts’ reports and academic research papers."
+ ],
+ "assessmentText": "Exam (75%), duration: 120 minutes, reading time: 15 minutes in the January exam period. Project (25%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 75
+  },
+  {
+   "type": "Project",
+   "weight": 25
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 151,
+  "avgClassSizePrevYear": 50,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AC/2026_AC331.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "course",
+    "code": "AC105"
+   },
+   {
+    "type": "course",
+    "code": "AC102"
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

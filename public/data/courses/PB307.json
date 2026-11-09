@@ -1,0 +1,93 @@
+{
+ "code": "PB307",
+ "title": "Consumer Psychology for Sustainability",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Psychological and Behavioural Science",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Miriam Tresh",
+  "Dr Harry Lewis"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Psychological and Behavioural Science. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "The course will address the psychology of consumption at different levels of analysis: individual, group and societal. It will ground this psychology in the relevant literature, and teach you the field’s foundational theories, allowing you to develop a mental model of human behaviour as it relates to consumption. This is not a standard marketing or consumer research course. It is not about brand territories and market shares, but about how understanding various psychological processes in conjunction with these forces can provide us with tools to improve the world. How can we leverage consumer psychology to solve our sustainability problem? By the end of this course you should: Be able to present the social psychology of consumption at different levels of analysis: individual, group and societal level. Be able to relate this to core psychology and behavioural science. Be able to use the above to explain phenomena classically described in marketing and consumer science. Have explored innovative research methods, theories and business models relating to sustainability and consumption.",
+ "teaching": "15 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term. Lectures will be delivered jointly with PB417, an MSc level course in the department. Classes will be specific for undergraduate students.",
+ "formativeAssessment": "For each major and minor assessment option there is an equivalent piece of formative coursework. These are designed to help students to prepare for the summative assessments.",
+ "indicativeReading": [
+  "Belk, R. W. (1988). Possessions and the extended self.",
+  "Journal of Consumer Research",
+  ",",
+  "15",
+  "(2), 139-168.",
+  "Bocken, N. M., Niessen, L., Gossen, M., Das, A., & Zielińska, M. (2025). Marketing in the anthropocene: A future agenda for research and practice.",
+  "AMS Review",
+  ",",
+  "15",
+  "(1), 23-47.",
+  "Lahlou, S. (2017)",
+  "Installation Theory. The Societal Construction and Regulation of Individual Behaviour",
+  ". Cambridge University Press.",
+  "Lahlou, S. (2024).",
+  "Why People Do what They Do. And How to Make Them Change",
+  ". Polity.",
+  "Vlieger de Oliveira, S. E., Wache, C., & Raithel, S. (2024). The role of possessions for the extended self of sustainability-concerned anti-consumers.",
+  "AMS Review",
+  ",",
+  "14",
+  "(3), 220-238.",
+  "White, K., Habib, R., & Hardisty, D. J. (2019). How to SHIFT consumer behaviors to be more sustainable: A literature review and guiding framework.",
+  "Journal of Marketing",
+  ",",
+  "83",
+  "(3), 22-49."
+ ],
+ "assessmentText": "Project (70%). Project (30%). Students will choose ONE minor and ONE major assessment from a list of assessments.",
+ "assessment": [
+  {
+   "type": "Project",
+   "weight": 70
+  },
+  {
+   "type": "Project",
+   "weight": 30
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 14,
+  "avgClassSizePrevYear": 14,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PB/2026_PB307.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

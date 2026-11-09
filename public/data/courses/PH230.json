@@ -1,0 +1,80 @@
+{
+ "code": "PH230",
+ "title": "Einstein for Everyone: From time travel to the edge of the universe",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Philosophy, Logic and Scientific Method",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Nadia Blackshaw"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Philosophy and Economics, BSc in Philosophy, Logic and Scientific Method, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics and Philosophy, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "Does the universe have an edge? Is time travel possible? What is a black hole, and in what sense are space, time and gravity a matter of \"geometry\"? The modern theory of spacetime introduced by Einstein provides a precise framework in which to ask these questions. This course makes their analysis accessible to everyone. Students will have the opportunity to engage with Einstein's theories of relativity, to use them to analyse philosophical problems, and to examine their philosophical and practical implications. Students will learn to apply these conceptual tools to the analysis of space, time and gravity, as well as to formulate and argue for their own perspectives on the philosophical implications of relativity theory. One is often faced with unsubstantiated declarations about the implications of Einstein's theories, by both scientists and non-scientists. This course will equip non-scientists with the conceptual tools needed to critically analyse these claims for themselves. It will also provide students with the tools needed to discuss the philosophy of space and time from a modern perspective. Einstein for Everyone requires absolutely no background in physics or maths.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. This course has a reading week in Week 6 of Autumn Term. The teaching will be delivered through in-person lectures and a weekly class, and the term includes a reading week.",
+ "formativeAssessment": "Students will write one formative essay plan to prepare for the summative essay.",
+ "indicativeReading": [
+  "- Norton, John D. (2015)",
+  "Einstein for Everyone",
+  ".",
+  "- Hugget, Nick. (2010)",
+  "Everywhere and Everywhen: Adventures in Physics and Philosophy.",
+  "- Einstein, Albert (1920)",
+  "Relativity: The special and general theory",
+  ".",
+  "- Euclid (1908)",
+  "The Thirteen Books of Euclid's Elements",
+  ", Vol I.",
+  "- Poincaré, Henri (1905)",
+  "Science and Hypothesis",
+  ".",
+  "Weekly essential readings will be provided on Moodle, selected individually from various book chapters and journal articles."
+ ],
+ "assessmentText": "Exam (60%), duration: 120 minutes, reading time: 5 minutes in the Spring exam period. Essay (40%). There are two parts to the summative assessments: a 2hr exam (60%) and an essay (40%), building on the formative essay plan. The exam for this course is an e-Exam, an invigilated in-person exam on the LSE campus in which, instead of completing your answers on a paper script, you use your own personal laptop to type your answers and submit electronically. e-Exam duration: 2 hours.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 60
+  },
+  {
+   "type": "Essay",
+   "weight": 40
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 26,
+  "avgClassSizePrevYear": 13,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PH/2026_PH230.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

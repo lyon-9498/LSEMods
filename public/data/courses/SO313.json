@@ -1,0 +1,79 @@
+{
+ "code": "SO313",
+ "title": "Material Culture and Everyday Life",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Sociology",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Michael Stack"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Language, Culture and Society, BSc in Sociology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is not available as an outside option to students on other programmes. This course is available with permission to General Course students. This course is not available as a first year option. This course has a limited number of places (it is capped). Places are allocated on a first come first served basis.",
+ "description": "The course focuses on how ‘things’ enter into and mediate everyday social relations and practices. Students will consider all aspects of the social life of things, from design and production through use, consumption and everyday practices. This will allow them to address a range of long-standing theoretical and political concerns within sociology such as the role of objects and materiality in social life; social organizations of objects and exchange, such as consumer culture; the life cycle of objects; and the socio-political status of ‘everyday life’ itself. At the same time, there will be a strong methodological emphasis: not just how do we study objects in everyday life, but how might such studies impact on social research more generally. The course will rely heavily on case studies and cross-cultural differences will be raised throughout. Museums, as a site of collection and preservation of material culture will also be scrutinized.",
+ "teaching": "This course has a reading week in Week 6 of Autumn Term. This course is usually delivered through a combination of lectures and seminars. There will be two hours or more of teaching each week in AT.",
+ "formativeAssessment": "Proposal. Students will be expected to work in pairs to present a proposal for the inclusion of an object in the imagined \"Museum of the Future\". They will create a wall text and apply one theoretical lens to their object.",
+ "indicativeReading": [
+  "Drazin, A. & Küchler, S. (eds.) (2015)",
+  "The social life of materials: Studies in materials and society.",
+  "Bloomsbury Academic, London.",
+  "Latour, B. (2005)",
+  "Reassembling the Social: An Introduction to Actor-Network-Theory",
+  ". Oxford: Oxford University Press.",
+  "Lury, C. (2011)",
+  "Consumer culture",
+  ", 2nd ed. Polity, Cambridge.",
+  "Miller, D. (2008)",
+  "The comfort of things",
+  ". Polity, Cambridge.",
+  "Molotch, H. (2003)",
+  "Where Stuff Comes From: How Toasters, Toilets, Cars, Computers and Many Other Things Come to Be as They Are.",
+  "New York and London: Routledge.",
+  "Shove, E., M. Hand, J. Ingram and M. Watson (eds.) (2007)",
+  "The Design of Everyday Life",
+  ". Oxford: Berg."
+ ],
+ "assessmentText": "Research report (100%) in January. A 3,000 word research report on an object of the student’s choosing in which they are asked to address a clear list of considerations such as design, material properties, social practices and uses, methodological questions and so on. Potential objects and practices for the final research report will be workshopped in class. Attendance at all classes and submission of all set coursework is required.",
+ "assessment": [
+  {
+   "type": "Research report",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 31,
+  "avgClassSizePrevYear": 16,
+  "capped": "Yes(34)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SO/2026_SO313.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

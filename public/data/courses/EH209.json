@@ -1,0 +1,84 @@
+{
+ "code": "EH209",
+ "title": "The Family Economy in History: 1260 to the present day",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economic History",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Sara Horrell"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Economic History, BSc in Economic History and Geography, BSc in Economics and Economic History, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "In recent accounts the actions of individuals within families and the household have emerged as important explanations for pre-industrial and industrial economic growth. Female agency in marriage decisions resulted in a variant of household formation which allowed high living standards after the ravages of the Black Death. Later, the consumption desires of households prompted increased market participation of women and children, creating an early modern industrious revolution with the potential to evolve into industrial revolution. High wages and child labour have both emerged as contenders in determining the path to industrialisation, and shifts in the provision of education and health services have impacted women’s duties within the household and their opportunities in the wider economy throughout the twentieth century. This course examines the role played by the family in determining the path of development. While the lectures largely relate to the British experience, the classes and assessment invite comparisons with experiences in Europe, Asia, and North America. Simple economic models of individual and household behaviour provide the theoretical basis for understanding outcomes, but the focus is on evidence, often quantitative, and critical evaluation of contending explanations.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. 10 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Students will be expected to produce 1 essay and 1 presentation in the AT and 1 essay and 1 presentation in the WT. Students are expected to write two essays or equivalent pieces of written work. Students are expected to participate in group presentations of specific readings to the rest of the class twice during the course.",
+ "indicativeReading": [
+  "De Moor, Tine, and van Zanden, Jan Luiten (2010) ‘Girl Power: The European Marriage Pattern and Labour Markets in the North Sea Region in the Late Medieval and Early Modern Period,’",
+  "Economic History Review",
+  ", 63, pp. 1-33.",
+  "De Vries, Jan (2008)",
+  "The Industrious Revolution: consumer behaviour and the household economy, 1650 to the present",
+  ", Cambridge University Press",
+  "Muldrew, Craig (2011)",
+  "Food, energy and the creation of industriousness",
+  ", Cambridge University Press",
+  "Humphries, Jane (2010)",
+  "Childhood and Child Labour in the British Industrial Revolution",
+  ", Cambridge University Press.",
+  "Horrell, Sara, Jane Humphries and Jacob Weisdorf (2019) Family standards of living over the long-run, England 1280-1850',",
+  "Past and Present.",
+  "June Purvis (ed) (1997)",
+  "Women's History, Britain 1850-1945. An introduction,",
+  "Routledge"
+ ],
+ "assessmentText": "Exam (60%), duration: 120 minutes in the Spring exam period. Presentation (7.5%). Presentation (7.5%). Essay (25%, 2500 words). The summative essay is chosen from a selection of topics covered during the course. Students will give two summative presentations worth 7.5% each, one in AT and one in WT.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 60
+  },
+  {
+   "type": "Essay",
+   "weight": 25
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 31,
+  "avgClassSizePrevYear": 16,
+  "capped": "Yes(34)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EH/2026_EH209.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

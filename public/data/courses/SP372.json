@@ -1,0 +1,69 @@
+{
+ "code": "SP372",
+ "title": "Punishment and Penal Policy",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Social Policy",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Leonidas Cheliotis"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in International Social and Public Policy, BSc in International Social and Public Policy with Economics, BSc in International Social and Public Policy with Politics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students. This course is only available to third year undergraduate students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "This third-year course is a half-unit option, and explores punishment and penal policy from a range of comparative perspectives. Focusing on Anglophone jurisdictions and the rest of the world in equal measure, the course considers in depth a wide variety of historical and international comparative studies of punishment and penal policy, both from the field of criminology and beyond. In so doing, the course critically examines theoretical frameworks and empirical research on such issues as: • the forms state punishment has assumed over time and in different national and regional contexts; • the array and relative significance of the reasons why punishment and penal policy may develop, qualitatively as well as quantitatively, in particular ways at given historical junctures and in different jurisdictions; • the relationship between political systems and punishment, with particular reference to processes of democratisation; • the links between penal policy and different forms of economic organisation, from preindustrial capitalism to welfare capitalism and neoliberalism; and • the role of punishment in society as explained through psychosocial theories and research",
+ "teaching": "15 hours of lectures and 15 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term. All teaching will be in accordance with the LSE Academic Code which specifies a \"minimum of two hours taught contact time per week when the course is running in the Autumn Term (AT) and/or Winter Term (WT)\". Social Policy courses are predominantly taught through a combination of in-person Lectures and in-person classes/seminars. Further information will be provided by the Course Convenor in the first lecture of the course.",
+ "formativeAssessment": "Essay in Winter Term Week 7. Students will be expected to produce 1 essay on a pre-defined topic.",
+ "indicativeReading": [
+  "Alexander, M. (2010) The New Jim Crow: Mass Incarceration in the Age of Colorblindness. New York and London: The New Press.",
+  "Brown, M. (2009) The Culture of Punishment: Prison, Society, and Spectacle. New York and London: New York University Press.",
+  "Dumm, T. L. (1987) Democracy and Punishment: Disciplinary Origins of the United States. Madison, WI: The University of Wisconsin Press.",
+  "Garland, D. (1985) Punishment and Welfare: A History of Penal Strategies. Aldershot, UK: Gower.",
+  "Gottschalk, M. (2014) Caught: The Prison State and the Lockdown of American Politics. Princeton, NJ: Princeton University Press.",
+  "Karstedt, S. (ed.) (2009) Legal Institutions and Collective Memories. Oxford: Hart.",
+  "Lacey, N. (2008) The Prisoners’ Dilemma: Political Economy and Punishment in Contemporary Democracies. Cambridge: Cambridge University Press.",
+  "McBride, K. (2007) Punishment and Political Order. Ann Arbor, MI: The University of Michigan Press.",
+  "Reiner, R. (2007) Law and Order: An Honest Citizen’s Guide to Crime and Control. Cambridge: Polity.",
+  "Salvatore, R. D., Aguirre, C. and G. M. Joseph (eds) (2001) Crime and Punishment in Latin America: Law and Society since Colonial Times. Durham, NC: Duke University Press."
+ ],
+ "assessmentText": "Exam (100%), duration: 180 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 17,
+  "avgClassSizePrevYear": 17,
+  "capped": "Yes(15)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SP/2026_SP372.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

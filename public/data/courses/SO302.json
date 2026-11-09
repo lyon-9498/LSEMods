@@ -1,0 +1,66 @@
+{
+ "code": "SO302",
+ "title": "The Sociological Dissertation",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Sociology",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Fran Tonkiss",
+  "Haley Mcavay"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Sociology. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "The dissertation takes the form of an independent research project of 10,000 words on a sociological topic of the students’ choosing, developed in consultation with their Academic Mentor. The dissertation process includes reviewing relevant literature on the topic of study, formulating a viable and sociologically-relevant research problem, collecting and analysing primary and/or secondary data (such as a case study, data set, fieldwork observations, corpus of texts, survey results or interviews), and writing up an independent analysis based on this research. Students’ work on the dissertation is supervised in small-group and individual tutorials with their Academic Mentor over AT and WT. The Dissertation process is supported by a series of compulsory group workshops in the AT and WT which focus on research project design. The workshops cover topics such as identifying a sociological problem for investigation, constructing a bibliography, research ethics, research access, data collection, data analysis and writing up.",
+ "teaching": "This course has a reading week in Week 6 of Autumn and Winter Term. 7 hours and 30 minutes of seminars in the AT. 6 hours of seminars in the WT. In addition, students will attend 4 group tutorials with their Academic Mentor in the AT and 2 individual supervisions in the WT.",
+ "formativeAssessment": "Annotated bibliography. Students will be expected to complete an annotated bibliography in AT.",
+ "indicativeReading": [],
+ "assessmentText": "Proposal (10%, 2000 words) in December. Dissertation (90%, 10000 words) in May. Attendance at all classes and submission of all set coursework is required.",
+ "assessment": [
+  {
+   "type": "Proposal",
+   "weight": 10
+  },
+  {
+   "type": "Dissertation",
+   "weight": 90
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 34,
+  "avgClassSizePrevYear": 10,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SO/2026_SO302.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

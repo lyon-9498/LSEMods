@@ -1,0 +1,75 @@
+{
+ "code": "SP230",
+ "title": "Education Policy",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Social Policy",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Anne West"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in International Social and Public Policy, BSc in International Social and Public Policy with Economics, BSc in International Social and Public Policy with Politics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course is capped. Places will be assigned to BSc Social Policy students in the first instance.",
+ "description": "This course provides an introduction to the main issues in educational policy. It draws on interdisciplinary research literature and has a comparative and international focus. The course aims to show how major concepts used in social policy can be applied to the study of education, for example, equality of opportunity, equity and the distribution of resources. Issues to be addressed include: policy goals of education; historical development of education and the role of the state in provision and funding; the impact of social characteristics on educational outcomes (class, gender, ethnicity and ‘race); education of children with special educational needs and disabilities; financing education; private schooling; privatisation and the changing role of the state; early years education; school-based education; post-compulsory education including higher education; education systems in comparative perspective and education regimes, decentralisation and devolution. Not all of these issues are covered as separate weekly topics.",
+ "teaching": "20 hours of seminars in the Autumn Term. 20 hours of seminars in the Winter Term. 1 hour of seminars in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term. All teaching will be in accordance with the LSE Academic Code which specifies a \"minimum of two hours taught contact time per week when the course is running in the Autumn Term (AT) and/or Winter Term (WT)\". SP230 Education Policy is taught by means of in-person seminars. Further information will be provided by the Course Convenor in the first seminar of the course. This course is taught in both AT & WT.",
+ "formativeAssessment": "Students will be expected to write one essay during AT Students will attempt one essay in class under timed conditions in WT in preparation for the summative assessment",
+ "indicativeReading": [
+  "Some introductory texts are recommended:",
+  "Arthur, J., Peterson, A. (eds) (2011) The Routledge Companion to Education. London: Routledge.",
+  "Chitty, C. (2014) Education Policy in Britain. Basingstoke: Palgrave Macmillan.",
+  "Specialist reading lists for each topic will be provided."
+ ],
+ "assessmentText": "Exam (80%), duration: 180 minutes in the Spring exam period. Presentation (10%). Course participation (10%). 80% in-person E-Exam; 10% Class Participation and 10% Group Presentation",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 80
+  },
+  {
+   "type": "Presentation",
+   "weight": 10
+  },
+  {
+   "type": "Course participation",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 19,
+  "avgClassSizePrevYear": 10,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SP/2026_SP230.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

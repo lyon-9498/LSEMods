@@ -1,0 +1,71 @@
+{
+ "code": "IR367",
+ "title": "Green Political Economy",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International Relations",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Robert Falkner"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in International Relations, BSc in International Relations and Chinese, BSc in International Relations and History, BSc in Politics and International Relations, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is not available as an outside option to students on other programmes. This course is available with permission to General Course students. This course has a limited number of places (it is capped).",
+ "description": "The course explores the political economy of the global environment, that is the ways in which politics and the economy interact to shape environmental outcomes at the national, regional and global level. It examines the main actors and institutions (firms, consumers, activists, states, international organisations) that seek to influence global environmental management and considers their interaction in key economic areas, including international trade, finance, investment and energy. Integrating concepts and ideas from global political economy, international relations and environmental economics, it focuses on critical debates on green growth versus degrowth, the role of environmental markets, the greening of production and consumption, and the role of the state in directing the green economic transition. While the emphasis is on conceptual perspectives and debates, the global challenge of climate change alongside other global environmental threats will feature prominently throughout the course.",
+ "teaching": "10 hours of seminars and 15 hours of lectures in the Winter Term. This course has a reading week in Week 6 of Winter Term. 10 lectures and 10 seminars on the following topics: Introduction Growth Markets Production Consumption States Trade Foreign Investment Finance Energy",
+ "formativeAssessment": "Mock e-Exam in Week 7 (1 hour) The formative mock exam provides students with an opportunity to engage critically with key readings on course topics, and to receive constructive feedback to support their preparation for the summative e-Exam.",
+ "indicativeReading": [
+  "Allan, B. B. and J. Nahm (2025). \"Strategies of Green Industrial Policy: How States Position Firms in Global Supply Chains.\" American Political Science Review 119(1): 420-434.",
+  "Brandi, C. and J.-F. Morin (2023). Trade and the Environment: Drivers and Effects of Environmental Provisions in Trade Agreements, Cambridge University Press.",
+  "Clapp, J. and P. Dauvergne (2011). Paths to a Green World: The Political Economy of the Global Environment. Cambridge, MA, MIT Press.",
+  "Dotzauer, M., L. Biber-Freudenberger and T. Dietz (2024). \"The Rise of Sustainability Provisions in International Investment Agreements.\" Global Environmental Politics 24(4): 10-36.",
+  "Falkner, R. (2026). Green Political Economy. Cambridge: Polity.",
+  "Fuchs, Doris, et al. (2021). Consumption corridors: Living a good life within sustainable limits. London: Routledge.",
+  "Kallis, Giorgos. (2018). Degrowth. Newcastle: Agenda Publishing.",
+  "Kedward, K., D. Gabor and J. Ryan-Collins (2024). \"Carrots with (out) sticks: credit policy and the limits of green central banking.\" Review of International Political Economy: 1-25.",
+  "Nahm, Jonas. (2021). Collaborative Advantage: Forging Green Industries in the New Global Economy. Oxford: Oxford University Press. Newell, P. (2021). Power shift: The global political economy of energy transitions, Cambridge University Press.",
+  "Newell, Peter, & Paterson, Matthew. (2010). Climate Capitalism: Global Warming and the Transformation of the Global Economy. Cambridge: Cambridge University Press."
+ ],
+ "assessmentText": "Exam (100%), duration: 120 Minutes in the Spring exam period. The exam will be an on campus 'e-Exam'.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 20,
+  "avgClassSizePrevYear": 10,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/IR/2026_IR367.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

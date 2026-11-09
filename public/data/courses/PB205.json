@@ -1,0 +1,88 @@
+{
+ "code": "PB205",
+ "title": "Individual Differences and Why They Matter",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Psychological and Behavioural Science",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Sakshi Ghai"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Psychological and Behavioural Science. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "This course offers insight into the nature of differences in the psychological processes of individuals and the implications of such variation for behaviour and behaviour change. While most policies are designed with the ‘average citizen’ in mind, we know there is large variety between people’s thoughts, choices and behaviour. More recently, these differences are leveraged to personalise behavioural intervention, advertising and political communication to target specific ‘segments’ of the population with the aim to enhance results. This course digs deeper into the psychological and behavioural assumptions which underlie how individuals behave collectively and individually in the wider societal context. Sample topics include how individual traits affect cognitive performance, how ideological preferences and voting patterns can be traced to individual and group variation, whether there is use in mapping personality, grit, perfectionism or motivation, and the ethical implications of applying these insights in behaviour change contexts. We will consider sources of individual variation from the micro-level (e.g. temporal variation in one person) to the macro-level by aligning content to sustainability goals (e.g. political decision outcomes, global health and climate change communications or resource distribution). Ultimately, the goal is to understand why and how people differ in their enduring patterns of thinking, feeling and behaving across contexts, and what this means for contemporary societies. By the end of the course, you should: Understand the biological and social underpinnings of systematic psychological and behavioural variation between and within individuals. Understand the theoretical and methodological approaches used to capture such variation in thinking, feeling and behaviour. Understand the implications of such variation in thinking, feeling and behaviour in a wider societal context. Critically evaluate the foundations and key debates in the field of Individual Differences",
+ "teaching": "15 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Policy brief (POSTnote) outline with two samples of annotated bibliography in support. In-class mock test.",
+ "indicativeReading": [
+  "Rose, T (2017)",
+  "The End of Average: How to Succeed in a World That Values Sameness",
+  "London: Penguin",
+  "Ashton, M. C. (2007). Individual differences and personality. London: Academic Press.",
+  "Kanai, R., & Rees, G. (2011). The structural basis of inter-individual differences in human behaviour and cognition.",
+  "Nature Reviews Neuroscience,",
+  "12(4), 231-242.",
+  "Laajaj R., Macours K., Hernandez D. A. P., Arias O., Gosling S. D., Potter J., Rubio-Codina M., & Vakis R. (2019). Challenges to capture the Big Five personality traits in non-WEIRD populations.",
+  "Science Advances,",
+  "5(7), eaaw5226.",
+  "Bryan, C.J., Tipton, E. & Yeager D.S. (2021) Behavioural Science is unlikely to change the world with a heterogeneity revolution",
+  "Nature Human Behaviour",
+  "5(8) 980-989",
+  "Miller, J. D., Vize, C., Crowe, M. L., & Lynam, D. R. (2019). A Critical Appraisal of the Dark-Triad Literature and Suggestions for Moving Forward.",
+  "Current Directions in Psychological Science",
+  ", 28(4), 353-360.",
+  "Plomin, R., DeFries, J. C., Knopik, V. S., & Neiderhiser, J. M. (2016). Top 10 Replicated Findings From Behavioral Genetics.",
+  "Perspectives on Psychological Science",
+  ", 11(1), 3-23."
+ ],
+ "assessmentText": "In class test (30%). Essay (10%, 3000 words). Policy brief (60%, 3000 words).",
+ "assessment": [
+  {
+   "type": "In class test",
+   "weight": 30
+  },
+  {
+   "type": "Essay",
+   "weight": 10
+  },
+  {
+   "type": "Policy brief",
+   "weight": 60
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 48,
+  "avgClassSizePrevYear": 12,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PB/2026_PB205.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

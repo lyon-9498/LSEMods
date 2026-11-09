@@ -1,0 +1,76 @@
+{
+ "code": "PH238",
+ "title": "Philosophy of Language",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Philosophy, Logic and Scientific Method",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Xinhe Wu"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Philosophy and Economics, BSc in Philosophy, Logic and Scientific Method, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics and Philosophy, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "We use language all the time to express our thoughts and understand others. But how does language work? What is it that makes squiggles on a page, or strings of noises meaningful? What are these meanings, and where do they come from? This is the starting point for an investigation into the Philosophy of Language. Philosophers have been interested in language for centuries, and in the 20th and 21st century with the development of modern logic and the dawn of analytic philosophy, philosophy of language has taken a central role. Key questions covered in this course include: how do names refer to an object? Do words mean whatever we intend or use them to mean? What role does convention play in fixing meanings? Are our terms vague, or precise? Can a person have a private language? How do we communicate beyond the literal? What are speech acts and are they available to everyone in our society? All of these questions are of interest in their own right, and also have applications to further issues in philosophy and beyond.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term. No meetings take place in reading week (week 6).",
+ "formativeAssessment": "Students will be expected to produce 1 essay in the WT.",
+ "indicativeReading": [
+  "Lycan, William G. (1999). Philosophy of Language: A Contemporary Introduction. Routledge.",
+  "Kripke, Saul A. (1980). Naming and Necessity. Harvard University Press.",
+  "Keefe, Rosanna (2000). Theories of Vagueness. Cambridge University Press.",
+  "Wittgenstein, Ludwig (1953). Philosophical Investigations. Wiley-Blackwell.",
+  "Grice, H. Paul (1975). Logic and Conversation. In Maite Ezcurdia & Robert J. Stainton (eds.), The Semantics-Pragmatics Boundary in Philosophy. Broadview Press. pp. 47.",
+  "Langton, Rae & Hornsby, Jennifer (1998). Free speech and illocution. Legal Theory 4 (1):21-37."
+ ],
+ "assessmentText": "Exam (50%), duration: 180 minutes, reading time: 10 minutes in the Spring exam period. Course participation (10%). Essay (40%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 50
+  },
+  {
+   "type": "Course participation",
+   "weight": 10
+  },
+  {
+   "type": "Essay",
+   "weight": 40
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 23,
+  "avgClassSizePrevYear": 11,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PH/2026_PH238.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

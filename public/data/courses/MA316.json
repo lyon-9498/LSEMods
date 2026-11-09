@@ -1,0 +1,85 @@
+{
+ "code": "MA316",
+ "title": "Graph Theory",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Mathematics",
+ "units": 0.5,
+ "studyPeriod": "Winter and Spring Term",
+ "terms": [
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Konrad Swanepoel"
+ ],
+ "prerequisites": "Students must have completed MA103 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": "Or equivalent course giving a background in rigorous mathematics.",
+ "availability": "This course is available on the BSc in Data Science, BSc in Mathematics and Economics, BSc in Mathematics with Data Science, BSc in Mathematics with Economics, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students.",
+ "description": "This course examines the basic concepts and techniques of graph theory. The topics to be covered are: fundamental concepts, connectivity, matchings, colourings, extremal problems, and a selection of the following: algebraic methods, Ramsey theory, the probabilistic method, random graphs.",
+ "teaching": "10 hours of classes and 20 hours of lectures in the Winter Term. 1 hour of lectures in the Spring Term.",
+ "formativeAssessment": "Problem sets weekly. Written answers to set problems will be expected on a weekly basis.",
+ "indicativeReading": [
+  "D. B. West,",
+  "Introduction to Graph Theory",
+  ", Prentice Hall 2001",
+  "R. Diestel,",
+  "Graph Theory",
+  ", Springer 2010.",
+  "Further reading:",
+  "N. L. Biggs,",
+  "Discrete Mathematics",
+  ", OUP 2004",
+  "J.A.Bondy and U.S.R. Murty,",
+  "Graph Theory with Applications",
+  ", North-Holland, 1976",
+  "B. Bollobas,",
+  "Modern Graph Theory",
+  ", Springer 1998."
+ ],
+ "assessmentText": "Exam (90%), duration: 120 minutes in the Spring exam period. Problem sets (10%) weekly.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 90
+  },
+  {
+   "type": "Problem sets",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 10,
+  "avgClassSizePrevYear": 10,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MA/2026_MA316.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "course",
+  "code": "MA103"
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

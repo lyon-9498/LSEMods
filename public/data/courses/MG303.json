@@ -1,0 +1,89 @@
+{
+ "code": "MG303",
+ "title": "International Business Strategy in the World Economy",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Management",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Christine Cote"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Management, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley, International Exchange (1 Term) and International Exchange (Full Year). This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course has a limited number of places (it is capped). This course is not available to students with timetable clashes, as attendance is mandatory due to the Harvard‑style teaching approach.",
+ "description": "The course examines how firms shape their international strategies in an ever-changing global environment. It will consider the context of globalization with a focus on the relationship between international trade and investment, the emergence of global supply chains and the transformative role played by technology and innovation. It will seek to understand why and how firms internationalize as well as how they can create and sustain competitive advantage while operating across borders and in different institutional environments. It will combine the development of conceptual frameworks primarily through the lectures with the analysis of key cases in the classes. Multinational firms have been an increasingly significant aspect of the corporate environment in developed countries since the 1960s and are responsible for a high proportion of global output, exports and investment, as well as the bulk of foreign direct investment. In the past few decades their activities have been increasingly focused on developing economies, notably those which have liberalised and entered a more rapid growth phase. These economies, emerging markets, include some important world economies including China, India, transition economies such as Turkey, and Latin American countries such as Brazil and Argentina. The \"new institutional economics\" has recently developed as a field to understand the impact of variation in institutions on economies' performance. This course will focus on how the institutional characteristics of emerging markets affect the choices and behaviour of multinational firms, now and in the future. We commence with the basic framework of analysis of the behaviour of multinational enterprises (MNEs), outlining models of the MNE which draw on transaction cost economics, the eclectic OLI paradigm of Dunning, and more recent concepts such as the resource-based view. We will provide an analysis of economic performance and growth in emerging markets building on the new institutional economies and working with a large variety of datasets and sources. The course will then turn to key topics. These will include the interaction between international trade and investment in the internationalization choices of MNEs; the emergence of global supply chains; the determinants of FDI; the effects of FDI on the host economy; entry mode choices; measures of institutional and cultural distance; and the growing importance of multinationals from emerging markets. Students will work with case material as well as the required reading, and the group project will comprise a case write up.",
+ "teaching": "30 hours of lectures in the Winter Term. This course has a reading week in Week 6 of Winter Term. In its Ethics Code, LSE upholds a commitment to intellectual freedom. This means we will protect the freedom of expression of our students and staff and the right to engage in healthy debate in the classroom.",
+ "formativeAssessment": "Students will undertake a formative essay (1500 words) for which feedback will be provided in preparation for the final summative coursework.",
+ "indicativeReading": [
+  "Côté, C., Estrin, S. & Shapiro, D. Expanding the international trade and investment policy agenda: The role of cities and services. J Int Bus Policy (2020).",
+  "https://doi.org/10.1057/s42214-020-00053-x",
+  "Côté, C., & Hu, H. H. 2025. Understanding the Uniqueness of Emerging Markets and Their Firms: Institutional Voids–Based Dynamic Capabilities in the Chinese Automotive Sector. AIB Insights.",
+  "https:/ / doi.org/ 10.46697/ 001c.129652",
+  ".",
+  "Dunning, John (1979). \"Toward an Eclectic Theory of International Production: Some Empirical Tests\". Journal of International Business Studies. 11 (1): 9–31.",
+  "R. Caves, Multinational Enterprise and Economic Analysis, 2nd Edition, Cambridge University Press 1996;",
+  "P. Ghenawat, Redefining Global Strategy, Harvard Business School Press, 2007;",
+  "J. Williamson, The New Institutional Economies, Journal of Economic Literature, 2000;",
+  "Estrin et. al., Entry Mode in Emerging Markets, Strategic Management Journal, 2009;",
+  "Zaheer, S (1995), “Overcoming the Liability of Foreignness”, Academy of Management Journal, 1995",
+  "T. Khanna and K Palepu, The Future of Business Groups in Emerging Markets, Academy of Management Journal 2004"
+ ],
+ "assessmentText": "Course participation (10%). Essay (50%). Project (40%). WT group project will be a case-based project which will consist of a group presentation. For detailed assessment information, including all deadlines and timings, please see the relevant course Moodle page. Assessment timings will be available at the start of each term.",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 10
+  },
+  {
+   "type": "Essay",
+   "weight": 50
+  },
+  {
+   "type": "Project",
+   "weight": 40
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 181,
+  "avgClassSizePrevYear": 60,
+  "capped": "Yes(180)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MG/2026_MG303.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "MG307",
+   "title": "International Context of Management",
+   "note": null
+  }
+ ],
+ "unlocks": []
+}

@@ -1,0 +1,81 @@
+{
+ "code": "FM215",
+ "title": "Principles of Finance II",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Finance",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Kim Fe Cramer"
+ ],
+ "prerequisites": null,
+ "corequisites": "Students must complete FM214 either before taking this course or in the same year as this course.",
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Finance and BSc in Financial Mathematics and Statistics. This course is available on the BSc in Accounting and Finance, BSc in Actuarial Science, BSc in Actuarial Science (with a Placement Year), BSc in Data Science, BSc in Econometrics and Mathematical Economics, BSc in Economics, BSc in Economics and Data Science, BSc in Management, BSc in Mathematics and Economics, BSc in Mathematics with Data Science, BSc in Mathematics with Economics and BSc in Mathematics, Statistics and Business. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is not capped, any eligible student that requests a place will be given one.",
+ "description": "This course provides a rigorous introduction to corporate finance. The course is a prerequisite for more advanced finance courses. It also serves as a stand-alone course for students in other fields, such as economics or management, who do not intend to take other finance courses. Topics include firms’ decisions on what projects to undertake, their payout policy, and their capital structure. These decisions are first explored in a frictionless world and then in a world with frictions (such as taxes, bankruptcy costs, inefficient or uncompetitive financial markets, and self-interested managers). This course covers the same broad topics as FM211. However, compared to FM211, this course puts more emphasis on mathematical models and statistical methods and covers modern financial theories in greater depth.",
+ "teaching": "15 hours of classes and 20 hours of lectures in the Winter Term.",
+ "formativeAssessment": "Students are expected to produce written work for classes and to make positive contributions to class discussion.",
+ "indicativeReading": [
+  "Detailed course programmes and reading lists are distributed at the start of the course. Illustrative texts include: Principles of Corporate Finance by Richard Brealey, Stewart Myers, and Franklin Allen, McGraw-Hill Inc."
+ ],
+ "assessmentText": "Exam (90%), duration: 90 minutes in the Spring exam period. Continuous assessment (10%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 90
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Application of information skills",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 359,
+  "avgClassSizePrevYear": 20,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/FM/2026_FM215.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": {
+  "type": "course",
+  "code": "FM214"
+ },
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "FM211",
+   "title": "Principles of Finance II",
+   "note": null
+  }
+ ],
+ "unlocks": [
+  "FM301",
+  "FM302",
+  "FM305",
+  "FM306",
+  "FM310",
+  "FM311",
+  "FM321"
+ ]
+}

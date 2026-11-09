@@ -1,0 +1,61 @@
+{
+ "code": "IR102",
+ "title": "Thinking Globally: Studying International Relations",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International Relations",
+ "units": 0.0,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Luca Tardelli"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in International Relations and BSc in International Relations and Chinese. This course is available on the BSc in Politics and International Relations. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is available with permission to students on the BSc in Politics and International Relations Students who have this course as a compulsory course are guaranteed a place. Students for whom the course is optional must commit to the course when they choose it.",
+ "description": "The aims of this short course are two-fold. First, to enable you to reflect on and share ideas with other students about why you chose to study international relations and what it means to study international relations. Second, to acquire and develop the key skills you need to study international relations, including communications skills (verbal and written) and team working skills. Students will work together on the skills required for reading for academic purposes and taking notes; writing essays; using sources, referencing, and generative AI; delivering class presentations; and succeeding as an IR scholar.",
+ "teaching": "7.5 hours of seminars in the Autumn Term.",
+ "formativeAssessment": "There is no formal 'formative' coursework for the course. A variety of 'formative exercises' will be conducted in class and aimed at developing and enhancing a range of study skills linked to the study of international relations.",
+ "indicativeReading": [
+  "Chris Brown, Understanding International Relations 5th ed (Palgrave: 2019)",
+  "Hubert Zimmermann, Milena Elsinger, and Alex Burkhardt, ‘Ch.1- Doing IR: How to Study International Politics’, in International Relations: Theories in Action (Sage, 2024).",
+  "LSE LIFE Learning Resources, available at:",
+  "https://info.lse.ac.uk/current-students/lse-life/resources"
+ ],
+ "assessmentText": "There is no summative assessment for this course.",
+ "assessment": [],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 74,
+  "avgClassSizePrevYear": 12,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/IR/2026_IR102.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

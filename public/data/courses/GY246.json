@@ -1,0 +1,74 @@
+{
+ "code": "GY246",
+ "title": "Field Methods in Geography",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Geography and Environment",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Laura Antona"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BA in Geography. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "This course prepares second-year BA Geography students to undertake field-based research, with a particular focus on qualitative methods. It is linked to an international field trip at the end of the Winter Term and provides essential preparation for the third-year Dissertation module. The course examines a range of methodologies used in field-based geographical research, evaluating their suitability for different research problems while developing students’ ability to select, plan, and design qualitative research projects. It covers key qualitative methods, including structured and unstructured interviewing, focus groups, observational methods, visual methods and transecting, while centring a concern for ethics in the field. After context-based teaching that provides both historical and contemporary insights, and through a structured programme that facilitates engagement with relevant organisations, students will design and conduct their own research projects in the field.",
+ "teaching": "This course has a reading week in Week 6 of Winter Term. Teaching will be delivered through a combination of classes/seminars and in-person lectures. This course includes a one week-long field trip, normally in the final week of the Winter Term. In the past the field course has visited Portland, Oregon. The destination, duration, and content of the field trip in 2026 is subject to change. Students should be aware that, although the costs of this course are subsidised by the Department, they will be expected to make a substantial financial contribution themselves. There are bursaries available from the Department for students who can document financial need. An alternative field exercise will be undertaken by students who are unable to participate in the above one-week residential field-course. Students on this course will have a reading week in Week 6.",
+ "formativeAssessment": "Short exercises conducted in preparation for class sessions and the field trip throughout the Winter Term.",
+ "indicativeReading": [
+  "Becker, H. S. (2007) Writing for social scientists: How to start and finish your thesis, book, or article (2nd edition). Chicago: University of Chicago Press.",
+  "Chilson, P. and Mulcahy, J.B. (2017) Writing abroad: A guide for travelers. Chicago: University of Chicago Press.",
+  "Cloke, P. et al (2004) Practising human geographies. London: Sage.",
+  "Flowerdew, R. and Martin, D. (eds.) (2005) Methods in human geography: A guide for students doing a research project (2nd edition). Harlow: Pearson/Prentice Hall.",
+  "Hain, I. (2010) Qualitative research methods in human geography (3rd edition). Oxford: Oxford University Press.",
+  "Parsons, T. and Knight, P. (1995): How to do your dissertation in geography and related disciplines. London: Chapman & Hall."
+ ],
+ "assessmentText": "Project (80%). Portfolio (20%).",
+ "assessment": [
+  {
+   "type": "Project",
+   "weight": 80
+  },
+  {
+   "type": "Portfolio",
+   "weight": 20
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 38,
+  "avgClassSizePrevYear": 11,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GY/2026_GY246.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": [
+  "GY350"
+ ]
+}

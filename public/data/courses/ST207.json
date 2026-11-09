@@ -1,0 +1,81 @@
+{
+ "code": "ST207",
+ "title": "Databases",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Statistics",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Marcos Barreto"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Data Science. This course is available on the BSc in Actuarial Science, BSc in Actuarial Science (with a Placement Year), BSc in Economics and Data Science, BSc in Mathematics with Data Science, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course has a limited number of places (it is capped). Students who have this course as a compulsory course are guaranteed a place. Places for all other students are allocated on a first come first served basis.",
+ "description": "The goal of this course is to cover concepts of database management systems, including relational and non-relational databases. The topics covered will include: Relational database modelling and design; Structured Query Language (SQL) for database implementation and manipulation; Integrity constraints, triggers and database views; Concurrency control and recovery mechanisms; Multimedia and spatiotemporal databases; NoSQL database modelling and design; Key-value stores, document, and graph databases; Vector databases and large language models (LLMs) applied to databases. The course will demonstrate how various theoretical principles are implemented in practice in a database management system, such as MySQL or SQLite, and also in NoSQL and vector database software.",
+ "teaching": "15 hours of seminars and 20 hours of lectures in the Autumn Term. This course has a reading week in Week 6 of Autumn Term. Students are required to use their own laptops and install database tools and Python, and register for free, web-based database tools under guidance of the teaching staff.",
+ "formativeAssessment": "Students will be given formative exercises every week to complement the topics discussed in the lecture and seminar sessions. Some formative exercises are for self-study and revision, while other formative exercises are expected to be submitted for formative feedback. The course uses Moodle, Gradescope, GitHub and other tools for formative assessment.",
+ "indicativeReading": [
+  "Essential Reading:",
+  "R. Elmasri and S. B. Navathe. Fundamentals of Database Systems, 7th edition (Global Edition). Pearson, 2016.",
+  "M. Kaufmann and A. Meier. SQL and NoSQL Database Systems: Modeling, Languages, Security and Architecture for Big Data Management, 2nd edition. Springer Cham, 2023.",
+  "E. Foster and S. Godbole. Database Systems: a pragmatic approach, 3rd edition. CRC Press, 2023.",
+  "N. Judić et al. Database Systems: introduction to databases and data warehouses. 2nd edition, Prospect Press, 2021.",
+  "A. Borucki. MongoDB 8.0 in Action: building on the Atlas data platform. 3rd edition, Manning, 2025.",
+  "L. Misquitta and C. Willemsen. Neo4j: the definitive guide. O’Reilly Media Inc., 2025.",
+  "Additional Reading:",
+  "S. Bagui and R. Earp. Database Design using Entity-Relationship Diagrams, 3rd edition. CRC Press, 2022.",
+  "B. McClain. Python for Geospatial Data Analysis. O'Reilly, 2022.",
+  "J. Pan, J. Wang, and G. Li. Survey of Vector Database Management Systems. 2023.",
+  "https://doi.org/10.48550/arXiv.2310.14021",
+  "A. Beaulieu. Learning SQL: generate, manipulate, and retrieve data, 3rd edition. O'Reilly, 2020.",
+  "E. Sciore. Database Design and Implementation. 2nd edition. Springer, 2020."
+ ],
+ "assessmentText": "Project (60%) in January. This component of assessment includes an element of group work. Problem sets (40%) in November. Students are required to hand in solutions to two individual sets of exercises, each accounting for 20% of the final assessment, and a group project, accounting for 60% of the final assessment. The group project will require solving a practical task involving database modelling and creation, database utilisation (querying), interpretation of results and reporting. The students are encouraged to work with relational and non-relational database tools, real and/or synthetic data, and design a database application that approximates a real scenario.",
+ "assessment": [
+  {
+   "type": "Project",
+   "weight": 60
+  },
+  {
+   "type": "Problem sets",
+   "weight": 40
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 75,
+  "avgClassSizePrevYear": 25,
+  "capped": "Yes(90)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/ST/2026_ST207.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

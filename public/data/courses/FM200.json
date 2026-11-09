@@ -1,0 +1,65 @@
+{
+ "code": "FM200",
+ "title": "Financial Systems and Crises",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Finance",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Finance. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course does not permit auditing students.",
+ "description": "The course FM200 Financial Systems and Crises covers financial markets and institutions, and their interaction with the real economy. The course emphasizes particularly banks and credit markets, and their role in generating economic growth as well as financial crises. Basic economic theories and models developed to understand these phenomena are covered, and the theoretical analysis is complemented with a historical perspective. The first part of the course, taught over weeks 1-6 of Autumn Term, presents theories of debt and banks; reviews key historical developments pertaining to banks and financial crises until the middle of the 20th century; and presents theories of credit booms and busts in the macroeconomy. The second part of the course, taught over weeks 7-10 of Autumn Term, reviews key historical developments pertaining to banks and financial crises from the middle of the 20th century until now; reviews how money markets work and how central banks conduct monetary policy; presents the theory and practice of bank regulation; and reviews the international monetary system.",
+ "teaching": "33 hours of seminars in the Autumn Term. This course is taught in an interactive format. There is no distinction between lectures and classes/seminars; there are simply “sessions” where the pedagogical approach is always interactive.",
+ "formativeAssessment": "Students will be expected to produce a number of problem sets in the AT.",
+ "indicativeReading": [
+  "1. Brunnermeier, Markus and Ricardo Reis, 2023, A Crash Course on Crises: Macroeconomic Concepts for Run-Ups, Collapses and Recoveries, Princeton University Press.",
+  "2. Gorton, Gary, 2012, Misunderstanding Financial Crises: Why We Don’t See Them Coming, Oxford University Press.",
+  "3. Tirole, Jean, 2006, The Theory of Corporate Finance, Princeton University Press."
+ ],
+ "assessmentText": "Continuous assessment (100%).",
+ "assessment": [
+  {
+   "type": "Continuous assessment",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Application of information skills",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 55,
+  "avgClassSizePrevYear": 55,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/FM/2026_FM200.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": [
+  "FM301",
+  "FM302",
+  "FM305",
+  "FM306"
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "code": "PH222",
+ "title": "Philosophy and Public Policy",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Philosophy, Logic and Scientific Method",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Hanika Froneman"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Politics and Philosophy. This course is available on the BSc in Philosophy and Economics, BSc in Philosophy, Logic and Scientific Method, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "The course offers critical reflection on the design and evaluation of public policies from the perspective of moral and political philosophy. To this end, we study a range of theories and concepts that are used in policy evaluation. We often discuss and evaluate them by focusing on specific policy proposals. The course addresses ethical questions concerning public policy of the following kind: What is a correct public measure of well-being? Should people be left to bear the consequences of their free choices? May the government force you to buy health insurance? Is torture ever justified? Do prosperous countries have a right to close their borders to immigrants from poor countries? Should hate speech be protected by freedom of speech? Should the development of new drugs be left to private companies rewarded by patent protection? What is the optimal population size and what policies may the state pursue in order to achieve it? Should higher education be financed by student loans or general taxation? Should we be free to act as we choose so long as we do not harm others? How should we distribute the burdens of military service? Should children be given the vote? This course will use Cadmus for submitting assessments. This platform is currently being evaluated by LSE for AI-resilient assessment. For more information, visit Cadmus Assessment Edit Tracking - Guidance for Students .",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. 10 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": null,
+ "indicativeReading": [
+  "A detailed list of readings will be available on moodle. The following is an indicative sample of readings that may be discussed in the course.",
+  "Greg Bognar and Iwao Hirose (2014).",
+  "The Ethics of Health Care Rationing",
+  ". Routledge.",
+  "A. Voorhoeve (2018) 'May a Government Mandate More Comprehensive Insurance than People Want for Themselves?'",
+  "Oxford Studies in Political Philosophy.",
+  "Michael Rustin (2016), 'The neoliberal university and its alternatives',",
+  "Soundings",
+  "Ronald Dworkin et al (1997) 'Assisted Suicide: The Philosophers' Brief'",
+  "Carol Kates (2004). 'Reproductive Liberty and Overpopulation'",
+  "Environmental Ethics.",
+  "Jonathan Wolff (2011),",
+  "Ethics and Public Policy: A Philosophical Inquiry",
+  "Joseph Carens (1987), 'Aliens and Citizens: The Case for Open Borders',",
+  "The Review of Politics",
+  "Jeff McMahan (2008), 'Torture in Theory and Practice',",
+  "Public Affairs Quarterly",
+  "Michael J. Robillard and Bradley J. Strawser (2016), ‘The Moral Exploitation of Soldiers’,",
+  "Public Affairs Quarterly",
+  "Annabelle Lever (2014), ‘When the Philosopher Enters the Room’,",
+  "Philosophy and Public Issues"
+ ],
+ "assessmentText": "Exam (50%), duration: 180 minutes in the Spring exam period. Essay (20%, 1500 words). Essay (30%, 2000 words). The summative essays will likely require the use of edit tracking software. If so, students will be required to write their essay on a given platform. Appropriate training and instruction will be given.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 50
+  },
+  {
+   "type": "Essay",
+   "weight": 20
+  },
+  {
+   "type": "Essay",
+   "weight": 30
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 91,
+  "avgClassSizePrevYear": 15,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PH/2026_PH222.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

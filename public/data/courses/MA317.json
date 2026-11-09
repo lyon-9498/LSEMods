@@ -1,0 +1,67 @@
+{
+ "code": "MA317",
+ "title": "Complex Analysis",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Mathematics",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Amol Sasane"
+ ],
+ "prerequisites": null,
+ "corequisites": "Students must complete MA203 either before taking this course or in the same year as this course.",
+ "additionalRequisites": "MA203 is a co-requisite, it is necessary but can be taken in the same term or same year. Students should have solid grounding in mathematics. General Course students who have taken courses equivalent to MA203 should seek approval from course convenor before taking this course.",
+ "availability": "This course is available on the BSc in Mathematics and Economics, BSc in Mathematics with Data Science, BSc in Mathematics with Economics, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students.",
+ "description": "The course will cover the fundamental concepts and methods in complex analysis. The basic objects of study in the course will be complex differentiable functions in domains, and the far-reaching consequences of the notion complex differentiability will be dealt with in the course. The specific topics that will be covered are: the geometry of complex numbers, complex differentiation, Cauchy-Riemann equations, Cauchy's integral theorem and its consequences, Taylor and Laurent series, and harmonic functions. The core results will be illustrated with computational examples and applications.",
+ "teaching": "20 hours of lectures and 10 hours of classes in the Autumn Term. 1 hour of lectures in the Spring Term.",
+ "formativeAssessment": "Written answers to set problems will be expected on a weekly basis.",
+ "indicativeReading": [
+  "(1) S.D. Fisher. Complex Variables. Corrected reprint of the second (1990) edition, Dover Publications, Inc., Mineola, NY, 1999.",
+  "(2) J.E. Marsden and M.J. Hoffman. Basic Complex Analysis. Second edition, W. H. Freeman and Company, New York, 1987.",
+  "(3) D.O. Tall. Functions of a Complex Variable. Routledge and Kegan Paul, London, 1985"
+ ],
+ "assessmentText": "Exam (100%), duration: 120 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 16,
+  "avgClassSizePrevYear": 16,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MA/2026_MA317.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": {
+  "type": "course",
+  "code": "MA203"
+ },
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

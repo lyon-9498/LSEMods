@@ -1,0 +1,72 @@
+{
+ "code": "GV343",
+ "title": "Philosophy, Politics and Economics: Capstone",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Ryan Jablonski"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Philosophy, Politics and Economics and BSc in Philosophy, Politics and Economics (with a Year Abroad). This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is exclusively for fourth year BSc PPE students.",
+ "description": "The Capstone requires groups of students to carry out research and analysis in order to address a practical policy issue or problem relevant to a client organisation. This allows students to extend their capabilities and apply disciplinary and methodological knowledge and skills they learned in the PPE core courses to address real-life policy needs. Capstone clients may include public sector bodies, private companies, international organisations, think tanks and NGOs. The initial weeks of the course will introduce students to the requirements of Capstone projects, key research strategies and essential questions. At the same time, from week 1 students will begin to research in allocated teams. Students are also expected to work steadily throughout the term with members of their team and with their advisors. The completed research has to be presented by week 11 of AT, both in the form of a team presentation and a research report. Further details: By the start of AT, students will receive a list of projects available (on Moodle) and they can indicate their preferences, which will be taken into account in deciding allocations. Workshops in weeks 1 and 2 of AT will discuss expectations and key research and project skills. The workshop in week 5 of AT will be a “course correction” session for teams to get feedback and guidance on the planned final shape of their reports. In addition, students can access regular help sessions throughout the term. Capstone teams will present their project findings by week 11 of AT.",
+ "teaching": "8 hours of workshops in the Autumn Term. This course has a reading week in Week 6 of Autumn Term. These workshops are supplemented with regular help sessions.",
+ "formativeAssessment": "Presentation in Autumn Term Week 5. Capstone groups must produce 1 team presentation for the “course correction” session in week 5 of AT. They must also produce a poster or presentation from their final (assessed) presentation for a final showcase workshop, which is usually held in week 1 of ST.",
+ "indicativeReading": [
+  "Charles E. Lindblom and David K. Cohen. Useable Knowledge: Social Science and Social Problem Solving (New Haven: Yale University Press, 1979).",
+  "Eugene Bardach and Eric M. Patashnik. A Practical Guide for Policy Analysis (Sage, 2016).",
+  "Brian A. Griffith and Ethan B. Dunham. Working in Teams: Moving from High Potential to High Performance (Sage, 2015).",
+  "Ray Pawson. The Science of Evaluation: A Realist Manifesto (Sage, 2013)."
+ ],
+ "assessmentText": "Presentation (20%) in Autumn Term Week 11. Project (80%, 8000 words) in Autumn Term Week 11.",
+ "assessment": [
+  {
+   "type": "Presentation",
+   "weight": 20
+  },
+  {
+   "type": "Project",
+   "weight": 80
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 52,
+  "avgClassSizePrevYear": 52,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV343.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

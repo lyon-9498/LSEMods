@@ -1,0 +1,93 @@
+{
+ "code": "SP314",
+ "title": "Racial Inequalities and Social Policies",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Social Policy",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Coretta Phillips"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in International Social and Public Policy, BSc in International Social and Public Policy with Economics, BSc in International Social and Public Policy with Politics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students. This course is only available to 3rd Year undergraduates. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "The overarching theme of the course is to examine and explain the distribution of resources, opportunities and life chances of different social groups categorised by their ethnicity and race, while also considering how individual experience is mediated through other dimensions of identity such as social class, gender, and faith/religion. The course proceeds through conceptualising core notions of race, ethnicity, racism, discrimination, before examining questions around migration, citizenship, and belonging, integration, multiculturalism, and interculturalism. It then moves to examining inequalities in key social policy domains (settlement and housing, education, employment, and criminal justice) and assesses different policy approaches to ameliorate racialised inequalities, including positive action, affirmative action, diversity approaches, cultural competence/sensitivity/intelligence, and minority-only service provision. It uses an array of case studies in lectures and in classes/readings from all regions of the world with a mix of high, middle, and low-income contexts.",
+ "teaching": "15 hours of lectures and 15 hours of seminars in the Autumn Term. This course has a reading week in Week 6 of Autumn Term. All teaching will be in accordance with the LSE Academic Code which specifies a \"minimum of two hours taught contact time per week when the course is running in the Autumn Term (AT) and/or Winter Term (WT)\". Social Policy courses are predominantly taught through a combination of in-person lectures and In person classes/seminars. Further information will be provided by the Course Convenor in the first lecture of the course.",
+ "formativeAssessment": null,
+ "indicativeReading": [
+  "Williams, F. (2021)",
+  "Social Policy: A Critical and Intersectional Analysis.",
+  "Oxford: Polity.",
+  "Byrne, B., Alexander, C., Khan, O., Nazroo, J. and Shankley, W. (eds.) (2020).",
+  "Ethnicity, Race and Inequality in the UK: State of the Nation.",
+  "Bristol: Policy Press.",
+  "Rattansi, A. (2020)",
+  "Racism: A Very Short Introduction.",
+  "First and Second Editions. Oxford: Oxford University Press.",
+  "Tajmazinani, A. A. (2021)",
+  "Social Policy in the Islamic World",
+  ". Basingstoke: Palgrave Macmillan.",
+  "Solomos, J. (2022)",
+  "Race, Ethnicity and Social Theory",
+  ". London: Routledge.",
+  "Murji, K. (2017)",
+  "Racism, Policy and Politics",
+  ". Bristol: Policy Press.",
+  "Back, L. and Solomos, J. (eds.) (2022)",
+  "Theories of Race and Racism: A Reader",
+  ". Third Edition. London: Routledge."
+ ],
+ "assessmentText": "Presentation (15%). In class test (35%) in Autumn Term Week 11. Essay (25%, 1500 words) in Autumn Term Week 7. Report (25%) in Winter Term Week 1.",
+ "assessment": [
+  {
+   "type": "Presentation",
+   "weight": 15
+  },
+  {
+   "type": "In class test",
+   "weight": 35
+  },
+  {
+   "type": "Essay",
+   "weight": 25
+  },
+  {
+   "type": "Report",
+   "weight": 25
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 7,
+  "avgClassSizePrevYear": 7,
+  "capped": "Yes(15)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SP/2026_SP314.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

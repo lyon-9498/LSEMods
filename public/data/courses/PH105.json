@@ -1,0 +1,64 @@
+{
+ "code": "PH105",
+ "title": "Historical and Global Perspectives on Philosophy",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Philosophy, Logic and Scientific Method",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Marie Milofsky"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Philosophy and Economics, BSc in Philosophy, Logic and Scientific Method, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics and Philosophy, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is capped at 70.",
+ "description": "This syllabus is conceived as a travel across space and across time, zooming in and out of particular places at particular periods. We will first go to Ancient China at the time of the Warring States Period. Several schools of thought flourished during these 250 years: Confucianism, Mohism, Daoism or Legalism. We will explore the political responses suggested by Mozi (Mohist doctrine) and Laozi (Daoist school) to this violent period of history. Where Mozi suggested a stronger political structure, Laozi recommended ‘non-action’. Our travel will next take us to south Asia, at the beginning of Buddhism. Buddhist ethics promotes a deep-rooted work on human behaviour through ethical conduct, meditation and perception of the world. However, we will see that justifications for war grew in Buddhism despite a strict interdiction to kill. After the birth of Islam in the 7th Century, a flourishing medieval Muslim philosophy emerged; Avicenna, Al Ghazali, Averroes, just to name a few, brought the use of reason into faith. Their field of exploration was rather vast, ranging from the cosmological argument to the debate on free will vs determinism and moral responsibility. We will cover one of these themes. 1492, Columbus arrived in South America. Walking in the Spaniards’ footsteps, we witness the ‘Destruction of the Indies’ through war, genocide, enslavement and colonisation. Dominican Friars who came to teach the Gospel opened some of the most interesting legal debates on: who has jurisdiction over these territories? To whom belong the natural resources? Is it permissible to restrict the immigration right? If yes on which grounds? ... Our journey ends in Africa where post-colonial philosophers ask fundamental questions about the definition and purpose of philosophy. We will then focus on the work of Nkiru Nzegwu; she argues that the feminist movement is a Western construct that may adequately identify and address the issues of women in the West, but that is not adapted to the status and role of women in a society such as the Igbo one.",
+ "teaching": "13 hours of classes and 10 hours of lectures in the Winter Term. This course has a reading week in Week 6 of Winter Term. In weeks 7, 8 and 9, the classes are two hours long and are compulsory.",
+ "formativeAssessment": null,
+ "indicativeReading": [],
+ "assessmentText": "Exam (60%), duration: 120 minutes in the Spring exam period. Continuous assessment (40%). The continuous assessment includes weekly participation and role-playing games.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 60
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 40
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 60,
+  "avgClassSizePrevYear": 15,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PH/2026_PH105.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

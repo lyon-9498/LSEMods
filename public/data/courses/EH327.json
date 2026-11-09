@@ -1,0 +1,72 @@
+{
+ "code": "EH327",
+ "title": "China's Economy and its Growth in the Very Long-Term",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economic History",
+ "units": 1.0,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Kent Deng"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Economic History, BSc in Economic History and Geography and BSc in Economics and Economic History. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is capped. Places will be assigned on a first come first served basis",
+ "description": "The course explores main aspects China’s very long term economic growth from c. 220 B.C. when the Chinese Empire took shape to the present-day growth and development. The course contains a survey of general models, themes and debate regarding Chinese economic history. It is followed by particular issues: formation, expansion and function of the Chinese empire; function of Confucian values and state economic polices; establishment of property rights; nature of the peasantry and peasant economy; development of handicrafts and proto-industrialisation; growth in commerce and trade; emergence of science and technology; trends of demographic fluctuations; levels of living standards; shocks from internal and foreign sources; mechanisms of socio-economic equilibrium. It will also deal with China’s current rise as a new economic power.",
+ "teaching": "This course is delivered through a combination of classes and lectures totalling a minimum of 40 hours across Autumn Term and Winter Term, with 1-2 revision sessions in the Spring Term. This course includes a reading week in the Week 6 of Autumn and Winter Term. Students are expected to do prior readings and to make presentations on a regular basis.",
+ "formativeAssessment": "One formative essay (2000 words) in the AT.",
+ "indicativeReading": [
+  "A full reading list and course outline are available on Moodle. The following readings provide indication of the scope and nature of materials used in the course: K G Deng, 'A Critical Survey of Recent Research in of Chinese Economic History', Economic History Review (2000); J K Fairbank, Chinese Thought and Institutions (1957); M Elvin, The Pattern of the Chinese Past (1973); C A Ronan, The Shorter Science and Civilisation in China (1978-86); J Y Lin, 'The Needham Puzzle: Why the Industrial Revolution did not Originate in China', Economic Development and Cultural Change (1995); G W Skinner, The City in Late Imperial China (1977); J Lee & F Wang, One Quarter of Humanity (1999); K Pomeranz, The Great Divergence, Europe, China and the Making of the Modern World Economy (2000); A Watson, Economic Reform and Social Change in China (1992); R B Wong, China Transformed (1997); K Deng ‘Imperial China under the Song and Late Qing’, in Andrew Monson and Walter Scheidel (eds), Fiscal Regimes and Political Economy of Premodern States, Cambridge University Press (2015): ch. 10 (pp. 308–42). Deng, Kent and Zheng, Lucy (2015) Economic restructuring and demographic growth: demystifying growth and development in Northern Song China, 960–1127 Economic History Review, 68 (4). 1107-1131."
+ ],
+ "assessmentText": "Exam (70%), duration: 120 Minutes in the Spring exam period. Essay (20%, 2000 words). Course participation (10%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 70
+  },
+  {
+   "type": "Essay",
+   "weight": 20
+  },
+  {
+   "type": "Course participation",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 18,
+  "avgClassSizePrevYear": 18,
+  "capped": "Yes(18)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EH/2026_EH327.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

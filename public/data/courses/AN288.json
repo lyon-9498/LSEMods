@@ -1,0 +1,79 @@
+{
+ "code": "AN288",
+ "title": "Gender, Sexuality and Kinship",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Anthropology",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Jo Hemlatha"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, BA in Social Anthropology, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley, Exchange Programme for Students in Anthropology (Cape Town), Exchange Programme for Students in Anthropology (Fudan), Exchange Programme for Students in Anthropology (Melbourne) and Exchange Programme for Students in Anthropology (Tokyo). This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "This course provides an examination of the cultural frameworks and social aspects of gender roles, personhood, human sexuality, and kinship systems, analysed through ethnographic examples from a diverse range of settings. It aims to equip students with the analytical tools to engage in theoretical debates concerning core concepts such as ‘gender’, ‘sexuality’, 'kinship', 'marriage',, and the relationship between 'nature' and 'culture', as well as exploring how the experiences of gender, sexuality, and kinship vary according to the regimes of politics, law and materiality in which they are embedded. The course charts the history of anthropological debates on sex and gender, sexuality, kinship, and relatedness, , and familiarises students with a range of contemporary approaches to these themes, placing ethnographic materials into a critical dialogue with recent developments in theoretical fields such as feminist theory, queer theory, the anthropology of colonialism, cognitive science, and psychoanalysis.",
+ "teaching": "10 hours of workshops and 10 hours of lectures in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Essay (1500 words). Students will have the opportunity to submit one formative essay of up to 1500 words during the course. Students will be informed of their formative submission deadline by email by the end of Week 3 of term.",
+ "indicativeReading": [
+  "Carsten, J. After Kinship (2003)",
+  "Chodorow, N. (1999) The Power of Feelings: Personal Meaning in Psychoanalysis, Gender and Culture.",
+  "Donnan, H. and Magowan, F. (2010) The Anthropology of Sex.",
+  "Esteban Munoz, J (2009). Cruising Utopia",
+  "Foucault, M. (1975). Discipline and Power.",
+  "Levi-Strauss, C. (1969) The Elementary Structures of Kinship",
+  "Lewin, E and Leap, W. (2009) Out in public: reinventing lesbian/gay anthropology in a globalizing world",
+  "Moore, H. L. A (1994) Passion for Difference: Essays in Anthropology and Gender",
+  "Murray, J. B (2025). Queer Anthropology",
+  "Raha, N., & Van Der Drift, M. (2024). Trans Femme Futures.",
+  "Smith, M. & Mac, J. (2020). Revolting Prostitutes",
+  "Stone, L. (1996) Kinship and Gender: An Introduction"
+ ],
+ "assessmentText": "Exam (100%), duration: 120 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 35,
+  "avgClassSizePrevYear": 18,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AN/2026_AN288.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "AN200",
+   "title": "The Anthropology of Kinship, Sex and Gender",
+   "note": "Withdrawn 2025/26"
+  }
+ ],
+ "unlocks": []
+}

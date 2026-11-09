@@ -1,0 +1,79 @@
+{
+ "code": "MA318",
+ "title": "History and Culture of Mathematics",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Mathematics",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Jan Van Den Heuvel"
+ ],
+ "prerequisites": "Students must have completed MA100 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": "General Course students may substitute an equivalent course.",
+ "availability": "This course is available on the BSc in Mathematics and Economics, BSc in Mathematics with Data Science, BSc in Mathematics with Economics, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students.",
+ "description": "This course surveys the development of mathematics from the beginning of history with an emphasis on its relation with the societies and cultures in which those developments happened. Major themes are the origins of mathematics in different cultures with a special emphasis on the development of money and finance; diversity in mathematics; mathematics and ethics; and the place of mathematics in modern society.",
+ "teaching": "11 hours of classes and 20 hours of lectures in the Winter Term.",
+ "formativeAssessment": "Students are expected to submit written work on a weekly basis. These will be in the form of short to medium length (500-1000 words) essays. In addition, students will be expected to contribute to discussion topics in class.",
+ "indicativeReading": [
+  "Jacqueline Stedall, History of Mathematics: A Very Short Introduction (Oxford, 2011) is recommended for introductory (background) reading.",
+  "Additional reading for each of the sections of the course will be given in the course material. The historical parts of the course is based on source material which will be distributed to students.",
+  "/n",
+  "Indicative further reading:",
+  "– June Barrow-Green, Jeremy Gray, and Robin Wilson, The History of Mathematics: A Source-Based Approach, volume 1 (AMS, 2019).",
+  "– June Barrow-Green, Jeremy Gray, and Robin Wilson, The History of Mathematics: A Source-Based Approach, volume 2 (AMS, 2021).",
+  "– Norman Biggs, Quite Right: The Story of Mathematics, Measurement and Money (Oxford, 2016).",
+  "– Mathilde Gerbelli-Gauthier, Pamela E. Harris, Michael A. Hill, Dagan Karp, and Emily Riehl (eds.), A Conversation on Professional Norms in Mathematics (AMS, 2021).",
+  "– George Gheverghese Joseph, The Crest of the Peacock: Non-European Roots of Mathematics (Princeton, 2010).",
+  "– Helaine Selin (ed.), Mathematics Across Cultures: The History of Non-Western Mathematics (Springer, 2000)."
+ ],
+ "assessmentText": "Exam (50%), duration: 120 minutes, reading time: 5 minutes in the Spring exam period. Presentation (25%) in Spring Term Week 1. Essay (25%) in Spring Term Week 1. The assessment has 3 elements: 1) A 1500-word Essay, counting for 25% (due week 1 of Spring Term). 2) A presentation with follow-up questioning on the same topic as the essay, counting for 25% (which will be scheduled during the first weeks of Spring Term). 3) A 2-hour Exam in Spring Term counting for 50% of the final mark.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 50
+  },
+  {
+   "type": "Presentation",
+   "weight": 25
+  },
+  {
+   "type": "Essay",
+   "weight": 25
+  }
+ ],
+ "skills": [
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 15,
+  "avgClassSizePrevYear": 15,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MA/2026_MA318.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "course",
+  "code": "MA100"
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

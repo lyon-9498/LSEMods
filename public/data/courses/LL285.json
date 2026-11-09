@@ -1,0 +1,83 @@
+{
+ "code": "LL285",
+ "title": "Theories on Adjudication: Forms, Values, Aspirations",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Federico Picinali"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course has a limited number of places and we cannot guarantee all students will get a place.",
+ "description": "The course studies legal adjudication by reflecting on its distinctive forms, the values that underpin it (or should underpin it), some of the challenges it currently faces, and its desirable future developments. The starting point will be to clarify the notions of adjudication and of legal adjudication, studying how adjudication differs from other types of decision problems occurring in individual and social life, as well as how legal adjudication differs from other institutional decision problems, such as legislation. We will study the ritualistic and symbolic aspects of legal adjudication from a historical-sociological perspective, paying particular attention to the symbolic role of architectural forms in both historical and contemporary experiences of legal adjudication. But the course will also address questions relating to the ‘substance’ of legal adjudication, such as: the role of moral reasoning and of politics in legal adjudication, whether we have a moral right to fair procedures, whether obedience to adjudicative decisions is best achieved through fairness or through force/deterrence, and how legal adjudication handles disagreement (whether internal or external to the adjudicative panel). The course will study the role of society in, and its influence on, legal adjudication. We will consider whether legal adjudication can have the attributes of a democratic institution, exploring the ways in which different stakeholders (the parties in the case, of course, but also the polity in the role of critical spectator and of decision-maker) can participate in legal adjudication, influencing its outcome. We will also address the means through which legal adjudication can be harnessed to respond to injustice despite the inertia of the law, focusing especially on jury nullification. And we will study the influence of social biases on legal adjudication, the impact they have on accuracy and fairness, and possible debiasing tactics. The course will also involve a reflection on desirable developments of legal adjudication, addressing the question whether the use of AI is among these. While the syllabus may vary, this is an indicative list of the topics that we will address: What is legal adjudication? What is good legal adjudication? Outcomes, procedures and virtues Can an AI be a good legal adjudicator? The ritualistic aspects and the architectures of legal adjudication Moral reasoning and politics in legal adjudication Adjudication, disagreement and disobedience Social biases in legal adjudication Democracy and participation in legal adjudication Legal adjudication, injustice and jury nullification Adjudication, imagination and empathy: a romantic utopia?",
+ "teaching": "20 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Presentation. Essay (1500 words).",
+ "indicativeReading": [
+  "Lon Fuller, ‘The Forms and Limits of Adjudication’ (1978) 92 Harvard Law Review 353.",
+  "Mirjan Damaška,",
+  "The Faces of Justice and State Authority. A Comparative Approach to the Legal Process",
+  "(Yale University Press 1991).",
+  "William Lucy, ‘Adjudication’, in J. Coleman et al. (eds)",
+  "The Oxford Handbook of Jurisprudence and Philosophy of Law",
+  "(OUP 2004).",
+  "Linda Mulcahy,",
+  "Legal Architecture. Justice, Due Process and the Place of Law",
+  "(Routledge 2011).",
+  "Scott Brewer, ‘Exemplary Reasoning: Semantics, Pragmatics, and the Rational Force of Legal Argument by Analogy’ (1996) 109 Harvard Law Review 949.",
+  "Ronald Dworkin, ‘Political Judges and the Rule of Law’, in",
+  "A Matter of Principle",
+  "(HUP 1985).",
+  "Joseph Raz, ‘Law and Value in Adjudication’, in",
+  "The Authority of Law",
+  "(OUP 1979).",
+  "Tom Tyler,",
+  "Why People Obey the Law",
+  "(Princeton 2006).",
+  "Paul Butler, ‘Racially Based Jury Nullification: Black Power in the Criminal Justice System’ (1995) 105 Yale Law Journal 677.",
+  "Jennifer Lackey,",
+  "Criminal Testimonial Injustice",
+  "(OUP 2023)."
+ ],
+ "assessmentText": "Exam (100%), duration: 150 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Application of information skills",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL285.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

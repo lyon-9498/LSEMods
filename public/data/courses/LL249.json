@@ -1,0 +1,72 @@
+{
+ "code": "LL249",
+ "title": "Legal Aspects of Commercial Property",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Sarah Paterson"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law and LLB in Laws. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is available on the BA in Anthropology and Law and LLB in Laws. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "This course is intended partially to fulfil the requirements for recognition of the LLB by the Legal Profession Qualifying Board Malysia. It should also be of wider interest for LLB students hoping to pursue a career in legal practice as a solicitor, at the bar, or in house. There are three broad components to the course. In the first half, students will focus on business leases. This is a core part of the course because commercial property is generally understood to relate to business leases, given that most businesses do not own the freehold of the property that they occupy. Students will engage with some tricky doctrinal issues, and murky boundaries between different areas of law that impact business leases. The discussion will be set in the context of a rapidly changing market for commercial property, and students will be expected to apply their knowledge to real-world issues. In the second part of the course, students will initially focus on real estate finance. Students will start with the foundations of a mortgage over land and move on to consider more complex issues, including more complex finance structures such as commercial mortgage-backed securities (CMBS). In this part of the course, students who are pursuing related courses in commercial law should be able to synthesise what they are learning about secured transactions generally and the specific issues that arise in a real estate context (although students who are taking Commercial Property Law as a standalone option will not be prejudiced). Finally, students will gain a basic introduction to planning law.",
+ "teaching": "20 hours of seminars in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "Essay (1500 words).",
+ "indicativeReading": [
+  "Alan Moran,",
+  "Commercial Property Law",
+  "Sarah Paterson, ‘A Fine Balance: Insolvency Practitioners and the Leveraging of Intermediary Power’ in Paul S Davis and Tan Cheng-Han SC (eds)",
+  "Intermediaries in Commercial Law",
+  "Sarah Paterson and Adrian Walters, ‘Developing Restructuring Law in Silos: Part 26A and Unexpired Leases’ in Kristin van Zwieten and Jennifer Payne (eds)",
+  "Corporate Restructuring Law in Flux",
+  "Wayne Clark and Mr Justice Morgan",
+  "Fisher and Lightwood’s Law of Mortgage",
+  "Frank J. Fabozzi,",
+  "The Handbook of Mortgage-Backed Securities",
+  "Adam Sheppard, Deborah Peel, Heather Ritchie and Sophie Berry,",
+  "The Essential Guide to Planning Law"
+ ],
+ "assessmentText": "Exam (100%), duration: 150 Minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 15,
+  "avgClassSizePrevYear": 15,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL249.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

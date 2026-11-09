@@ -1,0 +1,68 @@
+{
+ "code": "MG311",
+ "title": "Behavioural Science and Group Processes",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Management",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Management, BSc in Psychological and Behavioural Science, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley, International Exchange (1 Term) and International Exchange (Full Year). This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course has a limited number of places (it is capped).",
+ "description": "This course introduces students to the foundations of Behavioural Science: the science that explains and predicts how humans make decisions (the decision ‘process’) and how well (the decision ‘outcome’). Students will be introduced to the way in which we make judgements and investigate strategies for decision making. Throughout the course, students will be introduced to many cognitive biases and aspects of context which influence how/what judgements and decisions we make. This course will also delve into the dynamics of decision-making in groups , exploring topics such as how groups make decisions effectively and the common pitfalls that can impede their success. Additionally, we will delve into the role of choice architecture in shaping group decision-making processes, and analyse various heuristics that individuals use, such as anchoring and receptiveness, which can impact group decision-making. Importantly, across both parts of the course, discussion of core concepts and examples will be woven together with new advances and applications in the field, particularly those within the course leader’s field of expertise. Examples used within the sessions will be drawn from across a range of different domains which could include managerial, policy, health, emergency response, law, consumer, and personal domains. From week 5, students will be assigned to groups to complete a group project. This group project will provide students with the practical experience to implement the concepts and frameworks from the course in their own personal and professional strategic decisions beyond the course. By the end of this course, students will have an understanding of the key concepts in Behavioural Science and Group Processes, be able to evaluate the strengths and weaknesses of human decision making, individually and in groups, and be able to recognise and adapt different techniques to improve decision making. The summative will provide an opportunity to show the skills and knowledge you have learnt throughout the course and consists of two parts which are described below.",
+ "teaching": "25 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term. Teaching hours in the WT will be commensurate with a usual half unit undergraduate course. In its Ethics Code, LSE upholds a commitment to intellectual freedom. This means we will protect the freedom of expression of our students and staff and the right to engage in healthy debate in the classroom.",
+ "formativeAssessment": "Group project plan presentation. Over several weeks (both in and outside class), you will work as a group to analyse a real decision that you will select. Students will submit information about the team and the decision they have selected, as well as an outline of their proposed project plan for the group project. In the middle of the course, the student group have the opportunity to meet with the professor to review their project plan and receive feedback as a group. This feedback will help prepare for the summative group project. Case analysis (individual): As a preparation for the individual case analysis essay, students will be assigned to analyse a case study which will be real-world example of group decision-making provided by the instructor. Students should identify one key concept discussed in class that impacted the decision-making process. Students will be expected to write a short essay that outlines the concept and its effects on the decision-making process. This assignment will encourage students to apply their knowledge of the course material to a practical situation, while also helping them develop their skills in critical analysis and effective communication. Additionally, it will provide students with an opportunity to practice their research and referencing skills in preparation for the final report.",
+ "indicativeReading": [
+  "Kahneman, D. (2011) Thinking Fast and Slow. London: Allen Lane;",
+  "Edmonson, A. (1999) Psychological Safety and Learning Behavior in Work Teams. Administrative Science Quarterly, Vol. 44, 2,350-383."
+ ],
+ "assessmentText": "Course participation (20%). Case analysis / study (50%). Project (30%). This component of assessment includes an element of group work. For detailed assessment information, including all deadlines and timings, please see the relevant course Moodle page. Assessment timings will be available at the start of each term.",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 20
+  },
+  {
+   "type": "Case analysis / study",
+   "weight": 50
+  },
+  {
+   "type": "Project",
+   "weight": 30
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 71,
+  "avgClassSizePrevYear": 24,
+  "capped": "Yes(75)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MG/2026_MG311.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

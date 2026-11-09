@@ -1,0 +1,93 @@
+{
+ "code": "PB201",
+ "title": "Cognitive Psychology",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Psychological and Behavioural Science",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Jens Madsen"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Psychological and Behavioural Science. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "This course will offer an account of core theories, debates and phenomena in Cognitive Psychology. It will cover essential aspects of cognitive psychology, ranging from phenomena concerned with ‘low level’ cognition such as attention and perception, through to ‘high level’ cognition such as reasoning and decision making and consciousness, and will interweave areas that span levels such as knowledge representation, concepts and language processing. It will also relate these areas to core aspects of behavioural science, such as levels of processing, the influence of context, and the roles of heuristics and biases in information processing. The course will also seek to assess the application of these theories and concepts to relevant real world examples and policy issues via the class discussions. Students will become familiar with methods that can be used to explore a myriad of cognitive functions, will be faced with concrete modelling tasks and see the application of cognitive psychology for interventions such as policy changes, changes in economic boundary conditions, social pressure, political campaigns etc. By the end of the course you should: Be able to critically appraise the philosophy, history and development of Cognitive Psychology. Be able to generate and critique computational and dynamic models Be able to critically assess methodological and conceptual limitations of interventions in complex systems Be able to relate these areas to core aspects of behavioural science. Be able to assess the application of these theories and concepts to real world examples.",
+ "teaching": "15 hours of lectures and 10 hours of classes in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "Students will complete several pieces of formative work to cement learning and prepare for summative assessments: Develop a summary and lead a discussion in one class (each group presents once during the term). Write a mini Op-Ed (500 words) using a cognitive psychological theory, model, or insight to explain or contextualise a societal issue, in preparation for the summative Op-Ed in-class test. Students will list theories and models and apply this to practical problems",
+ "indicativeReading": [
+  "• Eysenck, M. & Keane, M. (2015).",
+  "Cognitive Psychology: A Student’s Handbook",
+  ". (7th ed). Hove: Psychology Press.",
+  "• Gazzaniga, M. S., Ivry, R. B., Mangun, G. R. (2014).",
+  "Cognitive Neuroscience: The Biology of the Mind",
+  ". (4th ed.) New York, NY: W.W. Norton",
+  "• Gilbert, N. (2008)",
+  "Agent-Based Models.",
+  "Los Angeles, CA: SAGE",
+  "• Gluck, M. A., Mercado, E. & Myers, C. E. (2016).",
+  "Learning and Memory",
+  ". (3rd ed.). New York, NY: Worth",
+  "• Goldstein, E. B. (2017).",
+  "Sensation and Perception",
+  "(10th ed.). Boston, MA: Cengage Learning",
+  "• Johnson, N. (2009)",
+  "Simply Complex: A clear guide to complexity theory.",
+  "One World",
+  "• Marr, D. (2010)",
+  "Vision.",
+  "Cambridge, MA: MIT Press",
+  "• Oaksford, M. & Chater, N. (2007)",
+  "Bayesian Rationality: The probabilistic approach to human reasoning",
+  ". Oxford: Oxford University Press"
+ ],
+ "assessmentText": "In class test (70%). Presentation (20%). This component of assessment includes an element of group work. Essay (10%, 3000 words).",
+ "assessment": [
+  {
+   "type": "In class test",
+   "weight": 70
+  },
+  {
+   "type": "Presentation",
+   "weight": 20
+  },
+  {
+   "type": "Essay",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 48,
+  "avgClassSizePrevYear": 12,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PB/2026_PB201.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

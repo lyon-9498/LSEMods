@@ -1,0 +1,89 @@
+{
+ "code": "EH312",
+ "title": "Knowledge, Technology and Economy from the Middle Ages to Modernity",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economic History",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Max-Stephan Schulze"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Economic History, BSc in Economic History and Geography and BSc in Economics and Economic History. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is capped. Places will be assigned on a first come first served basis",
+ "description": "How has technology changed the way we live? How have humans managed to raise levels of productivity under a range of different circumstances and in an array of environmental conditions? This course addresses these questions through an exploration of the production and diffusion of knowledge and how this has affected technical change and economic growth in the very long run, from the Middle Ages to modernity. The course will explore, both theoretically and empirically, how economists and historians have accounted for technical change. Social scientists have for decades tried to parse the respective contributions of capital, technology and labour to economic development. To what extent do the differing roles ascribed to technical change account for divergent interpretations of the key factors in long-run economic development and productivity growth? How can we explain shifts in the locus of technological leadership and dynamism over time? These themes will be expanded upon throughout the course with case studies drawn from across place and time. We will look closely at paradigm-changing innovations and their economic effects from, for example, the introduction of the heavy plough, the clock and the printing press in the Middle Ages to more recent technologies like steam, railways, telegraphs, electricity and shifts in production technology towards automation.",
+ "teaching": "20 hours of seminars in the Autumn Term. 20 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Students will be expected to produce 1 essay in the AT and 1 essay in the WT. Students are also expected to give one presentation to class.",
+ "indicativeReading": [
+  "Edgerton, David.",
+  "The Shock of the Old : Technology and Global History since 1900",
+  "(London: Profile, 2008).",
+  "Landes, David S.",
+  "The Unbound Prometheus : Technical Change and Industrial Development in Western Europe from 1750 to Present",
+  "(New York: Cambridge University Press, 2003).",
+  "MacKenzie, Donald A.",
+  "Knowing Machines : Essays on Technical Change",
+  ". (Cambridge: MIT Press, 1998)",
+  "Mokyr, Joel.",
+  "The Gifts of Athena",
+  ". (Princeton: Princeton University Press, 2002).",
+  "Rosenberg, Nathan.",
+  "Inside the Black Box: Technology and Economics (",
+  "Cambridge: Cambridge University Press, 1983).",
+  "White, Lynn,",
+  "Medieval Technology and Social Change",
+  ". (Oxford: Oxford University Press, 1962)."
+ ],
+ "assessmentText": "Exam (70%), duration: 120 Minutes in the Spring exam period. Course participation (10%). Essay (20%, 2500 words). The exam will cover all topics of the course and take place during the Spring examination period. The summative essay is an opportunity for students to explore some of the themes of the course in greater depth. More detailed guidance on the essay will be disseminated early in Autumn Term.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 70
+  },
+  {
+   "type": "Course participation",
+   "weight": 10
+  },
+  {
+   "type": "Essay",
+   "weight": 20
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 14,
+  "avgClassSizePrevYear": 14,
+  "capped": "Yes(18)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EH/2026_EH312.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

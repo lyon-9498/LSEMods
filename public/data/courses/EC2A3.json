@@ -1,0 +1,114 @@
+{
+ "code": "EC2A3",
+ "title": "Microeconomics II",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economics",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Dimitra Petropoulou"
+ ],
+ "prerequisites": "Before taking this course, students must have completed: (EC1A3 and EC1B3) and (MA100 or MA107).",
+ "corequisites": null,
+ "additionalRequisites": "Students who have not take the above requisite courses may still qualify if equivalent courses have been taken. For example, MA108 alongside MA107 and MA100 would be suitable background mathematics.",
+ "availability": "This course is compulsory on the BSc in Accounting and Finance, BSc in Economics and Data Science, BSc in Economics and Economic History, BSc in Environment and Sustainable Development with Economics, BSc in Finance, BSc in Geography with Economics, BSc in International Social and Public Policy with Economics, BSc in Mathematics and Economics, BSc in Mathematics with Economics, BSc in Philosophy and Economics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad) and BSc in Politics and Economics. This course is available on the BSc in Data Science, BSc in Environment and Sustainable Development, BSc in Mathematics with Data Science, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students.",
+ "description": "In this course, we use the tools you learned in Microeconomics I (EC1A3) to provide an in-depth analysis of microeconomic theory, as well as applications of the tools of microeconomics to concrete economic problems. We build on analysis of demand from EC1A1 and combine with the supply side, bringing the two sides of the market together in the analysis of general equilibrium. We then explore social welfare and consider issues of efficiency, distribution, and inequality. We also examine the effects of living interdependently, exploring public goods and externalities and the role of government intervention in correcting market failures. Finally, the study of asymmetric information in markets and implications for contract design, as well as analysis of insurance markets and adverse selection.",
+ "teaching": "20 hours of lectures and 10 hours of classes in the Autumn Term. Student learning will be supported through a series of online Q&A sessions, the EC2A3 Support Lab and through a dedicated discussion forum.",
+ "formativeAssessment": "Students are expected to complete the weekly problem sets and any required reading before attending classes and will be encouraged to work in small study groups. Two pieces of work will be marked, and feedback provided.",
+ "indicativeReading": [
+  "Lecture material will be complemented with required additional reading from journal articles or reports. There is no set textbook for this course, though chapters from suitable intermediate textbooks can be recommended for those who may wish to consult a text (though this is not required).",
+  "Students will be expected to discuss critically the theoretical ideas and models taught by engaging with the required reading alongside working through microeconomic problems."
+ ],
+ "assessmentText": "Exam (90%), duration: 120 minutes, reading time: 15 minutes in the January exam period. Continuous assessment (10%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 90
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Communication",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 423,
+  "avgClassSizePrevYear": 19,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EC/2026_EC2A3.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "course",
+    "code": "EC1A3"
+   },
+   {
+    "type": "course",
+    "code": "EC1B3"
+   },
+   {
+    "type": "or",
+    "children": [
+     {
+      "type": "course",
+      "code": "MA100"
+     },
+     {
+      "type": "course",
+      "code": "MA107"
+     }
+    ]
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "EC2A5",
+   "title": "Microeconomics II",
+   "note": null
+  },
+  {
+   "code": "MG207",
+   "title": "Managerial Economics",
+   "note": null
+  }
+ ],
+ "unlocks": [
+  "EC313",
+  "EC317",
+  "EC319",
+  "EC321",
+  "EC325",
+  "EC328",
+  "EC333",
+  "EC335",
+  "EC338",
+  "GY329",
+  "MG301"
+ ]
+}

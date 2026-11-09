@@ -1,0 +1,68 @@
+{
+ "code": "LN303",
+ "title": "Language Studies Dissertation",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Centre for Language Studies",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Neil Mclean"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Language, Culture and Society. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "The dissertation will have two elements. These are the dissertation text of 7,000 words in the target language and a viva in English. Students' research questions will explore an area of linguistic or literary study or theory introduced during students first two years on the BSc in Papers 4 and 8. In addition to these courses, students will have completed SO201 and research projects written in their target language as part of their LS4 coursework. The dissertation will build on these learning experiences. The dissertation will provide the opportunity to carry out an extended independent research project in the target language, and to present the findings of this study in two formats. The first is the text of 7,000 words written in the target language and following academic conventions in that language. The dissertation will contain the following core elements: Literature review demonstrating the student's ability to work with a variety of sources i the target language, and justifying their research interest / niche. Methodological framework, based on their first and second year grounding in systematic analysis within linguistic research or literary theory, and the research methods training offered in the Department of Sociology. Original analysis of primary or secondary data specific to the topic. The second format is the viva, during which the student will present and discuss their work with their main language teacher and a second member of the Centre for Language Studies who teaches either linguistics or literature.",
+ "teaching": "10 hours of workshops in the Autumn Term. 8 hours of workshops in the Winter Term. Students will attend fortnightly dissertation workshops. In the Autumn term, these will focus on the design of their project, methodology, data collection, and analysis, in the Winter term they will focus on recording and presenting their findings. Students will also have two individual supervision meetings each term.",
+ "formativeAssessment": "Students will be expected to produce 1 essay and 1 presentation in the AT and 2 essays in the WT.",
+ "indicativeReading": [
+  "This will depend on the dissertation topic. Students will be guided by their supervisor."
+ ],
+ "assessmentText": "Presentation (30%). Dissertation (70%, 7000 words).",
+ "assessment": [
+  {
+   "type": "Presentation",
+   "weight": 30
+  },
+  {
+   "type": "Dissertation",
+   "weight": 70
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LN/2026_LN303.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

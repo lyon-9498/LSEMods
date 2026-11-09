@@ -1,0 +1,78 @@
+{
+ "code": "PH333",
+ "title": "Philosophy of Gender and Race",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Philosophy, Logic and Scientific Method",
+ "units": 0.5,
+ "studyPeriod": "Autumn and Spring Term",
+ "terms": [
+  "AT",
+  "ST"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Jingyi Wu"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Philosophy and Economics, BSc in Philosophy, Logic and Scientific Method, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics and Philosophy, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "Gender, race, class, sexualities, etc. are messy and difficult concepts. They are part of the fabric against which we come to form beliefs, attitudes, dispositions, and feelings about the world. They matter in our lives, even when we do not want or expect them to be. In this half-unit, we will utilize philosophical tools to analyze how gender, race, and other social categories have shaped our lives, and how they can shape our future. We will also think about how gender and race have shaped philosophy as a discipline, and how they can shape the future of philosophy. Topics covered may include: Gender and Biology: How does “gender” relate to “sex”? Is our concept of biological “sex” objective, and free from gender stereotypes and norms? Is our sex fixed or changeable? Gender and Society: Is gender a matter of internal identity, or is it an externally-imposed social class? How does sexism intersect with other oppressions, like racism and transphobia? Race and Society: How does the social meaning of “race” vary around the world? Should we try to reconcile “ordinary” conceptions of “race” with technical conceptions of “race”? How should we understand the directionality and limits of racial classification? The Future of Gender and Race: Will race and gender still exist in the future? Should we try to work for a race-free and gender-free world, or should these ways of classifying people be preserved? We will focus on approaches to these questions from “analytic” philosophy, including feminist and race-critical approaches and approaches from the philosophy of science. The aim is to confront the big questions of gender and race by analysing and constructing careful and precise philosophical arguments.",
+ "teaching": "9 hours of lectures and 9 hours of classes in the Autumn Term. 4 hours of workshops in the Spring Term. This course has a reading week in Week 6 of Autumn Term. There will be 9 total lectures in AT and 9 total seminars in AT. In Week 1 of ST there will be a workshop where student final non-essay projects are presented and discussed (as part of oral examination). The number of taught hours in ST will depend on student numbers and required presentation time. It will generally be carried out in one day.",
+ "formativeAssessment": "Students will have the opportunity to practice summative assessments during term time in the form of formatives or other activities. Other formative activities may be introduced.",
+ "indicativeReading": [
+  "Suggested introductory reading:",
+  "Fausto-Sterling, 2000 [2020 New Edition]. Sexing the Body: Gender Politics and the Construction of Sexuality.",
+  "Crenshaw, K., 1989. Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics.",
+  "Haslanger [2000] “Gender and Race, (What) Are They? (What) Do We Want Them To Be.”",
+  "Appiah, Kwame Anthony, \"Race, Culture, Identity: Misunderstood Connections.\"",
+  "Mills, Charles, 2007. \"White ignorance\"",
+  "Glasgow, J., Haslanger, S., Jeffers, C. and Spencer, Q., 2019. What is Race?",
+  "Fricker, Epistemic Injustice"
+ ],
+ "assessmentText": "Project (45%, 1500 words). Continuous assessment (15%). Oral examination (40%).",
+ "assessment": [
+  {
+   "type": "Project",
+   "weight": 45
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 15
+  },
+  {
+   "type": "Oral examination",
+   "weight": 40
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 47,
+  "avgClassSizePrevYear": 9,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PH/2026_PH333.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

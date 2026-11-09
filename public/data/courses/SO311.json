@@ -1,0 +1,93 @@
+{
+ "code": "SO311",
+ "title": "Law and Violence",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Sociology",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Ayca Cubukcu"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Language, Culture and Society, BSc in Sociology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is not available as an outside option to students on other programmes. This course is available with permission to General Course students. This course is not available to first and second year students. This course has a limited number of places (it is capped). Places are allocated on a first come first served basis.",
+ "description": "Law and Violence is an intensive introduction to key theoretical texts that can inform a nuanced understanding of the controversial yet crucial nexus between law and violence. What is the relationship between law and violence? Are they mutually exclusive forms of human action? Is it a paradox that law employs violence in claiming to prevent or circumscribe the latter? Is it a contradiction that violence is often the means to establish or change the law? We will consider these questions within historical contexts of the nation-state and the global legal order.",
+ "teaching": "This course has a reading week in Week 6 of Autumn Term. This course is usually delivered through seminars. There will be two hours or more of teaching each week in AT. This course requires the practice of close reading. We will not read in large quantities. However, students are expected to engage with the assigned texts deeply, paying special attention to the presuppositions of the authors and the structures of their argumentation, identifying the weaknesses and the strengths of their theoretical constructions. By the end of the course, students are expected to make the assigned texts speak with and against each other.",
+ "formativeAssessment": "Abstract (800 words). Students will be expected to complete an essay abstract (max 800 words), to be submitted in class in week 7. Students will get detailed feedback on their abstracts.",
+ "indicativeReading": [
+  "Giorgio Agamben,",
+  "Homo Sacer: Sovereign Power and Bare Life.",
+  "Stanford Uni. Press. 1995.",
+  "Antony Anghie,",
+  "Imperialism, Sovereignty and the Making of International Law",
+  ". Cambridge University Press. 2005.",
+  "Talal Asad, “Thinking About Just War and Terrorism,” in",
+  "Cambridge Journal of Foreign Affairs.",
+  "Talal Asad,",
+  "On Suicide Bombing",
+  ", Columbia University Press. 2007.",
+  "Hannah Arendt,",
+  "Eichmann in Jerusalem",
+  ". Penguin Press. 1963.",
+  "Walter Benjamin, “Critique of Violence” in",
+  "Reflections",
+  ", Schocken Books. 2002 [1929].",
+  "Jacques Derrida, “Force of Law: The ‘Mystical Foundations of Authority’” in",
+  "Deconstruction and the Possibility of Justice",
+  ".",
+  "Michel Foucault,",
+  "Society Must Be Defended",
+  ". Picador. 2003 [1976].",
+  "Carl Schmitt,",
+  "Political Theology",
+  ". The MIT Press. 1985 [1922].",
+  "Frantz Fanon, The Wretched of the Earth",
+  "Judith Butler, The Force of Non-Violence"
+ ],
+ "assessmentText": "Course participation (10%). Essay (90%, 3000 words) in January. Attendance at all classes and submission of all set coursework is required.",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 10
+  },
+  {
+   "type": "Essay",
+   "weight": 90
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 29,
+  "avgClassSizePrevYear": 29,
+  "capped": "Yes(34)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SO/2026_SO311.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

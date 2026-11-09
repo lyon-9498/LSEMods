@@ -1,0 +1,71 @@
+{
+ "code": "MG209",
+ "title": "E-business",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Management",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Magda Hercheui"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Management, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley, International Exchange (1 Term) and International Exchange (Full Year). This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course has a limited number of places (it is capped).",
+ "description": "This course presents an analysis of the management, economics and information systems theories and practices in online business. This is a management information systems course and not a technical course. It is mainly directed at undergraduate students. It focuses on the study of the impact of digital technologies on business strategies and market configurations. Internet-based systems offer new means to operate businesses and to compete in the global marketplace and it is important for future executives and entrepreneurs to understand the economic and managerial implications of these transformations. Students will gain a good understanding of why and how successful companies are taking advantage of e-business, as well as an understanding of the main challenges and risks associated with different e-business models and strategies in a fast-changing technological and business environment. The course is structured into four main sections: 1. Strategic, technological, and economic foundations of e-business. 2. E-business and its configurations: B2C and B2B. 3. E-business: strategic and organisational challenges. 4. Implementation of e-business strategies.",
+ "teaching": "20 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term. In its Ethics Code, LSE upholds a commitment to intellectual freedom. This means we will protect the freedom of expression of our students and staff and the right to engage in healthy debate in the classroom.",
+ "formativeAssessment": "Students will complete a formative assessment where formative feedback will be provided.",
+ "indicativeReading": [
+  "Chaffey, D., e-Business and e-Commerce Management, (Fifth Edition) Harlow, England: Pearson Education, (2011)",
+  "Cordella, A. \"Transaction Costs and Information Systems: Does IT Add Up?'\" Journal of Information Technology (2006) Vol. 21 (3), pp. 195-202",
+  "Davenport, T.H. (2019). The state of AI in business (introduction). Artificial Intelligence. Boston, Mass: Havard Business Review Press.",
+  "Enholm, I.M.; Papagiannidis, E.; Mikalef, P.; Krogstie, J. (2022). “Artificial Intelligence and Business Value: a Literature Review”, Information Systems Frontiers. Vol. 24(5), pp.: 1709-1734.",
+  "Garicano, Luis & Kaplan, Steven N, 2001. \"The Effects of Business-to-Business E-Commerce on Transaction Costs,\" Journal of Industrial Economics, Wiley Blackwell, vol. 49(4), pages 463-85, December.",
+  "Hanelt, A.; Bohnsack, R.; Marz, D.; Antunes Marante, C. (2021). “A Systematic Review of the Literature on Digital Transformation: Insights and Implications for Strategy and Organizational Change”, Journal of Management Studies, vol. 58(5), pp.: 1159-1197.",
+  "Hope Koch and Ulrike Schultze. 2011. Stuck in the conflicted middle: a roletheoretic perspective on B2B e-marketplaces. MIS Q. 35, 1 (March 2011), 123-146.",
+  "Kauffman, Robert J.; Li, Ting; van Heck, Eric (2010) Business Network-Based Value Creation in Electronic Commerce. International Journal of Electronic Commerce 15 (1) / Fall",
+  "Loebbecke, C. & Palmer, J.W. (2006) RFID in the fashion industry: Kaufhof Department Stores AG and Gerry Weber International AG, fashion manufacturer. MIS Quarterly Executive, Vol.5, No.2, 69-79",
+  "Mahadevan, B. (2003) Making sense of emerging market structures in B2B, California Management Review, 46(1) 86-101.",
+  "Novak, J. & Schwabe, G. (2009). Designing for Reintermediation in the Brick-and-Mortar World: Towards the Travel Agency of the Future. Electronic Markets, 19, pp. 15-29",
+  "Picot, A., C. Bortenlanger, et al. (1997). \"Organization of Electronic Markets: Contributions from the New Institutional Economics.\" The Information Society: An International Journal 13(1): 107-123.",
+  "Pramatari, K., Evgeniou, T. ;Doukidis, G. (2009) Implementation of collaborative e-supply chain initiatives: an initial challenging and final success case from grocery retailing. Journal of Information Technology, 24, 269-281",
+  "Rigby, D. (2011) The future of shopping. Harvard Business Review, December, 65-76.",
+  "Shapiro, C. and H. R. Varian (1998). Networks and Positive Feedback. Information Rules: A Strategic Guide to the Network Economy. Harvard, MA, Harvard Business School Press.",
+  "Zittrain, J. (2008). The future of the Internet and how to stop it. Yale University Press Place of Publication: New Haven.",
+  "Zott C., Amit R., Massa L. (2011). The business model: Recent developments and future research. Journal of Management, 37: 1019-1042"
+ ],
+ "assessmentText": "Exam (50%), duration: 120 minutes in the Spring exam period. Course participation (20%). Project (30%). For detailed assessment information, including all deadlines and timings, please see the relevant course Moodle page. Assessment timings will be available at the start of each term.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 50
+  },
+  {
+   "type": "Course participation",
+   "weight": 20
+  },
+  {
+   "type": "Project",
+   "weight": 30
+  }
+ ],
+ "skills": [],
+ "stats": {
+  "totalStudentsPrevYear": 57,
+  "avgClassSizePrevYear": 11,
+  "capped": "Yes(70)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MG/2026_MG209.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

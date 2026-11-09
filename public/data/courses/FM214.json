@@ -1,0 +1,152 @@
+{
+ "code": "FM214",
+ "title": "Principles of Finance I",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Finance",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Cameron Peng"
+ ],
+ "prerequisites": "Before taking this course, students must have completed: (ST102 and (MA100 or MA108) and (EC1A3 or EC1A5)) or ((MA107 or MA108 or MA100) and EC1A1 and ST109 and EC1C1).",
+ "corequisites": null,
+ "additionalRequisites": "Students on the BSc in Management and the BSc in Accounting and Finance can only take this course if they: 1. have email permission from their Senior Undergraduate Tutor; and 2. have met the following programme-specific prerequisites: a 1st in MA107 and ST107, or at least 60 in MA108.",
+ "availability": "This course is compulsory on the BSc in Finance and BSc in Financial Mathematics and Statistics. This course is available on the BSc in Accounting and Finance, BSc in Actuarial Science, BSc in Actuarial Science (with a Placement Year), BSc in Data Science, BSc in Econometrics and Mathematical Economics, BSc in Economics, BSc in Economics and Data Science, BSc in Management, BSc in Mathematics and Economics, BSc in Mathematics with Data Science, BSc in Mathematics with Economics and BSc in Mathematics, Statistics and Business. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is not capped, any eligible student that requests a place will be given one.",
+ "description": "The course examines the theory of financial decision-making and examines the behaviour of the capital markets in which these decisions are taken. The topics covered are the theory of capital markets, portfolio theory, equity and bond markets, the capital asset pricing model, efficient markets, derivative pricing, sources of funds. This course covers the same broad topics as FM210. However, compared to FM210, this course puts more emphasis on mathematical models and statistical methods and covers modern financial theories in greater depth.",
+ "teaching": "15 hours of classes and 20 hours of lectures in the Autumn Term.",
+ "formativeAssessment": "Students are expected to produce written work for classes and to make positive contributions to class discussion.",
+ "indicativeReading": [
+  "Detailed course programmes and reading lists are distributed at the start of the course. Illustrative texts include: Principles of Corporate Finance by Richard Brealey, Stewart Myers, and Franklin Allen, McGraw-Hill Inc."
+ ],
+ "assessmentText": "Exam (90%), duration: 90 minutes in the January exam period. Continuous assessment (10%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 90
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Application of information skills",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 420,
+  "avgClassSizePrevYear": 23,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/FM/2026_FM214.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "and",
+    "children": [
+     {
+      "type": "course",
+      "code": "ST102"
+     },
+     {
+      "type": "or",
+      "children": [
+       {
+        "type": "course",
+        "code": "MA100"
+       },
+       {
+        "type": "course",
+        "code": "MA108"
+       }
+      ]
+     },
+     {
+      "type": "or",
+      "children": [
+       {
+        "type": "course",
+        "code": "EC1A3"
+       },
+       {
+        "type": "course",
+        "code": "EC1A5"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "type": "and",
+    "children": [
+     {
+      "type": "or",
+      "children": [
+       {
+        "type": "course",
+        "code": "MA107"
+       },
+       {
+        "type": "course",
+        "code": "MA108"
+       },
+       {
+        "type": "course",
+        "code": "MA100"
+       }
+      ]
+     },
+     {
+      "type": "course",
+      "code": "EC1A1"
+     },
+     {
+      "type": "course",
+      "code": "ST109"
+     },
+     {
+      "type": "course",
+      "code": "EC1C1"
+     }
+    ]
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "FM210",
+   "title": "Principles of Finance I",
+   "note": null
+  }
+ ],
+ "unlocks": [
+  "FM301",
+  "FM302",
+  "FM305",
+  "FM306",
+  "FM310",
+  "FM311",
+  "FM321",
+  "FM322"
+ ]
+}

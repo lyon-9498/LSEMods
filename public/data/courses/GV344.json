@@ -1,0 +1,80 @@
+{
+ "code": "GV344",
+ "title": "Philosophy, Politics and Economics: Research Project",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Sarah Brierley"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Philosophy, Politics and Economics and BSc in Philosophy, Politics and Economics (with a Year Abroad). This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is exclusively for fourth year BSc PPE students.",
+ "description": "The focus of the course is on the production of an individual academic paper and poster presentation. This is your chance to choose a topic of your interest and use what you’ve learnt in the last three years into what interests you most. You will be encouraged to develop an interdisciplinary research question. The initial weeks in Winter Term will be focused on outlining your research plans. Group feedback and individual feedback sessions will take place regularly throughout term. The aim of this course is not only to produce a written piece of research but to also summarise your research in a poster and be able to present it in an informal setting.",
+ "teaching": "4 hours of lectures in the Autumn Term. 6 hours of seminars in the Winter Term. 2 hours of workshops in the Spring Term. This course has a reading week in Week 6 of Winter Term. 2 x 2 hour introductory sessions (including one on research methods) across AT Weeks 10 and 11. 6 hours of seminars in the WT. 2 hours of workshops in the ST. The course is structured around an initial presentation and various group and individual feedback sessions. In Weeks 10 and 11 of AT we’ll have 2 x two-hour introductory sessions. During the first session we’ll establish the goals of the course and you will then have some time to think about the topic you want to work on in the WT. The second introductory session in AT will give you some guidance on the different research methods that are at your disposal. There will be group feedback sessions in WT Weeks 2, 5, 8 and 11. These seminars / workshops will be supplemented with regular individual feedback sessions.",
+ "formativeAssessment": "Presentation in Winter Term Week 2. Continuous assessment. Proposal in Autumn Term Week 11. Students must prepare a draft outline synopsis for their individual project by Thursday of Week 11 Autumn Term, and present on it in a seminar in Week 2 of the Winter Term, after the Christmas/Winter break. Students must then present a detailed account of their progress in Weeks 5, 8 and 11.",
+ "indicativeReading": [
+  "On writing:",
+  "Inger Furseth, Euris Everett and Larry Everett, Doing Your Master's Dissertation: From Start to Finish (Sage Study Skills Series, 2013);",
+  "Stella Cottrell, Dissertations and Project Reports: A Step by Step Guide (Palgrave Study Skills, 2014);",
+  "Diana Ridley, The Literature Review: A Step-by-Step Guide for Students (SAGE Study Skills Series, 2008);",
+  "Christopher Hart, Doing a Literature Review (SAGE Study Skills Series, 2018);",
+  "Sharon M. Ravitch and J. Matthew Riggan, Reason and Rigor: How Conceptual Frameworks Guide Research (2nd edition, Sage Publications, 2016).",
+  "On research:",
+  "Catherine Hakim, Research Design: Successful Designs for Social Economics Research, 2nd ed. (Routledge, 2000);",
+  "Joseph A. Maxwell, Qualitative Research Design (3rd edition, Sage, 2013);",
+  "Alan Bryman, Social Research Methods, 5th ed. (Oxford University Press, 2015);",
+  "David Partington, Essential Skills for Management Research (Sage Publications, 2002).",
+  "A list of readings will be made available on Moodle."
+ ],
+ "assessmentText": "Presentation (20%) in Spring Term Week 1. Report (80%, 5000 words) in Spring Term Week 1. There are two pieces of assessment. A final report (max 5,000 words) that counts towards 80% of the final mark, and a short video presentation on your key conclusions that counts towards 20% of the final mark. Both elements will have to be submitted by Week 1 of ST. You will be invited to present your findings on a poster presentation during the Spring Capstone Showcase.",
+ "assessment": [
+  {
+   "type": "Presentation",
+   "weight": 20
+  },
+  {
+   "type": "Report",
+   "weight": 80
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 53,
+  "avgClassSizePrevYear": 15,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV344.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

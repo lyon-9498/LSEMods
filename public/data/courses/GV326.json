@@ -1,0 +1,93 @@
+{
+ "code": "GV326",
+ "title": "Conflict, War and Revolution - Approaches to Political Theory",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Paul Kelly"
+ ],
+ "prerequisites": "Students must have completed GV100 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Social Anthropology, BSc in History and Politics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations, BSc in Politics and Philosophy, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is not available as an outside option to students on other programmes. This course is available with permission to General Course students.",
+ "description": "The course explores some different approaches to the problem and challenge of politics through the careful reading of a number of important texts and thinkers from the Ancient Greeks to the present. It will build on and assume the overview of Political Theory in GV100 but go beyond a broad superficial reading to an in depth and critical engagement with complex texts from history, philosophy and theology to explore the methodologies of political thinking and critical reading in order to understand to challenge and problem of political action. The thinkers discussed comprise Thucydides, Augustine of Hippo, Machiavelli, Hobbes, Rousseau, Clausewitz, Lenin and Mao, Carl Schmitt. These paradigmatic thinkers challenge the presuppositions of contemporary liberal egalitarianism and state focused models of politics and distinguish the domain of the political from other ways of thinking about human practical modes of experience such as morality, society and the economy. Alongside ways of reading these texts the course will also explore a number of issues about the nature of politics including how the domain of politics is conceived, the sites of political engagement such as the polis, city, republic, empire, state, system of states, and multitude. We will focus on the nature, justification and legitimacy of violence, force and conflict. Finally the course will also examine the 'meta-narratives' or overarching contexts within which they argue the political takes place, such as the structure and meaning of history and whether history justifies political action or redeems human suffering and oppression.",
+ "teaching": "20 hours of seminars in the Autumn Term. 20 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Essay. Essay. Students will be expected to produce 1 essay in the AT and 1 essay in the WT.",
+ "indicativeReading": [
+  "Kelly, Paul,",
+  "Conflict, War and Revolution",
+  ", LSE Press, 2022.",
+  "Thucydides,",
+  "History of the Peloponnesian War",
+  ", trans. R. Warner, Harmondsworth, Penguin, 1972.",
+  "Augustine,",
+  "The City of God Against the Pagans",
+  ", trans. R.W. Dyson, Cambridge, Cambridge University Press, 2013.",
+  "Machiavelli,",
+  "The Prince",
+  ", eds. Q. Skinner and Russell Price, Cambridge, Cambridge University Press, 2012.",
+  "Hobbes,",
+  "Leviathan",
+  ", ed. R. Tuck, Cambridge, Cambridge University Press, 1991.",
+  "Rousseau,",
+  "Of the Social Contract and Other Political Writings",
+  ", Harmondsworth, Penguin, 2012.",
+  "Clausewitz, Carl von.,",
+  "On War",
+  ", eds. M. Howard and P. Paret, Princeton, Princeton University Press, 1984.",
+  "Lenin, V.I.,",
+  "The State and Revolution",
+  ", Harmondsworth, Penguin, 2009.",
+  "Mao,",
+  "Quotations From Chairman Mao Tse-Tung",
+  ", (the Little Red Book), Beijing, Progress Publishers, 1976.",
+  "Schmitt, Carl,",
+  "The Concept of the Political",
+  ", trans. George Schwab, Chicago, University of Chicago Press, 2007."
+ ],
+ "assessmentText": "Essay (100%, 5000 words) in Spring Term Week 1. GENERAL COURSE STUDENTS ONLY: The Class Summary Grade for General Course students will be calculated as follows: 40% formative essay (best mark), 40% class participation and 20% attendance.",
+ "assessment": [
+  {
+   "type": "Essay",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Problem solving",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV326.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "course",
+  "code": "GV100"
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

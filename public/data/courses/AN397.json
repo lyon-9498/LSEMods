@@ -1,0 +1,63 @@
+{
+ "code": "AN397",
+ "title": "Special Essay Paper in Social Anthropology",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Anthropology",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Gisa Weszkalnys",
+  "Prof Laura Bear"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BA in Social Anthropology and BSc in Social Anthropology. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "The course guides students through the process of researching and writing an extended essay on an anthropological theme of their own choosing. Topics covered include: what makes a good dissertation; conducting an effective literature search; refining research questions; contribution and evidence; adequate referencing.",
+ "teaching": "1 hour of seminars and 7 hours of lectures in the Autumn Term. 4 hours of seminars and 2 hours of workshops in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Dissertation proposal in Autumn Term Week 2. Research report (1500 words) in Autumn Term Week 7. Dissertation draft (2500 words) in Winter Term Week 2. Dissertation plan in Winter Term Week 7. The formative work for AN397 consists of four components: In Week 2 of Autumn Term, students will submit a Dissertation Topic Form, using a template published on Moodle. This is listed as \"Dissertation proposal\" in the Course Assessment Breakdown above. In Week 7 of Autumn Term, students will submit a Critical Literature Review of up to 1500 words. This is listed as \"Research report\" in the Course Assessment Breakdown above. In Week 2 of Winter Term, students will submit a 2500-word extract of their dissertation both to the course Moodle page and their academic mentor for feedback. This is listed as \"Dissertation draft\" in the Course Assessment Breakdown above. In Week 7 of Winter Term, students will submit a Dissertation Contents Form, using a template published on Moodle. This is listed as \"Dissertation plan\" in the Course Assessment Breakdown above.",
+ "indicativeReading": [
+  "There is no formal course content. Students will be expected to draw widely on their readings from other anthropology courses."
+ ],
+ "assessmentText": "Dissertation (100%, 9000 words) in Spring Term Week 2. The Special Essay should be 8000-9000 words long, excluding the table of contents, abstract and bibliography, but including any citations, footnotes or appendices. The essay must include an abstract (maximum 250-words) summarising the key points of your essay. The essay must be submitted to Moodle by the deadline published on the course Moodle page. Th deadline will be confirmed after the publication of the Spring Exam Timetable, but will usually be no earlier than 12 noon of the Tuesday of Week 2 in Spring Term.",
+ "assessment": [
+  {
+   "type": "Dissertation",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 41,
+  "avgClassSizePrevYear": 14,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AN/2026_AN397.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

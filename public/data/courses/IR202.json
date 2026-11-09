@@ -1,0 +1,70 @@
+{
+ "code": "IR202",
+ "title": "Foreign Policy Analysis 1",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International Relations",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Jonny Hall"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in International Relations, BSc in International Relations and Chinese, BSc in International Relations and History, BSc in Politics and International Relations, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course has a limited number of places (it is capped).",
+ "description": "Foreign Policy Analysis (FPA) is a sub-discipline of International Relations (IR) which focuses on individual decisions. FPA stands apart from mainstream IR approaches with its emphasis on the importance of particular individuals, groups, and organisations in foreign policy decision-making. FPA priorities ‘middle-range theories’ between broad IR theories and narrow case studies. The course covers these main theoretical approaches in FPA, such as leaders’ psychological makeup, groupthink, bureaucratic politics, and the role of public opinion in foreign policy formulation. The course then applies these theories to contemporary case studies, including the foreign policies of China, Russia, the United Kingdom, and the United States. As such, the course aims to advance students’ understanding of contemporary international politics. LSE is currently evaluating the use of edit tracking tools for AI-resilient assessment. This course might use edit tracking tools for assessments.",
+ "teaching": "10 hours of lectures and 9 hours of classes in the Autumn Term. 10 hours of lectures and 10 hours of classes in the Winter Term. 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Essay (1,500 words) in AT Mock Exam in WT Students will be expected to produce one 1,500 word essay for their seminar leader in AT and will sit one mock exam in WT. The formatives provide students with an opportunity to write essays which engage critically with key readings on course topics, and to receive constructive feedback to support their preparation for the summative assessments.",
+ "indicativeReading": [
+  "• Brummer, K. and Oppermann, K. (2024) Foreign Policy Analysis. Oxford: Oxford University Press",
+  "• Morin, Jean-Frédéric, and Jonathan Paquin, Foreign Policy Analysis: A Toolbox, (Springer, 2018).",
+  "• Valerie Hudson and Benjamin Day, Foreign Policy Analysis: Classic and Contemporary Theory (Rowman & Littlefield, London, 2019)."
+ ],
+ "assessmentText": "Exam (60%), duration: 120 minutes in the Spring exam period. Essay (40%, 1500 words) in January. The exam will be an on campus 'e-Exam'.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 60
+  },
+  {
+   "type": "Essay",
+   "weight": 40
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 107,
+  "avgClassSizePrevYear": 13,
+  "capped": "Yes(120)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/IR/2026_IR202.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

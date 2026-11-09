@@ -1,0 +1,78 @@
+{
+ "code": "GV341",
+ "title": "Politics, Gender, and Development",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Nirvikar Jassal"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Social Anthropology, BSc in History and Politics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations, BSc in Politics and Philosophy and BSc in Social Anthropology. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "This course explores the intersection of gender, politics, and development, examining how political institutions shape gender disparities across different domains, including governance, economic participation, criminal justice, education, and health. While gender is often discussed in relation to political representation, this course takes a broader approach, considering the structural and institutional factors that influence gender inequality and the effectiveness of policies designed to address these disparities. Key questions addressed in the course include: How does the presence of women in political institutions impact policy outcomes? What institutional barriers prevent gender equality in governance and public life? How do legal and law enforcement systems shape access to justice for women and marginalized communities? What policies have been effective in reducing gender-based violence, improving educational access, and closing wage gaps? The course draws from empirical research in political science and development economics, with a strong emphasis on methodological rigor. Students will engage with studies using causal inference techniques, field experiments, and survey data to evaluate gender disparities and policy interventions. The readings cover diverse geographic contexts, including case studies from Latin America, Africa, South Asia, and Europe, ensuring a truly comparative perspective. By the end of the course, students will not only have a strong understanding of how political institutions shape gender outcomes but also be equipped with analytical tools to assess real-world policy interventions aimed at promoting equality.",
+ "teaching": "20 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Essay plan. As a formative assessment, students will be expected to produce an outline for their final essay. This will enable them to gain feedback about their essay and, alternatively, their research question or methodology for their summative assessment.",
+ "indicativeReading": [
+  "Chattopadhyay, Raghabendra, and Esther Duflo. 2004. “Women as Policy Makers: Evidence from a Randomized Policy Experiment in India.”",
+  "Econometrica",
+  "72 (5): 1409–43.",
+  "Alesina, Alberto, Paola Giuliano, and Nathan Nunn. 2013. “On the Origins of Gender Roles: Women and the Plough *.”",
+  "The Quarterly Journal of Economics",
+  "128 (2): 469–530.",
+  "Mendelberg, Tali, Christopher F. Karpowitz, and Nicholas Goedert. 2014. “Does Descriptive Representation Facilitate Women’s Distinctive Voice? How Gender Composition and Decision Rules Affect Deliberation.”",
+  "American Journal of Political Science",
+  "58 (2): 291–306.",
+  "Bos, Angela L., Jill S. Greenlee, Mirya R. Holman, Zoe M. Oxley, and J. Celeste Lay. 2022. “This One’s for the Boys: How Gendered Political Socialization Limits Girls’ Political Ambition and Interest.”",
+  "American Political Science Review",
+  "116 (2): 484–501.",
+  "Carrell, Scott E., Marianne E. Page, and James E. West. 2010. “Sex and Science: How Professor Gender Perpetuates the Gender Gap.”",
+  "The Quarterly Journal of Economics",
+  "125 (3): 1101–44."
+ ],
+ "assessmentText": "Essay (100%, 3000 words) in Spring Term Week 1. The summative assessment comprises one final take-home essay which will be either (a) an essay on the readings or, alternatively, (b) on an original research topic following discussion with the convenor.",
+ "assessment": [
+  {
+   "type": "Essay",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 17,
+  "avgClassSizePrevYear": 17,
+  "capped": "Yes(17)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV341.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

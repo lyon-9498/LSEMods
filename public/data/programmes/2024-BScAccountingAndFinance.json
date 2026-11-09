@@ -1,0 +1,339 @@
+{
+ "name": "BSc in Accounting and Finance",
+ "code": "UBAF",
+ "department": "Accounting",
+ "years": [
+  {
+   "year": 1,
+   "papers": [
+    {
+     "label": "LSE100",
+     "lines": [
+      "LSE100 is a half unit taken by all students, running across Autumn and Winter Terms in the first year. The course provides one of the marks that is eligible to be included in the calculation of the First Year Average for purposes of classification.",
+      "Students will choose ONE of the three half-unit options below:",
+      "LSE100A The LSE Course: How can we transform our climate futures? (0.5)",
+      "LSE100B The LSE Course: How can we control AI? (0.5)",
+      "LSE100C The LSE Course: How can we create a fair society? (0.5)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "LSE100A",
+      "LSE100B",
+      "LSE100C"
+     ],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": true,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 1",
+     "lines": [
+      "AC105 Introduction to Financial Accounting (0.5) and AC106 Introduction to Management Accounting (0.5)"
+     ],
+     "compulsory": [
+      "AC105",
+      "AC106"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 2",
+     "lines": [
+      "EC1A3 Microeconomics I (0.5) and EC1B3 Macroeconomics I (0.5)",
+      "(OR)",
+      "EC1A5 Microeconomics I (0.5) and EC1B5 Macroeconomics I (0.5)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "EC1A3",
+      "EC1B3",
+      "EC1A5",
+      "EC1B5"
+     ],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": true,
+     "outside": null
+    },
+    {
+     "label": "Paper 3",
+     "lines": [
+      "ST107 Quantitative Methods (Statistics) (0.5)",
+      "and one of the following:",
+      "MA107 Quantitative Methods (Mathematics) (0.5)",
+      "MA108 Methods in Calculus and Linear Algebra (0.5)"
+     ],
+     "compulsory": [
+      "ST107"
+     ],
+     "choice": true,
+     "options": [
+      "MA107",
+      "MA108"
+     ],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": true,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 4",
+     "lines": [
+      "FM101 Finance (0.5)",
+      "and one 0.5 unit course from the Year 1 options list:",
+      "Year 1 options list"
+     ],
+     "compulsory": [
+      "FM101"
+     ],
+     "choice": true,
+     "options": [],
+     "lists": [
+      "Year 1 options list"
+     ],
+     "unitsNeeded": 0.5,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  },
+  {
+   "year": 2,
+   "papers": [
+    {
+     "label": "Paper 5",
+     "lines": [
+      "AC205 Intermediate Financial Accounting (0.5) and AC206 Intermediate Management Accounting (0.5)"
+     ],
+     "compulsory": [
+      "AC205",
+      "AC206"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 6",
+     "lines": [
+      "Courses to the value of 1.0 unit(s) from the following options: FM210 cannot be combined with FM214. FM211 cannot be combined with FM215.",
+      "FM210 Principles of Finance I (0.5) and FM211 Principles of Finance II (0.5)",
+      "FM214 Principles of Finance I (0.5) and FM215 Principles of Finance II (0.5)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "FM210",
+      "FM211",
+      "FM214",
+      "FM215"
+     ],
+     "lists": [],
+     "unitsNeeded": 1.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 7",
+     "lines": [
+      "Courses to the value of 1.0 unit(s) from the following:",
+      "EC2A3 Microeconomics II (0.5)",
+      "EC2B3 Macroeconomics II (0.5)",
+      "EC2C3 Econometrics I (0.5)",
+      "(OR)",
+      "Courses to the value of 1.0 unit(s) from the following:",
+      "EC2A5 Microeconomics II (0.5)",
+      "EC2B5 Macroeconomics II (0.5)",
+      "EC2C3 Econometrics I (0.5)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "EC2A3",
+      "EC2B3",
+      "EC2C3",
+      "EC2A5",
+      "EC2B5"
+     ],
+     "lists": [],
+     "unitsNeeded": 1.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 8",
+     "lines": [
+      "Courses to the value of 1.0 unit from the Year 2 options list",
+      "Year 2 options list"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [],
+     "lists": [
+      "Year 2 options list"
+     ],
+     "unitsNeeded": 1.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  },
+  {
+   "year": 3,
+   "papers": [
+    {
+     "label": "Paper 9",
+     "lines": [
+      "AC311 Results Accountability and Management Control for Strategy Implementation (0.5) and AC331 Contemporary Issues in Financial Accounting (0.5)"
+     ],
+     "compulsory": [
+      "AC311",
+      "AC331"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 10",
+     "lines": [
+      "Courses to the value of 1.0 unit from the following:",
+      "AC312 Performance Measurement, Strategy, and Uncertainty (0.5)",
+      "AC332 Financial Statement Analysis and Valuation (0.5)",
+      "AC341 Corporate Governance, Risk Management and Financial Audit (0.5)",
+      "AC342 Accounting, Corporate Responsibility and Sustainability (0.5)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "AC312",
+      "AC332",
+      "AC341",
+      "AC342"
+     ],
+     "lists": [],
+     "unitsNeeded": 1.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 11",
+     "lines": [
+      "FM310 Corporate Finance, Investments and Financial Markets I (0.5) and FM311 Corporate Finance, Investments and Financial Markets II (0.5)"
+     ],
+     "compulsory": [
+      "FM310",
+      "FM311"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 12",
+     "lines": [
+      "Courses to the value of 1.0 unit from the Year 3 options list:",
+      "Year 3 options list"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [],
+     "lists": [
+      "Year 3 options list"
+     ],
+     "unitsNeeded": 1.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  }
+ ],
+ "lists": {
+  "Year 1 options list": [
+   "EH111",
+   "MG104",
+   "MG105",
+   "PH111",
+   "ST101A",
+   "ST101W",
+   "ST115"
+  ],
+  "Year 2 options list": [
+   "EC2A3",
+   "EC2B3",
+   "EC2C3",
+   "EC2C4",
+   "EH240",
+   "GV101",
+   "GY121",
+   "GY211",
+   "GY222",
+   "MA207",
+   "MA213",
+   "MA324",
+   "MG205",
+   "MG209",
+   "MG212",
+   "MG213",
+   "ST115",
+   "ST201",
+   "ST205"
+  ],
+  "Year 3 options list": [
+   "AC312",
+   "AC332",
+   "AC341",
+   "AC342",
+   "EC2A3",
+   "EC2B3",
+   "EC2C3",
+   "EC2C4",
+   "FM321",
+   "FM322",
+   "GY326",
+   "GY327",
+   "LL203",
+   "LL293",
+   "MA213",
+   "MA301",
+   "MA324",
+   "MA330",
+   "MG303",
+   "MG305"
+  ]
+ },
+ "warnings": [],
+ "id": "2024-BScAccountingAndFinance",
+ "cohort": 2024,
+ "url": "https://www.lse.ac.uk/resources/calendar2026-2027/programmeRegulations/undergraduate/2024/BScAccountingAndFinance.htm"
+}

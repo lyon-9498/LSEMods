@@ -1,0 +1,80 @@
+{
+ "code": "AN290",
+ "title": "Anthropology and Religion",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Anthropology",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Fenella Cannell"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, BA in Social Anthropology, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley, Exchange Programme for Students in Anthropology (Cape Town), Exchange Programme for Students in Anthropology (Fudan), Exchange Programme for Students in Anthropology (Melbourne) and Exchange Programme for Students in Anthropology (Tokyo). This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "This course covers selected topics in current approaches to classic and newer topics in the anthropology of religion. The guiding underlying approach will be to ask; what is the study of ‘religion’ for the social sciences, and what are the potentials and limitations of different answers to that question. We will also be asking where (if anywhere) religion is located as category, practice and experience for a range of interlocutors, and in different kinds of analytic writing. Classic topics from which sessions are chosen may include myth, ritual, belief and doubt, supernatural experience, ethical self-cultivation, asceticism, sacrifice, authority and charisma. Students will be introduced to debates concerning the ways in which ‘religion’ is said to influence or shape personal experience and collective public life in both western and non-western contexts. Students will explore some of the key concepts that inform contemporary understandings of religion as a force in the world, the history of these concepts, how they enter into various political and ethical projects, and the extent to which they predefine ‘religion’ as an object of anthropological study, as well as the question of where (if anywhere) boundaries lie between what we call 'religion' and other aspects of social life such as kinship or politics.Specific areas of focus may include: the relationship between ‘religion’ and ‘secularism’; conceptions of ‘religious freedom’; conversion; inter-religious conflict; religious solidarity; the ethnography of religious minorities; the anthropology of religious movements; and the history and consequences of different anthropological definitions of ‘religions'. Topics facilitating this project may include some of the following: shamanism; spirit mediumship; death rituals and ritual theory; magic and witchcraft; ‘spirituality’ and new religious movements; ghosts, spirits and ancestors, and 'aliens'; cosmology; faith-healing;life-cycle rituals, human-nonhuman relations; religion in disapora and social change; religion and ‘ethics’; problems of suffering and critical approaches to religion; violence and inequality;encounters with the divine and sacred, religion; capitalism and the fetish; religion, gender and the body; religion and development, implicit religion. Examples will be drawn both western and non-western contexts, and from both ‘salvation religions’ such as Hinduism, Judaism and Christianity, and other including so-called ‘animist’ contexts. This course will use Cadmus for submitting assessments. This platform is currently being evaluated by LSE for AI-resilient assessment. For more information, visit Cadmus Assessment Edit Tracking - Guidance for Students .",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. This course has a reading week in Week 6 of Autumn Term. The contact hours listed above are the minimum expected.",
+ "formativeAssessment": "Essay (1500 words). Students will have the opportunity to submit one formative essay of up to 1500 words during the course. Students will be informed of their formative submission deadline by email by the end of Week 3 of term.",
+ "indicativeReading": [
+  "Talal Asad 2009, Genealogies of Religion: Discipline and Reasons of Power in Christianity and Islam;",
+  "Tomoko Masuzawa 2005, The Invention of World Religions: Or, How European Universalism Was Preserved in the Language of Pluralism;",
+  "Hussein A. Agrama 2012, Questioning Secularism: Islam, Sovereignty, and the Rule of Law in Modern Egypt;",
+  "Mayanthi Fernando 2014, The Republic Unsettled: Muslim French and the Contradictions of Secularism;",
+  "Webb Keane 2007, Christian Moderns: Freedom and Fetish in the Mission Encounter;",
+  "W. F. Sullivan, E. S. Hurd, et al. (eds.) 2015, Politics of Religious Freedom;",
+  "Courtney Bender 2010, The New Metaphysicals: Spirituality and the American Religious Imagination;",
+  "Leigh Eric Schmidt 2000, Hearing Things: Religion, Illusion, and the American Enlightenment;",
+  "S. J. Tambiah 1992, Buddhism Betrayed?: Religion, Politics, and Violence in Sri Lanka;"
+ ],
+ "assessmentText": "Exam (100%), duration: 480 minutes in the January exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 39,
+  "avgClassSizePrevYear": 8,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AN/2026_AN290.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "AN301",
+   "title": "The Anthropology of Religion",
+   "note": "Withdrawn 2026/27"
+  },
+  {
+   "code": "AN390",
+   "title": "Anthropology and Religion",
+   "note": "Suspended 2026/27"
+  }
+ ],
+ "unlocks": []
+}

@@ -1,0 +1,71 @@
+{
+ "code": "GV330",
+ "title": "Data Science Applications to Politics Research",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Stuart Bramwell"
+ ],
+ "prerequisites": "Students must have completed GV101 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": "Students must have completed Introduction to Political Science (GV101) and either Research Design in Political Science (GV249) or an equivalent course (containing coursework in econometrics). Familiarity with R is also required.",
+ "availability": "This course is available on the BA in Social Anthropology, BSc in History and Politics, BSc in International Social and Public Policy with Politics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations, BSc in Politics and Philosophy and BSc in Social Anthropology. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is not available to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "The goal of this course is to introduce students to the latest empirical research using big data in political science. This course will cover different applications of big data in political science. For each, students will be introduced to the type of questions that each type of data can help answer and learn to apply the methods needed to analyse each type of data.",
+ "teaching": "15 hours of lectures and 15 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Presentation. Problem sets. Students will be expected to produce 1 problem set and 1 presentation in the WT.",
+ "indicativeReading": [
+  "Brady, Henry E. \"The challenge of big data and data science.\" Annual Review of Political Science 22 (2019): 297-323.",
+  "Gohdes, Anita R. \"Repression technology: Internet accessibility and state violence.\" American Journal of Political Science (2020).",
+  "King, Gary, Jennifer Pan, and Margaret E. Roberts. \"How censorship in China allows government criticism but silences collective expression.\" American Political Science Review 107, no. 2 (2013): 326-343.",
+  "Krupenkin, Masha. \"Does partisanship affect compliance with government recommendations?.\" Political behavior 43, no. 1 (2021): 451-472.",
+  "Titiunik, Rocío. \"Can big data solve the fundamental problem of causal inference?.\" PS: Political Science & Politics 48, no. 1 (2015): 75-79."
+ ],
+ "assessmentText": "Course participation (15%). Project (85%) in Spring Term Week 1. The coursework/project comprises a replication exercise, where students replicate and extend the analysis of one paper from a list of options. Course participation will include class participation and a presentation in the WT.",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 15
+  },
+  {
+   "type": "Project",
+   "weight": 85
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 34,
+  "avgClassSizePrevYear": 17,
+  "capped": "Yes(34)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV330.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "course",
+  "code": "GV101"
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

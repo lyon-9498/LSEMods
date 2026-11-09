@@ -1,0 +1,75 @@
+{
+ "code": "PH239",
+ "title": "Anarchy, Authority and Evidence: Topics in Philosophy of Law",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Philosophy, Logic and Scientific Method",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Ella Whiteley"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Philosophy and Economics, BSc in Philosophy, Logic and Scientific Method, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics and Philosophy, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "Anarchy, Authority and Evidence tackles philosophical questions about legal systems and criminal justice. No prior legal knowledge is required. The first half of the course typically discusses big picture questions about the purpose of law and what, if anything, the criminal justice system achieves. For example, we might consider the obligation to obey the law, the viability of political anarchism, what sort of conduct should be criminalised, whether punishment can be justified, and the moral status of civil or violent disobedience. The second half of the course usually takes a closer, critical look at how criminal justice works in practice - and at how it might work in the future. For example, we might discuss: What is the fairest way to evaluate allegations of sexual criminality? Should we use algorithms to make legal decisions? Should we use juries or professional judges? Does it make sense to treat a corporation as morally responsible? What alternatives are there to prison? By the end of the course, you will have a solid understanding of foundational and applied questions in philosophy of law - as well as a better grasp of how the law operates in practice. LSE is currently evaluating the use of edit tracking tools for AI-resilient assessment. This course might use edit tracking tools for assessments.",
+ "teaching": "10 hours of seminars and 10 hours of lectures in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "There will usually be a student-led group debate for which formative feedback will be provided. You will also usually have the chance to get formative feedback on a practice exam.",
+ "indicativeReading": [
+  "Delmas, Candice (2018). A Duty to Resist: When Disobedience Should Be Uncivil. New York, USA: Oxford University Press.",
+  "Kropotkin, Petr (2015). The Conquest of Bread. Penguin.",
+  "Huemer, Michael (2012). The Problem of Political Authority: An Examination of the Right to Coerce and the Duty to Obey. Basingstoke: Palgrave Macmillan.",
+  "Nagel, Thomas (1976) Moral Luck. Proceedings of the Aristotelian Society, Supplementary Volumes. Vol. 50",
+  "Jorgensen, Renée (2020). The rational impermissibility of accepting (some) racial generalizations. Synthese 197 (6):2415-2431.",
+  "Hoskins, Zachary (2017). Punishment. Analysis 77 (3): 619–632."
+ ],
+ "assessmentText": "Exam (100%), duration: 180 minutes in the Spring exam period. A straightforward exam in the Spring Examination period. (This happens from May onwards - so you don't have to revise over the Winter break). The exam will consist of two mini essays. You'll have the chance to type the exam on your laptop if desired.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 54,
+  "avgClassSizePrevYear": 14,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PH/2026_PH239.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "LL307",
+   "title": "Justifying Political Authority",
+   "note": null
+  }
+ ],
+ "unlocks": []
+}

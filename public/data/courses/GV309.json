@@ -1,0 +1,90 @@
+{
+ "code": "GV309",
+ "title": "Politics of Money and Finance in Comparative Perspective",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr David Woodruff"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Social Anthropology, BSc in History and Politics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations, BSc in Politics and Philosophy and BSc in Social Anthropology. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is capped at three groups. There has usually been significant excess demand for this course.",
+ "description": "The course focuses on empirical and normative issues relevant to the politics of money and finance in rich constitutional democracies. It will provide an introduction to the history and practical operation of finance, banking, and monetary policy. Students will consider debates about the role of monetary policy in controlling price levels and stimulating employment and growth, as well as its potential relationship to inequality. The course will also examine arguments about the causes of chronic financial instability in capitalist economies. In light of these theories, we will evaluate the case for making central banks independent of direct democratic control, considering the relationship between central banks and elected politicians in various circumstances, including those of recession or low growth, financial crisis, and high inflation. We will also consider whether and how financial markets limit policymakers’ autonomy. The course uses both contemporary and historical material, and adopts a comparative country perspective, rather than an international relations perspective.",
+ "teaching": "15 hours of lectures and 15 hours of seminars in the Autumn Term. This course has a reading week in Week 6 of Autumn Term. Students should expect to read 3-4 journal articles or pieces of equivalent length each week.",
+ "formativeAssessment": "Essay. Students will be expected to produce 1 essay in the AT.",
+ "indicativeReading": [
+  "Admati, A.R. and Hellwig, M. (2014)",
+  "The bankers’ new clothes: what’s wrong with banking and what to do about it",
+  ". Princeton, N.J.: Princeton Univ. Press.",
+  "Shin, H.S. (2009) ‘Reflections on Northern Rock: The Bank Run that Heralded the Global Financial Crisis’,",
+  "Journal of Economic Perspectives",
+  ", 23(1), pp. 101–119. Available at: https://doi.org/10.1257/jep.23.1.101.",
+  "Krippner, G.R. (2007) ‘The Making of US Monetary Policy: Central Bank Transparency and the Neoliberal Dilemma’,",
+  "Theory and Society",
+  ", 36(6), pp. 477–513. Available at: https://doi.org/10/dccj8c.",
+  "Susanne Lohmann, “Sollbruchstelle: Deep Uncertainty and the Design of Monetary Institutions,”",
+  "International Finance",
+  "3, no. 3 (November 1, 2000): 391–411.",
+  "Cheryl Schonhardt-Bailey, “A View from the Inside,” in",
+  "Deliberative Accountability in Parliamentary Committees",
+  "by Cheryl Schonhardt-Bailey (Oxford University Press, 2022).",
+  "Deborah Mabbett and Waltraud Schelkle, “Independent or Lonely? Central Banking in Crisis,”",
+  "Review of International Political Economy",
+  "26, no. 3 (January 28, 2019): 436–60.",
+  "Downey, L. (2022) ‘Governing Money Democratically: Rechartering the Federal Reserve’, in D. Allen et al. (eds)",
+  "A Political Economy of Justice",
+  ". University of Chicago Press, pp. 340–366.",
+  "Sebastian Dellepiane-Avellaneda, “Gordon Unbound: The Heresthetic of Central Bank Independence in Britain,”",
+  "British Journal of Political Science",
+  "43, no. 02 (April 2013): 263–93.",
+  "Tucker, P. (2016) ‘How Can Central Banks Deliver Credible Commitment and Be “Emergency Institutions”?’, in J.H. Cochrane and J.B. Taylor (eds)",
+  "Central bank governance and oversight reform. Conference on Central Bank Governance and Oversight Reform",
+  ", Stanford, California: Hoover Institution Press, Stanford University (Hoover Institution Press publication, no. 666), pp. 1–53."
+ ],
+ "assessmentText": "Exam (25%), duration: 120 Minutes in the January exam period. Essay (75%, 3000 words) in Winter Term Week 1. The exam will be designed to ensure engagement with reading throughout the course.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 25
+  },
+  {
+   "type": "Essay",
+   "weight": 75
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 34,
+  "avgClassSizePrevYear": 17,
+  "capped": "Yes(34)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV309.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

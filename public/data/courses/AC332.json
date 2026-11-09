@@ -1,0 +1,91 @@
+{
+ "code": "AC332",
+ "title": "Financial Statement Analysis and Valuation",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Accounting",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Stefano Cascino"
+ ],
+ "prerequisites": "Students must have completed AC105 or AC102 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": "All assessments relating to AC105 or AC102 must have been completed before taking this course. Intermediate Financial Accounting (AC205) is recommended to complement either AC105 or AC102, but not required. Prior knowledge of statistical software packages (e.g., Stata) as well as prior coding (i.e., programming) experience is desirable although not required.",
+ "availability": "This course is available on the BSc in Accounting and Finance, BSc in Management, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. Available to students on other undergraduate/Diploma programmes with the permission of the Accounting Departmental Tutor.",
+ "description": "AC332 introduces and develops an economic framework for business analysis and corporate valuation. The main focus is on integrating key concepts of economics, accounting, and finance in order to effectively evaluate the information content of financial reports; develop up-to-date applied knowledge of fundamental valuation techniques; and successfully implement investment strategies. The aim of the course is to help students to become “sophisticated users” of financial accounting information from a fundamental analysis perspective. The course consists of four integrated parts: (i) strategy analysis; (ii) accounting analysis; (iii) financial analysis; and (iv) forecasting and valuation. Students are expected to develop financial-analysis and valuation-related skills to support the interpretation, evaluation, and use of accounting information from the viewpoint of major users of financial reports (i.e., equity investors, corporate lenders, etc.). Ultimately, students will be able to analyze a wide variety of financial reporting issues and discuss their valuation implications within the context of the relevant academic literature. As recent trends in big data and predictive analytics are disrupting the way in which equity analysts, portfolio managers, credit-rating agencies, and regulators collect and analyze companies’ financial disclosures, students will also learn how to perform meaningful analyses on real-world data by using spreadsheets (e.g., MS Excel) and/or statistical software packages (e.g. Stata).",
+ "teaching": "33 hours of seminars in the Winter Term. Teaching is delivered in two one and a half hour sessions each week. The pedagogical approach in each session is interactive, often involving case study analyses and group discussions. This mode of teaching requires good advance preparation by the students; hence, every student should be ready to contribute to the discussion when called upon. Active participation is expected and encouraged.",
+ "formativeAssessment": "The course makes extensive use of real-world case studies. Students are expected to contribute to the case discussions in each session.",
+ "indicativeReading": [
+  "There is no required textbook for this course. Illustrative textbooks covering specific parts of the course include:",
+  "Palepu K. G., P. M. Healy, and E. Peek (2022), Business Analysis and Valuation: IFRS Edition (Cengage Learning), 6th edition.",
+  "Penman, S. H. (2013), Financial Statement Analysis and Security Valuation (McGraw-Hill), 5th edition."
+ ],
+ "assessmentText": "Exam (60%), duration: 120 minutes, reading time: 15 minutes in the Spring exam period. Project (40%). Assessment consists of two components, one based on group work and the other on individual work: Group project (40%) in the Winter Term. The group project involves the preparation of an “analyst report” and the delivery of a presentation. The analyst report gives students the opportunity to collect and analyze data on publicly listed companies. The preparation of the analyst report is meant to test: (i) students’ understanding of the core concepts of fundamental analysis and valuation; (ii) students’ ability to collect, manipulate, and analyze (big) data with the aid of spreadsheets (e.g., MS Excel) and/or statistical software packages (e.g., Stata). The presentation gives students the opportunity to share the findings documented in their analyst reports with the rest of their class as if they were presenting the results of their analyses in a formal business environment (e.g., to sell their research to institutional investors). Final exam (60%, duration: 2 hours, reading time: 15 minutes) in the Spring Term exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 60
+  },
+  {
+   "type": "Project",
+   "weight": 40
+  },
+  {
+   "type": "Group project",
+   "weight": 40
+  },
+  {
+   "type": "Final exam",
+   "weight": 60
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 82,
+  "avgClassSizePrevYear": 41,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AC/2026_AC332.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "course",
+    "code": "AC105"
+   },
+   {
+    "type": "course",
+    "code": "AC102"
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

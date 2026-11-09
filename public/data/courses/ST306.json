@@ -1,0 +1,76 @@
+{
+ "code": "ST306",
+ "title": "Actuarial Mathematics (General)",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Statistics",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Xiaolin Zhu"
+ ],
+ "prerequisites": "Students must have completed ST202 and ST302 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Actuarial Science, BSc in Actuarial Science (with a Placement Year), BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "This course is an introduction to actuarial work in non-life (general) insurance. It opens with an overview of the industry, its history, and the principles of risk-sharing, before building towards a rigorous treatment of the mathematical and statistical tools that underpin actuarial modelling. Core topics include loss distributions for modelling individual and aggregate claims, the collective risk model with frequency and severity components, and compound Poisson processes. The course also covers reinsurance arrangements and examines how risk is distributed between insurer and reinsurer. Further topics include ruin theory and the Lundberg theorem, Bayesian statistics and credibility theory, and claims reserving using run-off triangles. Throughout the course, key concepts are implemented in R, giving students practical experience alongside the theoretical material.",
+ "teaching": "9 hours of seminars and 20 hours of lectures in the Winter Term.",
+ "formativeAssessment": "Problem sets and R programming exercises which are similar to exam questions will be assigned.",
+ "indicativeReading": [
+  "Notes are given out in the lectures."
+ ],
+ "assessmentText": "Exam (90%), duration: 180 minutes in the Spring exam period. Problem sets (10%) in Winter Term Week 11. 10%: In Class Problem Sets: This will be a timed computer-based assessment to be taken in person on campus. Students are required to solve a set of course-related problems using R. Please refer to Moodle for more specific instructions about the nature of this assessment.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 90
+  },
+  {
+   "type": "Problem sets",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 45,
+  "avgClassSizePrevYear": 15,
+  "capped": "Yes(70)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/ST/2026_ST306.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "course",
+    "code": "ST202"
+   },
+   {
+    "type": "course",
+    "code": "ST302"
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

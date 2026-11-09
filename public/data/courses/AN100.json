@@ -1,0 +1,58 @@
+{
+ "code": "AN100",
+ "title": "Being Human: Contemporary Themes in Social Anthropology",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Anthropology",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Fahad Rahman",
+  "Dr Harry Walker"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BA in Anthropology and Law, BA in Social Anthropology and BSc in Social Anthropology. This course is available on the BA in Geography, BSc in Environment and Sustainable Development, BSc in Politics, BSc in Psychological and Behavioural Science, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "This course provides a general introduction to Social Anthropology as the comparative study of human societies and cultures. In it, students will be introduced to key themes and debates in the history of the discipline. Ethnographic case studies will be drawn from work on a variety of societies. Drawing on both classical and contemporary work, the course aims to answer the question: What is Social Anthropology? A second objective is to introduce students to the use of comparative ethnography as evidence. The third objective is to equip students to apply anthropological concepts and insights to enhance their understanding of complex experiences in their own lives. The first term is organised around three blocks. The first, 'Worlds', introduces the ethnographic method and the concept of culture, including cultural relativism as a principle for contextual understanding and the need to rethink 'culture' in light of enquiries into humankind's relations with nature. The next block, 'Relations', considers work on kinship, gift exchange, and emotions, considered as ways of creating and navigating social relationships. In the final block, 'Persons', we will explore how different societies have approached fundamental aspects of the human condition, including the facts of birth and death and what it means to have a body. The Winter Term is also divided into three thematic blocks: 1) Politics and Power: state, sovereignty, and documents, 2) Identities and Belonging: gender, sexuality, and race, 3) Beliefs and Doubts: rituals, secularism, and values. We will explore how studying anthropology equips us with new theoretical and analytical skills to navigate the complex issues we all face in the contemporary world. The course will analyse broad theoretical debates within these three themes by grounding them in ethnographies and our everyday experiences, linking them back to the broad question set at the beginning of the course in Winter Term: what is anthropology? This broad question will lead us to more specific questions, such as: What is the nature of the power our governments exercise? Is resistance possible under situations of extreme repression and violence? Do people participate in their own oppression, or do we unfairly judge their choices and beliefs according to our views? Do our identities empower or constrain us? How can we define religion when it varies so much across contexts? What are the ways secularism and religion interact with each other? How can we balance understanding and respect for cultural differences and ethical commitments to human rights? Can an Activist Anthropologist also remain a critical scholar? And then we will conclude by asking ourselves: what can we 'do' with anthropology?",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. 10 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term. The contact hours listed above are the minimum expected.",
+ "formativeAssessment": "Essay (1500 words). Essay (1500 words). Students are expected to prepare discussion material for presentation in the classes. All students have the opportunity to submit one formative essay of up to 1500 words in the Autumn Term and one formative essay of up to 1500 words in the Winter Term. Students based in the Department of Anthropology will be informed of their submission deadline by their academic mentor early in term. These students will receive feedback on their formative essays from their academic mentor. Students based outside the Department of Anthropology will be informed of their submission deadline by email by the end of Week 3 of term. These students will receive feedback on their formative essays from their class teacher.",
+ "indicativeReading": [
+  "M Engelke, Think Like an Anthropologist (2017)",
+  "R Astuti et al (eds.), Questions of Anthropology (2007)",
+  "MacClancy, J. ed., 2002. Exotic no more: Anthropology on the front lines. University of Chicago press.",
+  "Eriksen, T.H., 2015. Small places, large issues: An introduction to social and cultural anthropology. PLUTO press."
+ ],
+ "assessmentText": "Essay (50%, 2500 words) in Winter Term Week 1. Essay (50%, 2500 words) in Spring Term Week 1. The summative assessment for AN100 consists of two essays, each of up to 2500 words in length. Each essay is worth 50% of the overall AN100 course mark. Essay 1, based on content taught in Autumn Term, is submitted in Week 1 of Winter Term. Essay 2, based on content taught in in Winter Term, is submitted in Week 1 of Spring Term.",
+ "assessment": [
+  {
+   "type": "Essay",
+   "weight": 50
+  },
+  {
+   "type": "Essay",
+   "weight": 50
+  }
+ ],
+ "skills": [],
+ "stats": {
+  "totalStudentsPrevYear": 131,
+  "avgClassSizePrevYear": 19,
+  "capped": "Yes(140)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AN/2026_AN100.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": [
+  "AN377"
+ ]
+}

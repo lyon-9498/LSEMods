@@ -1,0 +1,75 @@
+{
+ "code": "LL244",
+ "title": "Sports: Law and Governance",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Jan Zglinski"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students.",
+ "description": "Sport has never been more contested – or more consequential. Can countries be banned from participating in the Olympics in the wake of military aggression? May governing bodies exclude trans athletes from the women’s category? Do sports federations have the duty to protect the human rights of workers building stadiums for their competitions? These are not just ethical or political questions — they are increasingly legal ones, with courts, arbitration panels and regulators playing an ever-greater role in shaping the world of sport. This course takes you inside the foundations of sports law and governance, and the forces shaping them. Students will explore how sport governing bodies are organised, what regulatory constraints they operate under and how the sports justice system works. The module then zooms in on the most pressing contemporary issues in the field: human rights, gender equality, financial sustainability and climate change. National, European and international law are all brought into view, alongside the concept of lex sportiva and the jurisprudence of the Court of Arbitration for Sport. Examples are drawn from across the globe and from across the sporting world, including football, athletics, tennis, cricket and the Olympic movement. The course takes a 'law in context' approach throughout, treating legal developments as inseparable from their political, economic and socio-cultural significance. You will be encouraged to think critically. Sessions combine lecture elements with facilitated discussion, collaborative problem-solving and small-group work. The course follows Universal Design for Learning principles to ensure an inclusive environment for all students. Slides and questions are shared in advance, and readings are chosen to reflect a broad range of perspectives and voices. Topics: The Organisation of Sports: Governance Models and Lex Sportiva The Autonomy of Sports: Regulatory Freedoms and Restraints Sports Justice The Politics of Sports Athletes' Rights The Integrity of Sport: Doping and Betting Financial Sustainability Human Rights Gender and Racial Equality Climate Change",
+ "teaching": "20 hours of seminars in the Autumn Term. 2 hours of seminars in the Spring Term.",
+ "formativeAssessment": "1,500 word essay.",
+ "indicativeReading": [
+  "Foster, ‘Global Sports Law Revisited’ (2019) 17 Entertainment and Sports Law Journal 1",
+  "Duval, ‘The Olympic Charter: A Transnational Constitution Without a State?’ (2018)",
+  "Goh and Anderson, ‘The Credibility of the Court of Arbitration for Sport’ (2022) 13 Harvard Journal of Sports and Entertainment Law 233",
+  "Belcastro, ‘A Game of Politics? International Sport Organisations and the Role of Sport in International Politics’ (2023) 58 The International Spectator 107",
+  "Weatherill, ‘Saving Football from Itself: Why and How to Re-make EU Sports Law’ (2022) 23 Cambridge Yearbook of European Legal Studies 1",
+  "Modi, ‘To what extent is rule 50 of the Olympic charter valid? Balancing athletes freedom of expression and the mythical political neutrality of sport’ (2023) 23 International Sports Law Journal 368",
+  "Leong, ‘Against Women’s Sports’ (2018) 95 Washington University Law Review 1249",
+  "Heerdt, ‘Tapping the Potential of Human Rights Provisions in Mega-Sporting Events’ Bidding and Hosting Agreements’ (2018) 17 International Sports Law Journal 170",
+  "US Supreme Court,",
+  "National Collegiate Athletic Association v. Alston",
+  ", 594 U.S. 69 (2021)",
+  "European Court of Human Rights,",
+  "Semenya v Switzerland",
+  "(2025)"
+ ],
+ "assessmentText": "Exam (100%), duration: 150 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL244.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

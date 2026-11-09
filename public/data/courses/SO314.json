@@ -1,0 +1,71 @@
+{
+ "code": "SO314",
+ "title": "Class, Culture and Meritocracy",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Sociology",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Linzhi H. Zhang"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Language, Culture and Society, BSc in Sociology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is not available as an outside option to students on other programmes. This course is available with permission to General Course students. This course has a limited number of places (it is capped). Places are allocated on a first come first served basis.",
+ "description": "Class, Culture and Meritocracy is an optional undergraduate module run by LSE Sociology. The course investigates the intersections between these three key concepts and is organised into three parts: class, class and culture, and class-culture-meritocracy. We will begin by introducing traditional and contemporary theories of social class and stratification. We then turn to the interrelation of class and culture (and gender and ethnicity) in Britain, the US, and other countries throughout the world. We will engage especially with the seminal work of French sociologist Pierre Bourdieu and his supposition that class boundaries are most clearly discernible from examining people’s cultural taste, with dominant classes using their preferences for legitimate culture as a means of signalling their superior social position. We will also look specifically at elites, and how they are implicated in how some forms of culture are assigned higher value in society. We will also examine the role of culture in staging forms of class resistance, particularly through the lens of politicised subcultures. And finally, the module will engage with the question of how class and classed cultures are implicated in contemporary debates about meritocracy. Here we will look at how the cultural dimensions of a person’s class background affects their ability to get ahead, and how this intersects with inequalities of gender and ethnicity. We will then look at how meritocracy is deployed to understand the burgeoning middle class in a number of Global South countries, particularly China, South African and India and how this is problematised by the lived experience of those experiencing this upward mobility. We will end by interrogating the ways in which ‘social mobility’ is increasingly used by politicians as a means of providing meritocratic legitimacy for the maintenance of inequality.",
+ "teaching": "This course has a reading week in Week 6 of Winter Term. This course is usually delivered through a combination of lectures and seminars. There will be two hours or more of teaching each week in WT.",
+ "formativeAssessment": "Essay plan. The formative assessment for this course will be an essay plan for the summative essay that will allow students to get feedback on their ideas before submitting the summative assessment.",
+ "indicativeReading": [
+  "Shamus Khan, Privilege, Princeton UP, 2010",
+  "Sam Friedman and Daniel Laurison, The Class Ceiling, Bristol University Press, 2019",
+  "Lauren Rivera, Pedigree. Princeton UP, 2015",
+  "Lee Eliot Major and Stephen Machin, Social Mobility and its Enemies, Penguin, 2019",
+  "Will Atkinson, Class. Polity. London, 2015",
+  "Savage, Mike, Fiona Devine, Niall Cunningham, Sam Friedman, Daniel Laurison, Andrew Miles, Helene Snee, and Paul Wakeling. 2015. Social Class in the 21st Century. London: Penguin.",
+  "Meghji, A. 2019. Black Middle Class Britannia. Routledge. London (Introduction)",
+  "Jack, A. 2019. The Privileged Poor: How Elite Colleges are Failing Disadvantaged Students. Harvard University Press. Boston",
+  "Breen, R. eds., 2004. Social mobility in Europe. Oxford University Press",
+  "Bukodi, E. and Goldthorpe, J.H., 2018. Social mobility and education in Britain: Research, politics and policy. Cambridge University Press.",
+  "Wilson, W.J., 2012. The truly disadvantaged: The inner city, the underclass, and public policy. University of Chicago Press.",
+  "Reay, Diane, 2018, Miseducation: Inequality, Education and the Working Classes, Polity"
+ ],
+ "assessmentText": "Essay (100%, 3000 words) in May. Attendance at all classes and submission of all set coursework is required.",
+ "assessment": [
+  {
+   "type": "Essay",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Application of information skills",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 34,
+  "avgClassSizePrevYear": 17,
+  "capped": "Yes(34)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SO/2026_SO314.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

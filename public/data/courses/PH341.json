@@ -1,0 +1,105 @@
+{
+ "code": "PH341",
+ "title": "Philosophy, Politics and Economics: Applications",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Philosophy, Logic and Scientific Method",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Thomas Rowe"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Philosophy, Politics and Economics and BSc in Philosophy, Politics and Economics (with a Year Abroad). This course is not available as an outside option to students on other programmes. This course is not available to General Course students. Available only to fourth-year PPE students.",
+ "description": "This course will draw on concepts, theories and findings from Philosophy, Politics and Economics to tackle questions faced by decision-makers in public and private institutions. Each week will focus on a case study. Students will be expected to have had some prior exposure to the issues in previous courses--this course will stand out by being more interdisciplinary, in-depth and practical. Questions covered may include: Risky public decisions: Decision theorists speak of risky situations when the decision-maker can assign probabilities to all relevant outcomes of their choices. How should we assess policies such as cancer screening that expose everyone to both a large chance of a small or moderate cost (such as inconvenience or false positive tests) while also saving them from a small chance of a very large harm (such as early death)? Severely uncertain public decisions: Decision theorists speak of severely uncertain situations when the decision-maker cannot assign probabilities to all relevant outcomes of their choices. How should we assess policies, such as measures to combat a novel, highly infectious disease, or climate change, in such severely uncertain situations? Privacy and consent in online environments: Are current regulations involving the transfer of personal data online adequate? If not, how should they be revised? The Resource Curse: In unstable or grossly undemocratic states, the presence of natural resources often leads to oppression and/or civil war. Should democracies therefore ban the purchase of natural resources from such states? International reparations: What, if anything, do the formal imperial powers owe their former colonies? A market for refugee quotas: Should countries who do not wish to host refugees be able to pay other countries to take them in, in a \"free market\" for hosting refugees? Discrimination and the market : Some have argued that free markets are good because they will, over time, eliminate discrimination, both because, in markets, people will mix with people of all backgrounds and because they will be judged on the quality of their goods or services alone. How powerful is this case? Concentration of wealth and economic power: In many societies, economic power is becoming increasingly concentrated, in two ways: many sectors are dominated by a handful of large firms; and wealth is becoming increasingly unequal. In which ways, if any, is this problematic? What are the implications of this concentration for democracy? Should dominant firms be forcibly broken up? Should inheritance be highly taxed? Behavioural science and policy: Do the irrationalities documented by behavioural science legitimate paternalistic nudges, taxation, and subsidies? Does sensitivity of people's answers to how questions are framed make surveys about people's opinions on matters of policy untrustworthy? Science and society: Can natural and social scientific expertise be deferred to in a democracy, or is such deference inimical to democratic rule? Which social institutions can ensure that scientists have the right incentives to produce reliable work, rather than fraudulent or unreliable findings? How should we decide which research gets funded?",
+ "teaching": "15 hours of seminars and 15 hours of classes in the Autumn Term. 15 hours of seminars and 15 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term. The shared, large seminar will set out key ideas in a format that allows plenty of Q&A with students and for occasional short supplementary guest lectures. It will present theories and findings from the three disciplines relevant to the policy issue being studied in that week. The smaller-group classes will involve further in depth discussion of the material.",
+ "formativeAssessment": "Students will write one 1,500-word formative essay. Students will give feedback on other students' essays.",
+ "indicativeReading": [
+  "D. Hausman, M. McPherson and D. Satz,",
+  "Economic Analysis, Moral Philosophy and Public Policy.",
+  "Cambridge University Press, revised edition, 2016.",
+  "A. Oliver (ed.)",
+  "Behavioural Public Policy",
+  ". Cambridge University Press, 2013.",
+  "L. Bovens, \"The Ethics of",
+  "Nudge.\"",
+  "In",
+  "Preference Change.",
+  "Theory and Decision Library",
+  "42 (2009): 207-219.",
+  "L. Wenar.",
+  "Blood Oil",
+  ". Oxford University Press, 2015.",
+  "J. Fernández-Huertas Moraga & H. Rapoport. \"Tradable immigration quotas.",
+  "Journal of Public Economics",
+  "115 (2014) 94–108.",
+  "D. Halliday.",
+  "Inheritance of Wealth: Justice, Equality, and the Right to Bequeath",
+  ". Oxford University Press, 2018.",
+  "L. Kofi Bright. ``On Fraud.\" in",
+  "Philosophical Studies",
+  "Vol. 174 (2017); 291-310.",
+  "M. Fleurbaey and A. Voorhoeve \"Decide as You Would with Full Information! An Argument against ex ante Pareto.\" In Nir Eyal, Samia Hurst, Ole Norheim, and Dan Wikler (eds.),",
+  "Inequalities in Health: Concepts, Measures, and Ethics",
+  ". Oxford University Press (2013), pp. 113-128.",
+  "An extensive list of required and further readings will be available on Moodle."
+ ],
+ "assessmentText": "Course participation (15%). Peer review / assessment (15%). Essay (35%, 2000 words). Oral examination (35%). Students will sit one oral exam. Students will write a 2,000-word summative essay + 800 response to reviewers.",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 15
+  },
+  {
+   "type": "Peer review / assessment",
+   "weight": 15
+  },
+  {
+   "type": "Essay",
+   "weight": 35
+  },
+  {
+   "type": "Oral examination",
+   "weight": 35
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 53,
+  "avgClassSizePrevYear": 18,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PH/2026_PH341.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

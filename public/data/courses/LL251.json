@@ -1,0 +1,66 @@
+{
+ "code": "LL251",
+ "title": "Intellectual Property Law",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Siva Thambisetty",
+  "Dr Luke Mcdonagh"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "Intellectual Property Law consists in the rules determining when, and subject to what conditions, the products of creative or intellectual labour, in other words ‘information’ (broadly conceived) - can be protected in order to exclude others from access to that same information. The reasons to exert creative and intellectual labour are myriad and may include the expression of personhood, generation of profits, reputational gain or as a response to an external incentive. While it often takes creativity, effort and investment to produce them, intangibles may be easily copied. To restrict this copying and thereby encourage the exercise of creative labour and the production of information, the law intervenes by establishing intellectual property rights around certain valuable intangibles – creative works like books, paintings and songs; inventions ranging from vaccines to the bag-less vacuum cleaner; and valuable brands like Coke ® or Google ®. However, unlike the physical objects associated with real property rights, intangibles are non-rival and non-excludable. While the chair you may be sitting on accommodates only one person, many can whistle the same tune without depriving others of it. Therefore, many scholars question the philosophical basis and legitimacy of property rights on intangibles that allow information to be monopolised, based both on the intrinsic nature of information, and on the basis of the consequences of such monopolies. Given that information in many different forms is an important source of commercial value within the modern economy, it is not surprising that Intellectual Property Law is such a fast-growing field in domestic jurisdictions and in international law, often pushing normative and doctrinal boundaries. Its relentless growth is the focus of vigorous debate. Copyright already provides the legal foundation for the well-established film, music, TV and publishing industries, and its continuing expansion into unprecedented kinds of works is said by some to be crucial, and by others to be a threat to free speech and creativity. Patents sustain key lucrative technologies in diverse sectors such as pharmaceuticals and computer implemented inventions; but monopolies over life-sustaining or merely life-enhancing technologies can raise complex ethical and political issues. Trade Marks are central to effective advertising and marketing but at the same time exemplify commodification of our cultural landscape. The course is structured around a strong theme that runs persistently through all parts of IP law. Indicative themes include ‘the public domain’ (which is often construed as an architectonic principle of intellectual property law), and ‘the incentive effect’ (an essential strand in the justification of intellectual property law). The central theme will be used to introduce the basic elements of each branch of intellectual property and to focus on examples which illustrate contemporary intellectual property law: the constitution of the public domain in digital environments, the capture of public discourse by leading brands, the impact of incentives in the creation of software, the international dimension of incentives in the pharmaceutical sector. The objective in this introductory course is to develop the skills required to engage critically with the mechanics of each branch through a detailed examination of the chosen theme. Seminars will be based on informal lectures, class discussion, and a variety of exercises. In 2025-26 students will be examined by an in-person, open book written examination. Rubric and details will be confirmed in Autumn Term.",
+ "teaching": "20 hours of lectures and 10 hours of classes in the Autumn Term. 20 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Students will be expected to produce 1 formative essay in the AT and 1 formative essay in the WT. The word limit for each formative will be 2000 words.",
+ "indicativeReading": [
+  "Boyle The Public Domain: Enclosing the Commons of the Mind (Yale University Press, 2008)",
+  "Siva Thambisetty",
+  "The Social Life of Intellectual Property",
+  "(Hart 2026)",
+  "forthcoming",
+  "Karapapa and McDonagh Intellectual Property Law (OUP, 2019).",
+  "The course is supported by Moodle, so reading lists will be linked there or accessible via library-based websites."
+ ],
+ "assessmentText": "Exam (100%), duration: 210 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 57,
+  "avgClassSizePrevYear": 29,
+  "capped": "Yes(60)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL251.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

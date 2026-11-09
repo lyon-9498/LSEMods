@@ -1,0 +1,88 @@
+{
+ "code": "AN377",
+ "title": "Topics in the Anthropology of sub-Saharan Africa",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Anthropology",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Deborah James"
+ ],
+ "prerequisites": "Students must have completed AN100 and AN101 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": "It is preferred that students will normally have done preliminary/first-year courses in Anthropology as noted above, but there is some flexibility (eg in the case of General Course students). Students should consult the course lecturer.",
+ "availability": "This course is available on the BA in Anthropology and Law, BA in Social Anthropology, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley, Exchange Programme for Students in Anthropology (Cape Town), Exchange Programme for Students in Anthropology (Fudan), Exchange Programme for Students in Anthropology (Melbourne) and Exchange Programme for Students in Anthropology (Tokyo). This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students.",
+ "description": "This course gives students a critical understanding of ethnographic and theoretical writing on sub-Saharan Africa. Grounded in some classic debates around tradition and modernity (kinship-based polities vs states; studies on occult knowledge vs rationally-oriented political economy approaches; ‘objective’ class vs forms of identification such as tribe or race), it explores questions about how the sub-continent’s societies orient themselves, and respond to new precarities, in a postcolonial and neoliberal age. How are changing urban realities experienced and expressed in popular culture? How are the politics of land and belonging being reshaped? Do youth have a future of work in post-industrial Africa - and what new gender identities are they developing? Are there specifically African forms of knowledge? What is postcolonial about the ‘postcolony’? Is Europe ‘evolving towards Africa’, as has been maintained? The course also thinks through the role of fiction, non-ethnographic writing and non-academic voices in shaping anthropology on the sub-continent.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. These contact hours are the minimum expected.",
+ "formativeAssessment": "Essay (1500 words). Students will have the opportunity to submit one formative essay of up to 1500 words during the course. This will consist of a formative review written during term time, to be evaluated by and discussed with the course lecturer. The formative review will allow for students' individuality and expression and allow them to bring their own interest in current debates into interplay with course materials. Students will be informed of their formative submission deadline by email by the end of Week 3 of term.",
+ "indicativeReading": [
+  "Adebanwi, Wale. 2017. The Political Economy of Everyday Life in Africa: Beyond the Margins. Oxford: James Currey.",
+  "Comaroff, J and JL. 2012. Theory from the South or, How Euro-America is Evolving Toward Africa Anthropological Forum 22 (2).",
+  "Englund, Harri. 2006. Prisoners of Freedom. Human Rights and the African Poor. Berkeley: UC Press.",
+  "Geschiere, Peter. 2013. Witchcraft, Intimacy and Trust: Africa in comparison. Chicago: University of Chicago Press.",
+  "Guyer, Jane. 2014. Marginal Gains: monetary transactions in Atlantic Africa. Chicago: University of Chicago Press.",
+  "Mbembe, A. 2001. On the Postcolony. Berkeley, University of California Press.",
+  "Moore, H. L. 2013. Still life: hopes, desires and satisfactions. London, John Wiley & Sons.",
+  "Piot, Charles 1999. Remotely Global: village modernity in West Africa. Chicago: University of Chicago Press."
+ ],
+ "assessmentText": "Essay (100%, 3500 words).",
+ "assessment": [
+  {
+   "type": "Essay",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AN/2026_AN377.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "course",
+    "code": "AN100"
+   },
+   {
+    "type": "course",
+    "code": "AN101"
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "AN277",
+   "title": "Topics in the Anthropology of sub-Saharan Africa",
+   "note": "Withdrawn 2025/26"
+  }
+ ],
+ "unlocks": []
+}

@@ -1,0 +1,74 @@
+{
+ "code": "FM305",
+ "title": "Advanced Financial Economics",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Finance",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [],
+ "prerequisites": "Students must have completed FM200 and FM214 and FM215 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Finance. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course does not permit auditing students.",
+ "description": "This course will present modern theories of financial markets and asset valuation. The first part of the course, taught over Weeks 1-5 of Autumn Term, focuses on frictionless asset markets. It starts with mean-variance portfolio choice and the CAPM. It then moves to expected utility, risk aversion and static portfolio choice. It then derives implications of absence of arbitrage for asset prices, and introduces the concepts of stochastic discount factor (SDF), risk-neutral probability (RNP), and market completeness. It then derives the consumption CAPM and the equity premium puzzle. It then extends portfolio choice, SDF, RNP, market completeness, pricing by arbitrage, and the consumption CAPM to dynamic settings. It finally extends the same concepts to continuous time, introducing in this process methodologies of continuous-time Finance, such as stochastic calculus and Ito's Lemma. The second part of the course, taught over Weeks 7-11 of Autumn Term, focuses on asset markets with frictions. It covers limits of arbitrage stemming from frictions such as asymmetric information, costs of market participation, search costs, short-sale costs, and costs of raising external capital. It provides motivating evidence for the frictions and their asset-pricing effects, and develops models of the frictions and their effects. It finally covers the pricing of fixed-income securities, and shows how limits of arbitrage enter into that pricing.",
+ "teaching": "33 hours of seminars in the Autumn Term. This course is taught in an interactive format. There is no distinction between lectures and classes/seminars; there are simply “sessions” where the pedagogical approach is always interactive.",
+ "formativeAssessment": null,
+ "indicativeReading": [
+  "Teaching notes will be provided."
+ ],
+ "assessmentText": "Continuous assessment (100%).",
+ "assessment": [
+  {
+   "type": "Continuous assessment",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Application of information skills",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 64,
+  "avgClassSizePrevYear": 64,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/FM/2026_FM305.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "course",
+    "code": "FM200"
+   },
+   {
+    "type": "course",
+    "code": "FM214"
+   },
+   {
+    "type": "course",
+    "code": "FM215"
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

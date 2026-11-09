@@ -1,0 +1,64 @@
+{
+ "code": "FM306",
+ "title": "Macro-Finance",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Finance",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Manav Chaudhary"
+ ],
+ "prerequisites": "Students must have completed FM215 and FM214 and FM200 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Finance. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course does not permit auditing students.",
+ "description": "This course will study the relationship between financial markets and the macro-economy. Topics include the behaviour of returns of different asset classes over the business cycle, the relationship between returns and inflation, and the implications for expected returns and portfolio choice.",
+ "teaching": "33 hours of seminars in the Winter Term. This course is taught in an interactive format. There is no distinction between lectures and classes/seminars; there are simply “sessions” where the pedagogical approach is always interactive.",
+ "formativeAssessment": "Weekly problem sets",
+ "indicativeReading": [
+  "Detailed course programme and reading lists are distributed at the start of the course.",
+  "Illustrative texts include: Blanchard, Macroeconomics, 7th ed. and Mankiw, Macroeconomics, 9th ed."
+ ],
+ "assessmentText": "Continuous assessment (100%).",
+ "assessment": [
+  {
+   "type": "Continuous assessment",
+   "weight": 100
+  }
+ ],
+ "skills": [],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/FM/2026_FM306.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "course",
+    "code": "FM215"
+   },
+   {
+    "type": "course",
+    "code": "FM214"
+   },
+   {
+    "type": "course",
+    "code": "FM200"
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

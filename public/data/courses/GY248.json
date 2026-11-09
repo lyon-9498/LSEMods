@@ -1,0 +1,95 @@
+{
+ "code": "GY248",
+ "title": "Field Methods in Geography & Environment",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Geography and Environment",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Thomas Smith"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Environment and Sustainable Development. This course is available on the BSc in Economic History and Geography and BSc in Environment and Sustainable Development with Economics. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "The course aims to prepare second-year students to undertake individual research projects. It examines the methodologies used in field-based geographical and environmental research and evaluates their application to different kinds of research problems. It enables students to acquire familiarity with, and practice of, contemporary qualitative research techniques and to examine different ways of, and gain experience in, presenting research results. A further aim of the course is to enable students to evaluate critically the methodological validity of geographical literature. The course covers the following approaches to social science methodologies: (i) techniques for qualitative data analysis including structured and unstructured interviewing, participant observation, and research ethics, including ethics when conducting fieldwork; (ii) application of field-specific qualitative and field-specific quantitative research techniques in the field; and (iii) techniques for designing, carrying out, and presenting an Independent Research Project. Topics covered: 1. Planning an independent research project 2. Qualitative methodology in human geography: What can we know? What kind of knowledge can we gain about qualities of the social and spatial world? And how? 3. Interviews (plus questionnaires and focus groups): What people think, and are able/willing to tell us 4. Ethnography & observation: What people do, and maybe even how they feel about it 5. Transecting & comparing: Making sense of places 6. How to design a research project 7. Field-trip specific teaching 8. Field-trip specific teaching 9. Field-trip specific teaching Field-course The destination, duration and content of the field trip is subject to change each year. In recent years, our trip destination has been Portland, Oregon, in the Pacific Northwest region of the United States. The Portland field course offers an excellent opportunity to experience a dynamic and complex urban environment first-hand. The field trip explores the city of Portland and the broader Cascadia region, providing a rich introduction to North American landscapes, cultures, and urban challenges. Portland is known for its progressive reputation, vibrant cultural scene, and environmental consciousness, but also faces pressing issues such as housing insecurity, racial justice, and urban governance. Students will engage with these themes through a series of orientation and research activities, including group projects rooted in local organisations, agencies, and districts. The trip will also include immersion in local conditions—such as food, transport, music, and culture—to better understand Portland’s geography in relation to other global contexts. Students will explore key themes such as: • Geographies of difference and racialised legacies in settler-colonial cities • Urban planning and Environmental risk associated with wildfires, flooding, and earthquakes • Regional development and local identity • Housing, gentrification, and homelessness • Disaster risk reduction and emergency management • Climate change resilience This field course provides hands-on experience in qualitative research methods and encourages students to take ownership of their learning. It is essential to prepare thoroughly for the trip by engaging with supporting materials and academic resources on Portland and the Cascadia region. Above all, the Portland field course offers a unique opportunity to deepen your geographical understanding and interact extensively with staff and your peers in the field.",
+ "teaching": "In the Department of Geography and Environment, teaching will be delivered through a combination of classes/seminars, pre-recorded lectures, live online lectures, in-person lectures and other supplementary interactive live activities. Students should be aware that, although the costs of this course are subsidised by the Department, they will be expected to make a substantial financial contribution themselves. There are bursaries available from the Department for students who can document financial need. An alternative field exercise will be undert aken by students who are unable to participate in the above one-week residential field-course. Students on this course will have a reading week in Week 6.",
+ "formativeAssessment": "Short exercises conducted in preparation for class sessions throughout the Winter Term.",
+ "indicativeReading": [
+  "Alasuutari, P. et al. (2008) The SAGE Handbook of Social Research Methods. London: Sage",
+  "Barnes, J. A., (1979), Who Should Know What? Social Science, Privacy and Ethics, Harmondsworth: Penguin. [HN29 B26 Course Collection]",
+  "Barzun, Jacques and Henry F. Graff (1985): The Modern Researcher, San Diego: Harcourt Brace Jovanovich, Part III.",
+  "Bauer M W & G Gaskell (2000) Qualitative researching with text, image and sound – a practical handbook, London, Sage",
+  "Bell, J. (1993): Doing your research Project – a Guide for First-Time Researchers in Education and Social Science, Milton Keynes: Open University Press, chapter 12.",
+  "Bryman, A. (2004) Social Research Methods. 2nd edition. Oxford: Oxford University Press",
+  "Coffey, A. and P. Atkinson (1996): Making Sense of Qualitative Data, chapter 2, London: Sage Publications.",
+  "Crotty, M.J. (2003) Foundations of Social Research: Meaning and Perspective in the Research Process. London, Sage",
+  "Dunleavy, Patrick (1986): Studying for a Degree in the Humanities and Social Sciences, Basingstoke: Macmillan, chapter 5.",
+  "Esterberg, K.G. (2002) Qualitative Methods in Social Research. Boston: McGraw-Hill",
+  "Eyles, J. (ed.), (1988), Research in Human Geography: Introductions and Investigations. Oxford: Basil Blackwell.",
+  "Flick U (2006) An introduction to qualitative research, London, Sage (3rd edition)",
+  "Flowerdew, R. and Martin, D. (eds.) (2005) Methods in Human Geography: A guide for students doing a research project. 2nd edition. Harlow, England; New York: Pearson/Prentice Hall",
+  "Gilbert, N. (1992), Researching social life. London: Sage Publications.",
+  "Flick, U. (2006) An Introduction to Qualitative Research. 3rd edition. London: Sage",
+  "Flick, U., E. von Kardorff and I. Steinke (eds.) (2004) A Companion to Qualitative Research. London: Sage",
+  "Flowerdew, R. and D. Martin (2005) Methods in Human Geography: A guide for students doing a research project. 2nd edition. Essex: Pearson",
+  "Hay, I. (2010) Qualitative research methods in human geography. (3rd edition). Oxford: Oxford University Press.",
+  "Hennink, M. et al (2011) Qualitative Research Methods. London; Thousand Oaks, CA: SAGE",
+  "Kvale, S. (1996), Interviews: An introduction to qualitative research interviewing. London: Sage. Lindsay, J. (1997): Techniques in Human Geography, London: Routledge.",
+  "Mason J (2002) Qualitative research, London, Sage (2nd edition)",
+  "Parsons, Tony and Peter G. Knight (1995): How to Do Your Dissertation in Geography and Related Disciplines, London: Chapman & Hall.",
+  "Rogers, A., Vites, H., Goudie, A. (1992), The student's companion to Geography. Blackwell.",
+  "Turabian, Kate L. (1996): A Manual for Writers of Term Papers, Theses, and Dissertations, Chicago: University of Chicago Press.",
+  "Watson, George (1987): Writing a Thesis – a Guide to Long Essays and Dissertations, London: Longman."
+ ],
+ "assessmentText": "Course participation (20%). Research project (80%).",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 20
+  },
+  {
+   "type": "Research project",
+   "weight": 80
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 19,
+  "avgClassSizePrevYear": 6,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GY/2026_GY248.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": [
+  "GY350"
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "code": "AC105",
+ "title": "Introduction to Financial Accounting",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Accounting",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Saipriya Kamath"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Accounting and Finance. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "This is a half-unit course that introduces students to fundamental principles of financial accounting. The course starts with a discussion of the framework of financial accounting: its nature, intents and purposes, and the context and environment in which it operates. This includes, and eventually entails, the need for, and various sources of, accounting regulation and “accounting standards”. AC105 then unpacks various core financial accounting concepts and conventions. The course also looks into the processes used to record, summarise, and present financial accounting information as well as, crucially, its interpretation. Thus, and essentially, this part of the course focuses on the preparation, interpretation, and limitations of company financial statements for external reporting, and the regulatory framework in which financial reports are prepared.",
+ "teaching": "33 hours of seminars in the Autumn Term. This course is delivered through two one and a half hour sessions each week in the Autumn Term (11 weeks). The pedagogical approach in each session is interactive, often involving case study analyses and group discussions. This mode of teaching requires good advance preparation by the students; hence, every student should be ready to contribute to the discussion when called upon. Active participation is expected and encouraged.",
+ "formativeAssessment": "There will be several online tests (“quizzes”) to test the student’s knowledge and progress on a formative basis for feedback. Written answers to numerical problems and discussion questions will be expected weekly; some of the written work will be collected for marking and feedback.",
+ "indicativeReading": [
+  "A detailed reading list will be made available on Moodle for each part of the course nearer the time of its scheduled start. The illustrative textbook for the course is Atrill, P. and McLaney, E. (2022) Financial Accounting for Decision Makers, 10th edition, Pearson."
+ ],
+ "assessmentText": "Exam (70%), duration: 120 Minutes, reading time: 15 minutes in the January exam period. Quiz (5%). Case analysis / study (25%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 70
+  },
+  {
+   "type": "Quiz",
+   "weight": 5
+  },
+  {
+   "type": "Case analysis / study",
+   "weight": 25
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 156,
+  "avgClassSizePrevYear": 52,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AC/2026_AC105.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": [
+  "AC205",
+  "AC331",
+  "AC332"
+ ]
+}

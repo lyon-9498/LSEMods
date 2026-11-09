@@ -1,0 +1,68 @@
+{
+ "code": "LL302",
+ "title": "Law of Unjust Enrichment",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Rachel Leow",
+  "Dr Tim Liau"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the LLB in Laws. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. The course is available to LLB students in their 2nd and 3rd years.",
+ "description": "This course is about restitution for unjust enrichment: it is concerned with when a defendant may be legally compelled to make restitution to a claimant, because the defendant has been unjustly enriched at the claimant’s expense. In England and Wales, unjust enrichment was only first judicially recognised as an independent source of obligations by the House of Lords in 1991 but has now become one of the most vibrant areas of modern private law. Many controversies exist, and the scope of restitution for unjust enrichment is still being worked out by courts across the common law world. In previous private law modules such as Contract Law, and Property, you may already have encountered fleeting references to ‘unjust enrichment’, explored in a necessarily superficial way; for example in cases on frustration, tracing, knowing receipt, and remedies. The course aims to develop in students a deeper understanding of the law of unjust enrichment, and its place within the broader map of private law. Generating distinctive rights and obligations, the law of unjust enrichment forms a body of law independent from the laws of contract and torts, cutting across the jurisdictional divide between the common law and equity. After this course, students will be introduced to some modern debates about unjust enrichment. They will also be able to accurately describe, apply, and evaluate the law of unjust enrichment in England and Wales, for example, in answering problem questions. Many issues in the material covered have practical importance in commercial litigation. Students who enjoyed other private law courses (Contract, Tort, and Property Law) will find that this course advances their understanding of private law as a whole. Weekly readings comprise case-law and academic commentary.",
+ "teaching": "20 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Students will have the opportunity to produce one formative during the course.",
+ "indicativeReading": [
+  "Peter Birks, Unjust Enrichment, 2nd ed (OUP 2005)",
+  "Andrew Burrows, The Law of Restitution, 3rd ed (OUP 2011)",
+  "Robert Stevens, The Laws of Restitution (OUP 2023)",
+  "Rachel Leow and Timothy Liau,",
+  "Great Debates in the Law of Unjust Enrichment",
+  "(Hart 2027) (forthcoming)"
+ ],
+ "assessmentText": "Exam (100%), duration: 150 Minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL302.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

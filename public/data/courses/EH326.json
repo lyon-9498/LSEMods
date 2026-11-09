@@ -1,0 +1,64 @@
+{
+ "code": "EH326",
+ "title": "Innovation and its Finance in the 19th and 20th Centuries",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economic History",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Gerben Bakker"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Economic History, BSc in Economic History and Geography and BSc in Economics and Economic History. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "The course explores the relationship between innovation and the financing of it in the nineteenth and twentieth centuries, the impact on economic growth and how policy makers managed (or failed) to encourage innovation investment and technology adoption. Technological change and organizational innovation are critical determinants of the pace of economic growth. This course looks at the specific ways in which innovation transformed industries around the world in the modern era. The course has a global reach though it will concentrate on countries in Northern Europe and the United States. Particular attention focuses on links between innovation and finance: finance is a fundamental input for almost every type of productive activity. The course will explore issues such as; the relationship between market size and structure and technological progress; how firms developed the capabilities to profit from new technologies; and how policy makers attempted to nurture institutions to stimulate investment and technology adoption. The course will therefore cover themes such as the process of invention, innovation typologies, the history of R&D management, anti-trust policy, corporate governance, organisational change, incentives, intellectual property rights and the regulation of technology and its finance more broadly.",
+ "teaching": "20 hours of seminars in the Autumn Term. 20 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "All students are expected to write three essays or equivalent pieces of written work",
+ "indicativeReading": [
+  "Naomi Lamoreaux and Kenneth Sokoloff eds., Financing Innovation in the United States, 1870 to the Present (MIT Press, 2007); Joel Mokyr, The Gifts of Athena: Historical Origins of the Knowledge Economy, (Princeton University Press, 2002); Raghuram Rajan and Luigi Zingales, \"Financial Dependence and Growth,\" American Economic Review 88 (1998): 559-586; Nathan Rosenberg, Inside the Black Box: Technology and Economics, (Cambridge University Press,1982); Joseph A. Schumpeter, \"Can Capitalism Survive?\" in his Capitalism, Socialism and Democracy (Routledge reprint, 1942, 2000); Benn Steil, David G. Victor and Richard R. Nelson eds., Technological Innovation and Economic Performance (Princeton University Press, 2002); John Sutton, Technology and Market Structure: Theory and History (MIT Press, 1998); James M. Utterback, Mastering the Dynamics of Innovation (Harvard Business School Press, 1996)."
+ ],
+ "assessmentText": "Exam (100%), duration: 180 Minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EH/2026_EH326.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

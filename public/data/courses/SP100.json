@@ -1,0 +1,70 @@
+{
+ "code": "SP100",
+ "title": "Understanding International Social and Public Policy",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Social Policy",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Isabel Shutes"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in International Social and Public Policy, BSc in International Social and Public Policy with Economics and BSc in International Social and Public Policy with Politics. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "The course introduces students to the study and practice of international social and public policy (ISPP). It explores how societies organise to address social needs, with reference to academic and policy debates across the so-called global North and South. In the first half of the course ( Autumn Term ), we consider key concepts and approaches to the study of ISPP and look at how and why welfare systems have developed. We examine the different institutions and actors involved in those systems in different contexts across the world, including the state, market, civil society and family. In the second half of the course ( Winter Term ), we take as a starting point the global challenge of inequality. We consider how social and public policies seek to address inequalities, as well as how policies can contribute to and reinforce inequalities, deepening your understanding of and critical thinking about social and public policy.",
+ "teaching": "11 hours of lectures and 13.5 hours of classes in the Autumn Term. 10 hours of lectures and 15 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term. All teaching will be in accordance with the LSE Academic Code which specifies a \"minimum of two hours taught contact time per week when the course is running in the Autumn Term (AT) and/or Winter Term (WT)\". Social Policy courses are predominantly taught through a combination of in-person lectures and in-person classes/seminars. Further information will be provided by the Course Convenor in the first lecture of the course.",
+ "formativeAssessment": "Essay in Autumn Term Week 7. Essay in Winter Term Week 3. Students are expected to participate actively in the course learning activities and to complete two formative essays.",
+ "indicativeReading": [
+  "Artaraz, K. and Hill, M. (2016) Global Social Policy: Themes, Issues and Actors. Basingstoke: Palgrave Macmillan.",
+  "Daly, M. (2011) Welfare. Cambridge: Polity.",
+  "Garland, D. (2016) The Welfare State: A Very Short Introduction. Oxford: Oxford University Press.",
+  "Kabeer, N., Cook, S. (2000) ‘Revisioning social policy in the South: challenges and concepts’, IDS Bulletin, 31: 4, 1-18."
+ ],
+ "assessmentText": "Exam (85%), duration: 180 Minutes in the Spring exam period. Poster (15%). The course is assessed by a group poster assignment (15%) and an exam comprising two essay-based answers (85%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 85
+  },
+  {
+   "type": "Poster",
+   "weight": 15
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 60,
+  "avgClassSizePrevYear": 15,
+  "capped": "Yes(60)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SP/2026_SP100.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": [
+  "SP200"
+ ]
+}

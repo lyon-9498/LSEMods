@@ -1,0 +1,64 @@
+{
+ "code": "IR315",
+ "title": "International Relations of the Middle East",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International Relations",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Fawaz Gerges"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in International Relations, BSc in International Relations and Chinese, BSc in International Relations and History, BSc in Politics and International Relations, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is not available as an outside option to students on other programmes. This course is available with permission to General Course students. This course has a limited number of places (it is capped).",
+ "description": "The course applies the theories and conceptual tools of the discipline of International Relations to the study of the Middle East region. It uses the empirical material offered by the history, politics, political economy and international politics of the region to explore these concepts and theories. More specifically, it provides an analysis of the regional politics of the Middle East since 1918, and of their interaction with problems of international security, global resources and great power/super power/hyperpower politics. Topics covered include: The emergence of the state system in the Middle East during the inter-war period; the interplay of domestic politics, regional conflicts and international rivalries; the Cold War and post-Cold War significance of the Middle East in global politics; the importance of oil and other economic factors and interests; conflict in the Gulf and the Arab-Israeli conflict; the foreign policies of major Middle Eastern states and the Lebanese civil war; the role of ideologies and social movements: Arab nationalism, militarism, political Islam and global jihadism; state and non-state actors; democracy and human rights issues, the Arab Spring uprisings; and international relations theory and its significance for the study of Middle East politics.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. 10 hours of lectures and 10 hours of classes in the Winter Term. 1 hour of lectures in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Two essays of 1,500 words each and 2 presentations in the AT and WT.",
+ "indicativeReading": [
+  "Students are strongly advised to read before the beginning of the course:",
+  "Fawaz A. Gerges, Making the Arab World: Nasser, Qutb, and the Clash That Shaped the Middle East",
+  "F. Halliday, The Middle East in International Relations: Power, Politics and Ideology",
+  "Madawi al-Rasheed, A Most Masculine State: Gender, Politics and Religion in Saudi Arabia",
+  "Fawaz A. Gerges, The Superpowers and the Middle East: Regional and International Politics",
+  "Louise Fawcett, International relations of the Middle East",
+  "Course readings include:",
+  "Nazih Ayubi, Over-stating the Arab State: politics and society in the Middle East",
+  "Lisa Anderson, ‘The State in the Middle East and North Africa’ Comparative Politics, October 1987",
+  "R Hinnebusch & A Ehteshami (Eds), The Foreign Policies of Middle East States",
+  "B Korany & A Dessouki (Eds), The Foreign Policies of Arab States",
+  "John Chalcraft, Popular Politics in the Making of the Middle East",
+  "Madawi al-Rasheed, Demystifying the Caliphate",
+  "Fanar Haddad, Sectarianism in Iraq: Antagonistic Visions of Unity",
+  "Fawaz A. Gerges (ed.), The New Middle East: Protest and Revolution in the Arab World",
+  "Z. Lockman, Contending Visions of the Middle East: The History and Politics of Orientalism"
+ ],
+ "assessmentText": "Essay (100%).",
+ "assessment": [
+  {
+   "type": "Essay",
+   "weight": 100
+  }
+ ],
+ "skills": [],
+ "stats": {
+  "totalStudentsPrevYear": 29,
+  "avgClassSizePrevYear": 15,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/IR/2026_IR315.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

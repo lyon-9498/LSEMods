@@ -1,0 +1,82 @@
+{
+ "code": "GY360",
+ "title": "Sustainability in Practice",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Geography and Environment",
+ "units": 0.5,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Thomas Smith"
+ ],
+ "prerequisites": "Students must have completed GY121 and GY220 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Environment and Sustainable Development and BSc in Environment and Sustainable Development with Economics. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is not available to General Course students. Permission to take this course as an outside option will only be granted to students enrolled on the BA Geography programme. Students from this programme wishing to take this course must have completed GY121 and GY220.",
+ "description": "Sustainability in Practice is a high-level skills practical course delivered in partnership with LSE Generate and a range of contributors from local and regional environmental and sustainability consultancies and other businesses with sustainability as a core focus of their operations. The course aims to provide students with the skills, knowledge and expertise to pursue a career in this rapidly growing employment field. Students will be able to develop academic knowledge of the subject area, but also be able to gain practical experience of professional project work through working in partnership with business experts and LSE Generate on 'real-world' problems. The emphasis of this course is on professional skills development, problem-solving, and group work, while also allowing students to reflect on their experience through the lens of their wider programme of study. By the completion of this course, all students will have a sophisticated professional level understanding of the diverse field of sustainability in practice, experience of working with business leaders on real world projects in a professional capacity, and will develop a number of valuable skills to add to their CVs.",
+ "teaching": "5 hours of help session in the Winter Term. 8 hours of workshops. This course has a reading week in Week 6 of Autumn and Winter Term. 8 hours of online workshops in the Autumn Term. Work placement in the Winter Term. Fortnightly peer-support groups will be offered by LSE Generate and the Course Director in WT.",
+ "formativeAssessment": null,
+ "indicativeReading": [
+  "Bassot, B. (2013). The Reflective Journal. Basingstoke: Palgrave",
+  "Bolton, G. (2010) Reflective Practice: writing & professional development. London: Sage Publications.",
+  "Moon, J.A (2006). Learning Journals: A handbook for reflective practice and professional development. London: Routledge.",
+  "Open University (2025) Reflective Learning [online]",
+  "Reflective learning: Strategic study techniques | Help Centre | The Open University",
+  "University of Edinburgh (2025) Reflector’s Toolkit [online]",
+  "Reflectors' Toolkit | Reflection Toolkit"
+ ],
+ "assessmentText": "Portfolio (100%, 2500 words) in Spring Term Week 2.",
+ "assessment": [
+  {
+   "type": "Portfolio",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 18,
+  "avgClassSizePrevYear": 18,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GY/2026_GY360.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "course",
+    "code": "GY121"
+   },
+   {
+    "type": "course",
+    "code": "GY220"
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

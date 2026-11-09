@@ -1,0 +1,124 @@
+{
+ "code": "MG301",
+ "title": "Strategy",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Management",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Ricardo Alonso"
+ ],
+ "prerequisites": "Before taking this course, students must have completed: EC1A1 and EC1A3 and EC1B1 and EC1B3 and ST107 and MG207 and EC2A1 and EC2A3 and (MA107 or MA108).",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Management. This course is available on the Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students. This course has a limited number of places (it is capped). Students who have this course as a compulsory course are guaranteed a place. Places for all other students are allocated on a first come first served basis.",
+ "description": "The first half of the course studies how firms compete with each other. More specifically, we will study strategic situations (competition and rivalry, competitive advantage (sources and sustainability), entry and entry deterrence, product differentiation, the role of information in markets, etc.) and formulate decision models of these situations. While the modelling and predictions are based on game theory, we will contrast our findings to real life games according to the growing empirical evidence. The second half of the course studies how firms organise and the challenges they face in doing so. More specifically, we study the way managers interact with the different constituencies inside the firm- workers, board members, and other managers- and how those interactions shape the actual design of organisations. It presents, again with a heavy emphasis on the evidence, how the need to motivate organisational members and to coordinate their actions shape the provision of incentives, the allocation of authority, the ownership structure, acquisition and diffusion of knowledge, and patterns of communication. Beyond the emphasis on the content of the course, the course also aims to be a course where students learn to think critically and analytically. Students will learn to identify trade-offs in how firms behave and the way they organise themselves, and critically evaluate the sources of those trade-offs by appealing to simple models of individual behaviours. Students will learn to read the primary literature, discuss papers in class, interpret the evidence etc. Students will learn to ask questions such as: What is the evidence? What evidence would convince me of the opposite hypothesis?",
+ "teaching": "20 hours of lectures and 9 hours of classes in the Autumn Term. 20 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term. In its Ethics Code, LSE upholds a commitment to intellectual freedom. This means we will protect the freedom of expression of our students and staff and the right to engage in healthy debate in the classroom.",
+ "formativeAssessment": "The lectures will follow a flipped classroom scheme: students have access to pre-recorded, short videos covering different aspects of the topic studied that week and the lectures will help test their knowledge and apply it to different situations/problems as well as discuss real world examples.",
+ "indicativeReading": [
+  "The basic readings for the course will be the lecture notes written by Dr. Alonso. These lecture notes can be complemented with the following additional readings:",
+  "Thinking Strategically: Competitive Edge in Business, Politics and Everyday Life, WW Norton, 1993, by Avinash Dixit and Barry Nalebuff.",
+  "The Art of Strategy, WW Norton, 2008, by Avinash Dixit and Barry Nalebuff.",
+  "Games of Strategy (WW Norton, 3rd edition, 2009) by Avinash Dixit, Susan Skeath and David Reiley.",
+  "Economics of Strategy (5th Edition) David Besanko, David Dranove, Mark Shanley, Scott Schaefer. (2009)",
+  "An Introduction to Game Theory (Oxford, 2003) by Martin J. Osborne.",
+  "Strategic Management, Garth Saloner, Andrea Shepard and Joel Podoldny, Wiley, 2000.",
+  "The Modern Firm: Organizational Design for Performance and Growth, John Roberts 2007.",
+  "Build, Borrow, or Buy: Solving the Growth Dilemma (Harvard Business Press 2012) Laurence Capron and Will Mitchell."
+ ],
+ "assessmentText": "Exam (70%), duration: 120 minutes, reading time: 15 minutes in the Spring exam period. Continuous assessment (30%). Two in-lecture multiple choice quizzes (week 10 of the AT and week 8 of the WT). For the continuous assessment, students are required to attempt both in-lesson assessments. Students who attempt less than two in-lecture assessments will receive a mark of 0 for the missed assessment and will receive an overall average mark based on their score in the attempted assessment and a zero for the missed assessment. Students who fail to attempt any in-lecture assessments (0 out of 2), will be awarded a Zero Incomplete for the whole course and cannot be awarded the degree until they submit the work at resit. For detailed assessment information, including all deadlines and timings, please see the relevant course Moodle page. Assessment timings will be available at the start of each term.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 70
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 30
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 158,
+  "avgClassSizePrevYear": 16,
+  "capped": "Yes(170)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MG/2026_MG301.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "course",
+    "code": "EC1A1"
+   },
+   {
+    "type": "course",
+    "code": "EC1A3"
+   },
+   {
+    "type": "course",
+    "code": "EC1B1"
+   },
+   {
+    "type": "course",
+    "code": "EC1B3"
+   },
+   {
+    "type": "course",
+    "code": "ST107"
+   },
+   {
+    "type": "course",
+    "code": "MG207"
+   },
+   {
+    "type": "course",
+    "code": "EC2A1"
+   },
+   {
+    "type": "course",
+    "code": "EC2A3"
+   },
+   {
+    "type": "or",
+    "children": [
+     {
+      "type": "course",
+      "code": "MA107"
+     },
+     {
+      "type": "course",
+      "code": "MA108"
+     }
+    ]
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

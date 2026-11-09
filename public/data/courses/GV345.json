@@ -1,0 +1,99 @@
+{
+ "code": "GV345",
+ "title": "Resistance and Revolution in the Contemporary World",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof John Chalcraft"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Social Anthropology, BSc in History and Politics, BSc in International Social and Public Policy with Politics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations, BSc in Politics and Philosophy, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is not available as an outside option to students on other programmes. This course is available with permission to General Course students.",
+ "description": "This course offers an advanced introduction to resistance and revolution in the contemporary world. It covers core problems, debates, and dilemmas in progressive activism and popular mobilization. We pose fundamental questions about how subordinated groups challenge and overcome domination, and about the enduring quest for radical social change. The course takes a historicized approach to the diverse human predicaments of subalternity and hegemony, drawing much from the global tradition begun by the Italian revolutionary intellectual, Antonio Gramsci, and using case studies from all over the world. We critically evaluate a range of key approaches, including anti-capitalism, cultural critique, anarchism, Leninism and the Gramscian tradition. We also look closely at a number of key activist dilemmas, such as those relating to organization, representation, strategy, and transnationalism. Special attention is paid to how diverse popular struggles both cohere and fragment. The course aims to achieve political insight and strategic learning in relation to the challenges of the present.",
+ "teaching": "10 hours of lectures and 15 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Essay (1500 words) in Winter Term Week 7.",
+ "indicativeReading": [
+  "Bookchin, Murray. 1999.",
+  "Anarchism, Marxism and the Future of the Left: Interviews and Essays, 1993-1998.",
+  "Edinburgh and San Francisco: AK Press.",
+  "Bhandar, Brenna and Rafeef Ziadeh eds.,",
+  "Revolutionary Feminisms: Conversations on Collective Action and Radical Thought.",
+  "Verso, 2020.",
+  "Chalcraft, John.",
+  "From Subordination to Revolution: A Gramscian Theory of Popular Mobilization",
+  ". University of California Press, 2025.",
+  "Cox, Laurence.",
+  "Why social movements matter: An introduction",
+  ". Rowman & Littlefield, 2018.",
+  "Davis, Angela Y.",
+  "Women, race, & class",
+  ". Vintage, 2011",
+  "Dean, Jodi.",
+  "Crowds and Party",
+  ". Verso Books, 2016.",
+  "Graeber, David.",
+  "Direct Action: An ethnography",
+  ". AK press, 2009.",
+  "Gramsci, Antonio.",
+  "Subaltern social groups: A critical edition of prison notebook 25",
+  ". Green & Buttigieg. Columbia University Press, 2021.",
+  "Hall, Stuart.",
+  "The Hard Road to Renewal: Thatcherism and the crisis of the left",
+  ". Verso Books, 2021.",
+  "Ross, Kristin.",
+  "The Commune Form: The Transformation of Everyday Life",
+  ". Verso Books, 2024.",
+  "West, Cornel, and Christa Buschendorf.",
+  "Black Prophetic Fire",
+  ". Beacon Press, 2015."
+ ],
+ "assessmentText": "Course participation (20%) in Winter Term Week 3. Essay (80%, 3000 words) in Winter Term Week 11. Class participation will begin in WT Week 3. GENERAL COURSE STUDENTS ONLY: The Class Summary Grade for General Course students will be calculated as follows: 10% class attendance and 90% formative coursework.",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 20
+  },
+  {
+   "type": "Essay",
+   "weight": 80
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV345.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

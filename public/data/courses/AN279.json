@@ -1,0 +1,91 @@
+{
+ "code": "AN279",
+ "title": "Anthropology of Law and Human Rights",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Anthropology",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Andrea Pia"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BA in Anthropology and Law. This course is available on the BA in Social Anthropology, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley, Exchange Programme for Students in Anthropology (Cape Town), Exchange Programme for Students in Anthropology (Fudan), Exchange Programme for Students in Anthropology (Melbourne) and Exchange Programme for Students in Anthropology (Tokyo). This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "The aim of this course is to introduce students to major developments and debates in the anthropology of law and human rights across time and space. The first part of the course reflects on the origins and early developments of legal anthropology, including the legacies of colonialism and its impact on the development of customary law; the concept of legal pluralism; and the relationship between law, violence, and the state. The second part of the course explores selected themes and debates in the anthropology of law, including anthropological engagements with human rights; the concept of property; and l indigenous sovereignties. The final part of the course surveys emerging discussions around , environmental and interspecies justice, punitivism, and the rights of nature.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. 1 hour of lectures in the Spring Term. This course has a reading week in Week 6 of Autumn Term. The contact hours listed above are the minimum expected.",
+ "formativeAssessment": "Essay (1500 words). Students will have the opportunity to submit one formative essay of up to 1500 words during the course. Students will be informed of their formative submission deadline by email by the end of Week 3 of term.",
+ "indicativeReading": [
+  "Malinowski, B. 1924.",
+  "Crime and Custom in Savage Society",
+  ". New Jersey: Rowman & Allanheld.",
+  "Roberts, S. and Comaroff, J. 1981.",
+  "Rules and Processes: The Cultural Logic of",
+  "Dispute in an African Context",
+  ". Chicago: University of Chicago Press",
+  "Foblets, M. Goodale, M. Sapignoli, M. and Zenker, O. (eds.) 2020.",
+  "The Oxford Handbook of Law and Anthropology",
+  ". Oxford: Oxford University Press.",
+  "Comaroff, J. and Comaroff, J. 2007. Law and Disorder in the Postcolony.",
+  "Social Anthropology",
+  "15(2): 133-152.",
+  "Englund, Harry. 2006.",
+  "Prisoners of Freedom: Human Rights and the African Poor",
+  ". Berkeley: University of California Press.",
+  "Strathern, M. 2006. Losing (Out On) Intellectual Resources. In Pottage, A. and Mundy, M.",
+  "Law, Anthropology, and the Constitution of the Social: Making Persons and Things",
+  ", pp. 201-233. Cambridge: Cambridge University Press.",
+  "Riles, A. 1998. Infinity within the brackets.",
+  "American Ethnologist",
+  "25(3): 378-398.",
+  "Kirsch, S. 2012. Juridification of Indigenous Politics. In J. Eckert, B. Donahoe, C. Strümpell, and Z. Ö. Biner, eds.",
+  "Law against the State: Ethnographic Forays into Law’s Transformations",
+  ", pp. 23–43. Cambridge: Cambridge University Press"
+ ],
+ "assessmentText": "Exam (100%), duration: 120 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 36,
+  "avgClassSizePrevYear": 18,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AN/2026_AN279.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "AN226",
+   "title": "Political and Legal Anthropology",
+   "note": "Withdrawn 2025/26"
+  }
+ ],
+ "unlocks": []
+}

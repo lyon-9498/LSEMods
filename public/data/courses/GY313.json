@@ -1,0 +1,91 @@
+{
+ "code": "GY313",
+ "title": "Firms and Economic Geography: Location, Technology and Innovation",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Geography and Environment",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Ali Glisson"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Economic History and Geography and BSc in Geography with Economics. This course is available on the BA in Geography, BSc in Environment and Sustainable Development with Economics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course is capped. Places will be assigned on a first come first served basis",
+ "description": "This course aims to develop theoretical and empirical understanding of spatial economic processes in order to study and evaluate a wide range of issues and policies. Particular emphasis will be put on regional economies, business and worker location decisions, focusing in particular on models of the location of economic and innovation activity with a particular emphasis on regional economies. We will analyse the New Economic Geography theories and the agglomeration of economic activity, with a particular focus on EU integration as a testing ground. We will also look at the global and local knowledge economy, focusing on core aspects of a society based on knowledge and technical progress and how this proceeds hand in hand with the enlargement of markets and the intensification of exchange. We will also explore the seeming contradiction that geographically localized knowledge may be increasingly significant just as so much of our world becomes more globalized. Topics covered: 1. Core-periphery patterns and New Economic Geography theories 2. Formal tests of New Economic Geography models 3. Geographical clustering of firms 4. Spatial distribution of firms, skills and growth 5. Geographical clustering of innovative activities 6. Externalities: knowledge spillovers, networks and agglomeration 7. Relatedness, path dependency and resilience 8. Location strategies of multinational enterprises 9. The impact of foreign investment",
+ "teaching": "20 hours of lectures and 9 hours of classes in the Autumn Term. This course has a reading week in Week 6 of Autumn Term. In the Department of Geography and Environment, teaching will be delivered through a combination of classes/seminars, pre-recorded lectures, live online lectures and other supplementary interactive live activities.",
+ "formativeAssessment": "Students will be expected to prepare for group discussion of the main readings and hand in a short essay for formative assessment.",
+ "indicativeReading": [
+  "Krugman P. (1991), “Geography and Trade” MIT Press, Cambridge (Mass.)",
+  "Baldwin, R. and C. Wyplosz (2009), “Economics of European Integration”, McGraw Hill, 3rd edition.",
+  "Puga, D. (2002), “European Regional Policies in the Light of Recent Location Theories”,",
+  "Journal of Economic Geography",
+  "2(4), 372-406.",
+  "Combes P. and Overman H.G. (2003), “The spatial distribution of economic activities in the EU”, CEPR discussion paper 3999. Sections 1-3.",
+  "Davis, D. and Weinstein, D. (2003), “Market access, economic geography and comparative advantage”,",
+  "Journal of International Economics",
+  "59(1): 1-23.",
+  "Ellison G., Glaeser E.,and Kerr W., (2010) “What Causes Industry Agglomeration? Evidence from Coagglomeration Patterns”,",
+  "American Economic Review",
+  ", 100(3): 1195-1213.",
+  "Moretti, E. (2004) Human capital externalities in cities. In: Handbook of Urban and Regional Economics, Volume 4.",
+  "Carlino G., Kerr W.R. (2015), Chapter 6 - Agglomeration and Innovation, in Handbook of Regional and Urban Economics, Volume 5, Pages 349-404.",
+  "D’Este P., Guy F., and Iammarino S. (2012), “Shaping the formation of university-industry research collaborations: what type of proximity does really matter?”,",
+  "Journal of Economic Geography",
+  ", 13, 537-558.",
+  "Neffke F., Henning M., and Boschma R. (2011), “How do regions diversify over time? Industry relatedness and the development of new growth paths in regions”,",
+  "Economic Geography",
+  ", vol. 87(3), pp. 237-265.",
+  "Head, K., Mayer, T. (2004), “Market Potential and the Location of Japanese Investment in the European Union”,",
+  "Review of Economics and Statistics",
+  ", 86 (4): 959–972.",
+  "Javorcik S. B., 2004, “Does Foreign Direct Investment Increase the Productivity of Domestic Firms? In Search of Spillovers Through Backward Linkages”,",
+  "American Economic Review,",
+  "94 605-627."
+ ],
+ "assessmentText": "Presentation (30%). This component of assessment includes an element of group work. Essay (70%, 3000 words).",
+ "assessment": [
+  {
+   "type": "Presentation",
+   "weight": 30
+  },
+  {
+   "type": "Essay",
+   "weight": 70
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 41,
+  "avgClassSizePrevYear": 14,
+  "capped": "Yes(60)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GY/2026_GY313.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

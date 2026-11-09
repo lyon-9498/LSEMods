@@ -1,0 +1,74 @@
+{
+ "code": "EH314",
+ "title": "Political economy and economic policies: Europe from the High Middle Ages to the French Revolution",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economic History",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Oliver Volckart"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Economic History, BSc in Economic History and Geography and BSc in Economics and Economic History. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "The course applies the theoretical toolkit of political economy to important questions in medieval and early modern economic history. The first term examines core issues of European history such as the character of feudalism (were feudal principalities states or was feudalism a type of market? what was the link between feudal rule and the structure of society?), state formation (how and why did political organisations invested with monopolies of force emerge?), interstate rivalries (war vs. competition for mobile factors of production - did competition between states contribute to growth?) and constitutional change (Absolutism vs. parliamentarism: How limited was Absolutist rule, and for which reasons? Which factors determined the power of parliaments?). In the Lent term, we turn to core issues of economic policies: the expulsion of minorities (Why did rulers expel for example Jews and Huguenots?), trade and industrial policies (Mercantilism: Was this a result of interstate rivalries or of state formation?), monetary policies (what motivated debasements? why did premodern countries form currency unions?) and financial and fiscal policies (rent seeking, tax farming vs. bureaucratic taxation). Throughout, the focus is on the consequences these issues had for economic performance and growth. The course strongly emphasises working with primary sources.",
+ "teaching": "20 hours of seminars in the Autumn Term. 20 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term. This course is taught as a seminar, with classes totalling 40 hours across the Autumn and Winter Term.",
+ "formativeAssessment": "One 500-words outline of an existing historical podcast. This is due shortly after the reading week of the AT. One 1000-words outline of the historical podcast students will produce as part of their summative assessment. This is due early in the WT.",
+ "indicativeReading": [
+  "R. Bonney, ed. Economic Systems and State Finance. Oxford: Oxford University Press, 2002.",
+  "P. Contamine, ed. War and Competition between States. Oxford: Oxford University Press, 2000.",
+  "R. B. Ekelund, and A. B. Davidson. 'The Public Choice Approach to Economic History.' In The Elgar Companion to Public Choice, edited by W. F. Shughart II and L. Razzolini, 512-46. Cheltenham, Northampton/MA: Elgar, 2001.",
+  "T. Ertman. Birth of the Leviathan: Building States and Regimes in Medieval and Early Modern Europe. Cambridge: Cambridge University Press, 1997.",
+  "H. Spruyt. The Sovereign State and Its Competitors: An Analysis of Systems Change. Princeton Studies in International History and Politics. edited by J. L. Snyder and R. H. Ullman Princeton/NJ: Princeton University Press, 1994.",
+  "O. Volckart. 'The Open Constitution and its Enemies: Competition, Rent Seeking, and the Rise of the Modern State.' Journal of Economic Behavior and Organization 42, no. 1 (2000): 1-17.",
+  "J.A. Jenkins and J. Rubin. \"Historical Political Economy: What Is It?\". In",
+  "The Oxford Handbook of Historical Political Economy",
+  ", edited by J.A. Jenkins and J. Rubin, 3-16. Oxford: Oxford University Press, 2024."
+ ],
+ "assessmentText": "Exam (50%), duration: 120 minutes in the Spring exam period. Podcast (50%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 50
+  },
+  {
+   "type": "Podcast",
+   "weight": 50
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EH/2026_EH314.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

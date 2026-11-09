@@ -1,0 +1,68 @@
+{
+ "code": "MG318",
+ "title": "Social Enterprise Design Fundamentals",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Management",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Nadia Millington"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Management. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course has a limited number of places (it is capped). This course is not available to students with timetable clashes due to Harvard style of teaching.",
+ "description": "We are entering a liminal moment. The ground is shifting fast. AI is accelerating. Markets are global. Distribution is instant. The barriers that once kept people out of entrepreneurship are collapsing. Today, you can build and launch a startup from your laptop. So, the question is no longer: can you build something? It’s: what should you build and why? This course is about directing that entrepreneurial energy toward meaningful social change. The course opens by explaining the concept of social entrepreneurship: startups whose primary intention is to achieve social good in a profitable and financially sustainable way. It then examines three distinct logics of venture creation: opportunity-centric approaches that identify and act on market gaps; human-centred approaches grounded in the lived experiences of beneficiaries; and resource-constrained approaches that treat scarcity as a design condition rather than a limitation. These are not abstract frameworks, they are the lenses through which real founders have built real organisations. From there, the course shifts into an experiential, co-creative format. Short lectures are complimented by structured in-class exercises, real-world market testing, and hands-on use of AI tools to bring concepts to life. Working in self-selected pairs as co-founders, students will learn to apply management frameworks such as competitive advantage, market sizing, branding, and theory of change as instruments for early-stage decision-making and idea validation. The course culminates in a pitch, where each pair presents their social enterprise. By the end of the course, students will have designed, tested, and refined a social enterprise, while developing the analytical capacity to apply theory to practice and critically evaluate the effectiveness of their decisions. Co-founders: Students will be given the opportunity to pair with a colleague as a co-founder; however, if a partner cannot be found, one will be assigned. Ethical limitations: Students will be encouraged to engage in developing solutions to problems without complex ethical considerations, as there is insufficient time for the students to get approval for these projects from the Ethics Committee before the term concludes.",
+ "teaching": "20 hours of lectures in the Winter Term. This course has a reading week in Week 6 of Winter Term. Each team will receive an additional one hour of mentorship and support outside of class hours. In its Ethics Code, LSE upholds a commitment to intellectual freedom. This means we will protect the freedom of expression of our students and staff and the right to engage in healthy debate in the classroom.",
+ "formativeAssessment": "Student groups will be expected to produce an interim group presentation to illustrate their progress.",
+ "indicativeReading": [
+  "Dees, J.G. (1998a), The Meaning of Social Entrepreneurship, Stanford University: Center for Social Innovation, Graduate School of Business, Kauffman Center for Entrepreneurial Leadership, Ewin Marion Kauffman Foundation, available at",
+  "https://centers.fuqua.duke.edu/case/wp-content/uploads/sites/7/2015/03/Article_Dees_MeaningofSocialEntrepreneurship_2001.pdf",
+  "Zahra, S. A., Gedajlovic, E., Neubaum, D. O., & Shulman, J. M. (2009). A typology of social entrepreneurs: Motives, search processes and ethical challenges. Journal of Business Venturing, 24(5), 519–532.",
+  "Battilana, J., & Lee, M. (2014). Advancing Research on Hybrid Organizing - Insights from the Study of Social Enterprises. Academy of Management Annals, 8(1), 397–441. https://doi.org/10.1080/19416520.2014.893615",
+  "Yunus, M., Moingeon, B., & Lehmann-Ortega, L. (2010). Building social business models: Lessons from the Grameen experience. Long Range Planning, 43(2–3), 308–325",
+  "Giacomin Joseph (2014) What is Human Centred Design? The Design Journal. Vol 17(4) pp 606-623"
+ ],
+ "assessmentText": "Project (100%). The group project assessment comprises a pre-recorded oral presentation and submission of PowerPoint slides with detailed appendices, which provide evidence in support of your presentation. For detailed assessment information, including all deadlines and timings, please see the relevant course Moodle page. Assessment timings will be available at the start of each term.",
+ "assessment": [
+  {
+   "type": "Project",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 35,
+  "avgClassSizePrevYear": 35,
+  "capped": "Yes(36)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MG/2026_MG318.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

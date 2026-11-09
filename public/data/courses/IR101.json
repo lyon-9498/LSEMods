@@ -1,0 +1,74 @@
+{
+ "code": "IR101",
+ "title": "Contemporary Issues in International Relations",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International Relations",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Luca Tardelli",
+  "Prof Peter Trubowitz"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in International Relations. This course is available on the BSc in International Relations and History and BSc in Politics and International Relations. This course is not available as an outside option to students on other programmes. This course is available with permission to General Course students. Students who have this course as a compulsory course are guaranteed a place. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "This course provides an opportunity to gain an analytically deeper understanding and reflect critically upon some of the most topical issues that currently confront international relations and which shape the development of the contemporary international order. These include but are not limited to: US foreign policy under President Donald Trump; the war in Ukraine and tensions between Russia and the West; violent conflict in the Middle East; European security and the future of NATO; challenges to multilateral cooperation and liberal internationalism; China’s growing involvement in Africa; the use of armed drones; international financial crises; climate change and environmental security; and migration and refugee crises. The course encourages students to engage in debating the nature of, and possible responses to, contemporary challenges and crises in international politics. The course complements IR100 with a more applied policy focus, while emphasising the need for critical analytical depth when reflecting on the origins, nature and implications of current affairs. Students will develop an awareness of the relationship between the discipline of International Relations as a field of knowledge and the practices of world politics.",
+ "teaching": "12 hours of classes and 12 hours of lectures in the Autumn Term. 13 hours of classes and 10.5 hours of lectures in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "In the AT, students will be expected to deliver a short class presentation and submit the outline of their summative group presentation. In the WT, students will then be expected to produce 1 formative policy memo and submit the outline of the summative policy memo. In the AT, the formative short class presentations and the formative group presentation outlines will help you prepare for the summative group presentations. In the WT, the formative policy memo and the outline of the summative policy memo will help you prepare for the summative policy memo.",
+ "indicativeReading": [
+  "Hubert Zimmermann, Milena Elsinger, and Alex Burkhardt, International Relations: Theories in Action (Sage, 2024).",
+  "Jenny Edkins and Maja Zehfuss (eds), Global Politics: A New Introduction (Routledge: 2019)",
+  "​Mary Kaldor and Iavor Rangelov (eds), The Handbook of Global Security Policy (Wiley-Blackwell: 2014)."
+ ],
+ "assessmentText": "Course participation (10%). Presentation (20%). This component of assessment includes an element of group work. Memo (70%).",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 10
+  },
+  {
+   "type": "Presentation",
+   "weight": 20
+  },
+  {
+   "type": "Memo",
+   "weight": 70
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 88,
+  "avgClassSizePrevYear": 15,
+  "capped": "Yes(90)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/IR/2026_IR101.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

@@ -1,0 +1,74 @@
+{
+ "code": "AC312",
+ "title": "Performance Measurement, Strategy, and Uncertainty",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Accounting",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Tommaso Palermo"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Accounting and Finance, BSc in Econometrics and Mathematical Economics, BSc in Economics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course is not capped. Any student who applies for a place is likely to be offered a place, subject to evidence of interest and appropriate background.",
+ "description": "This course examines practical problems that managers and employees are likely to confront in their work in a variety of organizational contexts. The fundamental question is: How do you know when you have performed well ? This question draws attention on how performance is measured, visualised and assessed via performance measurement tools and frameworks, how performance measures and data sources are related to strategy formulation and decision-making, and the way in which strategy formulation and performance measurement can be adapted to confront uncertain business contexts and strategic risks. The course places particular emphasis on the ability to communicate analytical findings to senior decision-makers through concise written formats such as management reports and memos, and on the practical use of software tools for data analysis and visualisation. The course addresses these themes in two parts. The first part focuses on strategy and performance measurement . It examines how performance measurement systems can be designed and used to support strategy formulation and monitoring, covering topics such as performance dashboards, data visualisation, and the use of data analytics to deepen understanding of key performance outcomes. The second part focuses on strategy and risk measurement . It examines multiple approaches to identifying, measuring and monitoring risks that may threaten the achievement of strategic objectives, including enterprise risk management, risk mapping, and the design and use of key risk indicators. As in the first part, key concepts are put into practice through exercises and case discussions. Using academic literature, examples taken from the business and popular press, and case studies, AC312 provides students with valuable insights into how performance measurement approaches can vary across contexts, and how situational factors, including business context, organisational structure, culture and behavioural variables influence them. Some cases will involve real-world data and the potential use of data analytics for strategy formulation, performance measurement and decision-making. Course activities will also include work on topical issues such as how environmental, social and governance (ESG) issues can be integrated into business strategies, how ESG results can be measured and disclosed to stakeholders, and how the risks associated with ESG strategies can be managed and mitigated.",
+ "teaching": "30 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term. Comprising 10 weeks of twice-weekly 1.5 hour sessions. In person seminars are complemented by online recorded (asynchronous) videos. Training on the use of relevant software tools is provided as part of the course. While no prior experience beyond spreadsheet software is required, some familiarity with data analysis and visualisation software would be helpful.",
+ "formativeAssessment": "The course makes extensive use of case studies. Students are expected to contribute to the case discussions in each session. Students are asked to work in a group on one case analysis and present their output for formative assessment in week 5 and week 11. Formative and summative assessments require students to produce concise management-oriented outputs such as presentations, reports or memos addressed to a specified audience.",
+ "indicativeReading": [
+  "No single book covers the entire course. A full reading list will be made available nearer the start of the course.",
+  "The following books provide an overview of key themes addressed in the course and may be useful for students who wish to familiarise themselves with the topics in advance or need additional background knowledge:• Bhimani, A., Horngren, C., Rajan, M. & Datar, S. (2023). Management and Cost Accounting. (8th ed.). Pearson International.",
+  "• Chapman, C. S. (2005). Controlling strategy: Management, accounting, and performance measurement. Oxford University Press.",
+  "• Merchant, K. & Van der Stede, W. (2023).",
+  "Management Control Systems",
+  ". (5th ed.). Pearson International.",
+  "• Schildt, H. (2020). The data imperative: How digitalization is reshaping management, organizing, and work. Oxford University Press.",
+  "• West, J. D., & Bergstrom, C. T. (2020). Calling bullshit: The art of skepticism in a data-driven world. Penguin Books"
+ ],
+ "assessmentText": "Case analysis / study (75%). Project (25%). Assessment consists of two components: an individual take-home assessment (75%); and a group project involving an analysis of a case (25%). Further details, including specific instructions and guidance, will be made available on Moodle before and during the course. After the internal marking is complete for the individual take-home assessment, you may be invited to an interview to discuss your work either as part of a random sample, or because there may be some concerns about the academic integrity of your assessment submission. You will be informed whether you were chosen randomly or selectively prior to the interview.",
+ "assessment": [
+  {
+   "type": "Case analysis / study",
+   "weight": 75
+  },
+  {
+   "type": "Project",
+   "weight": 25
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 132,
+  "avgClassSizePrevYear": 66,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AC/2026_AC312.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

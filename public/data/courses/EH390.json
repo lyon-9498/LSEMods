@@ -1,0 +1,61 @@
+{
+ "code": "EH390",
+ "title": "Dissertation in Economic or Social History",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economic History",
+ "units": 1.0,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Chris Minns"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Economic History, BSc in Economic History and Geography and BSc in Economics and Economic History. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "The course emphasises working with primary sources. The subject of the dissertation should relate broadly to one of the economic history courses that have been chosen. This course consists of two lectures, the first in week 2 of AT and the second in week 1 of WT. All students also participate in an intensive workshop in week 7 of AT. This provides the opportunity for students to present their dissertation ideas and receive feedback from their peers.",
+ "teaching": null,
+ "formativeAssessment": null,
+ "indicativeReading": [],
+ "assessmentText": "Dissertation (100%, 10000 words). This course includes the following threshold element(s) linked to the Dissertation failure to submit these elements will result in 5 marks being deducted from the final Dissertation grade for each threshold element: 1. Research Proposal (AT) 2. Dissertation Draft (WT) 3. Replication file of data and/or sources to be submitted with the Dissertation (ST) The dissertation must not exceed 10,000 words in length. The title of the dissertation should be approved by the candidate's supervisor early in AT and a title form signed by the supervisor must be submitted to the course organiser before the AT reading week.",
+ "assessment": [
+  {
+   "type": "Dissertation",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 65,
+  "avgClassSizePrevYear": 43,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EH/2026_EH390.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

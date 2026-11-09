@@ -1,0 +1,73 @@
+{
+ "code": "SO203",
+ "title": "Political Sociology",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Sociology",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Robin Archer",
+  "Dr Kristin Surak"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Language, Culture and Society, BSc in Sociology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course cannot be taken in conjunction with SO243 Political Sociology: Nation-States Unravelled. This course has a limited number of places (it is capped). Places are allocated on a first come first served basis.",
+ "description": "Political Sociology concerns the way in which political and social factors interact to produce the societies in which we live. This course aims to discuss some central empirical and theoretical questions in the field. The course begins by examining classic comparative debates about the relationship between the development of states and nations on the one hand, and the rise of capitalism and democracy on the other. We will then examine the impact that social cleavages have on parties, elections and other political institutions in a number of different countries. We will examine the strength and political impact of both labour movements and other important social movements. And we will examine why similar countries can develop very different social and economic policies. The second part of the course continues to investigate the state while also considering key challenges to it, both epistemological (e.g. how fruitful is it to study the world by taking the nation-state as the natural unit of analysis) and substantive (e.g. in what ways is state sovereignty or state membership always partial or challenged). The focus is broadly macropolitical as we move across this terrain. In the first section, we cover some preliminary territory in the work of Marx and Weber whose writings have influenced many subsequent analyses. The second section moves to empire and colonial legacies to examine the very recentness of the rise of nation-states and their continuing intertwinings with empire, imperialism, and hegemony. In the third section, we look at issues around membership and exclusion, focusing on citizenship and migration regions. The fourth section turns to social movements and political participation to examine engagements against, with, and beyond the state. We wrap up by examining a series of contemporary challenges to nation-states, such as populism and neoliberalization, that have appeared in many parts of the world. Throughout the course we will consider some of the main theoretical approaches that are used in the study of political sociology.",
+ "teaching": "This course has a reading week in Week 6 of Autumn and Winter Term. This course is usually delivered through a combination of lectures and classes. There will be two hours or more of teaching each week across AT and WT. There will also be a revision session in early ST.",
+ "formativeAssessment": "Presentation. Presentation. Essay. Essay. Students will be expected to complete a class presentation and a termly paper in both AT and WT.",
+ "indicativeReading": [
+  "R Dalton, Citizen Politics, 5th edn; G Esping-Andersen, The Three Worlds of Welfare Capitalism; E. Gellner, Nations and Nationalism; A Giddens, Capitalism and Modern Social Theory; R Inglehart, Culture Shift in Advanced Industrial Society; J Manza & C Brooks, Social Cleavages and Political Change; F. Piven and R. Cloward, Poor People’s Movements; D. Rueschemeyer et al, Capitalist Development and Democracy; T Skocpol, States and Social Revolutions; S Tarrow, Power in Movement; W. Rodney, How Europe Underdeveloped Africa; D. Kochenov, Citizenship; R Brubaker, Why Populism."
+ ],
+ "assessmentText": "Exam (70%), duration: 180 minutes in the Spring exam period. Essay (30%, 2500 words) in May. Attendance at all classes and submission of all set coursework is required.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 70
+  },
+  {
+   "type": "Essay",
+   "weight": 30
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 15,
+  "avgClassSizePrevYear": 15,
+  "capped": "Yes(18)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SO/2026_SO203.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "SO243",
+   "title": "Political Sociology: Nation-States Unravelled",
+   "note": "Suspended 2026/27"
+  }
+ ],
+ "unlocks": []
+}

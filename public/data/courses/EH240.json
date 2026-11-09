@@ -1,0 +1,65 @@
+{
+ "code": "EH240",
+ "title": "Business and Economic Performance since 1945: Britain in International Context",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economic History",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Gerben Bakker"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Economic History, BSc in Economic History and Geography, BSc in Economics, BSc in Economics and Economic History, BSc in Management, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "The course examines the successes and failures of British business and industry, with an emphasis on the post-World War II period. It assesses many of the hypotheses on why the UK economy grew more slowly than other OECD nations during this period. Explanations of relative economic decline are examined in the context of comparisons with other European nations and with the US, Japan and more recently China. The course is organised to combine major economic and political themes, such as de-industrialisation, globalisation, education and training, management organisation and practices, labour relations, and Britain’s relationship with the EEC/EU, with case studies of industries as diverse as textiles, motors, banking, pharmaceuticals, and steel. By interacting themes and case studies, students get a sense of how national policies can affect business opportunities, and how governments can both aid and harm business. The impact of government policies such as nationalisation/privatisation, regional policy and competition are also examined in this context. The primary focus is on the post-World War II period, including current changes in performance, but the historical roots of Britain's recent performance are also considered.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. 10 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "During the course students are expected to write three essays or equivalent pieces of written work.",
+ "indicativeReading": [
+  "The main work used in the course consist of the relevant chapters in The Cambridge Economic History of Modern Britain: Vol. II, 1870-2010 (2014) and some chapters from earlier editions, supplemented by Sir Geoffrey Owen, From Empire to Europe: The Decline and Revival of British Industry since the Second World War (2000).",
+  "The following are also useful: Stephen Broadberry, The productivity race: British manufacturing in international perspective 1850-1990 (1997); B Elbaum & W Lazonick (Eds), The Decline of the British Economy (1986); Mansel Blackford, The rise of modern business: Great Britain, the United States, Germany, Japan, and China (2008); George Symeonidis, The Effects of Competition: Cartel Policy and the Evolution of Strategy and Structure in British Industry (MIT Press, 2001); Gerben Bakker, “Soft Power: The Media Industries in Britain since 1870,” in R. Floud, J. Humphries and P. Johnson eds., The Cambridge Economic History of Modern Britain: Vol. II, 1870-2010 (2014), 416-447."
+ ],
+ "assessmentText": "Exam (100%), duration: 180 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EH/2026_EH240.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

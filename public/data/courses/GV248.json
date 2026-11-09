@@ -1,0 +1,76 @@
+{
+ "code": "GV248",
+ "title": "Power and Politics in the Modern World: Comparative Perspectives",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr David Woodruff"
+ ],
+ "prerequisites": "Students must have completed GV101 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": "Other background in political science will be considered as a substitute for GV101 for students outside of the Department of Government.",
+ "availability": "This course is available on the BA in Social Anthropology, BSc in History and Politics, BSc in International Social and Public Policy with Politics, BSc in Philosophy, Politics and Economics, BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations, BSc in Politics and Philosophy, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "This course will acquaint students with the contemporary study of comparative politics, focusing largely on theories susceptible to testing with narrative historical evidence. Students will learn to address the methodological challenges of developing and testing such theories. The course will treat a wide variety of themes, including the political impact of natural resources in developing countries, social and political revolutions, political and bureaucratic corruption, the political economy of distribution, and political ideologies. With respect to each theme, students will receive a grounding in theories of the topic and samples of application to empirical cases drawn from throughout the developed, developing, and post-Communist world.",
+ "teaching": "15 hours of lectures and 9 hours of classes in the Autumn Term. 15 hours of lectures and 10 hours of classes in the Winter Term. 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Essay in Autumn Term Week 6. Essay in Autumn Term Week 11. Students will be expected to produce 2 formative essays in AT.",
+ "indicativeReading": [
+  "Skocpol, Theda.",
+  "States and Social Revolutions",
+  ". Cambridge: Cambridge University Press, 1979.",
+  "Hertog, Steffen. \"Shaping the Saudi State: Human Agency's Shifting Role in Rentier-State Formation.\" International Journal of Middle East Studies 39, no. 4 (2007). doi:10.2307/30069487. http://www.jstor.org/stable/30069487.",
+  "Brierley, Sarah. \"Unprincipled Principals: Co‐opted Bureaucrats and Corruption in Ghana.\" American Journal of Political Science 64, no. 2 (2020): 209-222. Doi:10.1111/ajps.12495.",
+  "Weyland, Kurt. \"The Rise of Latin America's Two Lefts: Insights From Rentier State Theory.\" Comparative Politics 41, no. 2 (2009): 145-164. http://www.jstor.org/stable/40599207.",
+  "Hacker, Jacob S, and Paul Pierson. \"Winner-Take-All Politics: Public Policy, Political Organization, and the Precipitous Rise of Top Incomes in the United States.\" Politics & Society 38, no. 2 (2010). doi:10.1177/0032329210365042.",
+  "Orloff, Ann Shola. \"Gender and the Social Rights of Citizenship: The Comparative Analysis of Gender Relations and Welfare States.\" American Sociological Review 58, no. 3 (1993). doi:10.2307/2095903.",
+  "Fourcade‐Gourinchas, Marion, and Sarah L. Babb. “The Rebirth of the Liberal Creed: Paths to Neoliberalism in Four Countries.” American Journal of Sociology 108, no. 3 (November 2002): 533–79. https://doi.org/10.1086/367922."
+ ],
+ "assessmentText": "Exam (75%), duration: 180 minutes in the Spring exam period. Essay (25%, 1500 words) in Winter Term Week 6. GENERAL COURSE STUDENTS ONLY: The Class Summary Grade for General Course students will be based on the average of the two formative essays (80%) and attendance (20%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 75
+  },
+  {
+   "type": "Essay",
+   "weight": 25
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 102,
+  "avgClassSizePrevYear": 15,
+  "capped": "Yes(105)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV248.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "course",
+  "code": "GV101"
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

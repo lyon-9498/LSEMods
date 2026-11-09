@@ -1,0 +1,76 @@
+{
+ "code": "FM301",
+ "title": "Market Anomalies and Asset Management",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Finance",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Cameron Peng"
+ ],
+ "prerequisites": "Students must have completed FM215 and FM214 and FM200 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Finance. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course does not permit auditing students.",
+ "description": "This course will examine the extent to which financial markets are informationally efficient. Topics include notions of market efficiency, return predictability in bond, stock, and derivatives markets, limits to arbitrage and other theories of return predictability. It will also cover both behavioural and frictional theories of return predictability and other asset-pricing phenomena.",
+ "teaching": "33 hours of seminars in the Autumn Term. This course is taught in an interactive format. There is no distinction between lectures and classes/seminars; there are simply “sessions” where the pedagogical approach is always interactive.",
+ "formativeAssessment": "Weekly homework assignments",
+ "indicativeReading": [
+  "Detailed course programmes and reading lists are distributed at the start of the course. Illustrative texts include: Shleifer, Inefficient Markets: An Introduction to Behavioral Finance (Oxford University Press)."
+ ],
+ "assessmentText": "Continuous assessment (100%).",
+ "assessment": [
+  {
+   "type": "Continuous assessment",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Application of information skills",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 64,
+  "avgClassSizePrevYear": 64,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/FM/2026_FM301.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "course",
+    "code": "FM215"
+   },
+   {
+    "type": "course",
+    "code": "FM214"
+   },
+   {
+    "type": "course",
+    "code": "FM200"
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

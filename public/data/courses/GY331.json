@@ -1,0 +1,79 @@
+{
+ "code": "GY331",
+ "title": "Geographies of Global Migration",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Geography and Environment",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Romola Sanyal"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Geography, BSc in Economic History and Geography, BSc in Environment and Sustainable Development, BSc in Environment and Sustainable Development with Economics and BSc in Geography with Economics. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is capped. Places will be assigned on a first come first served basis",
+ "description": "Understanding global migration Understanding geopolitics of global migration Understanding forced migration including legal and socio-political aspects, and humanitarian responses to large scale displacement crises LSE is currently evaluating the use of edit tracking tools for AI-resilient assessment. This course might use edit tracking tools for assessments.",
+ "teaching": "15 hours of lectures and 9 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term. In the Department of Geography and Environment, teaching will be delivered through a combination of classes/seminars, pre-recorded lectures, live online lectures and other supplementary interactive live activities.",
+ "formativeAssessment": "Students will be expected to produce one piece of formative work in the Winter Term",
+ "indicativeReading": [
+  "Alimia, S. (2022).",
+  "Refugee cities: how Afghans changed urban Pakistan",
+  ". University of Pennsylvania Press.",
+  "Andersson, R (2014)",
+  "Illegality Inc: Clandestine migration and the business of bordering Europe",
+  "Berkeley, University of California Press",
+  "Darling, J. (2022).",
+  "Systems of suffering: Dispersal and the denial of asylum",
+  ". Pluto Books.",
+  "Jacobsen, K. (2025).",
+  "Host Cities: How Refugees Are Transforming the World's Urban Settings",
+  ". Yale University Press.",
+  "Sur, M. (2021).",
+  "Jungle passports: Fences, mobility, and citizenship at the Northeast India-Bangladesh border",
+  ". University of Pennsylvania Press."
+ ],
+ "assessmentText": "Exam (75%), duration: 120 Minutes in the Spring exam period. Practical test (25%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 75
+  },
+  {
+   "type": "Practical test",
+   "weight": 25
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 22,
+  "avgClassSizePrevYear": 11,
+  "capped": "Yes(50)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GY/2026_GY331.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

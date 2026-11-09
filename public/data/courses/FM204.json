@@ -1,0 +1,59 @@
+{
+ "code": "FM204",
+ "title": "Applied Corporate Finance",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Finance",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Ashwini Agrawal"
+ ],
+ "prerequisites": null,
+ "corequisites": "Students must complete FM200 and FM214 either before taking this course or in the same year as this course.",
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Finance. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course does not permit auditing students.",
+ "description": "This course will focus on the applications of key concepts in corporate finance and implicitly extend the topics covered in “Principles of Corporate Finance”. There will be three main topics covered in the course. The first topic is corporate investment. We will consider various methods used by firms to evaluate investment opportunities. The second topic is financing decisions. We will cover how firms finance their operations using debt and equity. The third topic is valuation. We will learn methods used to value companies and specific transactions such as mergers, acquisitions, and leveraged buyouts. Each topic will be addressed using both theoretical material provided by the professor and weekly case studies with questions and solutions.",
+ "teaching": "30 hours of seminars in the Winter Term. This course is taught in an interactive format. There is no distinction between lectures and classes/seminars; there are simply “sessions” where the pedagogical approach is always interactive.",
+ "formativeAssessment": "Weekly homework assignments.",
+ "indicativeReading": [
+  "A course pack will be distributed that includes case studies as well as additional readings such as textbook chapters, and practitioner articles."
+ ],
+ "assessmentText": "Continuous assessment (100%).",
+ "assessment": [
+  {
+   "type": "Continuous assessment",
+   "weight": 100
+  }
+ ],
+ "skills": [],
+ "stats": {
+  "totalStudentsPrevYear": 56,
+  "avgClassSizePrevYear": 56,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/FM/2026_FM204.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "course",
+    "code": "FM200"
+   },
+   {
+    "type": "course",
+    "code": "FM214"
+   }
+  ]
+ },
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

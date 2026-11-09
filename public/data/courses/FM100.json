@@ -1,0 +1,60 @@
+{
+ "code": "FM100",
+ "title": "Introduction to Finance for BSc in Finance",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Finance",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Constantin Charles"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Finance. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course does not permit auditing students. All non-BSc Finance students interested in taking a half-unit introductory course in Finance should consider taking FM101.",
+ "description": "This course will provide a non-technical introduction to Finance and an overview of the Finance discipline. The aim of the course is to explain the importance of finance to individuals, firms, and society in general. Topics will include discounting and present value, risk and return, financial markets and trading, mutual and hedge funds, banks and other financial intermediaries, financial securities, capital structure, venture capital and private equity, initial public offerings, and valuation of firms and projects.",
+ "teaching": "30 hours of seminars in the Winter Term. This course is taught in an interactive format. There is no distinction between lectures and classes/seminars; there are simply “sessions” where the pedagogical approach is always interactive.",
+ "formativeAssessment": "Weekly homework assignments.",
+ "indicativeReading": [
+  "Detailed course programmes and reading lists are distributed at the start of the course."
+ ],
+ "assessmentText": "Continuous assessment (100%).",
+ "assessment": [
+  {
+   "type": "Continuous assessment",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Application of information skills",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 69,
+  "avgClassSizePrevYear": 69,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/FM/2026_FM100.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

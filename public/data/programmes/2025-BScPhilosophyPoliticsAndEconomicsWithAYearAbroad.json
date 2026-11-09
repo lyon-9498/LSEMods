@@ -1,0 +1,343 @@
+{
+ "name": "BSc in Philosophy, Politics and Economics (with a Year Abroad)",
+ "code": "UBPHPOLE2",
+ "department": "Philosophy, Logic and Scientific Method",
+ "years": [
+  {
+   "year": 1,
+   "papers": [
+    {
+     "label": "LSE100",
+     "lines": [
+      "LSE100 is a half unit taken by all students, running across Autumn and Winter Terms in the first year. The course provides one of the marks that is eligible to be included in the calculation of the First Year Average for purposes of classification.",
+      "Students will choose ONE of the three half-unit options below:",
+      "LSE100A The LSE Course: How can we transform our climate futures? (0.5)",
+      "LSE100B The LSE Course: How can we control AI? (0.5)",
+      "LSE100C The LSE Course: How can we create a fair society? (0.5)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "LSE100A",
+      "LSE100B",
+      "LSE100C"
+     ],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": true,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 1",
+     "lines": [
+      "ST107 Quantitative Methods (Statistics) (0.5)",
+      "and one from:",
+      "MA107 Quantitative Methods (Mathematics) (0.5)",
+      "MA108 Methods in Calculus and Linear Algebra (0.5)",
+      "(OR)",
+      "MA100 Mathematical Methods (1.0)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "ST107",
+      "MA107",
+      "MA108",
+      "MA100"
+     ],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": true,
+     "outside": null
+    },
+    {
+     "label": "Paper 2",
+     "lines": [
+      "GV101 Introduction to Political Science (1.0)"
+     ],
+     "compulsory": [
+      "GV101"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 3",
+     "lines": [
+      "PH103 The Big Questions: An Introduction to Philosophy (1.0)"
+     ],
+     "compulsory": [
+      "PH103"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 4",
+     "lines": [
+      "EC1A3 Microeconomics I (0.5) and EC1B3 Macroeconomics I (0.5)"
+     ],
+     "compulsory": [
+      "EC1A3",
+      "EC1B3"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  },
+  {
+   "year": 2,
+   "papers": [
+    {
+     "label": "Paper 5",
+     "lines": [
+      "If ST107 was taken under Paper 1 then students may select the following:",
+      "GV249 Research Design in Political Science (1.0)",
+      "or",
+      "EC2C3 Econometrics I (0.5) and EC2C4 Econometrics II (0.5)",
+      "(OR) If MA100 was taken under Paper 1, then students must select the following:",
+      "ST102 Elementary Statistical Theory (1.0)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "GV249",
+      "EC2C3",
+      "EC2C4",
+      "ST102"
+     ],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": true,
+     "outside": null
+    },
+    {
+     "label": "Paper 6",
+     "lines": [
+      "GV100 Introduction to Political Theory (1.0)"
+     ],
+     "compulsory": [
+      "GV100"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 7",
+     "lines": [
+      "EC241 PPE Interdisciplinary Research Seminar (0.5) and PH111 Introduction to Logic (0.5)"
+     ],
+     "compulsory": [
+      "EC241",
+      "PH111"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 8",
+     "lines": [
+      "EC2A3 Microeconomics II (0.5) and EC2B3 Macroeconomics II (0.5)"
+     ],
+     "compulsory": [
+      "EC2A3",
+      "EC2B3"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  },
+  {
+   "year": 3,
+   "papers": []
+  },
+  {
+   "year": 4,
+   "papers": [
+    {
+     "label": "Paper 9",
+     "lines": [
+      "PH341 Philosophy, Politics and Economics: Applications (1.0)"
+     ],
+     "compulsory": [
+      "PH341"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 10",
+     "lines": [
+      "GV343 Philosophy, Politics and Economics: Capstone (0.5) and GV344 Philosophy, Politics and Economics: Research Project (0.5)"
+     ],
+     "compulsory": [
+      "GV343",
+      "GV344"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 11",
+     "lines": [
+      "If ST107 was taken in Year 1, then students may select courses to the value of 1.0 unit from the following:",
+      "Philosophy Options List",
+      "Economics Options List",
+      "Government List B",
+      "(OR) If MA100 was taken in Year 1, then students must select the following:",
+      "EC2C3 Econometrics I (0.5) and EC2C4 Econometrics II (0.5)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "EC2C3",
+      "EC2C4"
+     ],
+     "lists": [
+      "Philosophy Options List",
+      "Economics Options List",
+      "Government List B"
+     ],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": true,
+     "outside": null
+    },
+    {
+     "label": "Paper 12",
+     "lines": [
+      "Courses to the value of 1.0 unit(s) from the following:",
+      "Philosophy Options List",
+      "Economics Options List",
+      "Government List B"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [],
+     "lists": [
+      "Philosophy Options List",
+      "Economics Options List",
+      "Government List B"
+     ],
+     "unitsNeeded": 1.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  }
+ ],
+ "lists": {
+  "Philosophy Options List": [
+   "LL306",
+   "LL307",
+   "LN253",
+   "LN254",
+   "PH105",
+   "PH112",
+   "PH201",
+   "PH214",
+   "PH222",
+   "PH223",
+   "PH224",
+   "PH225",
+   "PH230",
+   "PH232",
+   "PH238",
+   "PH239",
+   "PH240",
+   "PH241",
+   "PH311",
+   "PH333",
+   "PH399"
+  ],
+  "Economics Options List": [
+   "EC302",
+   "EC307",
+   "EC311",
+   "EC313",
+   "EC317",
+   "EC321",
+   "EC325",
+   "EC328",
+   "EC330",
+   "EC333"
+  ],
+  "Government List B": [
+   "GV309",
+   "GV311",
+   "GV313",
+   "GV314",
+   "GV316",
+   "GV318",
+   "GV321",
+   "GV324",
+   "GV325",
+   "GV326",
+   "GV330",
+   "GV333",
+   "GV335",
+   "GV336",
+   "GV337",
+   "GV339",
+   "GV340",
+   "GV341",
+   "GV345",
+   "GV346",
+   "GV348",
+   "GV349",
+   "GV390",
+   "GV3L2",
+   "GV3L6"
+  ]
+ },
+ "warnings": [],
+ "id": "2025-BScPhilosophyPoliticsAndEconomicsWithAYearAbroad",
+ "cohort": 2025,
+ "url": "https://www.lse.ac.uk/resources/calendar2026-2027/programmeRegulations/undergraduate/2025/BScPhilosophy,PoliticsAndEconomicsWithAYearAbroad.htm"
+}

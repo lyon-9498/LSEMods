@@ -1,0 +1,81 @@
+{
+ "code": "GV101",
+ "title": "Introduction to Political Science",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Prof Stephane Wolton"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in History and Politics, BSc in International Social and Public Policy with Politics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations and BSc in Politics and Philosophy. This course is available on the BA in Geography, BA in Social Anthropology, BSc in International Relations, BSc in International Social and Public Policy, BSc in Psychological and Behavioural Science, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is not available as an outside option to students on other programmes. This course is freely available to General Course students. It does not require permission.",
+ "description": "The course is an introduction to the multiple ways political scientists study important political questions. To do so, the course will be divided in three parts. In the first half of the AT, students are introduced to political concepts. What is theory and what counts as evidence? How do we define different political regimes and does it matter? How do we characterize institutions and what are the effects of different institutions? Who are the main political actors and what roles do they play? In the second half of the AT, students are introduced to the most used methods in political science. We will have a brief look at game theory, case study analysis, and large-N analyses. We will illustrate each method we cover with examples from papers published in political science or related fields. In the WT, students are exposed to research problems that have interested political scientists in recent years. This term is centered around five themes, and we will devote two weeks to each of them. Themes change on a regular basis. Examples of themes that have been or could be covered are: economic inequality and political inequality, identity politics, the effect of social media on politics, autocracy vs democracy.",
+ "teaching": "15 hours of lectures and 9 hours of classes in the Autumn Term. 15 hours of lectures and 10 hours of classes in the Winter Term. 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Multiple choice quiz weekly. Problem sets. Essay in Winter Term Week 5. Students will be expected to undertake weekly multiple-choice questions to learn the course material and practice for the related summative assessment, one problem set during the winter break, and a formative essay due Week 5 of the WT.",
+ "indicativeReading": [
+  "W Clark, M Golder and S N Golder, Foundations of Comparative Politics, Sage, 2019."
+ ],
+ "assessmentText": "Exam (40%), duration: 120 Minutes in the Spring exam period. Essay (40%, 1500 words) in Spring Term Week 1. Multiple choice quiz (20%) in Winter Term Week 11. GENERAL COURSE STUDENTS ONLY: The Class Summary Grade for General Course students will be calculated as follows: 75% class participation (including attendance and contribution), and 25% formative essay. The Exam Grade for General Course students will be 40% essay, 40% exam, and 20% multiple choice questions.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 40
+  },
+  {
+   "type": "Essay",
+   "weight": 40
+  },
+  {
+   "type": "Multiple choice quiz",
+   "weight": 20
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 328,
+  "avgClassSizePrevYear": 15,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV101.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": [
+  "GV225",
+  "GV248",
+  "GV251",
+  "GV263",
+  "GV311",
+  "GV330",
+  "GV333",
+  "GV340",
+  "GV348"
+ ]
+}

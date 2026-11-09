@@ -1,0 +1,84 @@
+{
+ "code": "SP101",
+ "title": "Foundations of Social Policy Research",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Social Policy",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Kitty Stewart"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in International Social and Public Policy, BSc in International Social and Public Policy with Economics and BSc in International Social and Public Policy with Politics. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "SP101 is concerned with a fundamental question for social and public policymaking. How do we know what policies are needed, how they are experienced and whether they are effective? We also consider a second question: How is this knowledge used - how (if at all) does it feed into the policy process and improve policies and outcomes? The course aims to equip students to become informed consumers of research, able to read and evaluate research outputs that use a range of different approaches and methods to address policy questions. Students will be encouraged to think critically about the way that knowledge is constructed, about the nature of expertise, and about the influence of values and positionality on knowledge production. They will learn to assess the validity of claims made on the basis of research studies that use a range of different methods. The course provides the foundations for students to become active researchers themselves in later stages of the BSc ISPP degrees, preparing them for the second year research methods course and for their third year dissertation.",
+ "teaching": "10 hours of lectures and 15 hours of classes in the Autumn Term. 10 hours of lectures, 15 hours of classes and 1.5 hours of workshops in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term. All teaching will be in accordance with the LSE Academic Code which specifies a \"minimum of two hours taught contact time per week when the course is running in the Autumn Term (AT) and/or Winter Term (WT)\". Social Policy courses are predominantly taught through a combination of in-person lectures and in-person classes/seminars. Further information will be provided by the Course Convenor in the first lecture of the course.",
+ "formativeAssessment": "Essay in Autumn Term Week 9. Essay in Autumn Term Week 7. Students will write two essays, one in AT and one in WT, and will receive feedback designed to help them build towards their summative essay in ST. Multiple choice quizzes and class activities will provide further opportunities for students to check their learning.",
+ "indicativeReading": [
+  "Becker, S., Bryman, A. and Ferguson (2012) Understanding Research for Social Policy and Social Work: Themes, Methods and Approaches. 2nd Edition. London: Policy Press.",
+  "Bryman, A. (2012) Social Research Methods, 4th edition. Oxford University Press.",
+  "Della Porta, D. and Keating, M. (2008) Approaches and Methodologies in the Social Sciences. Cambridge: CUP.",
+  "Gilbert, N. (2008) Researching Social Life 3rd ed. London: Sage.",
+  "Hill Collins, P. and Bilge, S. (2016) Intersectionality (Key Concepts). London: Polity Press.",
+  "Howard, C. (2017) Thinking Like a Political Scientist. Chicago, IL: University of Chicago Press.",
+  "Parkhurst, J. (2017) The Politics of Evidence: From evidence based policy to the good governance of evidence. Abingdon, Oxon: Routledge."
+ ],
+ "assessmentText": "Course participation (10%). Presentation (10%). Essay (50%, 2000 words) in Spring Term Week 1. Quiz (30%).",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 10
+  },
+  {
+   "type": "Presentation",
+   "weight": 10
+  },
+  {
+   "type": "Essay",
+   "weight": 50
+  },
+  {
+   "type": "Quiz",
+   "weight": 30
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 60,
+  "avgClassSizePrevYear": 15,
+  "capped": "Yes(60)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SP/2026_SP101.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": [
+  "SP201"
+ ]
+}

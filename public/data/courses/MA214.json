@@ -1,0 +1,80 @@
+{
+ "code": "MA214",
+ "title": "Algorithms and Data Structures",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Mathematics",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Julia Boettcher"
+ ],
+ "prerequisites": "Students must have completed MA102 or MA103 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": "Basic Knowledge of Python is essential, such as provided by ST101 or a pre-sessional provided by the Digital Skills Lab.",
+ "availability": "This course is compulsory on the BSc in Data Science and BSc in Mathematics with Data Science. This course is available on the BSc in Economics and Data Science, BSc in Mathematics and Economics, BSc in Mathematics with Economics, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "Introduction to the fundamental principles of data structures and algorithms and their efficient implementation. Developing algorithmic thinking. Basic toolkit for the design and analysis of algorithms: Running time, recurrence relations, big-O notation, amortised analysis, correctness, finite induction, loop invariants. Tour of the most important data structures, fundamental algorithms, and algorithm design techniques: lists, stacks, queues, dynamic arrays, hash tables, heaps, priority queues, disjoint set unions, binary search trees, incremental and recursive algorithms, divide-and-conquer, greedy algorithms, randomisation in algorithms, sorting algorithms, algorithmic lower bounds, graph algorithms. Implementation of these data structures and algorithms in Python.",
+ "teaching": "10 hours of classes and 20 hours of lectures in the Winter Term. 2 hours of lectures in the Spring Term.",
+ "formativeAssessment": "Problem sets weekly. Written answers to set problems will be expected on a weekly basis.",
+ "indicativeReading": [
+  "T H Cormen, C E Leiserson, R L Rivest & C Stein, Introduction to Algorithms, MIT Press, 3rd edition, 2009."
+ ],
+ "assessmentText": "Exam (85%), duration: 120 minutes in the Spring exam period. Project (15%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 85
+  },
+  {
+   "type": "Project",
+   "weight": 15
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 74,
+  "avgClassSizePrevYear": 11,
+  "capped": "Yes(90)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MA/2026_MA214.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "course",
+    "code": "MA102"
+   },
+   {
+    "type": "course",
+    "code": "MA103"
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": [
+  "MA336"
+ ]
+}

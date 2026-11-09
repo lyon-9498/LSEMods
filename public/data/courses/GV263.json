@@ -1,0 +1,69 @@
+{
+ "code": "GV263",
+ "title": "Public Policy Analysis",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Edward Page"
+ ],
+ "prerequisites": "Students must have completed GV101 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Social Anthropology, BSc in Environment and Sustainable Development with Economics, BSc in History and Politics, BSc in International Social and Public Policy with Politics, BSc in Philosophy, Politics and Economics, BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations, BSc in Politics and Philosophy, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is freely available to General Course students. It does not require permission. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "A systematic examination of the policy process in the context of developed nations. This course introduces key theories and models in the study of public policy and encourages a critical appreciation of the main trends in contemporary public policy-making. The course looks at the different stages of the 'policy cycle' (e.g. agenda-setting, implementation and evaluation), the determinants of public policy (for example, public opinion, political parties, technology) as well as central themes in the study and practice of public policy, such as corruption and policy learning.",
+ "teaching": "9 hours of lectures and 9 hours of classes in the Autumn Term. 10 hours of lectures and 10 hours of classes in the Winter Term. 1 hour of lectures and 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Essay (2500 words). Essay (2500 words). Two formative essays of 2,500 words each are required, one in the AT and one in the WT. An optional third formative essay may be submitted, normally by the ninth week of the WT, in the form of a one-hour timed essay written under examination conditions.",
+ "indicativeReading": [
+  "Arjen Boin and Martin Lodge, The Politics of Policymaking, 2024; Christoph Knill and Jale Tosun, Public Policy, Macmillan, 2020; Hal Colebatch and Robert Hoppe, Handbook on Policy, Process and Governing, Edward Elgar, 2018; P Cairney, Understanding Public Policy. Theories and Issues, Palgrave, 2019; BW Hogwood & A L Gunn, Policy Analysis for the Real World, Oxford University Press, 1984; J W Kingdon, Agendas, Alternatives and Public Policies (2nd edn), HarperCollins, New York 1995; A Hassel and K Wegrich, How to Do Public Policy, 2022."
+ ],
+ "assessmentText": "Exam (75%), duration: 180 minutes in the Spring exam period. Essay (25%, 2500 words) in Winter Term Week 8. GENERAL COURSE STUDENTS ONLY: The Class Summary Grade for General Course students will be calculated as follows: 25% attendance, 37.5% formative essay (best essay), 37.5% participation.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 75
+  },
+  {
+   "type": "Essay",
+   "weight": 25
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Communication",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 80,
+  "avgClassSizePrevYear": 16,
+  "capped": "Yes(85)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV263.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "course",
+  "code": "GV101"
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

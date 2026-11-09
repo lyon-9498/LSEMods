@@ -1,0 +1,108 @@
+{
+ "code": "AN286",
+ "title": "Ethnographic Methods and Skills: Individual Research Project",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Anthropology",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Mathijs Pelkmans"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BA in Social Anthropology and BSc in Social Anthropology. This course is available on the BA in Anthropology and Law, Exchange Programme for Students in Anthropology (Cape Town), Exchange Programme for Students in Anthropology (Fudan), Exchange Programme for Students in Anthropology (Melbourne) and Exchange Programme for Students in Anthropology (Tokyo). This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "This course has a twofold aim. On the one hand it provides students with insights into knowledge production and presentation within social anthropology and asks them to reflect and report on the ethical, epistemic, and affective dimensions involved. On the other hand the course guides and supports students as they identify, carry out and write-up their own ethnographic project. In parallel with their research activities, students will develop research skills for the collection, analysis and representation of ethnographic data. The course will provide training in and reflection on ethnographic observation, participation, listening, questioning, interviewing, analysing and writing. Dedicated sessions will focus on ethical research, on responsibilities of data collection, and the politics of writing and representation. Students will demonstrate their research skills by applying them to the research questions pursued in their ethnographic project. Students will write two essays. In the first essay students present their research findings in the form of a 4,000-word ethnographic essay. In the second essay they reflect on a broader methodological issue, drawing both on their fieldwork experiences and the course literature.",
+ "teaching": "6 hours of lectures, 9 hours of classes and 6 hours of help session in the Autumn Term. 10 hours of lectures, 15 hours of classes and 10 hours of help session in the Winter Term. 2 hours of classes and 2 hours of help session in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term. This course will run through the entire year, but teaching intensity fluctuates in response to the stages of students' independent projects. In practice this means that teaching in AT will be concentrated in weeks 1, 2, and 3, then biweekly after reading week (7, 9, and 11), followed by weekly sessions in WT, and a final session in ST week 1. The lectures will be offered asynchronically online, in the format of mini-lectures, interviews, and demonstrations,and task descriptions. Help sessions are optional, offering students to informally discuss aspects of their project.",
+ "formativeAssessment": "Essay (1500 words). Essay (1500 words). Students will have the opportunity to submit one formative essay of up to 1500 words in the Autumn Term and one formative essay of up to 1500 words in the Winter Term. Students will be informed of the arrangements for submission early in the relevant term.",
+ "indicativeReading": [
+  "Amit, Vered. 2003.",
+  "Constructing the Field: Ethnographic Fieldwork in the Contemporary World",
+  ";",
+  "Atkinson, Paul. 2015.",
+  "For Ethnography",
+  ";",
+  "Cerwonka, Allaine, and Liisa H. Malkki. 2008.",
+  "Improvising theory: Process and Temporality in Ethnographic Fieldwork",
+  ";",
+  "DeWalt, Kathleen, and Billie DeWalt. 2010.",
+  "Participant observation: A guide for fieldworkers",
+  ";",
+  "Faubion, J., and G. E. Marcus (eds.). 2009.",
+  "Fieldwork Is Not What It Used To Be: Transition in Anthropology's Culture of Method",
+  ";",
+  "Ghodsee, Kirsten. 2016.",
+  "From notes to narrative: Writing ethnographies that everyone can read",
+  ".",
+  "Narayan, Kirin. 2012.",
+  "Alive in the writing: Crafting ethnography in the company of Chekhov",
+  ";",
+  "Robben, Antonius and A. Sluka (eds.). 2007.",
+  "Ethnographic Fieldwork: An anthropological reader",
+  ".",
+  "Spradley, James. 1980.",
+  "Participant observation",
+  "."
+ ],
+ "assessmentText": "Presentation (5%). Proposal (10%, 1000 words). Essay (35%, 2500 words). Essay (50%, 4000 words). There are four assessment components for AN286: A 1000-word research proposal submitted in Autumn Term (worth 10%). A 10-minute in-class presentation in Spring Term (worth 5%) A 2500-word essay submitted in Spring Term (worth 35%) that draws on the course literature to address a broad methodological question in anthropology, sample titles for which will be provided by the course convener. A 4000-word ethnographic essay submitted in Spring Term (worth 50%), which consists of a descriptive analysis of the phenomenon that the student focused on in their research project.",
+ "assessment": [
+  {
+   "type": "Presentation",
+   "weight": 5
+  },
+  {
+   "type": "Proposal",
+   "weight": 10
+  },
+  {
+   "type": "Essay",
+   "weight": 35
+  },
+  {
+   "type": "Essay",
+   "weight": 50
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 44,
+  "avgClassSizePrevYear": 15,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AN/2026_AN286.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "AN298",
+   "title": "Fieldwork in London: Learning Ethnographic Methods",
+   "note": "Withdrawn 2025/26"
+  }
+ ],
+ "unlocks": []
+}

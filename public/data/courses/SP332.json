@@ -1,0 +1,88 @@
+{
+ "code": "SP332",
+ "title": "Social Security Policies",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Social Policy",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Kitty Stewart"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in International Social and Public Policy, BSc in International Social and Public Policy with Economics, BSc in International Social and Public Policy with Politics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students. This course is only available to third year undergraduate students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "The course analyses the purpose, design and impact of social security policies, meaning policies that protect and support household income at times when income from the labour market does not suffice. The need for social security arises both from demographic factors that affect nearly everyone during their life course - childhood, parenthood, old age - and from risk factors that end up affecting only some - e.g. job loss, low pay and sickness or disability. The course takes a comparative approach, examining differences in the design of social security policies across welfare regimes and drawing on examples from different countries. Students will develop an understanding of the challenges and trade-offs that arise in designing social security policies to meet multiple goals, will further their knowledge about the ways systems function in practice, and will develop the tools for assessing the structure and effectiveness of social security in any given country. The course will consider how successfully social security systems are adapting to meet the challenges of the twenty-first century, including an ageing population, migration, and the changing nature of employment brought about by rapid technological change. The course will also look at the role of social security in protecting household incomes in times of crisis, such as the Covid-19 pandemic and climate-related events. Students will be encouraged to further their understanding of social security in their country of origin, or another country of their choice, and to draw on this knowledge in classes.",
+ "teaching": "15 hours of lectures and 15 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term. All teaching will be in accordance with the LSE Academic Code which specifies a \"minimum of two hours taught contact time per week when the course is running in the Autumn Term (AT) and/or Winter Term (WT)\". Social Policy courses are predominantly taught through a combination of in-person lectures and in person classes/seminars. Further information will be provided by the Course Convenor in the first lecture of the course.",
+ "formativeAssessment": "Essay in Winter Term Week 9. Students will write one essay during WT, and will receive feedback in preparation for the summative assessment.",
+ "indicativeReading": [
+  "R Walker (2005)",
+  "Social Security and Welfare: Concepts and Comparisons",
+  ". Open University Press.",
+  "J Hills (2015)",
+  "Good Times, Bad Times: The Welfare Myth of Them and Us",
+  ". The Policy Press.",
+  "J Millar and R Sainsbury (2018) (eds)",
+  "Understanding Social Security",
+  ", Third Edition. The Policy Press.",
+  "P Spicker (2011)",
+  "How Social Security Works: An introduction to benefits in Britain",
+  ". The Policy Press",
+  "J Kvist et al (2012)",
+  "Changing Social Equality: The Nordic Welfare Model in the 21st Century",
+  ". The Policy Press.",
+  "N Barr and P Diamond (2009)",
+  "Pension Reform: A Short Guide",
+  ". Oxford University Press.",
+  "M Frolich et al (2015)",
+  "Social Insurance, Informality and Labor Markets: How to Protect Workers While Creating Good Jobs",
+  ". Oxford University Press.",
+  "An extended reading list will be provided, with specific readings for each week's topic."
+ ],
+ "assessmentText": "Course participation (15%). Presentation (15%). Essay (70%, 2500 words) in Spring Term Week 2. There will be a short (10 minute) viva on the summative essay in Spring Term. The final grade for the essay will be based on the essay itself and on the understanding shown during the viva.",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 15
+  },
+  {
+   "type": "Presentation",
+   "weight": 15
+  },
+  {
+   "type": "Essay",
+   "weight": 70
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 15,
+  "avgClassSizePrevYear": 15,
+  "capped": "Yes(15)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SP/2026_SP332.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

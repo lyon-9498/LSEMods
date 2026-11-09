@@ -1,0 +1,76 @@
+{
+ "code": "PH240",
+ "title": "The Ethics of Data and AI",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Philosophy, Logic and Scientific Method",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Alessandra Basso"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Philosophy and Economics, BSc in Philosophy, Logic and Scientific Method, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics and Philosophy, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "This course introduces you to the core philosophy of science, philosophy of mind, and ethics concepts needed to build better technology and reason about its impact on the economy, civil society, and government. Some questions that the course might consider include: What is data, and how can we design more ethical data governance regimes? Can technology be racist? If so, what are promising strategies for promoting fairness mitigating algorithmic bias? Can we understand black box AI and explain its outputs? Why is it morally important that we do so? How can we embed human values into AI systems? What is intelligence, and what are the normative assumptions behind research in intelligence?",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": null,
+ "indicativeReading": [
+  "Gabriel, “Towards a Theory of Justice for Artificial Intelligence”, Daedalus",
+  "Friedman, Kahn, and Borning, “Value Sensitive Design and Information Systems”",
+  "Serpico “What kind of kind is intelligence?”",
+  "Henry Shevlin, Karina Vold, Matthew Crosby & Marta Halina, “The limits of machine intelligence”",
+  "Halina, “Insightful artificial intelligence”",
+  "Alexandrova and Fabian, “Democratizing Measurement: Or Why Thick Concepts Call for Coproduction”",
+  "Northcott, “Big Data and Prediction: Four Case Studies”",
+  "Simons and Alvarado, “Can we trust Big Data? Applying philosophy of science to software”",
+  "Viljoen, “A Relational Theory of Data Governance”",
+  "Johnson, “Are Algorithms Value Free?”",
+  "Munton, “Beyond accuracy: Epistemic flaws with statistical generalizations.”",
+  "Barocas, Hardt, and Narayanan, “Fairness and Machine Learning: Limitations and Opportunities” [selections]"
+ ],
+ "assessmentText": "Exam (50%), duration: 90 minutes in the Spring exam period. Essay (50%). The course will be assessed through two components, each worth 50% of the final mark. The first is a written essay of 1,500 words; the prompts will draw from the first half of the course material. The second is a 1.5-hour exam taking place during the Spring exam session, in which students will be asked to write one short essay from a list of questions drawing from the other half of the course material.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 50
+  },
+  {
+   "type": "Essay",
+   "weight": 50
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 65,
+  "avgClassSizePrevYear": 9,
+  "capped": "Yes(90)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PH/2026_PH240.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

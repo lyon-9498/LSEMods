@@ -1,0 +1,103 @@
+{
+ "code": "EC313",
+ "title": "Industrial Economics",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economics",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Martin Pesendorfer"
+ ],
+ "prerequisites": "Before taking this course, students must have completed: EC2C4 and (EC2C3 or EC2C1) and (EC2A3 or EC2A1).",
+ "corequisites": null,
+ "additionalRequisites": "Students must have completed Microeconomics II (EC2A1). A highly motivated student who has done well in EC2A3 – as a guideline 65 or better – is welcome on the course, but only if handling economics mathematically comes naturally. Also, students must have completed Econometrics II (EC2C1) or Econometrics I (EC2C3) in combination with Econometrics II (EC2C4), or equivalent. Students who believe they have completed an equivalent course instead of one of these must receive permission from Prof. Pesendorfer before selecting the course.",
+ "availability": "This course is available on the BSc in Econometrics and Mathematical Economics, BSc in Economics, BSc in Economics and Data Science, BSc in Economics and Economic History, BSc in International Social and Public Policy with Economics, BSc in Mathematics and Economics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics and Economics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students.",
+ "description": "The aim of the course is to provide students with a working knowledge of theoretical and empirical methods for industry studies. Topics may include: monopoly, price discrimination, oligopoly theory, mergers, product differentiation, dynamic industry models, collusion, demand estimation, production function estimation, empirical techniques for oligopoly models, identification of conduct, advertising, search, auction markets, empirics of auction markets, winner’s curse, collusion in auctions, matching markets, and moral hazard. The topics will be discussed with applications for selected industries and considering competition policy questions.",
+ "teaching": "15 hours of lectures and 10 hours of classes in the Autumn Term. 15 hours of lectures and 9 hours of classes in the Winter Term. 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Winter Term. There will be a reading week in Week 6 of WT (no lectures or classes that week). This course is delivered through a combination of lectures and classes totalling a minimum of 50 hours across Autumn Term, Winter Term and Spring Term.",
+ "formativeAssessment": "Two marked assignments per term.",
+ "indicativeReading": [
+  "The course will draw on a variety of texts, the main ones being:",
+  "Jeffrey R. Church and Roger Ware.",
+  "Industrial Organization: A Strategic Approach.",
+  "Jean Tirole.",
+  "Theory of Industrial Organization",
+  "Guillaume Haeringer.",
+  "Market Design: Auctions and Matching",
+  "A detailed reading list will be provided at the beginning of the course.",
+  "Some notes will be provided where textbook coverage is inadequate."
+ ],
+ "assessmentText": "Exam (100%), duration: 180 minutes, reading time: 15 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 74,
+  "avgClassSizePrevYear": 19,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EC/2026_EC313.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "course",
+    "code": "EC2C4"
+   },
+   {
+    "type": "or",
+    "children": [
+     {
+      "type": "course",
+      "code": "EC2C3"
+     },
+     {
+      "type": "course",
+      "code": "EC2C1"
+     }
+    ]
+   },
+   {
+    "type": "or",
+    "children": [
+     {
+      "type": "course",
+      "code": "EC2A3"
+     },
+     {
+      "type": "course",
+      "code": "EC2A1"
+     }
+    ]
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

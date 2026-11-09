@@ -1,0 +1,73 @@
+{
+ "code": "SO236",
+ "title": "Urban Society",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Sociology",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr David Madden"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Language, Culture and Society, BSc in Sociology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is not available as an outside option to students on other programmes. This course is available with permission to General Course students. This course is not available as a first year option. This course has a limited number of places (it is capped). Places are allocated on a first come first served basis.",
+ "description": "This course is an introduction to urban sociology and urban studies. The course is organised around a set of key topics for developing a critical understanding of urban space and urban experience today. These key concepts may include terms such as community, public space, infrastructure, displacement, segregation, diversity, informality or social movements. The course will draw on a variety of texts and contexts that engage with city life from a variety of sociological perspectives.",
+ "teaching": "This course has a reading week in Week 6 of Autumn Term. This course is usually delivered through a combination of lectures and seminars. There will be two hours or more of teaching each week in AT. There will also be a revision session in early ST.",
+ "formativeAssessment": "Essay.",
+ "indicativeReading": [
+  "• Wirth, Louis. 1938. “Urbanism as a Way of Life.” American Journal of Sociology 44 (1): 1-24.",
+  "• Gans, Herbert J. 1962. “The Community.” Pp 104-119 in The Urban Villagers: Group and class in the life of Italian-Americans. New York: Free Press.",
+  "• Simmel, Georg. 1903. “The Metropolis and Mental Life.” Pp 174-185 in D. Frisby and M. Featherstone (eds) (1997) Simmel on Culture. London: Sage. “The metropolis and mental life.",
+  "• Anderson, Elijah. 2004. “The Cosmopolitan Canopy.” The Annals of the American Academy of Political and Social Science 595 (1): 14-31.",
+  "• Back, Les, and Shamser Sinha. 2016. “Multicultural Conviviality in the Midst of Racism’s Ruins.” Journal of Intercultural Studies 37.5 (2016): 517-532.",
+  "• Caldeira, Teresa P. R. 1996. “Fortified Enclaves: The new urban segregation.” Public Culture 8 (2): 303–328.",
+  "• Garrido, Marco. 2021. “Reconceptualizing Segregation from the Global South.” City & Community 20 (1): 24-37.",
+  "• Tonkiss, Fran. 2024 “Gendering Urban Public Space.” Pp. 47-55 in L. Peake, A. Datta and G. Adenyi-Ogunyankin (eds) Handbook on Gender and Cities. Cheltenham: Elgar.",
+  "• Nicholls, Walter J. 2008. “The Urban Question Revisited: The importance of cities for social movements.” International Journal of Urban and Regional Research 32 (4): 841-859.",
+  "These texts are examples of the articles and books from sociology and urban studies that the course will examine."
+ ],
+ "assessmentText": "Exam (75%), duration: 120 Minutes in the Spring exam period. Essay (25%, 1500 words) in January. Attendance at all classes and submission of all set coursework is required.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 75
+  },
+  {
+   "type": "Essay",
+   "weight": 25
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 35,
+  "avgClassSizePrevYear": 18,
+  "capped": "Yes(34)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SO/2026_SO236.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

@@ -1,0 +1,61 @@
+{
+ "code": "LL300",
+ "title": "Competition Law",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Niamh Dunne"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is available to second and third year LLB students.",
+ "description": "Competition is widely understood to be the best means to deliver better goods and services at lower prices. The point of competition law is to preserve the process of rivalry between firms, and, by doing so, to benefit consumers and society at large. A broad range of corporate strategies are subject to this field of law. For instance, competition authorities enforce the law against large multinational firms (such as Microsoft, Google, or Intel) that have the ability to influence market conditions and exclude smaller rivals. Competition authorities also have the power to block mergers and acquisitions that are capable of harming competition (think of a merger creating a monopoly). Attempts by firms to avoid competing by means of secret arrangements (the so-called ‘cartels’) are another key area of enforcement. Competition law regimes have progressively become a major feature of legal systems around the world. They have long applied in the US and Europe – including the UK – but have now been adopted (and/or are actively enforced), inter alia, in jurisdictions like Brazil, Chile, China, Hong Kong, India, Malaysia, Singapore and South Africa. Unlike other legal disciplines, the relevant provisions in all of these regimes are virtually identical in their form and substance. This is, in other words, a truly cosmopolitan field. After this module, you will be equipped to understand and practice competition law almost anywhere in the world. After an introduction in which competition law is put in its historical and institutional context, this module will address the main substantive and procedural aspects of the discipline. Topics covered include the following: • Abusive practices by dominant firms. • Anticompetitive agreements between firms (including cartels and distribution agreements). • Mergers and acquisitions, including both mergers between competitors and vertical and conglomerate transactions.",
+ "teaching": "20 hours of lectures and 9 hours of classes in the Autumn Term. 20 hours of lectures and 10 hours of classes in the Winter Term. 2 hours of lectures and 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Students are expected to produce 1 essay in Autumn Term and 1 essay in Winter Term.",
+ "indicativeReading": [
+  "N. Dunne, A. Jones and B. Sufrin,",
+  "EU Competition Law",
+  "(Oxford: OUP, 9th ed, 2026)."
+ ],
+ "assessmentText": "Exam (100%), duration: 210 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL300.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

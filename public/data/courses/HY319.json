@@ -1,0 +1,77 @@
+{
+ "code": "HY319",
+ "title": "Napoleon and Europe",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International History",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Paul Keenan"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in History, BA in Social Anthropology, BSc in History and Politics, BSc in International Relations, BSc in International Relations and History, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course is capped. Places will be assigned on a first come first served basis",
+ "description": "The Napoleonic Empire was crucial in the formation of modern Europe. Much of Europe was covered by the Napoleonic Empire and its impact was felt across large parts of the non-European world. The influence of the emperor and his policies was most obvious in relation to the European international system, particularly through his military campaigns and his territorial reorganisation of Europe in the wake of his successes. However, the Napoleonic era also saw major developments in the political, legal, constitutional, social, and economic order of many states, whether allied with or opposed to the Napoleonic project. Likewise, in the aftermath of the French Revolution, much attention is paid to the impact of the Napoleonic era on the relationship between Church and State and the rise of national consciousness, whether in political or cultural terms. For some contemporaries and subsequent historians, the Revolutionary and Napoleonic eras heralded ‘the birth of the modern’, while others interpreted it as an existential threat to order and stability, to be resisted and fought at every turn. By studying how Napoleon's empire was created, challenged, and ultimately defeated, the course will focus on the nature of power and legitimacy in this era. In assessing its aims and achievements (or limitations), the Napoleonic Empire is considered in the context of other contemporary, rival states, including Russia, Austria, and the United Kingdom. Finally, the course begins and ends with an assessment of the Napoleonic myth, both in terms of his contemporaries and for subsequent generations of historians.",
+ "teaching": "20 hours of seminars in the Autumn Term. 20 hours of seminars in the Winter Term. 1 hour of seminars in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Students will be expected to produce two essays (2000 words) in the AT.",
+ "indicativeReading": [
+  "A full reading list will be provided at the beginning of the course. Useful introductory reading includes: A. Mikaberidze, The Napoleonic Wars: A Global History; M. Lyon, Napoleon Bonaparte and the Legacy of the French Revolution; G. Ellis, The Napoleonic Empire; C. Emsley, Napoleon: Conquest, Reform and Reorganisation; M. Broers, Europe under Napoleon, 1799-1815; C. Esdaile, Napoleon’s Wars; S. J. Woolf, Napoleon's Integration of Europe; P. Dwyer (ed.), Napoleon and Europe; P. Geyl, Napoleon, For and Against."
+ ],
+ "assessmentText": "Presentation (15%). Course participation (15%). Essay (35%, 2500 words). Essay (35%, 2500 words). The Winter Term essay will be document-based. The Spring Term essay will be question-based.",
+ "assessment": [
+  {
+   "type": "Presentation",
+   "weight": 15
+  },
+  {
+   "type": "Course participation",
+   "weight": 15
+  },
+  {
+   "type": "Essay",
+   "weight": 35
+  },
+  {
+   "type": "Essay",
+   "weight": 35
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 16,
+  "avgClassSizePrevYear": 16,
+  "capped": "Yes(17)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/HY/2026_HY319.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

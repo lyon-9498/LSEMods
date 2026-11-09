@@ -1,0 +1,110 @@
+{
+ "code": "SP315",
+ "title": "Urbanisation and Social Policy in the Global Souths",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Social Policy",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Sunil Kumar"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in International Social and Public Policy, BSc in International Social and Public Policy with Economics, BSc in International Social and Public Policy with Politics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students. This course is only available to third year undergraduate students. This course is capped at 15 students.",
+ "description": "The course critically explores the challenges and opportunities that urbanisation and urbanism (urban transformations) pose in the social, spatial, cultural, economic, institutional and political realms in the urban Global Souths. A plurality of theoretical and conceptual perspectives underpinning each topic area, including policies and planning practices, are explored each week. Some of the themes explored in the course are, urbanisation, urbanism and social change, theories of urbanisation and urban change, internal migration, gender and age - the rural-urban interface, urban poverty, livelihoods and capabilities, urban labour markets and challenges for social protection, urban housing and tenure, urban basic services, urban governance, and urban social movements and collective action. Cross-cutting themes, such as gender and the role of civil society, are integrated throughout the course. Prospective students must commit themselves to full participation in all aspects of the course, including attending all lectures and classes and completing the formative assessment. Students are required to read the assigned material before the lecture, as well as read and discuss the essential readings for each class. Emphasis is also placed on students connecting given topics and related readings to empirical realities and current events.",
+ "teaching": "15 hours of lectures and 15 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term. All teaching will be in accordance with the LSE Academic Code which specifies a \"minimum of two hours taught contact time per week when the course is running in the Autumn Term (AT) and/or Winter Term (WT)\". Social Policy courses are predominantly taught through a combination of in-person Lectures and In person classes/seminars. Further information will be provided by the Course Convenor in the first lecture of the course Students are required to attend all lectures and seminars",
+ "formativeAssessment": "Essay plan in Winter Term Week 8. Essay plan. Students will submit, as formatives: (i) a 250-word outline of their My_Just Neighbourhood Project (My_JNp); and (ii) a 750-word outline for their My Urban Essay (My_UE) towards the latter half of WT. Students will not receive a grade for the formatives, but will receive constructive feedback. The pedagogical practice here is to link the formative to the summative; the former being work that can be improved by feedback.",
+ "indicativeReading": [
+  "Note: This indicative reading list is arranged by the topics covered by the course and is hence not in alphabetical order.",
+  "Parnell, S., & Oldfield, S. (Eds.). (2014).",
+  "The Routledge Handbook on Cities of the Global South",
+  ". London: Routledge.",
+  "Holston, J. (1999).",
+  "Cities and Citizenship",
+  ". Durham, NC: Duke University Press.",
+  "Samara, T. R., He, S., & Chen, G. (Eds.). (2013).",
+  "Locating Right to the City in the Global South",
+  "(Vol. 43). London: Routledge.",
+  "Mitlin, D., & Satterthwaite, D. (2012).",
+  "Urban Poverty in the Global South: Scale and Nature",
+  ". London: Routledge.",
+  "Chant, S. H. (2007).",
+  "Gender, Generation and Poverty: Exploring the Feminisation of Poverty in Africa, Asia and Latin America",
+  ". London: Edward Elgar Publishing.",
+  "AlSayyad, N., & Roy, A. (Eds.). (2003).",
+  "Urban Informality: Transnational Perspectives from the Middle East, Latin America, and South Asia",
+  ". Washington DC: Lexington Books.",
+  "Kumar, S. (1996). \"Landlordism in Third World urban low-income settlements: A case for further research.\"",
+  "Urban Studies",
+  ", 33(4-5), 753-782.",
+  "Kumar, S and M. Fernandez (2016)",
+  "The Urbanisation-Construction-Migration Nexus in Five Cities in South Asia: Kabul, Dhaka, Chennai, Kathmandu and Lahore",
+  "(Research commissioned by the UK Department for International Development’s South Asia Research Hub (SARH), New Delhi, India. Six-page briefing Note - http://eprints.lse.ac.uk/64169/ - Full report available at http://eprints.lse.ac.uk/65861/",
+  "Miraftab, F. (2009). \"Insurgent planning: Situating radical planning in the global south.\"",
+  "Planning Theory",
+  ", 8(1), 32-50.",
+  "Yiftachel, O. (1998). Planning and social control: Exploring the dark side.",
+  "Journal of Planning Literature",
+  ", 12(4), 395-406.",
+  "Note: This additional reading list is arranged by the topics covered by the course and is hence not in alphabetical order.",
+  "Miraftab, F., & Kudva, N. (2014). Cities of the Global South Reader. London: Routledge",
+  "Fox, S., & Goodfellow, T. (2016). Cities and development. London: Routledge.",
+  "Parnell, S., & Robinson, J. (2012). (Re) theorizing cities from the Global South: Looking beyond neoliberalism. Urban Geography, 33(4), 593-617.",
+  "Chant, S. (2013). \"Cities through a “gender lens”: a golden “urban age” for women in the global South?.\" Environment and Urbanization, 25(1), 9-29.",
+  "Kumar, S. (1996). Subsistence and petty capitalist landlords: A theoretical framework for the analysis of landlordism in Third World urban low income settlements. International Journal of Urban and Regional Research, 20(2), 317-329.",
+  "Caldeira, T. P. (2017). Peripheral urbanization: Autoconstruction, transversal logics, and politics in cities of the global south. Environment and Planning D: Society and Space, 35(1), 3-20.",
+  "Schuurman, F., & Van Naerssen, T. (2012). Urban Social Movements in the Third World. London: Routledge.",
+  "Bayat, A. (2000). \"From Dangerous Classes' to Quiet Rebels' - Politics of the Urban Subaltern in the Global South.\" International Sociology, 15(3), 533-557.",
+  "Watson, V. (2009). \"Seeing from the South: Refocusing urban planning on the globe’s central urban issues.\" Urban Studies, 46(11), 2259-2275."
+ ],
+ "assessmentText": "Course participation (10%). Blog post (40%). Essay (50%).",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 10
+  },
+  {
+   "type": "Blog post",
+   "weight": 40
+  },
+  {
+   "type": "Essay",
+   "weight": 50
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 15,
+  "avgClassSizePrevYear": 15,
+  "capped": "Yes(15)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SP/2026_SP315.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

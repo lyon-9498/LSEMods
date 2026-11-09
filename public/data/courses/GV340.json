@@ -1,0 +1,83 @@
+{
+ "code": "GV340",
+ "title": "The Art of Power and Political Resistance",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Aliz Toth"
+ ],
+ "prerequisites": "Students must have completed GV101 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": "Comfort with basic statistics as covered by Research Design in Political Science (GV249) or an equivalent course in research design or introductory statistics (such as ST102, ST107, ST108, GY140, SA201) is highly recommended.",
+ "availability": "This course is available on the BA in Social Anthropology, BSc in History and Politics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations, BSc in Politics and Philosophy and BSc in Social Anthropology. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "Throughout history political elites and the state have finessed strategies for developing power, imposing control, extracting resources, and shaping the ideas of their populace. In turn, citizens have adopted methods of confronting the powerful, undermining the elites’ rule, and countering their narratives. These confrontations between the powerful and the weak were sometimes violent, but most often not. To understand power and resistance, students will engage with classical political science theories on state capacity, elite domination, and resistance, primarily drawing on the work of James Scott, alongside thinkers like Margaret Levi, Joel Migdal, and Theda Skocpol. The course incorporates both theoretical perspectives and empirical research on power and resistance, encouraging students to apply these concepts to real-world policy issues. With a global scope, the course considers power dynamics in diverse contexts, from the Global North to the Global South. Through readings, discussions, and policy engagement, students will develop a deeper understanding of how power is exercised and resisted in various societies. By the end of the course, they will be equipped to generate their own ideas about how domination and resistance matter for governance and policy implementation.",
+ "teaching": "20 hours of seminars in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "Proposal. Podcast proposal and outline Students in their podcast teams hand in a detailed outline of a proposed podcast that answers a core question of the course in a podcast format. Students will receive written feedback on the formative assessment that they can use before recording their podcast. The feedback will be focused on the podcast format as well as students’ analysis of theories and cases covered in the course.",
+ "indicativeReading": [
+  "Scott, James C.",
+  "Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed",
+  ". Yale University Press, 1998.",
+  "Scott, James C.",
+  "The Art of Not Being Governed: An Anarchist History of Upland Southeast Asia",
+  ". Yale University Press, 2009.",
+  "Scott, James C.",
+  "Domination and the Arts of Resistance: Hidden Transcripts",
+  ". Yale University Press, 1990.",
+  "Lee, Melissa M., and Nan Zhang. \"Legibility and the informational foundations of state capacity.\"",
+  "The Journal of Politics",
+  "79, no. 1 (2017): 118-132.",
+  "Nathan, Noah L. \"Do grids demobilize? How street networks, social networks, and political networks intersect.\"",
+  "American Journal of Political Science",
+  "(2023).",
+  "Ferree, Karen E., Lauren Honig, Ellen Lust, and Melanie L. Phillips. \"Land and legibility: when do citizens expect secure property rights in weak states?.\"",
+  "American Political Science Review",
+  "117, no. 1 (2023): 42-58."
+ ],
+ "assessmentText": "Course participation (20%). Podcast (80%) in Winter Term Week 1. This component of assessment includes an element of group work. Podcast and oral interview The format of this assessment is a podcast. Students are asked to pick one of the books we cover in class on theories of power and resistance. They will need to discuss the key ideas and arguments in the book and use the empirical papers we have covered in class that test these ideas. Students will be encouraged to also incorporate music, interviews, and personal reflections into these podcasts. While students carry out this assessment in pairs, they will be graded individually. To facilitate individual marking, each student will sit for an oral interview with the instructor after the submission and grading of the podcast. The oral interview will focus on the arguments made in the podcast, how it relates to course material, and the students’ understanding of the main theories and cases covered in the course. Course participation Students will be assessed on class participation during the AT.",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 20
+  },
+  {
+   "type": "Podcast",
+   "weight": 80
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 16,
+  "avgClassSizePrevYear": 16,
+  "capped": "Yes(17)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV340.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "course",
+  "code": "GV101"
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

@@ -1,0 +1,101 @@
+{
+ "code": "ST227",
+ "title": "Survival Models",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Statistics",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Yining Chen"
+ ],
+ "prerequisites": "Before taking this course, students must have completed: (MA100 and ST102) or (EC1C1 and MA107 and ST109).",
+ "corequisites": null,
+ "additionalRequisites": "Equivalent combinations may be accepted at the lecturer's discretion.",
+ "availability": "This course is compulsory on the BSc in Actuarial Science and BSc in Actuarial Science (with a Placement Year). This course is available on the BSc in Data Science, BSc in Economics and Data Science, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "An introduction to stochastic processes with emphasis on life history analysis and actuarial applications. Principles of modelling; model selection, calibration, and testing; Stochastic processes and their classification into different types by time space, state space, and distributional properties; construction of stochastic processes from finite-dimensional distributions, processes with independent increments, Poisson processes and renewal processes and their applications in general insurance and risk theory, Markov processes, Markov chains and their applications in life insurance and general insurance, extensions to more general intensity-driven processes, counting processes, semi-Markov processes, stationary distributions. Determining transition probabilities and other conditional probabilities and expected values; Integral expressions, Kolmogorov differential equations, numerical solutions, simulation techniques. Survival models - the random life length approach and the Markov chain approach; survival function, conditional survival function, mortality intensity, some commonly used mortality laws. Statistical inference for life history data; Maximum likelihood estimation for parametric models, non-parametric methods (Kaplan-Meier and Nelson-Aalen), regression models for intensities including the semi-parametric Cox model and partial likelihood estimation; Various forms of censoring; The technique of occurrence-exposure rates and analytic graduation; Impact of the censoring scheme on the distribution of the estimators; Confidence regions and hypothesis testing.",
+ "teaching": "10 hours of seminars and 20 hours of lectures in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Compulsory written answers to two sets of problems.",
+ "indicativeReading": [
+  "S Ross, Stochastic Processes; R Norberg, Risk and Stochastics in Life Insurance; The Institute of Actuaries, CS2: Risk Modelling and Survival Analysis. For full details of the syllabus of CS2, see https://actuaries.org.uk/qualify/curriculum/actuarial-statistics/"
+ ],
+ "assessmentText": "Exam (90%), duration: 180 minutes in the Spring exam period. Problem sets (10%) in Winter Term Week 11. 10%: In Class Problem Sets: This will be a timed computer-based assessment to be taken in person on campus. Students are required to solve a set of course-related problems using R. Please refer to Moodle for more specific instructions about the nature of this assessment.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 90
+  },
+  {
+   "type": "Problem sets",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Team working",
+  "Problem solving",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 89,
+  "avgClassSizePrevYear": 15,
+  "capped": "Yes(130)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/ST/2026_ST227.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "and",
+    "children": [
+     {
+      "type": "course",
+      "code": "MA100"
+     },
+     {
+      "type": "course",
+      "code": "ST102"
+     }
+    ]
+   },
+   {
+    "type": "and",
+    "children": [
+     {
+      "type": "course",
+      "code": "EC1C1"
+     },
+     {
+      "type": "course",
+      "code": "MA107"
+     },
+     {
+      "type": "course",
+      "code": "ST109"
+     }
+    ]
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": [
+  "ST301"
+ ]
+}

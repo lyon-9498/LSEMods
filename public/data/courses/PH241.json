@@ -1,0 +1,66 @@
+{
+ "code": "PH241",
+ "title": "Animal Minds and Animal Ethics",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Philosophy, Logic and Scientific Method",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Jonathan Birch",
+  "Dr Ali Boyle"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Philosophy and Economics, BSc in Philosophy, Logic and Scientific Method, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics and Philosophy, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "This course examines, from a philosophical perspective, what we know about the minds of other animals - and what this means for the ethics of how we treat them. Topics covered are likely to include: Understanding other animals: We will explore theoretical and methodological challenges affecting the science of animal minds, including how biases affect our interpretation of animal behaviour, and which methods can tell us most about animals’ minds. Thought and reasoning: Humans are sometimes described as the only ‘rational animal’; some philosophers have even argued that animals don’t think. We will examine arguments and evidence for and against ascribing thought and rationality to animals. Sentience and consciousness: Different theories of consciousness yield different verdicts about which other animals are sentient. How should we evaluate the case for animal sentience in the face of this uncertainty? Will we ever know which animals are sentient? Memory, planning and time: Some psychologists argue that animals are ‘cognitively stuck in time’, with no awareness of the past or future. We will critically examine the case for this claim, and the ethical questions it raises. Thought in a social world: Many animals must navigate complex social dynamics. We will consider how animals understand their social worlds. Do they recognise others as agents with minds? Do they have normative concepts, like fairness or harm? Do they understand death? Excluding other animals: Western philosophy has a long tradition of ethical theories that give either zero or very little moral consideration to other animals. We will examine (with a critical eye) how people ended up with such views, zooming in on key figures such as Aristotle, Aquinas, Descartes and Kant. Including other animals: We will compare different ways of bringing other animals within the scope of our ethical thinking, including utilitarianism, the animal rights tradition, and the idea of ahimsa in Indian animal ethics. Animals as food: We will consider specific ethical issues raised by the use of animals as food. What are our obligations as consumers? Do we have an ethical obligation to be vegan or vegetarian? Animals in science: Animals, especially mice and rats, are routinely used for research purposes around the world. What are the ethical limits on animal experimentation? What does it mean to \"replace, reduce and refine\"?",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "There will be a mock exam in the last week of term to help students prepare for the real exam.",
+ "indicativeReading": [
+  "Andrews, Kristin (2020) The Animal Mind: An Introduction to the Philosophy of Animal Minds. Routledge.",
+  "Andrews, Kristin (2020) How to Study Animal Minds. Cambridge University Press.",
+  "Beauchamp, Tom and Frey, R. G. (eds.) (2011) The Oxford Handbook of Animal Ethics. Oxford University Press.",
+  "Birch, Jonathan (2024) The Edge of Sentience: Risk and Precaution in Humans, Other Animals, and AI. Oxford University Press.",
+  "Boyle, Alexandria (2023) Disagreement & classification in comparative cognitive science. Nous."
+ ],
+ "assessmentText": "Exam (100%), duration: 120 minutes, reading time: 5 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 18,
+  "avgClassSizePrevYear": 9,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PH/2026_PH241.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

@@ -1,0 +1,82 @@
+{
+ "code": "IR378",
+ "title": "Critical War Studies",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International Relations",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr David Rampton"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in International Relations, BSc in International Relations and Chinese, BSc in International Relations and History, BSc in Politics and International Relations, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is not available as an outside option to students on other programmes. This course is available with permission to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "This course has two key, inter-connected aims. Firstly, it engages the points of contention around the theorisation and conceptualisation of war as these arise from the debates and conversations between differing perspectives and schools of thought in IR, political studies and the social sciences, including a specific emphasis on critical approaches. We ask whether war has fundamentally changed in late modernity, or if it reveals a transhistorical continuity in its core nature, or, if we can identify a common logic in its aims, motivations, methods, practices and effects. Secondly, the course explores the transformative impact and effects of war. In this, it frames war as disruptive of certainties, highlighting the way it regularly undermines expectations, strategies and theories, and along with them, the credibility of those in public life and the academy presumed to speak with authority about it. War both disturbs and disorders existing states, institutions, social orders, identities and quotidian practices, and yet, through these historical and socio-political processes, gives new shape and form to such orders, institutions and practices. At the same time, these transformations shape and inform the course and character of war. This violent but fecund juncture between war, society and politics is what this course seeks to understand, placing significant emphasis on the deep connections between war and transformations in the logic and practices of states, social-orders, identities and wider societal practices.",
+ "teaching": "15 hours of lectures and 15 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term. The course features a film series focused on landscapes and narratives of war from diverse contexts of the world. The film series also provides an opportunity for course socialisation and the exploration of course themes through accessible popular culture and media. The course coordinator will briefly introduce each film, which is followed by small-group and open-forum discussion in order to draw out the significance of the film for course themes",
+ "formativeAssessment": "Students will be expected to produce a 3-4-page summative essay proposal, stating which question/title they are responding to, followed by an outline of their working argument or explanatory framework developed through a literature review in essay-like form, engaging the essential readings and a selection of recommended readings. The proposal should put these texts into conversation with one another in order to identify the key perspectives relevant to the proposed theme, question or title, demonstrating how the proposal’s working argument is positioned in relation to these perspectives. This section will be followed by discussion of the kind of empirical evidence under consideration (e.g. case study or studies, dispersed empirical examples etc.). Finally, the formative assessment will include a bulletted essay structure outline and a bibliography. This essay proposal must be developed through an engagement of essential and recommended course literature relevant to the theme. The course coordinator will provide feedback on the proposal, highlighting both positive aspects and any potential problems with the essay project.",
+ "indicativeReading": [
+  "Michel Foucault, Society Must be Defended (London: Penguin, 2004)",
+  "Jens Bartleson, War in International Thought (Cambridge: Cambridge University Press, 2017)",
+  "Mary L Dudziak, War Time: An Idea, Its History and Consequences (Oxford: Oxford University Press, 2012)",
+  "Karen Fierke (ed.), Critical Approaches to International Security (Cambridge: Polity Pree, 2015)",
+  "Siniša Malešević, The Sociology of War and Violence (Cambridge: Cambridge University Press, 2010)",
+  "Mark Duffield, Global Governance and the New Wars (London: Zed Books, 2014)",
+  "Hew Strachan and Sibylle Scheipers, The Changing Character of War (Oxford Oxford University Press, 2011)",
+  "Hew Strachan and Andreas Herberg-Rothe (eds.), Clausewitz in the Twenty-First Century(Abingdon: Oxford University Press, 2007)",
+  "Derek Gregory and Alan Pred, Violent Geographies (Abingdon: Routledge, 2007)",
+  "Michael Howard, War and the Liberal Conscience (London: Hurst & Co., 2008)",
+  "Caroline Holmqvist, Policing Wars in the Twenty-First Century (London: Palgrave Macmillan 2014)",
+  "Ross McGarry and Sandra Walklate, A Criminology of War? (Bristol: Bristol University Press, 2021)",
+  "Cynthia Enloe, Twelve Feminist Lessons of War (London: Footnote Press, 2023)",
+  "Lauren Wilcox, Bodies of Violence: Theorizing Embodied Subjects in International Relations (New York: Oxford University Press USA, 2015)",
+  "Antoine Bousquet, The Eye of War: Military Perception from the Telescope to the Drone (Minneapolis: University of Minnesota Press, 2018)",
+  "Katherine Epstein, Torpedo: Inventing the Military-Industrial Complex in the United States and Great Britain (Cambridge/Mass: Harvard University Press, 2014)",
+  "Jenny Edkins, Trauma and the Memory of Politics (Cambridge: Cambridge University Press, 2003)"
+ ],
+ "assessmentText": "Course participation (20%). Essay (80%, 4000 words). The summative assessment is to be completed on the basis of the formative essay proposal (see above) and the feedback on this provided by the Course Coordinator. The essay’s response to the question, working argument and analysis must be developed through an engagement of essential and recommended course literature relevant to the question/theme. Please note that all forms of plagiarism are prohibited, and that summative and formative assessments will be checked for plagiarism, including the use of generative AI.",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 20
+  },
+  {
+   "type": "Essay",
+   "weight": 80
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 14,
+  "avgClassSizePrevYear": 7,
+  "capped": "Yes(45)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/IR/2026_IR378.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

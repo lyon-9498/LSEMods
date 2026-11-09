@@ -1,0 +1,74 @@
+{
+ "code": "ST111",
+ "title": "Business Analytics",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Statistics",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Pik Liew"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Actuarial Science, BSc in Actuarial Science (with a Placement Year) and BSc in Mathematics, Statistics and Business. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "Business analytics is the process of using quantitative methods to learn from data to make informed business decisions. This half-unit course aims to provide students with an understanding of the context in which business analytics operates. Understanding the business environment and contemporary issues, such as the risks and impact of climate change, the fast-paced development of information technology and artificial intelligence, helps students to apply analytics concepts and incorporate these issues in decision-making effectively. Students will learn how business analytics assists organisations to make informed, confident decisions using statistical methods to create key metrics and to gain insights, reducing guesswork from decision-making. The course also aims to foster critical thinking regarding the complexities and intricacies inherent in data and statistical analysis. Students will learn about moral, data, and statistical literacy, along with the fundamentals of good statistical science. Students will be equipped with essential competencies to navigate ethical dilemmas, to obtain and handle data responsibly, and apply sound statistical principles in decision-making. It empowers them to be informed, ethical, responsible, and effective data practitioners. The course takes an investigative and problem-driven approach and adopts the Problem, Plan, Data, Analysis and Conclusion (PPDAC) problem-solving cycle. Students will participate in project-based investigations, which serve as ideal platforms for student engagement, contextual problem-solving, and the integration of various learning components. These projects also provide a natural setting for developing statistical and critical thinking by guiding students through the entire process of conducting real statistical data inquiries—from initial conception and planning to data collection, exploration, and reporting. Additionally, collaborative group projects foster a dynamic learning environment, allowing students of all abilities to mutually enhance their knowledge and skills through interaction and shared experiences. The course also aims to equip students with the ability to collect and utilise publicly available data, apply analytical tools to problem-solving, and make evidence-based decisions. It emphasises the practical application of analytical tools to real-world business challenges using relevant case studies. Students will develop proficiency in using tools such as Excel and R within the PPDAC cycle of investigation. They will work with data sets, identify patterns, and extract meaningful insights through statistical and scenario analysis. Furthermore, students will critically analyse and synthesise the context and background information presented in relevant cases. They will also learn effective communication by presenting their insights to diverse audiences, including investors, managers, government officials, and other stakeholders. This involves creating clear data visualisations, presentations, and reports.",
+ "teaching": "20 hours of seminars and 15 hours of lectures in the Winter Term. The course will be delivered through: Ten 1.5-hour lectures in WT (weeks 1-10) Ten 2-hour seminars in WT (weeks 2-11) This course does not include a reading week.",
+ "formativeAssessment": "Students are expected to come to each seminar prepared where the assigned works have been read and attempted. Feedback on performance and progress will be provided during seminars, on selected written homework assignments, and during academic support and feedback hours.",
+ "indicativeReading": [
+  "Detailed course programme and reading lists will be made available via Moodle and Reading List - LSE before the first lecture. A range of textbooks, academic papers, professional reports, and news articles will be used in the course. Two key textbooks that will be used are:",
+  "Abdey, J. (2024) Business Analytics: Applied Modelling & Prediction. London, UK: Sage.",
+  "Spiegelhalter, D. (2021) The Art of Statistics: How to Learn from Data. New York, USA: Basic Books."
+ ],
+ "assessmentText": "Presentation (30%) in Winter Term Week 9. Project (60%, 1250 words). Course participation (10%). Further details of all aspects of assessment and coursework, as well as feedback, will be made available on Moodle nearer the scheduled start time of the course and will be updated as the course progresses with specific instructions, guidance, and feedback.",
+ "assessment": [
+  {
+   "type": "Presentation",
+   "weight": 30
+  },
+  {
+   "type": "Project",
+   "weight": 60
+  },
+  {
+   "type": "Course participation",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 74,
+  "avgClassSizePrevYear": 25,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/ST/2026_ST111.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

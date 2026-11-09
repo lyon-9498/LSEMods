@@ -1,0 +1,62 @@
+{
+ "code": "FM102",
+ "title": "Quantitative Methods for Finance",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Finance",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Manav Chaudhary"
+ ],
+ "prerequisites": null,
+ "corequisites": "Students must complete MA108 either before taking this course or in the same year as this course.",
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Finance. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is not available for auditing students.",
+ "description": "The main aim of this course is to help students connect the mathematical tools that they have acquired in previous courses, including MA108, with the economics and financial models that they will be covering in their subsequent courses. Additional mathematical tools will be covered as well. All mathematical material will be covered in the context of economic and financial models. The mathematical material covered includes (i) linear algebra, vector spaces, matrices, eigenvalues and eigenvectors, (ii) derivatives, integrals, partial derivatives, and implicit functions, (iii) unconstrained and constrained optimization, (iv) probability distributions, conditional probability, expectation and regression, (v) stochastic calculus, Ito processes and Ito’s lemma, and (vi) differential equations and partial differential equations. The economics and financial models covered include (i) expectation and present value of uncertain cashflows, (ii) pricing of government bonds and other fixed-income securities, (iii) pricing of options and other derivatives, (iv) utility maximization and portfolio choice, (v) financing decisions by firms, and (vi) trading games between agents with public or private information.",
+ "teaching": "33 hours of seminars in the Winter Term. This course is taught in an interactive format. There is no distinction between lectures and classes/seminars; there are simply “sessions” where the pedagogical approach is always interactive.",
+ "formativeAssessment": "Weekly homework assignments.",
+ "indicativeReading": [
+  "Mathematics for economists, Carl Simon and Lawrence Blume, W.W. Norton & Company, International Student Edition."
+ ],
+ "assessmentText": "Continuous assessment (100%).",
+ "assessment": [
+  {
+   "type": "Continuous assessment",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 69,
+  "avgClassSizePrevYear": 69,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/FM/2026_FM102.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": {
+  "type": "course",
+  "code": "MA108"
+ },
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

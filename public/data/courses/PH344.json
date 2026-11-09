@@ -1,0 +1,86 @@
+{
+ "code": "PH344",
+ "title": "PPE Research Seminar",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Philosophy, Logic and Scientific Method",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Ella Whiteley"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Philosophy, Politics and Economics. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "In this course, PPE students are placed in reading groups to discuss books by scholars working at the intersection of Philosophy, Politics and Economics. Philosophy faculty guide their selection of books and subsequent reading and research on the book. Each group organizes a research seminar on their book or a related topic open to the wider LSE PPE community. LSE is currently evaluating the use of edit tracking tools for AI-resilient assessment. This course might use edit tracking tools for assessments.",
+ "teaching": "2 hours of lectures, 7.5 hours of seminars and 10 hours of classes in the Autumn Term. This course has a reading week in Week 6 of Autumn Term. Two 1-hour lectures, five 1.5-hour seminars and ten 1-hour classes.",
+ "formativeAssessment": "Each student will lead the reading group discussion once, in the term in which their reading group takes place.",
+ "indicativeReading": [
+  "Examples of recent books appropriate for PPE reading groups:",
+  "Elizabeth Anderson, Private Government: How Employers Rule Our Lives (and Why We Don't Talk about It) (2017)",
+  "Kwame Anthony Appiah, The Lies That Bind: Rethinking Identity (2018)",
+  "Anthony Atkinson, Measuring Poverty Around the World (2019)",
+  "David Colander and Craig Freedman, Where Economics Went Wrong: Chicago’s Abandonment of Classical Liberalism (2018)",
+  "Robert Goodin and Kai Spiekermann, An Epistemic Theory of Democracy (2018)",
+  "Kate Manne, Down Girl: The Logic of Misogyny (2017)",
+  "Cailin O’Connor, The Origins of Unfairness (2019)",
+  "Eric Posner and Glen Weyl, Radical Markets: Uprooting Capitalism and Democracy for a Just Society (2018)",
+  "Robert Sugden, The Community of Advantage (2018)",
+  "Paul Tucker, Unelected Power: The Quest for Legitimacy in Central Banking and the Regulatory State (2018)",
+  "Philippe Van Parijs and Yannick Vanderborght, Basic Income: A Radical Proposal for a Free Society and a Sane Economy (2017)",
+  "The students will also get the chance to make their own proposals of books to read, which we will vet."
+ ],
+ "assessmentText": "Course participation (30%). Essay (40%). Peer review / assessment (20%). Project (10%). Participation (of which attendance is a crucial part) counts for 30% of the grade. This includes assessment of leading the discussion of a class addressing a part of a selected book. 10% is for doing one’s fair share in helping to organise one of the research seminars (referred to as 'project' above); this is assessed by your fellow group members, who will grade your contribution. Students will be asked to produce a 3,000 word book review in small teams, which counts for 40% of the grade. A first draft will be peer reviewed, which we will discuss in one of your classes. Individual student contributions to the peer-review assignment will count for the final 20% of the grade (note that the *book review* is not peer assessed, instead it is assessed by your class teachers. In other words, group x's peer-review feedback on group y's book review will not directly affect group y's grade for the book review).",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 30
+  },
+  {
+   "type": "Essay",
+   "weight": 40
+  },
+  {
+   "type": "Peer review / assessment",
+   "weight": 20
+  },
+  {
+   "type": "Project",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 42,
+  "avgClassSizePrevYear": 14,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PH/2026_PH344.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

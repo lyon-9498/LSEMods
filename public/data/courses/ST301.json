@@ -1,0 +1,92 @@
+{
+ "code": "ST301",
+ "title": "Actuarial Mathematics (Life)",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Statistics",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Angelos Dassios"
+ ],
+ "prerequisites": "Before taking this course, students must have completed: (ST202 or ST206) and (ST226 and ST227).",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Actuarial Science and BSc in Actuarial Science (with a Placement Year). This course is available on the BSc in Data Science, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "Single life mortality models, assurance and annuity contracts and their actuarial notation, computation of their present values and variances; relations among the present values of the various contracts. The equivalence principle: computation of net premiums for the main assurance policies. Prospective and retrospective reserves, Thiele's differential equation as the main tool for the computation of reserves. Expenses: gross premium and gross reserves. Selection effect and how it affects mortality tables. Multi-life assurance contracts: joint life and last survival life, computation of premiums and reserves for the main two-lives contracts. Multi-states mortality models: basic notions of continuous-time Markov chains, Kolmogorov backward and forward equations, application to multiple decrements and disability models, computation of transition intensities. Thiele differential equation for multi-states models, computation and analysis of reserves for main multi-state policies. With-profit policies, unit-linked assurance policies, pensions. Interplay between assurance and finance: embedded options, market consistent actuarial valuation.",
+ "teaching": "20 hours of lectures, 9 hours of seminars and 5 hours of help session in the Autumn Term.",
+ "formativeAssessment": "Compulsory written answers to one set of problems.",
+ "indicativeReading": [
+  "R Norberg, Basic Life Insurance Mathematics; The Institute of Actuaries, Core reading Subject CT5",
+  "Dickson, Hardy, Waters, 'Actuarial Mathematics for Life Contingent Risks'",
+  "Wutrich, Buhlmann, Furrer, 'Market Consistent Actuarial Valuation'"
+ ],
+ "assessmentText": "Exam (70%), duration: 130 minutes, reading time: 10 minutes in the January exam period. Project (30%). Students will work on the project during the last few weeks of AT and submit after the end of term.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 70
+  },
+  {
+   "type": "Project",
+   "weight": 30
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Application of information skills",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 58,
+  "avgClassSizePrevYear": 19,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/ST/2026_ST301.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "or",
+    "children": [
+     {
+      "type": "course",
+      "code": "ST202"
+     },
+     {
+      "type": "course",
+      "code": "ST206"
+     }
+    ]
+   },
+   {
+    "type": "course",
+    "code": "ST226"
+   },
+   {
+    "type": "course",
+    "code": "ST227"
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

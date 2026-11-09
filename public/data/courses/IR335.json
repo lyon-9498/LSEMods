@@ -1,0 +1,56 @@
+{
+ "code": "IR335",
+ "title": "Strategic Aspects of International Relations I",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International Relations",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Jurgen Haacke"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in International Relations, BSc in International Relations and Chinese, BSc in International Relations and History and BSc in Politics and International Relations. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course has a limited number of places (it is capped).",
+ "description": "This course introduces students to literature on strategy and the conduct of war. Building especially on insights of Carl von Clausewitz, the course examines a range of contributions to strategic theory and accounts of strategic practice, as well as associated debates relating to the purpose and use of military power in different domains. The course also covers topics such as military ethics, military innovation and effectiveness, and debates about hedging with respect to grand or security strategies of secondary states.",
+ "teaching": "10 hours of lectures and 15 hours of classes in the Winter Term. There will be a revision seminar in the Spring Term.",
+ "formativeAssessment": "Students will be required to write one essay (2000 words) which is to be submitted by Week 8 in WT. The formative assessments provide students with the opportunity to consider the substance of the course material ahead of the e-Exam. The formative essay will help students prepare for the summative assessment by enabling early engagement with one of the course topics and provide an opportunity to receive feedback to guide their preparations for the e-exam. Students are also encouraged to practice writing under timed exam conditions.",
+ "indicativeReading": [
+  "Beatrice Heuser, The Evolution of Strategy: Thinking War from Antiquity to the Present (Cambridge University Press, 2010).",
+  "Jeremy Black: Military Strategy: A Global History (Yale University Press, 2020)",
+  "Antulio J.Echevarria II, Clausewitz & Contemporary War (Oxford, 2007)",
+  "Colin S.Gray, The Strategy Bridge: theory for practice (Oxford, 2010)",
+  "Derek M.C. Yuen, Deciphering Sun Tzu: How to read The Art of War (Hurst, 2014).",
+  "Ian Speller: Understanding Naval Warfare, 2nd ed. (Routledge 2019).",
+  "Robert A. Pape, Bombing to Win: Air Power and Coercion in War (Cornell University Press, 1996).",
+  "Vipin Narang, Nuclear Strategy in the Modern Era: Regional Powers and International Conflict (Princeton, 2014).",
+  "Jacqueline L. Hazelton, Bullets not Ballots: Success in Counterinsurgency Warfare (Cornell University Press, 2021).",
+  "George Lucas, Ethics and Military Strategy in the 21st Century: Moving beyond Clausewitz (Routledge, 2020)."
+ ],
+ "assessmentText": "Exam (100%), duration: 120 Minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/IR/2026_IR335.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

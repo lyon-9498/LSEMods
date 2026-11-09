@@ -1,0 +1,61 @@
+{
+ "code": "SP111",
+ "title": "Social Economics and Policy",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Social Policy",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Prof Almudena Sevilla Sevilla Sanz"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in International Social and Public Policy. This course is available on the BSc in International Social and Public Policy with Politics, BSc in Politics, BSc in Politics and International Relations, BSc in Psychological and Behavioural Science, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students. Places on this course are limited and priority is given to Social Policy students in the first instance. If places remain available once Social Policy students have been accommodated, they will be offered on a first come first served basis to students from outside the Department. This course is not available to third year students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "This course provides an introduction to the economics of social and public policy. The course begins by introducing basic economic concepts and principles and discussing their application to different social policy areas, including childcare, education, health care, social care, housing and the environment. Key concepts include supply, demand and elasticities, externalities and market failure, asymmetric information, private and social insurance. The course goes on to analyse the distribution of household income, poverty and inequality, labour market earnings, and unemployment. It covers concepts such as human capital and productivity, and labour market discrimination, and looks at a range of policies, including minimum wage legislation, taxation, and the social security system. Throughout, the course emphasises the importance of understanding political goals in assessing the effectiveness or justice of economic and social policies, and seeks to encourage students to draw on both theory and empirical evidence in addressing its core questions. SP111 provides an introduction to the economics of social and public policy. We focus on real-world applications relevant to social and public policy. It is a full-year course. The course uses charts and graphical tools, but is taught without mathematics or equations, and is designed to be suitable both for students with no prior knowledge of economics and for those who have taken A level economics.The course is designed to be accessible and stimulating for students of all backgrounds.",
+ "teaching": "15 hours of lectures and 13.5 hours of classes in the Autumn Term. 15 hours of lectures and 15 hours of classes in the Winter Term. 1.5 hours of lectures in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term. All teaching will be in accordance with the LSE Academic Code which specifies a \"minimum of two hours taught contact time per week when the course is running in the Autumn Term (AT) and/or Winter Term (WT)\". Social Policy courses are predominantly taught through a combination of in-person lectures and in-person classes/seminars. Further information will be provided by the Course Convenor in the first lecture of the course.",
+ "formativeAssessment": "Essay in Winter Term Week 2. Essay in Winter Term Week 9. Students will be expected to complete exercises as required for classes, and write three formative essays during the course of the year.",
+ "indicativeReading": [
+  "J Le Grand, C Propper & R Robinson, The Economics of Social Problems, 4th Edition, Palgrave, 2008",
+  "G Mankiw and M Taylor, Economics, 6th Edition, Cengage, 2023",
+  "R Lipsey and A Crystal, Economics, 14th edition, OUP, 2020 (or earlier edition)",
+  "N Barr, Economics of the Welfare State, 6th Edition, OUP 2020 (or earlier edition)",
+  "H Glennerster, Understanding the Cost of Welfare, 3rd edition. The Policy Press, 2017",
+  "A B Atkinson, Inequality: What Can Be Done? Harvard University Press, 2015."
+ ],
+ "assessmentText": "Exam (60%), duration: 120 minutes in the Spring exam period. Essay (40%). The course will be assessed by an essay based online take-home exam (40%) and an in-person Digi-exam (60%)",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 60
+  },
+  {
+   "type": "Essay",
+   "weight": 40
+  },
+  {
+   "type": "Digi-exam",
+   "weight": 60
+  }
+ ],
+ "skills": [],
+ "stats": {
+  "totalStudentsPrevYear": 44,
+  "avgClassSizePrevYear": 15,
+  "capped": "Yes(45)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SP/2026_SP111.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

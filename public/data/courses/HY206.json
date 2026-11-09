@@ -1,0 +1,61 @@
+{
+ "code": "HY206",
+ "title": "The International History of the Cold War, 1945-1989",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International History",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Piers Ludlow"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in History, BA in Social Anthropology, BSc in History and Politics, BSc in International Relations, BSc in International Relations and History, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "The Cold War dominated the second half of the 20th century, but until recently we had only an imperfect sense of what it was all about. Historians wrote about it, of necessity, from within the event they were seeking to describe, so that there was no way to know its outcome. And because only a few Western countries had begun to open their archives, these accounts could only reflect one side of the story. Cold War history, hence, was not normal history: It was both asymmetrical and incomplete. The end of the Cold War and the subsequent partial opening of Soviet, Eastern European, and Chinese archives have revolutionised the field. Everything we thought we knew is up for reconsideration, whether because of the new documents available to us, or as a consequence of being able to reflect on how it all came out in new ways - given that the historical discipline has evolved methodologically as well. The course will provide an introduction to key topics in the new, international history of the Cold War. The selected topics vary from the study of specific Cold War crises to the exploration of broader themes such as the roles of ideology and technology. Course objectives: (i) To equip students with comprehensive knowledge of the international politics of the Cold War; (ii) To offer a firm basis for more advanced historical work in this area; (iii) To provide some of the factual grounding and conceptual apparatus necessary to understand the contemporary world.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. 10 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term. Students are expected to keep up with readings for weekly meetings, and to participate in the class discussions.",
+ "formativeAssessment": "Students will be expected to produce 1 essay in the AT.",
+ "indicativeReading": [
+  "Barrass, G, The Great Cold War (2009); Gaddis, J L, The Cold War: A New History; Hanhimäki, J & Westad, O A, The Cold War: A History in Documents and Eyewitness Accounts; Leffler, M P, For the Soul of Mankind (2007); Leffler, M P & Painter, D, Origins of the Cold War (2005); Reynolds, D, One World Divisible: A Global History since 1945 (2001); Sarotte, M, 1989 (2009); Westad, O A, Reviewing the Cold War: Approaches, Interpretations, Theory (2000); Westad, O A, The Global Cold War (2005);"
+ ],
+ "assessmentText": "Course participation (15%). Presentation (15%). Essay (35%, 3500 words). Essay (35%, 3500 words).",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 15
+  },
+  {
+   "type": "Presentation",
+   "weight": 15
+  },
+  {
+   "type": "Essay",
+   "weight": 35
+  },
+  {
+   "type": "Essay",
+   "weight": 35
+  }
+ ],
+ "skills": [],
+ "stats": {
+  "totalStudentsPrevYear": 59,
+  "avgClassSizePrevYear": 15,
+  "capped": "Yes(60)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/HY/2026_HY206.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

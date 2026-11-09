@@ -1,0 +1,89 @@
+{
+ "code": "EC230",
+ "title": "Economics in Public Policy",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economics",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Mohan Bijapur",
+  "Junius Olivier"
+ ],
+ "prerequisites": "Students must have completed EC1A5 and EC1B5 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is not available as an outside option to students on other programmes. This course is freely available to General Course students. It does not require permission. This course is available to General Course and GO LSE students only.",
+ "description": "This course uses economic analysis to explore important questions in contemporary public policy. The first term focuses on microeconomic policy problems while the second term focusses on macroeconomic policies. The use of mathematics is minimal (in particular with no calculus) and the emphasis of instruction is on graphical analysis and economic intuition and reasoning. Precise topics and readings will be announced each term and are selected to be of current interest. The first term uses microeconomic analysis to explore contemporary policy-relevant issues. Course topics and readings are curated to address issues of current relevance and importance, such as the economic impacts of the pandemic and environmental concerns. The classes encourage critical thinking and are designed to enable you to think about what may go wrong if we ignore the context in which we operate. In your formative assignment you will discuss a policy issue of your choice through the lens of the course content. By the end of term, you will have sharpened your ability to approach multifaceted economic challenges systematically, providing insightful advice grounded in microeconomic theory, and communicating your analyses with precision and clarity. The second term uses macroeconomic analysis to explore important contemporary questions and special emphasis is given to how public policy can change economic outcomes. You will learn how to understand economic problems by focusing on the key characteristics, choosing the relevant mechanisms and developing a solid intuition. Precise topics and readings will be announced and are selected to be of current interest, such as: is central bank independence a good thing?; what are the macroeconomic effects of the Covid-19 pandemic?; what caused the global financial crisis and how can policy prevent future crises?; how was global financial regulation reformed in the aftermath of the crisis?; what unconventional tools of monetary policy did central banks implement?; what causes currency crises, how can policy prevent them and what sparked the Trump trade war?; why has the US been a more successful currency union than the Eurozone?; what caused the European sovereign debt crisis and how is it related to Brexit?; how should governments deal with a debt crisis - did Greece make the right choice?; what drives convergence in income levels across countries, why do some countries stay poor and can policy change this?",
+ "teaching": "10 hours of classes and 15 hours of lectures in the Autumn Term. 15 hours of lectures and 9 hours of classes in the Winter Term. 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Winter Term. Student learning will be supported through office hours and through a dedicated discussion forum.",
+ "formativeAssessment": "Students will receive feedback on two pieces of formative work per term. Students are expected to make positive contributions to class discussions.",
+ "indicativeReading": [
+  "There is no set course textbook due to the topical nature of the applications chosen. A list of selected texts and readings will be provided at the start of each term."
+ ],
+ "assessmentText": "Exam (50%), duration: 120 Minutes, reading time: 15 minutes in the January exam period. Exam (50%), duration: 120 Minutes, reading time: 15 minutes in the Spring exam period. The January examination is based on the AT syllabus, and the Spring exam on the WT syllabus.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 50
+  },
+  {
+   "type": "Exam",
+   "weight": 50
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 89,
+  "avgClassSizePrevYear": 7,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EC/2026_EC230.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "course",
+    "code": "EC1A5"
+   },
+   {
+    "type": "course",
+    "code": "EC1B5"
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "EC2A5",
+   "title": "Microeconomics II",
+   "note": null
+  },
+  {
+   "code": "EC2B5",
+   "title": "Macroeconomics II",
+   "note": null
+  }
+ ],
+ "unlocks": []
+}

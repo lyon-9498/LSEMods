@@ -1,0 +1,62 @@
+{
+ "code": "PH225",
+ "title": "Business and Organisational Ethics",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Philosophy, Logic and Scientific Method",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Paloma Morales"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Management, BSc in Philosophy and Economics, BSc in Philosophy, Logic and Scientific Method, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics and Philosophy, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley, International Exchange (1 Term) and International Exchange (Full Year). This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "The first few weeks of the course will introduce you to some fundamental ideas concerning the broader moral obligation of business executives and government bureaucrats. Then, we will apply these ideas to a variety of problems that you may face during a career in business or government. What responsibility do businesses have to society? Is it okay to lie, bribe, or exploit others if it’s good for your business? How should civil servants weigh the interests of different citizens? Is there anything that should never be bought or sold? This course will not present you with a code of conduct, ready-made solutions or dogmatic answers. Instead, you will practice logical reasoning, careful analysis, and critical thinking to enable you to develop your own understanding of ethical problems. Through discussions, presentations, and essays you will also develop skills in argument and writing that will help you express your thoughts in a rigorous and convincing way.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "There will be an optional essay assignment at the end of the Autumn Term (word limit 1500 words).",
+ "indicativeReading": [
+  "Milton Friedman (1970) \"The Social Responsibility of Business is to Increase its Profits\", The New York Times Magazine.",
+  "Joseph Heath (2014) Morality, Competition, and the Firm: The Market Failures Approach to Business Ethics, Oxford: Oxford University Press.",
+  "Sissela Bok (1999) Lying: Moral Choice in Public and Private Life. New York: Vintage Books.",
+  "Janet Radcliffe Richards (1996) “Nephrarious Goings On: Kidney Sales and Moral Arguments”, Journal of Medicine and Philosophy, 21:375-416.",
+  "Joseph Heath (2020) The Machinery of Government: Public Administration and the Liberal State, Oxford: Oxford University Press.",
+  "Julia Driver (2009) “Normative Ethics”, in The Oxford Handbook of Contemporary Philosophy, Oxford: Oxford University Press.",
+  "Christopher McMahon (1981) “Morality and the Invisible Hand”, Philosophy & Public Affairs, 10(3):247-277.",
+  "Benjamin Powell & Matt Zwolinski (2012) “The Ethical and Economic Case Against Sweatshop Labor: A Critical Assessment”, Journal of Business Ethics, 107(4):449-472.",
+  "Fared Zakaria & Lee Kuan Yew (1994) “Culture Is Destiny: A Conversation with Lee Kuan Yew”, Foreign Affairs, 73(2):109-126.",
+  "Charles Sherwood (2022) “A Lie Is a Lie: The Ethics of Lying in Business Negotiations”, Business Ethics Quarterly, 32(4):604-634.",
+  "Nikhil Venkatesh (2021) “Surveillance Capitalism: a Marx-inspired Account”, Philosophy 96(3):359-385.",
+  "Required readings amount to about two papers per week."
+ ],
+ "assessmentText": "Exam (70%), duration: 150 minutes, reading time: 15 minutes in the Spring exam period. Continuous assessment (30%). The precise format, requirements, and any deadlines for the continuous assessment component of the course will be announced by the course convenor around the time teaching starts. In previous years this has typically consisted of a mixture of participation (in-class and online) and a short in-class presentation.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 70
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 30
+  }
+ ],
+ "skills": [],
+ "stats": {
+  "totalStudentsPrevYear": 83,
+  "avgClassSizePrevYear": 9,
+  "capped": "Yes(135)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PH/2026_PH225.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

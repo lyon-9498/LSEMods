@@ -1,0 +1,87 @@
+{
+ "code": "FM322",
+ "title": "Derivatives",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Finance",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Rohit Rahi"
+ ],
+ "prerequisites": "Students must have completed FM214 or FM210 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": "Mathematical Methods (MA100) or Methods in Calculus and Linear Algebra (MA108) is recommended but not required. Students who have not taken MA100, MA108 or equivalent are advised to do some pre-reading (see \"Indicative reading\" below). Students who have not taken Principles of Finance I (FM210 OR FM214), but have an excellent quantitative background, may be allowed to take this course at the discretion of the course leader.",
+ "availability": "This course is compulsory on the BSc in Financial Mathematics and Statistics. This course is available on the BSc in Data Science, BSc in Econometrics and Mathematical Economics, BSc in Economics, BSc in Economics and Data Science, BSc in Finance, BSc in Mathematics and Economics, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course is not capped; any eligible student that requests a place will be given one. This course does not permit auditing students. Permission forms from the General Course admin office should be submitted to the Department of Finance by email at finance.ug@lse.ac.uk with a copy of the transcript attached.",
+ "description": "This course is intended for third-year undergraduates and builds upon Principles of Finance I (FM210 OR FM214). It focuses on derivatives, with a particular emphasis on equity derivatives (standard call and put options, exotic options), futures and forward contracts, and interest rate derivatives (swaps, caps and floors, swaptions). It systematically addresses three basic questions: how do these products work, i.e. what are their payoffs? How can they be used, for hedging purposes or as part of trading strategies? And above all: how are they priced? The course emphasises a small number of powerful ideas: absence of arbitrage, replication, and risk-neutral pricing. These are typically introduced in the context of discrete-time models, but the course also covers some well-known continuous-time models, starting with a comprehensive treatment of the Black-Scholes model. The level of mathematics is appropriate for third-year students with a solid quantitative background.",
+ "teaching": "30 hours of lectures in the Winter Term. This course is taught in an interactive format. There is no distinction between lectures and classes/seminars; there are simply “sessions” where the pedagogical approach is always interactive.",
+ "formativeAssessment": "Exercises will be discussed in class each week. Students will be expected to make positive contributions to class discussion.",
+ "indicativeReading": [
+  "There is no required textbook, but the following is an excellent reference: John C Hull,",
+  "Options, Futures, and Other Derivatives.",
+  "The following pre-reading is recommended for students who have not taken Mathematical Methods (MA100) or equivalent:",
+  "Martin Anthony and Michele Harvey,",
+  "Linear Algebra: Concepts and Methods",
+  "Chapter 5: Vector Spaces",
+  "Chapter 6: Linear Independence, Bases and Dimension",
+  "Ken Binmore and Joan Davies,",
+  "Calculus, Concepts and Methods",
+  "Section 5.7: Taylor series for scalar valued functions of n variables"
+ ],
+ "assessmentText": "Exam (100%), duration: 120 minutes, reading time: 15 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Application of information skills",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 202,
+  "avgClassSizePrevYear": 101,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/FM/2026_FM322.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "course",
+    "code": "FM214"
+   },
+   {
+    "type": "course",
+    "code": "FM210"
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "ST330",
+   "title": "Stochastic and Actuarial Methods in Finance",
+   "note": null
+  }
+ ],
+ "unlocks": []
+}

@@ -1,0 +1,76 @@
+{
+ "code": "LN102",
+ "title": "Russian Language and Society 2 (intermediate)",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Centre for Language Studies",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Olga Sobolev"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": "Completion of the Russian Language and Society 1 (Beginner) course (LN101); or a good pass at GSCE/AS Level or its equivalent is required. An interview with the course co-ordinator prior to registration is compulsory.",
+ "availability": "This course is available on the BA in Geography, BA in Social Anthropology, BSc in Economic History, BSc in Economic History and Geography, BSc in Economics and Economic History, BSc in Environment and Sustainable Development, BSc in Environment and Sustainable Development with Economics, BSc in International Relations, BSc in International Relations and History, BSc in Language, Culture and Society, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students. Available as an outside option to all undergraduate and General Course students. Students can take this course in any year of their studies subject to their programme regulations, and following approval from the teacher responsible. Priority will be given to Centre for Language Studies BSc students and students from other Departments following a Language Specialism. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "A bridge from intermediate to advanced study of the Russian language within the framework of social sciences and culture. In a dynamic and communicative way the course develops all four language skills (i.e. speaking, listening, reading and writing) through individual and group work, topical discussions, authentic and web-based multi-media materials. The focus is on accuracy as well as communication that advance students’ language competence, transferable skills and cultural awareness.",
+ "teaching": "50 hours of classes in the Autumn Term. 50 hours of classes in the Winter Term. 5 hours of classes in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term. Five hours per week, which will feature: (a) interactive topical work; (b) oral practice; (c) grammar and vocabulary work; (d) tutorials; and (e) guided study using multi-media and web-based materials. Structured activities during the reading week.",
+ "formativeAssessment": "Students will be required to complete weekly language exercises.",
+ "indicativeReading": [
+  "Colloquial Russian",
+  ", by Svetlana Le Fleming, Susan Kay & Mikhail Vodopyanov, Routledge, 2023",
+  "Additional (cultural awareness): Jeffrey Brooks,",
+  "The Firebird and the Fox: Russian Culture under Tsars and Bolsheviks",
+  "(Cambridge University Press, 2019)."
+ ],
+ "assessmentText": "Exam (30%), duration: 90 minutes in the Spring exam period. Oral examination (30%). Continuous assessment (40%). Language courses map to the Common European Framework for Language Learning. This framework defines linguistic proficiency in the four language skills (reading, writing, speaking and listening) at different levels. To pass this course, students are therefore required to achieve a pass mark in each element of the assessment (continuous assessment, oral and written exams), as these test all four skills.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 30
+  },
+  {
+   "type": "Oral examination",
+   "weight": 30
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 40
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 3,
+  "avgClassSizePrevYear": 3,
+  "capped": "Yes(12)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LN/2026_LN102.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

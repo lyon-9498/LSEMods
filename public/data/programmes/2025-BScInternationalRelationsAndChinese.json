@@ -1,0 +1,334 @@
+{
+ "name": "BSc in International Relations and Chinese",
+ "code": "UBIRCHI",
+ "department": "Centre for Language Studies",
+ "years": [
+  {
+   "year": 1,
+   "papers": [
+    {
+     "label": "LSE100",
+     "lines": [
+      "LSE100 is a half unit taken by all students, running across Autumn and Winter Terms in the first year. The course provides one of the marks that is eligible to be included in the calculation of the First Year Average for purposes of classification.",
+      "Students will choose ONE of the three half-unit options below:",
+      "LSE100A The LSE Course: How can we transform our climate futures? (0.5)",
+      "LSE100B The LSE Course: How can we control AI? (0.5)",
+      "LSE100C The LSE Course: How can we create a fair society? (0.5)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "LSE100A",
+      "LSE100B",
+      "LSE100C"
+     ],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": true,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Skills Course",
+     "lines": [
+      "Students take the following non-assessed course:",
+      "IR102 Thinking Globally: Studying International Relations (0.0)"
+     ],
+     "compulsory": [
+      "IR102"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 1",
+     "lines": [
+      "IR100 International Relations: Theories, Concepts and Debates (1.0)"
+     ],
+     "compulsory": [
+      "IR100"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 2",
+     "lines": [
+      "One from the following:",
+      "HY113 Empires and Resistance in Global History (1.0)",
+      "HY116 International Politics since 1914: Peace and War (1.0)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "HY113",
+      "HY116"
+     ],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 3",
+     "lines": [
+      "One from the following:",
+      "LN140 Mandarin Language and Society 3 (Advanced) (1.0)",
+      "LN142 Mandarin Language and Society 2 (Intermediate) (1.0)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "LN140",
+      "LN142"
+     ],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 4",
+     "lines": [
+      "LN115 Intercultural Communication and Management (1.0)"
+     ],
+     "compulsory": [
+      "LN115"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  },
+  {
+   "year": 2,
+   "papers": [
+    {
+     "label": "Papers 5 & 6",
+     "lines": [
+      "Courses to the value of 2 unit(s) from the following:",
+      "IR200 International Political Ideas: From Theory to Practice (1.0)",
+      "IR202 Foreign Policy Analysis 1 (1.0)",
+      "IR203 International Organisations (1.0)",
+      "IR205 International Security (1.0)",
+      "IR206 International Political Economy (1.0)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "IR200",
+      "IR202",
+      "IR203",
+      "IR205",
+      "IR206"
+     ],
+     "lists": [],
+     "unitsNeeded": 2.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 7",
+     "lines": [
+      "One from the following:",
+      "LN140 Mandarin Language and Society 3 (Advanced) (1.0)",
+      "LN240 Mandarin Language and Society 4 (Proficiency) (1.0)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "LN140",
+      "LN240"
+     ],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 8",
+     "lines": [
+      "LN241 Mandarin for International Relations (Elementary) (1.0)"
+     ],
+     "compulsory": [
+      "LN241"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  },
+  {
+   "year": 3,
+   "papers": []
+  },
+  {
+   "year": 4,
+   "papers": [
+    {
+     "label": "Paper 9",
+     "lines": [
+      "One from the full-unit courses from papers 5 & 6 not taken in Year 2:",
+      "IR200 International Political Ideas: From Theory to Practice (1.0)",
+      "IR202 Foreign Policy Analysis 1 (1.0)",
+      "IR203 International Organisations (1.0)",
+      "IR205 International Security (1.0)",
+      "IR206 International Political Economy (1.0)"
+     ],
+     "compulsory": [
+      "IR200",
+      "IR202",
+      "IR203",
+      "IR205",
+      "IR206"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 10",
+     "lines": [
+      "Courses to the value of 1 unit(s) from the following:",
+      "IR312 Genocide (0.5)",
+      "IR313 SPECIAL TOPIC: International Political Economy (0.5) (suspended 2026/27)",
+      "IR314 Southeast Asia: Intra-regional Politics and Security (0.5) (suspended 2026/27)",
+      "IR315 International Relations of the Middle East (1.0)",
+      "IR317 American Grand Strategy (0.5)",
+      "IR318 Gender, Power and International Politics (0.5)",
+      "IR319 Empire and Conflict in World Politics (0.5)",
+      "IR320 Europe's Institutional Order (0.5) (withdrawn 2024/25)",
+      "IR322 Sovereignty, Rights and Justice: Issues in International Political Theory (0.5) (suspended 2026/27)",
+      "IR323 Race, Resistance and Decolonisation in International Relations (0.5)",
+      "IR324 SPECIAL TOPIC: International Institutions, Law and Ethics (0.5) (withdrawn 2026/27)",
+      "IR325 The Situations of the International Criminal Court (0.5) (withdrawn 2024/25)",
+      "IR326 The Rule of Law: A Global History (0.5)",
+      "IR327 World Orders in International Relations: Past, Present and Future (0.5)",
+      "IR335 Strategic Aspects of International Relations I (0.5)",
+      "IR349 Conflict and Peacebuilding (1.0)",
+      "IR350 Global Politics of China (0.5)",
+      "IR354 Governing International Political Economy: Lessons from the Past for the Future (0.5)",
+      "IR355 Economic Diplomacy (0.5)",
+      "IR367 Green Political Economy (0.5)",
+      "IR368 The Political Economy of Trade (0.5)",
+      "IR369 Politics of Money in the World Economy (0.5)",
+      "IR372 SPECIAL TOPIC: Theory/ Area/History (0.5) (suspended 2026/27)",
+      "IR373 China and the Global South (0.5)",
+      "IR374 Conflict and Peacebuilding (0.5) (suspended 2026/27)",
+      "IR377 The Politics of Peace & Security in Sub-Saharan Africa (0.5) (suspended 2026/27)",
+      "IR378 Critical War Studies (0.5)",
+      "IR379 Eastern Europe: Domestic Regimes and Foreign Policies (0.5)",
+      "IR380 The Politics of Inequality and Development (0.5)",
+      "IR391 Globalisation and Development (0.5)",
+      "IR392 The Political Economy of China's Technological Rise (0.5)",
+      "IR395 The Politics of Displacement and Refuge (0.5) (suspended 2026/27)",
+      "IR398 Dissertation (1.0)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "IR312",
+      "IR315",
+      "IR317",
+      "IR318",
+      "IR319",
+      "IR323",
+      "IR326",
+      "IR327",
+      "IR335",
+      "IR349",
+      "IR350",
+      "IR354",
+      "IR355",
+      "IR367",
+      "IR368",
+      "IR369",
+      "IR373",
+      "IR378",
+      "IR379",
+      "IR380",
+      "IR391",
+      "IR392",
+      "IR398"
+     ],
+     "lists": [],
+     "unitsNeeded": 1.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 11",
+     "lines": [
+      "LN342 Academic Chinese for International Relations (1.0)"
+     ],
+     "compulsory": [
+      "LN342"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 12",
+     "lines": [
+      "Courses to the value of One Unit from the following options",
+      "AN3A3 Comparing China (0.5)",
+      "AN3A4 Global China (0.5)",
+      "LN341 Mandarin in the Global Workplace (1.0)",
+      "OR course(s) to the value of one full unit approved by the Academic Mentor and Department Tutor."
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "AN3A3",
+      "AN3A4",
+      "LN341"
+     ],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  }
+ ],
+ "lists": {},
+ "warnings": [],
+ "id": "2025-BScInternationalRelationsAndChinese",
+ "cohort": 2025,
+ "url": "https://www.lse.ac.uk/resources/calendar2026-2027/programmeRegulations/undergraduate/2025/BScInternationalRelationsAndChinese.htm"
+}

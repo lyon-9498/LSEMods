@@ -1,0 +1,96 @@
+{
+ "code": "MA324",
+ "title": "Mathematical Modelling and Simulation",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Mathematics",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Rai Saona Urmeneta"
+ ],
+ "prerequisites": "Before taking this course, students must have completed: ST107 and (MA213 or MA208).",
+ "corequisites": null,
+ "additionalRequisites": "Students should have knowledge of: (1) linear programming, including duality, to the level of Operations Research Techniques (MA213) or Optimisation Theory (MA208); and (2) probability theory to the level of Quantitative Methods (Statistics) (ST107), in particular elementary distribution theory and the Poisson Process.",
+ "availability": "This course is available on the BSc in Data Science, BSc in Econometrics and Mathematical Economics, BSc in Economics, BSc in Management, BSc in Mathematics and Economics, BSc in Mathematics with Data Science, BSc in Mathematics with Economics, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. General Course Students should check with the course convenor if they satisfy the prerequisites. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "The course covers some of the most prominent tools in modelling and simulation. Both deterministic and stochastic models are covered. These include mathematical optimisation, the application of sophisticated mathematical methods to make optimal decisions, and simulation, the playing-out of real-life scenarios in a (computer-based) modelling environment. Topics include: formulation of management problems using linear/nonlinear and network models (including linear, integer, binary and convex programming models) as well as solving these problems and analysing the solutions; modelling techniques (including fixed costs, logical conditions and semi-continuous variables); optimisation problems on graphs; convex optimisation; generating discrete and continuous random variables using Monte Carlo simulation; discrete event simulation; variance reduction techniques; Markov Chain Monte Carlo methods. The course will additionally teach students to use modelling and simulation computer packages. If you have questions in relation to the course content feel free to contact the course convenor. LSE is currently evaluating the use of edit tracking tools for AI-resilient assessment. This course might use edit tracking tools for assessments.",
+ "teaching": "20 hours of lectures, 10 hours of classes and 5 hours of computer workshop in the Winter Term.",
+ "formativeAssessment": "Problem sets. Formative assessment will be in the form of weekly homework. Some of the weekly homework will feature questions that are similar in nature to what is expected for the assessed project.",
+ "indicativeReading": [
+  "Detailed lecture slides will be provided. The reading will be a combination of lecture slides and chapters from the following list of books.",
+  "Optimisation",
+  "H. P. Williams, Model Building in Mathematical Programming (Wiley, 5th ed., 2013)",
+  "S. Boyd and L. Vandenberghe, Convex Optimization (Cambridge University Press, 2004)",
+  "Simulation",
+  "S. Ross, Simulation (Academic Press, 5th ed., 2012)",
+  "J. K. Blitzstein and J. Hwang, Introduction to Probability (Chapman and Hall/CRC Press, 2nd ed., 2019)",
+  "Risk and Stochastic Optimisation",
+  "A. Shapiro, D. Dentcheva and A. Ruszczyński, Lectures on Stochastic Programming: Modeling and Theory (SIAM, 2nd ed., 2014)"
+ ],
+ "assessmentText": "Course participation (10%). Project (90%). The deliverable is a report containing computer code used. After grading, selected students may be invited to an oral defence where they will be asked to explain and justify their work. The oral defence may adjust the final grade of the report in any direction. Class participation also counts toward the final grade and measures continuous engagement with the course.",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 10
+  },
+  {
+   "type": "Project",
+   "weight": 90
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 46,
+  "avgClassSizePrevYear": 23,
+  "capped": "Yes(50)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MA/2026_MA324.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "course",
+    "code": "ST107"
+   },
+   {
+    "type": "or",
+    "children": [
+     {
+      "type": "course",
+      "code": "MA213"
+     },
+     {
+      "type": "course",
+      "code": "MA208"
+     }
+    ]
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

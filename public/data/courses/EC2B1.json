@@ -1,0 +1,100 @@
+{
+ "code": "EC2B1",
+ "title": "Macroeconomics II",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economics",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Wouter Den Haan",
+  "Prof Ben Moll"
+ ],
+ "prerequisites": "Before taking this course, students must have completed: (EC1A1 and EC1B1) and (MA100 or MA108).",
+ "corequisites": null,
+ "additionalRequisites": "MSc in Economics (2 Year Programme) students can take either Mathematical Methods (MA100) or Further Mathematical Methods (MA212) alongside EC2B1.",
+ "availability": "This course is compulsory on the BSc in Econometrics and Mathematical Economics, BSc in Economics and MSc in Economics (2 Year Programme). This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "This is an intermediate course in macroeconomics that builds on the knowledge learned in Macroeconomics I (EC1B1). A set of important frameworks and approaches to model macroeconomic developments will be discussed. You will be challenged to apply the tools that we develop in the course to understand better historical and contemporary events. An important aspect of the course is that you will acquire a deeper understanding of the material through an assignment containing some programming and data analysis. The AT part of the course focuses on long-term economic developments. We will explore possible explanations for the empirical observation that macroeconomic developments differ so widely across countries. We begin with conventional economic reasoning, but will also explore the role of political systems, (financial) institutions, and culture. In addition to long-term economic growth, we will also study why countries are susceptible to economic crises and what policies and/or institutions can be put in place to reduce this risk. We will not just focus on economic aggregates, but also analyse how economic growth affect different individuals. Specifically, we will look at the interaction between economic growth and social inclusion and in particular women’s rights. The WT part of the course provides a unified approach to study macroeconomics which is based on microfoundations and general equilibrium taking into account possible market imperfections. We will study economic choices that are key for macroeconomic developments, such as the consumption-savings decision, the labour-leisure decision, and the investment decisions. These are the building blocks for some models with which we can study the behaviour of aggregate variables as well as the role of economic policies.",
+ "teaching": "20 hours of lectures and 10 hours of classes in the Autumn Term. 20 hours of lectures and 9 hours of classes in the Winter Term. 1 hour of classes in the Spring Term.",
+ "formativeAssessment": "There are weekly assignments and feedback will be given on two per term.",
+ "indicativeReading": [
+  "Jones, Charles and Dietrich Vollrath, Introduction to Economic Growth, 4th Edition.",
+  "Kurlat, Pablo. \"A Course in Modern Macroeconomics.\" (2020)"
+ ],
+ "assessmentText": "Exam (70%), duration: 180 Minutes, reading time: 15 minutes in the Spring exam period. Project (30%, 2500 words). The project comprises a programming component, some data analysis, and a description of the results.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 70
+  },
+  {
+   "type": "Project",
+   "weight": 30
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 274,
+  "avgClassSizePrevYear": 20,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EC/2026_EC2B1.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "course",
+    "code": "EC1A1"
+   },
+   {
+    "type": "course",
+    "code": "EC1B1"
+   },
+   {
+    "type": "or",
+    "children": [
+     {
+      "type": "course",
+      "code": "MA100"
+     },
+     {
+      "type": "course",
+      "code": "MA108"
+     }
+    ]
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": [
+  "EC321",
+  "EC334",
+  "EC339"
+ ]
+}

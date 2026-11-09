@@ -1,0 +1,68 @@
+{
+ "code": "MA210",
+ "title": "Discrete Mathematics",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Mathematics",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Robert Simon"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Data Science, BSc in Mathematics and Economics, BSc in Mathematics with Data Science, BSc in Mathematics with Economics, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students.",
+ "description": "This is a course covering a number of concepts and techniques of discrete mathematics. Topics covered: Counting: selections; inclusion-exclusion; permutations/partitions and their types; generating functions; recurrence relations. Graph Theory: basic concepts; walks, paths, tours and cycles; trees and forests; planarity; colourings and chromatic polynomial. Coding theory: basic concepts; linear codes.",
+ "teaching": "20 hours of lectures and 10 hours of classes in the Winter Term.",
+ "formativeAssessment": "Written answers to set problems will be expected on a weekly basis.",
+ "indicativeReading": [
+  "PJ Cameron, Combinatorics (CUP 1994)",
+  "An alternative book is: NL Biggs, Discrete Mathematics (OUP 2004)",
+  "Extensive notes covering the course content in full will be distributed, so you may well not need either book."
+ ],
+ "assessmentText": "Exam (90%), duration: 120 minutes in the Spring exam period. Continuous assessment (10%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 90
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 6,
+  "avgClassSizePrevYear": 6,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MA/2026_MA210.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

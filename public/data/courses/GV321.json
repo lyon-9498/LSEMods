@@ -1,0 +1,65 @@
+{
+ "code": "GV321",
+ "title": "Concepts and Controversies in Political Theory",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Sarah Goff"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Social Anthropology, BSc in History and Politics, BSc in International Social and Public Policy with Politics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations, BSc in Politics and Philosophy and BSc in Social Anthropology. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is capped at two groups.",
+ "description": "This course is devoted to the advanced study of key concepts and related controversies in political theory, specifically feminist political theory. Feminist political theory poses challenges to: liberal conceptions of the individual and freedom over the body; the relative invisibility of the body, intimate relationships, and emotional life in mainstream political theory; and the tendency to presume that a set of ideas on justice are universally applicable. We consider the conceptual debates in relation to a number of political controversies. These controversies include: contracts of marriage, surrogacy, and sex work; beauty norms; pornography and efforts to shape patterns of sexual desire in an 'egalitarian' direction; and sex segregation in public spaces and cultural practices.",
+ "teaching": "10 hours of lectures and 10 hours of seminars in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "Essay (1000 words) in Autumn Term Week 6. Students will be expected to submit a 1000 word formative essay by the end of Week 6 (reading week).",
+ "indicativeReading": [
+  "Simone de Beauvoir (1949) The Second Sex; Susan Moller Okin ‘Forty Acres and a Mule for Women’ Politics, Philosophy & Economics (2005); Carole Pateman (1988) The Sexual Contract; Clare Chambers (2017) Against Marriage: An Egalitarian Defence of the Marriage-Free State; Talia Mae Bettcher ‘Evil deceivers and make-believers: Transphobic violence and the politics of illusion’ Hypatia (2007); Serene Khader (2018) Decolonizing Universalism: Towards a Transnational Feminist Ethic."
+ ],
+ "assessmentText": "Course participation (25%). Essay (75%, 3000 words) in Winter Term Week 1. Class participation will be assessed in the Autumn Term.",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 25
+  },
+  {
+   "type": "Essay",
+   "weight": 75
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 32,
+  "avgClassSizePrevYear": 16,
+  "capped": "Yes(34)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV321.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

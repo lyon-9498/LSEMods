@@ -1,0 +1,73 @@
+{
+ "code": "GY224",
+ "title": "Science, Technology and Environmental Governance",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Geography and Environment",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Thomas Smith",
+  "Dr Tanya Matthan"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Environment and Sustainable Development and BSc in Environment and Sustainable Development with Economics. This course is available on the BA in Geography, BSc in International Relations, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "This course an introduction to the field of Science and Technology Studies (STS), an interdisciplinary field drawing from anthropology, sociology, history, philosophy, and environmental studies to understand connections between science, society, and politics. It will interrogate how social structures shape scientific knowledge, and vice-versa. We will deploy STS perspectives to better understand the making and implementation of environmental science and policy. Some of the questions we will explore in this course include: What makes a scientific fact? How are social values reflected in technical systems? What roles do/should scientists play in policy debates? Through this course, students will develop familiarity with key concepts and methods in STS through case studies of classic and recent scholarship in the field. Students will develop the analytical skills to understand how values, power, and inequality shape the development of scientific facts and technical artifacts. Moreover, students will be encouraged to critically interrogate – that is, historicize and politicize - the ‘science-policy interface’ in order to better envision and enact just, equitable, and scientifically-sound environmental policies.",
+ "teaching": "In the Department of Geography and Environment, teaching will be delivered through a combination of classes/seminars, in-person lectures and other supplementary activities. This course includes a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Exam. Formative assessment will be one take-home mock exam.",
+ "indicativeReading": [
+  "Separate reading lists are provided for each week of the course. Some indicative reading includes:",
+  "Haraway, Donna. (1991). A Cyborg Manifesto: Science, Technology, and Socialist-Feminism in the Late Twentieth Century. In",
+  "Simians, Cyborgs and Women: The Reinvention of Nature",
+  ". New York: Routledge.",
+  "Winner, Langdon. (1986)",
+  "The Whale and the Reactor: A Search for Limits in the Age of High Technology.",
+  "University of Chicago Press.",
+  "Stone, Glenn. (2022)",
+  "The Agricultural Dilemma: How Not to Feed the World",
+  ". Routledge.",
+  "Cram, Shannon. (2023)",
+  "Unmaking the Bomb: Environmental cleanup and the politics of impossibility.",
+  "University of California Press.",
+  "Beck, Ulrich. (1986)",
+  "Risk Society: Towards a new modernity",
+  ". Sage.",
+  "Liboiron, Max. (2021).",
+  "Pollution is colonialism",
+  ". Duke University Press.",
+  "Kimura, Aya. (2016)",
+  "Radiation Brain Moms and Citizen Scientists: The gender politics of food contamination after Fukushima.",
+  "Duke UP."
+ ],
+ "assessmentText": "Exam (60%), duration: 120 minutes in the Spring exam period. Essay (40%). Summative assessment will be a photo essay (40%) and a final exam (60%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 60
+  },
+  {
+   "type": "Essay",
+   "weight": 40
+  }
+ ],
+ "skills": [],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GY/2026_GY224.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

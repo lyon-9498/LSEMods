@@ -1,0 +1,80 @@
+{
+ "code": "HY248",
+ "title": "Britain in the World: British Foreign Policy in the Twentieth Century",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International History",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Artemis Photiadou"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in History, BA in Social Anthropology, BSc in History and Politics, BSc in International Relations and History, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is capped. Places will be assigned on a first come first served basis",
+ "description": "The twentieth century completely reconfigured global politics. These reconfigurations also transformed Britain’s international standing. This course examines the often-overlapping shifts behind this transformation – imperial decline, economic crises, world wars, Cold War, European integration. Using a foreign policy lens, it examines how successful Britain was in navigating global challenges; how it adapted its strategies and alliances as a result; and how the foreign policymaking process altogether evolved, from being mainly the domain of ambassadors to increasingly being shaped by individual prime ministers. In answering these questions, the course has three main aims. First, to offer students an overview of the international history of modern Britain; second, to establish a firm basis for further studies in foreign policy and/or British politics; third, to provide the conceptual tools necessary for understanding current political discourses. Topics include Edwardian foreign policy; Britain and the Mandates system; the influence of anti-communism; foreign policy responses to decolonization; Margaret Thatcher’s foreign policy; the Good Friday Agreement; and the Blair Doctrine. By the end of the course, students will therefore be able to critically assess the key policy decisions behind the individual events studied; analyse these decisions in order to discern broader trends in British policymaking; evaluate the relationships and dynamics that shaped Britain’s global standing; as well as analyse how historical thinking about British foreign policy has evolved as new evidence came to light.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. 10 hours of lectures and 10 hours of classes in the Winter Term. 1 hour of lectures in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Students will be required to write a 2,000-word formative essay in the AT and one in the WT. There will be an optional one-hour mock exam in the ST.",
+ "indicativeReading": [
+  "Bennett, G. (2013). Six Moments of Crisis: Inside British Foreign Policy.",
+  "Daddow, O. & Gaskarth, J. (Eds.) (2011). British Foreign Policy: The New Labour Years.",
+  "Deighton, A. (Ed.). (2016). Britain and the First Cold War.",
+  "Dockrill, M., & McKercher, B. (Eds.). (1996). Diplomacy and World Power: Studies in British Foreign Policy, 1890–1951.",
+  "Doerr, P.W. (1998). British Foreign Policy, 1919 -1939.",
+  "Fisher, J., & Best, A. (Eds.). (2011). On the Fringes of Diplomacy: Influences on British Foreign Policy, 1800-1945.",
+  "Gaskarth, J. (2013). British Foreign Policy: Crises, Conflicts and Future Challenges.",
+  "Kennedy, P. (1981). The Realities Behind Diplomacy: Background Influences on British External Policy, 1865-1980.",
+  "Otte, T. (2011) The foreign office mind. The making of British foreign policy, 1865-1914.",
+  "Reynolds, D. (2000). Britannia Overruled: Britain and World Power in the 20th Century.",
+  "Rose, A. (2017). Between Empire and Continent: British Foreign Policy before the First World War.",
+  "Steiner, Z. S. (1970) The Foreign Office and Foreign Policy, 1898-1914."
+ ],
+ "assessmentText": "Exam (85%), duration: 180 minutes in the Spring exam period. Course participation (15%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 85
+  },
+  {
+   "type": "Course participation",
+   "weight": 15
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 30,
+  "avgClassSizePrevYear": 15,
+  "capped": "Yes(32)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/HY/2026_HY248.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

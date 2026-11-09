@@ -1,0 +1,73 @@
+{
+ "code": "HY315",
+ "title": "The European Enlightenment, c.1680-1799",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International History",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Tim Hochstrasser"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in History, BA in Social Anthropology, BSc in History and Politics, BSc in International Relations and History, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is capped. Places will be assigned on a first come first served basis",
+ "description": "The European Enlightenment of the eighteenth century is conventionally taken to be the period in which the disciplines of philosophy, history, economics and anthropology, and other social sciences began to emerge as discrete disciplines independent of state and church control. This course therefore sets out to explore the new ideas generated in these areas as a result of a fresh understanding of man's place in the physical world. But while the course aims to look at ideas and concepts in themselves it is also concerned with the way that they were applied in political practice and adapted to provide new understanding of social structures, or as contemporaries put it, a 'Science of Man'. The chronological context of the Enlightenment is taken to be Europe between the reign of Louis XIV and the end of the Directory in France in 1799. Within this broad framework the following large themes provide the subject matter of both lectures and classes in the Michaelmas Term: the impact of the Scientific Revolution upon institutionalised religion; the emergence of a 'Republic of Letters'; English and French critiques of absolutist monarchy; the creation of scientific approaches to the study of ethics and politics; the political theory of enlightened despotism; the intellectual origins of the French Revolution; intellectual encounters with the New World; the concept of a Counter-Enlightenment; and the move from a private to a public sphere of cultural inquiry. The contributions of Newton, Locke, Voltaire, Montesquieu, and Rousseau - among others - will be highlighted. In the Lent Term the focus will be more narrowly directed to the study of individual key authors and texts and on the impact of enlightened ideas in particular countries, notably England, France, Prussia, Russia and the Habsburg Monarchy. Space will also be found for an examination of the contribution of enlightened thought to the visual arts and music in the 18th century. The course gives students the chance to consider whether or not the Enlightenment was an era of European history that fostered the application of reason to political and social reform, an end to censorship, torture, and hierarchical social models, and a beginning to religious toleration and recognizably modern concepts of human rights, international law and social equality. The focus throughout will be on the writings of the philosophes themselves and their attempts to convert theoretical innovation into practical reform through the agency of bureaucracy and rulers.",
+ "teaching": "20 hours of seminars in the Autumn Term. 20 hours of seminars in the Winter Term. 1 hour of seminars in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term. The first hour in each seminar session will be given as a lecture.",
+ "formativeAssessment": "Two pieces of formative assessment are required, the first a source-criticism exercise in the Autumn Term and the second a conventional essay (2000 words) in the Winter Term.",
+ "indicativeReading": [
+  "A full reading list will be provided at the start of the course. The following represent basic introductory reading only, and an indication of some primary sources: T C W Blanning, The culture of power and the power of culture (2002); D Outram, The Enlightenment (1995); T Munck, The Enlightenment (2000); R Porter, The Enlightenment (2001); Ritchie Robertson, The Enlightenment (2021); Anthologies: I Kramnik (Ed), The Portable Enlightenment Reader (1995); S Eliot & B Stern (Eds), The Age of Enlightenment (2 vols, 1979)."
+ ],
+ "assessmentText": "Exam (70%), duration: 180 minutes in the Spring exam period. Presentation (15%). Course participation (15%). Students MUST give a summative presentation in either the AT or the WT. Class participation will be graded across both the AT and the WT.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 70
+  },
+  {
+   "type": "Presentation",
+   "weight": 15
+  },
+  {
+   "type": "Course participation",
+   "weight": 15
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 13,
+  "avgClassSizePrevYear": 13,
+  "capped": "Yes(17)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/HY/2026_HY315.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

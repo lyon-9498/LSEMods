@@ -1,0 +1,80 @@
+{
+ "code": "IR318",
+ "title": "Gender, Power and International Politics",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International Relations",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Kate Millar"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in International Relations, BSc in International Relations and Chinese, BSc in International Relations and History and BSc in Politics and International Relations. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course has a limited number of places (it is capped).",
+ "description": "This course foregrounds gender, race, sexuality – as embodied, as social, and as forms of intersectional hierarchy/ies – to examine the interrelation of seemingly-disparate practices of violence and manifestations of conflict. It moves away from the concept of “security” to highlight assemblages of threats and vulnerabilities that connect and challenge traditional international relations concepts of both scale (e.g. local, national, international etc.) as well as the legitimately “political”. The course encourages students to consider not only the ways different practices of violence are gendered, racialised, and sexualised, but also how these violences are implicated in social power relations, and the production of order/normality. The course examines both practices of violence and resistances violence. Particular thematic emphasis is placed on the questions of what constitute violence, and how this key conceptualisation relates to our ways of analysing, interpreting, and making sense, both academically and experientially, of the phenomenon.",
+ "teaching": "10 hours of classes and 10 hours of lectures in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "Students MUST submit TWO formative components prior to the summative assessment of the essay: A research question (ending in a question mark!), via email to the lecturer, in Week 4, for feedback A 2-page (max) bullet-point (no prose!) outline in Week 8 Autumn Term for feedback.",
+ "indicativeReading": [
+  "Anzaldúa, G., 1987. Borderlands: la frontera (Vol. 3). San Francisco: Aunt Lute. Ahmed, S., 2017. Living a feminist life. Duke University Press.",
+  "Berlant, L.G., 2011. Cruel optimism (Vol. 226). Durham, NC: Duke University Press.",
+  "Collins, P. H. (2002). Black feminist thought: Knowledge, consciousness, and the politics of empowerment. routledge.",
+  "Halberstam, J. 2011. The queer art of failure. Duke University Press.",
+  "Green, J. A., ed (2017). Making space for indigenous feminism. Zed Books, 2nd ed.",
+  "Minh-Ha, T.T., 2009. Woman, native, other: Writing postcoloniality and feminism. Indiana University Press.",
+  "Solnit, R. Men Explain Things To Me (London: Granta) Webb, R., 2016. How Not to Be a Boy (London: Canongate)"
+ ],
+ "assessmentText": "Blog post (25%). Essay (75%, 3000 words). Blog Post (25%): One (500 word max) blog post, to a Moodle forum on a week assigned by the instructor (marked with grade, 15%). Two (250 word max) response to colleagues’ blog posts posed for discussion in seminar, also uploaded to Moodle (completion/participation grade, 10%) Essay (75%): Students will submit a 3000 word original research essay. Students are free to choose any topic relating to gendered/gendering international politics, with the caveat that they must be able to give a full account of their question within the word limit. Essays will be assessed on the basis of their structure/organization, clarity of language, integration of theory, correct use of concepts, strength of analysis, originality of argument, and use of empirics. More detailed guidance will be provided in seminar.",
+ "assessment": [
+  {
+   "type": "Blog post",
+   "weight": 25
+  },
+  {
+   "type": "Essay",
+   "weight": 75
+  },
+  {
+   "type": "Blog post",
+   "weight": 25
+  },
+  {
+   "type": "Essay",
+   "weight": 75
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/IR/2026_IR318.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

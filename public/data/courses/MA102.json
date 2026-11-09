@@ -1,0 +1,105 @@
+{
+ "code": "MA102",
+ "title": "Mathematical Proof and Analysis",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Mathematics",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Prof Konrad Swanepoel"
+ ],
+ "prerequisites": null,
+ "corequisites": "Students must complete MA100 or MA108 or MA107 either before taking this course or in the same year as this course.",
+ "additionalRequisites": "Students should have taken, or be taking concurrently, the course Mathematical Methods (MA100), or the course Methods in Calculus and Linear Algebra (MA108), or the course Quantitative Methods (Mathematics) (MA107). Students taking MA107 should talk to the convenor before the course begins.",
+ "availability": "This course is compulsory on the BSc in Financial Mathematics and Statistics, BSc in Mathematics and Economics, BSc in Mathematics with Data Science and BSc in Mathematics with Economics. This course is available on the BSc in Actuarial Science, BSc in Actuarial Science (with a Placement Year), BSc in Data Science, BSc in Economics and Data Science, BSc in Finance, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students.",
+ "description": "The course is an introduction to the use of formal definitions and proofs in mathematics, and to basic results of elementary logic, set theory and analysis. Specific topics covered are as follows: Logic, sets and functions, real numbers, infimum and supremum, sequences, limits and continuity. This course is intended as preparation for a student interested in the application of mathematical concepts and proof to subjects such as computer science (in particular the analysis of algorithms) and economics.",
+ "teaching": "20 hours of lectures, 20 hours of classes and 10 hours of help session in the Autumn Term. The 10 hour help sessions in the Autumn Term will be Extra Examples Lectures.",
+ "formativeAssessment": "Problem sets weekly. Students will be expected to produce 10 problem sets in the AT. Written answers to set problems will be expected on a weekly basis.",
+ "indicativeReading": [
+  "Students may wish to have one of the recommended textbooks:",
+  "N L Biggs, Discrete Mathematics (2nd edn)",
+  "or",
+  "P J Eccles, An Introduction to Mathematical Reasoning, but these are not required.",
+  "Further background reading can be found in:",
+  "R Allenby, Numbers and Proofs;",
+  "M Liebeck, A Concise Introduction to Pure Mathematics;",
+  "V Bryant, Yet Another Introduction to Analysis,",
+  "and",
+  ";",
+  "R Bartle & D Sherbert, Introduction to Real Analysis."
+ ],
+ "assessmentText": "Exam (90%), duration: 90 minutes in the Spring exam period. Continuous assessment (10%) weekly.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 90
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 56,
+  "avgClassSizePrevYear": 28,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MA/2026_MA102.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "course",
+    "code": "MA100"
+   },
+   {
+    "type": "course",
+    "code": "MA108"
+   },
+   {
+    "type": "course",
+    "code": "MA107"
+   }
+  ]
+ },
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "MA103",
+   "title": "Introduction to Abstract Mathematics",
+   "note": "Withdrawn 2026/27"
+  }
+ ],
+ "unlocks": [
+  "MA104",
+  "MA203",
+  "MA209",
+  "MA214",
+  "MA320"
+ ]
+}

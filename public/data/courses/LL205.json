@@ -1,0 +1,61 @@
+{
+ "code": "LL205",
+ "title": "Medical Law",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Cressida Auckland"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "Medical law is a rapidly developing and increasingly important subject, as new technologies and treatments offer new possibilities for creating, extending, and enhancing life. In recent years, problems of scarce resources and health inequalities have become central political issues in the UK, while the criminalisation of both assisted dying and abortion have garnered significant attention, both in public discourse and at a legislative level. Alongside this, the development of new technologies, such as genome editing, egg freezing and face transplants, are invariably accompanied by demands for their regulation. In this course we examine the legal framework within which health services are provided, and we explore some of the difficult legal and ethical dilemmas that arise when determining the limits of medical innovation. Subjects include resource allocation; public health; malpractice litigation; consent; mental capacity; medical decision-making for children; mental health law; confidentiality; clinical research; the regulation of medicines; organ transplantation; embryo and stem cell research; abortion; assisted conception; preimplantation genetic diagnosis; surrogacy; end-of-life decision-making and the role of artificial intelligence in healthcare.",
+ "teaching": "20 hours of lectures and 9 hours of classes in the Autumn Term. 20 hours of lectures and 10 hours of classes in the Winter Term. 2 hours of lectures and 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term. This course is delivered through a combination of weekly one-hour classes and weekly 1.5-2 hour lectures across Autumn Term and Winter Term.",
+ "formativeAssessment": "At least one formative (unassessed) essay per term.",
+ "indicativeReading": [
+  "Jackson,",
+  "Medical Law: Text, Cases and Materials,",
+  "7th edition (Oxford UP, 2026)."
+ ],
+ "assessmentText": "Exam (100%), duration: 210 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 70,
+  "avgClassSizePrevYear": 12,
+  "capped": "Yes(90)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL205.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

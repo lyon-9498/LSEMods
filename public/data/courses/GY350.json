@@ -1,0 +1,93 @@
+{
+ "code": "GY350",
+ "title": "Dissertation",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Geography and Environment",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Laura Antona"
+ ],
+ "prerequisites": "Students must have completed GY245 or GY246 or GY247 or GY248 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BA in Geography. This course is available on the BSc in Environment and Sustainable Development, BSc in Environment and Sustainable Development with Economics and BSc in Geography with Economics. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. For students required to, or choosing to, submit an independent research project ('IRP') as part of a Bachelor's degree within the programmes' listed above.",
+ "description": "This course requires students to plan their own independent research project from start to finish on a geography topic of their choice. Carrying out the project generally includes reviewing the literature in their chosen topic area, formulating a viable and geography-relevant research question, analysing primary or secondary evidence or other material appropriate to the investigation (often a case study, data set, archival source, fieldwork observation, survey results or interviews, but also other material), and drafting the findings from their investigation into a final, polished submission. Students are expected to deal with the many procedural and analytical decisions that arise in independent research themselves, with guidance from Academic Supervisors and others.",
+ "teaching": "This course is delivered through a combination of classes and workshops, as well as methods surgeries through AT and WT, and regular supervisory meetings. This course includes a reading week in Week 6 of Autumn and Week 6 of Winter Term.",
+ "formativeAssessment": "Students will be expected to report regularly to their Academic Supervisor on the progress they are making on their dissertation.",
+ "indicativeReading": [
+  "Peters, K. (2017).",
+  "Your Human Geography Dissertation: Designing, Doing, Delivering",
+  ". London: SAGE.",
+  "The Royal Geographical Society (2026). Getting started with research. Online:",
+  "https://www.rgs.org/research/higher-education-resources/getting-started-with-research"
+ ],
+ "assessmentText": "In class test (15%). Presentation (15%). Research project (70%, 8000 words).",
+ "assessment": [
+  {
+   "type": "In class test",
+   "weight": 15
+  },
+  {
+   "type": "Presentation",
+   "weight": 15
+  },
+  {
+   "type": "Research project",
+   "weight": 70
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 46,
+  "avgClassSizePrevYear": 15,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GY/2026_GY350.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "course",
+    "code": "GY245"
+   },
+   {
+    "type": "course",
+    "code": "GY246"
+   },
+   {
+    "type": "course",
+    "code": "GY247"
+   },
+   {
+    "type": "course",
+    "code": "GY248"
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

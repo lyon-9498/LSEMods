@@ -1,0 +1,83 @@
+{
+ "code": "HY113",
+ "title": "Empires and Resistance in Global History",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International History",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Anna Cant"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Geography, BA in History, BA in Social Anthropology, BSc in History and Politics, BSc in International Relations, BSc in International Relations and Chinese, BSc in International Relations and History, BSc in Politics, BSc in Politics and International Relations, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "This module introduces students to the forces that made, upheld, and unmade empires in modern global history (c. 1780-present). The course approaches empires in a global historical perspective, looking at them as frameworks of power and resistance, and identifying connections and comparisons. Transformations in world order is a central concern. The course begins with imperial expansion, resistance and independence movements during the global period of revolution and global war in the 1780s. It traces the growth and consolidation of formal and informal empire through conquest and trade in the nineteenth and twentieth centuries in Europe, Africa, Asia, the Caribbean, Latin America, and the Pacific, examining how changing conceptions of identity, race, nation, and belonging intersected with modes of political and economic power. The course also examines the impact of European imperial expansion on the empires of Asia and their transition from empire to nation-state in the international society of the nineteenth and twentieth centuries. Different imperial projects around the world faced challenges as different forms of resistance flourished, often through new networks of migration and communication. The course examines these different forms of resistance, including regional, national and transimperial, violent and nonviolent, reformist, cultural, economic, rights-based, and anti-imperial. In the twentieth century, people in civil society and international organizations such as the League of Nations, United Nations, and international courts began to inquire into the legitimacy of empire. At the same time, neither the changing international political and legal order nor independence movements and different forms of resistance that accelerated after 1945 entirely dismantled the political or economic structures that empires had created over the previous centuries. Nor were the emancipatory claims and promises of reform and resistance entirely realized. The course thus ends by considering the continuities of empires in international history, through the prisms of environment, knowledge, liberty, and inequality. Across the entire period, resistors faced the challenge of defining programmes of political belonging and economic development that opposed particular empires, whilst often working within imperial boundaries and structures. Throughout the course, students engage with different historical scholarship and methodologies for defining empires and resistance in comparative and connective global frameworks. The course will offer introductory global historical studies of Africa, the Caribbean, Latin America, North America, Europe, the Middle East, the Pacific, South Asia, South East Asia, and East Asia.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. 10 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "One formative essay in the Autumn Term. A formative exam in the Winter Term.",
+ "indicativeReading": [
+  "Richard Graham, Independence in Latin America: Contrasts & Comparisons, 3rd ed. (University of Texas Press, 2013).",
+  "Malayna Raftopoulos (ed.), Social-Environmental Conflicts, Extractivism and Human Rights in Latin America, (Taylor & Francis, 2018).",
+  "Lauren Benton, They Called it Peace. Worlds of Imperial Violence (Princeton University Press, 2024)",
+  "Jane Burbank, Frederick Cooper, eds., Post-Imperial Possibilities: Eurasia, Eurafrica, Afroasia (Princeton, 2023)",
+  "James Mark, Paul Betts (eds.), Socialism Goes Global (Oxford, 2024)",
+  "Caroline Elkins, Legacy of Violence: A History of the British Empire (London, 2022)",
+  "Jane Burbank and Frederick Cooper, Empires in World History: Power and the Politics of Difference (Princeton, 2010)",
+  "Priya Satia, Time's Monster: History, Conscience and Britain's Empire (London, 2020).",
+  "Adom Getachew, Worldmaking After Empire : the Rise and Fall of Self-Determination. (Princeton, N.J., 2019).",
+  "Richard White, The Middle Ground: Indians, Empires, and Republics in the Great Lakes Region, 1650-1815, Anniversary Edition (New York: Cambridge University Press, 2010)",
+  "Charles Maier, The Project States and its Rivals: A New History of the Twentieth and Twenty-First Centuries (Cambridge: Harvard University Press, 2024)"
+ ],
+ "assessmentText": "Exam (85%), duration: 180 minutes in the Spring exam period. Course participation (15%). Participation (15% of total grade); in person open-book exam answering 3 questions in 3 hours (85%)",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 85
+  },
+  {
+   "type": "Course participation",
+   "weight": 15
+  },
+  {
+   "type": "Participation",
+   "weight": 15
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 114,
+  "avgClassSizePrevYear": 14,
+  "capped": "Yes(120)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/HY/2026_HY113.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

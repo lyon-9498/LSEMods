@@ -1,0 +1,69 @@
+{
+ "code": "GV100",
+ "title": "Introduction to Political Theory",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Prof Paul Kelly"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in History and Politics, BSc in International Social and Public Policy with Politics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations and BSc in Politics and Philosophy. This course is available on the BA in Social Anthropology, BSc in Environment and Sustainable Development, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "An introduction to political theory through the thought and texts of some of the most important political theorists. A study of the ideas of some of the major political theorists from the Ancient Greeks to the 20th Century. Topics will include theories of human nature, the origin of government and law, man's relation to society and the state, the basis of political obligation, the idea of social contract, the idea of social progress, the critique of capitalism, and questions about race and gender. The thinkers discussed this year will include Plato, Aristotle, Machiavelli, Hobbes, Locke, Rousseau, Kant, J S Mill, Marx, Nietzsche, Arendt, Fanon.",
+ "teaching": "20 hours of lectures and 9 hours of classes in the Autumn Term. 20 hours of lectures and 10 hours of classes in the Winter Term. 2 hours of lectures in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Essay. Students will be expected to produce 1 essay in the AT.",
+ "indicativeReading": [
+  "D. Boucher and P. Kelly, Political Thinkers: From Socrates to the Present (Oxford 2017); Plato, Republic; Aristotle, Politics; Machiavelli, The Prince; Hobbes, Leviathan; Locke, 2nd Treatise of Government; Rousseau, Discourse on the Origins of Inequality and The Social Contract; Kant, Perpetual Peace; The Federalist Papers; J S Mill, Utilitarianism, The Subjection of Women, and On Liberty; Marx, Selected Writings (Ed D McLellan); Nietzsche, The Genealogy of Morality: Arendt, The Origins of Totalitarianism; Fanon, Black Skins, White Masks."
+ ],
+ "assessmentText": "Exam (50%), duration: 90 minutes in the Spring exam period. Essay (50%, 2000 words) in Winter Term Week 11. In the exam, students will have to answer one of twelve questions. GENERAL COURSE STUDENTS ONLY: The Class Summary Grade for General Course students will be calculated as follows: 80% class participation and 20% attendance.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 50
+  },
+  {
+   "type": "Essay",
+   "weight": 50
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 309,
+  "avgClassSizePrevYear": 13,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV100.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": [
+  "GV262",
+  "GV326"
+ ]
+}

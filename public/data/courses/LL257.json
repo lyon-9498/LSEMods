@@ -1,0 +1,75 @@
+{
+ "code": "LL257",
+ "title": "Employment Law",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Astrid Sanders"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "This subject builds on contract and tort, and to some extent public law and EU law, but introduces the distinctive legal regulation of employment relations, such as the law of dismissal and discrimination law, and the institutional arrangements of industrial relations, including trade unions and collective bargaining. Employment law is an important area of legal practice, with employment law disputes representing one of the largest topics of civil litigation. Outline: Contract of Employment: the duties of employer and employee; the variety of work relations; vulnerable workers and the personal scope of employment law Regulation of the Employment Relation: minimum wage, working time Anti-Discrimination Law: implications of the Equality Act 2010 Dismissal: wrongful and unfair dismissal, economic dismissals Human Rights in the Workplace: civil liberties of employees at work Membership of Trade Unions, Worker Representation, and Collective Bargaining: freedom of workers to associate with each other and to act in association with each other Industrial disputes: strikes, other industrial action and lockouts; rights and liabilities of individual workers who take industrial action; civil liabilities for organising industrial action – the economic torts, the ‘golden formula’ immunities and loss of immunity – industrial action ballots.",
+ "teaching": "20 hours of seminars in the Autumn Term. 20 hours of seminars in the Winter Term. 2 hours of seminars in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "At least one formative (unassessed) essay per term.",
+ "indicativeReading": [
+  "For a concise overview of the subject a suggestion is:",
+  "H. Collins,",
+  "Employment Law",
+  "(Oxford: OUP, 2nd ed, 2010).",
+  "See also P. Davies and M. Freedland (eds),",
+  "Kahn-Freund’s Labour and the Law",
+  "(London: Stevens and Son, 3rd ed, 1983) chapter 1.",
+  "The leading textbooks are",
+  "H. Collins, K.D.Ewing, A. McColgan,",
+  "Labour Law: Law in Context",
+  "(Cambridge: CUP, 2nd ed, 2019);",
+  "S. Deakin & G. Morris,",
+  "Labour Law",
+  "(Oxford: Hart Publishing, 6th edn, 2012);",
+  "A.C. L. Davies,",
+  "Perspectives on Labour Law,",
+  "2nd edn (Cambridge: CUP, 2009)."
+ ],
+ "assessmentText": "Exam (100%), duration: 210 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 30,
+  "avgClassSizePrevYear": 30,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL257.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

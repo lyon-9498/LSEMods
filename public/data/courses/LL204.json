@@ -1,0 +1,79 @@
+{
+ "code": "LL204",
+ "title": "Advanced Torts",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Emmanuel Voyiakis"
+ ],
+ "prerequisites": "Students must have completed LL143 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law and LLB in Laws. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is not available to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "If you liked studying tort law in your first year, and have a taste for theoretical thinking, chances are that you are going to love this. Advanced Torts aims to broaden and deepen your knowledge of tort law in two ways. First, we look at a range of important torts that are not covered in the LL143 course. Second, we tackle the ‘big’ theoretical questions of tort law. You will emerge from the course not only with a better understanding of the rules and principles that govern specific torts, but also with the ability to engage critically with different views about the overall purpose and the moral and social function of tort law. Here are some topics we usually cover: • Theories of tort law: what is the aim of tort law, and do judges need a theory of it? • Corrective justice vs economic theories of tort law • Tort law, moral responsibility and luck • Tort law and the ‘compensation culture’ • The position of public authorities in negligence • Tort actions for unwanted pregnancy/birth & children born with disabilities • Strict liability regimes: liability for ultra-hazardous activities; liability for defective products; the justification of strict liability.",
+ "teaching": "20 hours of seminars in the Autumn Term. 20 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "At least one formative essay per term",
+ "indicativeReading": [
+  "If all goes according to plan, the depth we will attain in the course and the focused nature of our reading lists for each topic will make textbooks redundant, or at least useful only as a basic introduction to the issues we will be covering. Here are some other introductory or general texts that you might like to consult from time to time, just to get a different perspective on things, and some more advanced or specialized books from which we will be setting reading for certain topics:",
+  "• General Texts: (try to consult their latest edition but earlier ones will probably do)",
+  "• W E Peel & J Goudkamp, Winfield & Jolowicz on Tort;",
+  "• N J McBride & R Bagshaw, Tort Law;",
+  "• B A Hepple et als., Hepple and Matthews’ Tort Law: Cases and Materials;",
+  "• S Deakin, A Johnston & B Markesinis, Markesinis and Deakin’s Tort Law.",
+  "Advanced/Specialised Texts:",
+  "• Arthur Ripstein, Private Wrongs (2016);",
+  "• Emmanuel Voyiakis, Private Law and the Value of Choice (2017);",
+  "• Ernest Weinrib, The Idea of Private Law (1995);",
+  "• David Owen (ed.), Philosophical Foundations of Tort Law (1997);",
+  "• Robert Stevens, Torts and Rights (2007);",
+  "• Jules Coleman, Risks and Wrongs (2002);",
+  "• Guido Calabresi, The Cost of Accidents: A Legal and Economic Analysis (1970);",
+  "• John Oberdiek, Philosophical Foundations of the Law of Torts (2014);",
+  "• Nicolette Priaulx, The Harm Paradox: Tort Law and the Unwanted Child in an Era of Choice (2007)."
+ ],
+ "assessmentText": "Exam (100%), duration: 210 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Problem solving",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 18,
+  "avgClassSizePrevYear": 18,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL204.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "course",
+  "code": "LL143"
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

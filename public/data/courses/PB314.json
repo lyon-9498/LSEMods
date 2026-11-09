@@ -1,0 +1,102 @@
+{
+ "code": "PB314",
+ "title": "Behavioural Science in an Age of AI and New Technology",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Psychological and Behavioural Science",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Dario Krpan"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Psychological and Behavioural Science. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "When psychology and economics got \"married\", the product was behavioural science. Although this discipline has elevated theoretical and practical understanding of human behaviour to previously unseen heights, recent technological developments have produced new insights in understanding and predicting people's actions that not only supplement traditional tools of behavioural science but also go beyond them. The future of the discipline will therefore likely depend on how effectively behavioural scientists can harness new developments in technology to understand and change the way people act. The aim of this course is to a) Introduce major technological advancements that are relevant for predicting, influencing, and understanding human behaviour; b) outline how they supplement and extend commonly used tools of behavioural change; and c) examine how they can be used to propel behavioural science into the future. The course will tackle behavioural science in relation to artificial intelligence (AI), virtual environments, social robotics, gamification, behavioural informatics, social networks, and other relevant developments in information technology. Emphasis will be placed on how the technological tools covered throughout the course can be used to change behaviour in applied settings, and students will be encouraged to discuss implications for their organisations and other areas of interest. By the end of the course, you should: Understand major technological advancements that are relevant for predicting, influencing, and understanding human psychology and behaviour. Be able to outline how the above can supplement and extend commonly used tools of behavioural change. Have examined how a wide range of technological developments can be used to propel psychological and behavioural science into the future. Have investigated whether new technologies merely allow behavioural scientists to scale up traditional tools of behavioural change, or whether they produce new insights that can result in novel tools of behavioural change previously unknown to behavioural scientists.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term. Lectures will be delivered jointly with PB434, an MSc level course in the department. Classes will be specific for undergraduate students.",
+ "formativeAssessment": "For each major and minor assessment option there is an equivalent piece of formative coursework. These are designed to help students to prepare for the summative assessments.",
+ "indicativeReading": [
+  "Krpan, D., & Urbaník, M. (2024). From libertarian paternalism to liberalism: behavioural science and policy in an age of new technology.",
+  "Behavioural Public Policy",
+  ",",
+  "8",
+  "(2), 300-326.",
+  "Shrestha, P., Krpan, D., Koaik, F., Schnider, R., Sayess, D., & Binbaz, M. S. (2024). Beyond WEIRD: Can synthetic survey participants substitute for humans in global policy research?.",
+  "Behavioral Science & Policy",
+  ",",
+  "10",
+  "(2), 26-45.",
+  "Zarouali, B., Dobber, T., De Pauw, G., & de Vreese, C. (2022). Using a personality-profiling algorithm to investigate political microtargeting: assessing the persuasion effects of personality-tailored ads on social media.",
+  "Communication Research, 49",
+  ", 1066-1091.",
+  "Bashkirova, A., & Krpan, D. (2024). Confirmation bias in AI-assisted decision-making: AI triage recommendations congruent with expert judgments increase psychologist trust and recommendation acceptance.",
+  "Computers in Human Behavior: Artificial Humans",
+  ",",
+  "2",
+  "(1), 100066.",
+  "Yang, E., Garcia, T., Williams, H. G., Kumar, B., Ramé, M., Rivera, E., ... & Jia, Y. (2025). A Behavioral Science-Informed Agentic Workflow for Personalized Nutrition Coaching: Development and Validation Study.",
+  "JMIR Formative Research",
+  ",",
+  "9",
+  ", e75421.",
+  "Peters, H., & Matz, S. C. (2024). Large language models can infer psychological dispositions of social media users.",
+  "PNAS nexus",
+  ",",
+  "3",
+  "(6), pgae231.",
+  "Krpan, D., Booth, J. E., & Damien, A. (2023). The positive–negative–competence (PNC) model of psychological responses to representations of robots.",
+  "Nature Human Behaviour",
+  ",",
+  "7",
+  "(11), 1933-1954.",
+  "Slattery, P., Saeri, A. K., Grundy, E. A., Graham, J., Noetel, M., Uuk, R., ... & Thompson, N. (2025). The ai risk repository: A comprehensive meta-review, database, and taxonomy of risks from artificial intelligence.",
+  "arXiv preprint arXiv:2408.12622",
+  "."
+ ],
+ "assessmentText": "Project (70%). Project (30%). Students will choose ONE minor and ONE major assessment from a list of assessments.",
+ "assessment": [
+  {
+   "type": "Project",
+   "weight": 70
+  },
+  {
+   "type": "Project",
+   "weight": 30
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 20,
+  "avgClassSizePrevYear": 20,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PB/2026_PB314.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

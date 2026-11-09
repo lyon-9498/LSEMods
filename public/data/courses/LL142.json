@@ -1,0 +1,66 @@
+{
+ "code": "LL142",
+ "title": "Contract Law",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Nicholas Sage"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BA in Anthropology and Law and LLB in Laws. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is compulsory on the BA in Anthropology and Law and LLB in Laws. This course is not available as an outside option nor to General Course students.",
+ "description": "Contracts are essential to most business transactions. Contract law also shapes interpersonal relations in many other areas of life. This course introduces the general principles of contract law, including contract formation, interpretation, defences (eg misrepresentation, duress), breach, and remedies. Students will learn to apply these principles to resolve concrete legal problems. Students will also be invited to reflect on whether the existing legal doctrines are justifiable in light of their important social consequences. The focus will be on the common law of contract as developed in England. This body of law is articulated largely through judicial decisions, supplemented by some detailed legislation. The course will aim to foster the lawyerly skills of closely reading, reasoning about, and debating the key legal sources.",
+ "teaching": "9 hours of classes and 16 hours of lectures in the Autumn Term. 20 hours of lectures and 10 hours of classes in the Winter Term. 2 hours of lectures and 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Two formative written assessments, one in AT and one in WT.",
+ "indicativeReading": [
+  "We will read a wide range of case law, as well as statutes and legal scholarship. Here is a representative selection of five readings, versions of which may be found online:",
+  "• Gibson v Manchester City Council [1979] 1 WLR 294 (HL) – available at BAILII",
+  "• Williams v Roffey Bros & Nicholls (Contractors) Ltd [1991] 1 QB 1 (CA) – BAILII",
+  "• Co-operative Insurance Society Ltd v Argyll Stores (Holdings) Ltd [1998] AC 1 (HL) – BAILII",
+  "• Consumer Rights Act 2015 – legislation.gov.uk",
+  "• Stephen A Smith, ‘Contracting Under Pressure: A Theory of Duress’ [1997] Cambridge Law Journal 343 - JSTOR"
+ ],
+ "assessmentText": "Exam (100%), duration: 180 Minutes, reading time: 15 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Communication",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 212,
+  "avgClassSizePrevYear": 14,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL142.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

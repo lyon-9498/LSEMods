@@ -1,0 +1,76 @@
+{
+ "code": "FM210",
+ "title": "Principles of Finance I",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Finance",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr James Clark"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": "Students must have completed: one level 1 Economics course, one level 1 Mathematics course and one level 1 Statistics course.",
+ "availability": "This course is available on the BSc in Accounting and Finance, BSc in International Social and Public Policy with Economics, BSc in Management, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students. Permission forms from the General Course admin office should be submitted to the Department of Finance by email at finance.ug@lse.ac.uk with a copy of the transcript attached.",
+ "description": "The course examines the theory of financial decision-making by investors and examines the behaviour of the capital markets in which these decisions are taken. The main topics covered are the theory of capital markets, portfolio theory, equity and bond markets, the capital asset pricing model, efficient markets, and derivative pricing. This course covers the same broad topics as FM214. However, compared to FM214, this course puts less emphasis on mathematical models and statistical methods, and is more applied. Nonetheless, familiarity with mathematical and statistical methods taught in first-year courses will be assumed.",
+ "teaching": "10 hours of classes and 20 hours of lectures in the Autumn Term. There will also be workshops in AT.",
+ "formativeAssessment": "Students are expected to complete weekly problem sets for classes and to make positive contributions to class discussion.",
+ "indicativeReading": [
+  "Detailed course programmes and reading lists are distributed at the start of the course. Illustrative texts include:",
+  "Principles of Corporate Finance by Richard Brealey, Stewart Myers, Franklin Allen, and Alex Edmans, McGraw-Hill Inc.",
+  "Corporate Finance by Jonathan Berk and Peter DeMarzo, Pearson Global Edition."
+ ],
+ "assessmentText": "Exam (90%), duration: 90 minutes in the January exam period. Continuous assessment (10%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 90
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 366,
+  "avgClassSizePrevYear": 17,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/FM/2026_FM210.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "FM214",
+   "title": "Principles of Finance I",
+   "note": null
+  }
+ ],
+ "unlocks": [
+  "FM310",
+  "FM311",
+  "FM321",
+  "FM322"
+ ]
+}

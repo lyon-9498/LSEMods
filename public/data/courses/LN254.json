@@ -1,0 +1,102 @@
+{
+ "code": "LN254",
+ "title": "Literature and Aspects of Ethics",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Centre for Language Studies",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Olga Sobolev"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Social Anthropology, BSc in Economic History, BSc in Economic History and Geography, BSc in Economics and Economic History, BSc in International Relations, BSc in International Relations and History, BSc in Language, Culture and Society, BSc in Philosophy and Economics, BSc in Philosophy, Logic and Scientific Method, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics and Philosophy, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is available as an outside option to students on all undergraduate programmes and to General Course students. Students can take this course in any year of their studies, subject to their own programme regulations. This course is capped. Places will be assigned on a first-come, first-served basis.",
+ "description": "a) Literary treatment/projection of the aspects of ethics, focusing on the classical ideas of Aristotle and Kant, Schopenhauer, and Nietzsche, developed in modern times by Sartre, Lacan, Bernard Williams and Michel Foucault. The course will draw on a range of themes arising from the interface between literary and philosophical studies and will explore such issues as the objectivity of moral reasoning (the question whether the practices that are traditionally and factually legitimated by religion, law or politics are indeed worthy of recognition); the spiritual crisis of the modern world (desire, guilt and innocence); technological omnipotence versus determinism; and the illusion of liberty in a tolerant democracy based on consensus. It will also be concerned with such questions as whether philosophy and literature, when combined, can achieve more than the sum of the two parts. b) The course is based on a carefully chosen range of short stories from world literature (including such authors as Kafka, Murakami, Kundera, Borges, Bessie Head, Isabel Allende etc.) where there is either a direct allusion to or a strong parallel with the key ethical issues. c) Related trips to galleries and theatre productions during the year. d) Use of archive recordings of authors, and video. e) Students encouraged to draw upon background in their main discipline, and to read widely.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. 10 hours of lectures and 10 hours of classes in the Winter Term. 1 hour of lectures and 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term. Structured activities during the reading week in the AT and WT. Revision tutorials in the ST.",
+ "formativeAssessment": "Students will be expected to produce 2 essays in the AT and WT.",
+ "indicativeReading": [
+  "Literary texts: Bashevis Singer",
+  "The Spinoza of Market Street",
+  "; Franz Kafka",
+  "In The Penal Colony",
+  "; Isabel Allende",
+  "The Schoolteacher's Guest",
+  "; Thomas Mann",
+  "Death in Venice",
+  "; Jorge-Luis Borges",
+  "Blue Tigers;",
+  "Haruki Murakami",
+  "The Ice Man;",
+  "Jean-Paul Sartre",
+  "The Wall",
+  "; Guy de Maupassant",
+  "The Model;",
+  "Heinrich Böll",
+  "To Work or not to Work;",
+  "Bessie Head",
+  "A Power Struggle.",
+  "A",
+  "dditional reading: Peter Singer and Renata Singer (eds),",
+  "The Moral of the Story: An Anthology of Ethics Through Literature",
+  "(Wiley-Blackwell, 2004); Alex Voorhoeve,",
+  "Conversations on Ethics",
+  "(Oxford University Press, 2011); Luc Bovens,",
+  "'The Ethics of Making Risky Decisions for Others'.",
+  "in Mark White (ed.),",
+  "The Oxford Handbook of Ethics and Economics",
+  "(Oxford University Press, 2019); Brian Stock,",
+  "Ethics through Literature: Ascetic and Aesthetic Reading in Western Culture",
+  "(Brandeis, 2008)."
+ ],
+ "assessmentText": "Exam (70%), duration: 180 minutes in the Spring exam period. Presentation (20%, 2500 words). Course participation (10%). Presentation of the assigned research topic",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 70
+  },
+  {
+   "type": "Presentation",
+   "weight": 20
+  },
+  {
+   "type": "Course participation",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 24,
+  "avgClassSizePrevYear": 8,
+  "capped": "Yes(24)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LN/2026_LN254.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

@@ -1,0 +1,89 @@
+{
+ "code": "AN256",
+ "title": "Economic Anthropology",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Anthropology",
+ "units": 0.5,
+ "studyPeriod": "Winter and Spring Term",
+ "terms": [
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Wesam Adel Hassan"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, BA in Social Anthropology, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley, Exchange Programme for Students in Anthropology (Cape Town), Exchange Programme for Students in Anthropology (Fudan), Exchange Programme for Students in Anthropology (Melbourne) and Exchange Programme for Students in Anthropology (Tokyo). This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "What is the economy, and how has it come to be understood as a distinctive sphere of life? This course explores how the historical rise of capitalism has been inextricably tied to the production of the very idea of ‘the economy,’ and how anthropologists have persistently challenged this separation, showing instead how economic life is entangled with religion, kinship, politics, and affect. Drawing on a broad range of ethnographic and theoretical work, we will explore the radical possibilities of alternative social relations offered by communities historically constituted outside capitalist economies or incorporated on their own terms, such as the so-called ‘original affluent societies.’ At the same time, we will critically examine the limits and potentials of contemporary global capitalism. How did the global economy emerge? What are its political, social, and cultural consequences? Why does it produce volatility, inequality, and, at times, accumulation and spectacular abundance? Is globalisation unravelling in an era of ‘de-coupling’ and populism, and what new futures might be imagined for capitalism? We will answer these questions through key themes including production, social reproduction, circulation, consumption, and the enduring significance of colonialism, empire, industrialisation, neoliberalisation, financialisation, digital and platform economies Central to our examination will be the processes and experiences of exploitation, oppression and domination, paying attention to the invisible work that sustains economies but remains undervalued, whether hidden within households, migration regimes, or precarious labour markets. We will highlight the ways gender, race, caste, ethnicity and class must be placed at the heart of any economic analysis. Our exploration will extend to new anthropologies of logistical power, the commodification of intimacy, algorithmic governance, global branding, gambling and cryptocurrency trading, media spectacles, securitisation, financialisation and speculation. Throughout the course, ethnography will be our method of anchoring global capitalism’s abstractions in the textures of everyday life, foregrounding both the mechanisms of durable accumulation and the creative, ambivalent, and sometimes resistant responses of individuals and communities, from global elites to the precarious poor. Moving away from calculative economic theories of capitalism, we will consider the significance of desire, kinship, political dreams, ethics and culture in shaping the intimate economies of our contemporary life. By the end of the course, students will gain a better understanding of current global transformations and a set of critical theoretical tools to rethink capitalism, inequality, and economic futures.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Winter Term. 1 hour of lectures in the Spring Term. This course has a reading week in Week 6 of Winter Term. The contact hours listed above are the minimum expected.",
+ "formativeAssessment": "Essay (1500 words). Students will have the opportunity to submit one formative essay of up to 1500 words during the course. Students will be informed of their formative submission deadline by email by the end of Week 3 of term.",
+ "indicativeReading": [
+  "A few ethnographies to whet your appetite",
+  ":",
+  "Bronislaw Malinowski (1964) Argonauts of the Western Pacific;",
+  "Marshall Sahlins (1974) Stone Age Economics;",
+  "Marcel Mauss (1990 [1925]). The Gift: the form and reason for exchange in archaic societies;",
+  "Sidney Mintz (1985) Sweetness and Power: The Place of Sugar in Modern History;",
+  "June Nash (1979) We Eat the Mines and the Mines Eat Us: dependency and exploitation in Bolivia's tin mines;",
+  "Michael Taussig (1980) The Devil and Commodity Fetishism in South America;",
+  "Jonathan Parry (2020) Classes of Labour in a Central Indian Steel Town;",
+  "Maria Mies (1982) The Lace Makers of Narsapur: Indian Housewives produce for the World Market;",
+  "Carol Stacks (1974) All Our Kin;",
+  "Claude Meillassoux (1981) Maidens, Meal and Money: capitalism and the domestic community;",
+  "Jan Breman (1974) Patronage and Exploitation: changing agrarian relations in South Gujarat India;",
+  "Alpa Shah, Jens Lerche, Richard Axelby, Brendan Donegan, Dalel Benbabaali, Jayaseelan Raj and Vikramaditya Thakur (2018) Ground Down by Growth:Tribe, Caste, Class and Inequality in 21st Century India;",
+  "Tania Murray Li (2014) Land's End: Capitalist Relations on the Indigenous Frontier.",
+  "Graeber D. (2001) Toward an Anthropological Theory of Value : The False Coin of Our Own Dreams .",
+  "Stiglitz JE. (2002) Globalization and Its Discontents ; Bear L. (2015) Navigating Austerity : Currents of Debt along a South Asian River.",
+  "A few general overview texts:",
+  "James G. Carrier and Don Kalb (eds) (2015) Anthropologies of Class: Power, Practice, and Inequality;",
+  "Richard Wilk and Lisa Cliggett (1996) Economies and Cultures: Foundations of Economic Anthropology;",
+  "James Carrier (ed) (2005) A Handbook of Economic Anthropology",
+  "Other general introductory texts:",
+  "Stephen Gudeman (2001) The Anthropology of Economy;",
+  "Chris Hann and Keith Hart (2011) Economic Anthropology;",
+  "Susana Narotzky (1997) New Directions in Economic Anthropology;",
+  "Jonathan Parry and Maurice Bloch (Eds) (1989), Money and the Morality of Exchange;",
+  "Stuart Plattner (ed) (1989) Economic Anthropology;",
+  "James Carrier (2019) A Research Agenda for Economic Anthropology."
+ ],
+ "assessmentText": "Exam (100%), duration: 120 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 58,
+  "avgClassSizePrevYear": 19,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AN/2026_AN256.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

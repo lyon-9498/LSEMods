@@ -1,0 +1,75 @@
+{
+ "code": "GY209",
+ "title": "The Economic Geography of Trade, Production and Development",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Geography and Environment",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Economic History and Geography and BSc in Geography with Economics. This course is available on the BA in Geography, BSc in Economics, BSc in Environment and Sustainable Development, BSc in Environment and Sustainable Development with Economics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "This course is concerned with economic geography. In particular we use ideas from International Trade, International Economics, Development and Regional Economics to talk about the location of economic activity across space and the consequences of uneven location. This module is concerned with two fundamental questions: i) what determines the distribution of production and trade across countries and regions? ii) which are the implications for economic development and inequalities? To answer to these questions, this module provides students with an introduction of international trade theories, their mechanisms and implications for trade patterns. In parallel, this module provides students with a review of the main empirical studies testing for those theories and documenting the implications of trade liberalisation for economic development and income inequalities. Armed with these theories and empirical facts, the module critically evaluates current trade policy disputes. The main topics covered during the module will be: 1. Introduction to trade 2. The Ricardian model of comparative advantage 3. Heckscher-Ohlin and factor endowments 4. Trade, globalisation and inequality 5. Krugman’s New Trade Theories 6. Spatial Distribution of Trade and Production 7. Trade Policy 8. Gravity models 9. Heterogeneous firms and trade",
+ "teaching": "20 hours of lectures and 9 hours of classes in the Autumn Term. This course has a reading week in Week 6 of Autumn Term. In the Department of Geography and Environment, teaching will be delivered through a combination of classes/seminars, pre-recorded lectures, live online lectures and other supplementary interactive live activities.",
+ "formativeAssessment": "Mock exam. Students will sit a mock exam ahead of their summative exam.",
+ "indicativeReading": [
+  "Pugel T.A. International Economics. McGraw-Hill.",
+  "Baldwin R and Martin P., (1999), Two waves of globalization: superficial similarities, fundamental differences, NBER working paper 6904.",
+  "Antràs, P. (2020), Conceptual aspects of global value chains. World Bank Policy Research Working Paper 9114.",
+  "Autor D. Dorn D. and Hanson G. (2013), The China Syndrome: Local Labor Market Effects of Import Competition in the US.",
+  "American Economic Review",
+  ", 103(6), 2121-2168.",
+  "Feenstra C. and Hanson G. (1999), The Impact of Outsourcing and High-Technology Capital on Wages: Estimates for the United States, 1979-1990.",
+  "Quarterly Journal of Economics",
+  ", 114, 907-940.",
+  "Krugman, Paul (1979), Increasing returns, monopolistic competition, and international trade.",
+  "Journal of International Economics",
+  ", Vol. 9(4), pp. 469-479.",
+  "Krueger, A. O. (1997), Trade Policy and Economic Development: How we learn.",
+  "The American Economic Review",
+  ", 87(1).",
+  "James Feyrer, (2009), Distance, Trade, and Income – The 1967 to 1975 Closing of the Suez Canal as a Natural Experiment. NBER Working Papers 15557."
+ ],
+ "assessmentText": "Written test (100%).",
+ "assessment": [
+  {
+   "type": "Written test",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 66,
+  "avgClassSizePrevYear": 13,
+  "capped": "Yes(80)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GY/2026_GY209.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

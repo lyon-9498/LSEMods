@@ -1,0 +1,71 @@
+{
+ "code": "AC342",
+ "title": "Accounting, Corporate Responsibility and Sustainability",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Accounting",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Xi Li"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Accounting and Finance, BSc in Econometrics and Mathematical Economics, BSc in Economics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. There are no accounting pre-requisites for this course.",
+ "description": "In the past decade, sustainability issues have attracted enormous attention from investors, regulators, and other stakeholders. This is evidenced by the exponential growth of sustainable investing in global capital markets and the mandating of sustainability-related disclosures across the world. The course invites students to reflect critically on recent developments in sustainability and climate accounting and on the usefulness and ethical foundations of corporate sustainability disclosures. Students will engage with real world examples and case studies. This course introduces students to the fundamental concepts of business ethics and corporate purpose, sustainability reporting, and responsible investing. It evaluates the potential benefits of firms disclosing sustainability information, as well as significant challenges to be overcome, including the risk of greenwashing. Students will learn about existing and emerging sustainability regulations and frameworks for sustainability performance metrics, such as ESG ratings. The course also explores how key capital market participants, such as asset managers, analysts, and banks, can incorporate sustainability information into their investment decisions.",
+ "teaching": "30 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term. There are 30 hours of seminars in WT, comprising 10 weeks of twice-weekly 1.5 hour seminars. There will be a reading week in week 6.",
+ "formativeAssessment": "Students will be provided with a sample exam paper and solutions. Students are expected to contribute to seminar discussions in each session.",
+ "indicativeReading": [
+  "No textbook covers the entire syllabus.",
+  "Students will also be referred to relevant examples of corporate and other reports, and websites. Detailed course programmes and reading lists will be distributed at the first lecture of the course."
+ ],
+ "assessmentText": "Exam (60%), duration: 120 minutes, reading time: 15 minutes in the Spring exam period. Course participation (10%). Project (30%). Further details relating to assessment and coursework, as well as feedback, will be made available on Moodle nearer the scheduled start time of the course and will be updated as the course progresses with specific instructions and guidance.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 60
+  },
+  {
+   "type": "Course participation",
+   "weight": 10
+  },
+  {
+   "type": "Project",
+   "weight": 30
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Communication",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 130,
+  "avgClassSizePrevYear": 65,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AC/2026_AC342.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

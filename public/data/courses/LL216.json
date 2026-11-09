@@ -1,0 +1,84 @@
+{
+ "code": "LL216",
+ "title": "Freedom and the Law in Britain",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Thomas Poole",
+  "Richard Martin",
+  "Prof Niki Lacey"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. It may be of particular interest to students in the Government and Sociology departments who wish to know more about the protection of rights within the UK’s legal system. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "What is happening to British freedom? Was it ever quite what we told ourselves it was? What work is the Human Rights Act actually doing in shaping the relationship between the state and the individual — and where are its limits? Why has the law made it so contested to protest about climate change, inequality, or Palestine? How is a non-violent direct action group now a proscribed 'terrorist' organisation? These are the questions that animate this course. LL216 was designed by the late, great Professor Conor Gearty. Our endeavour is to justice to the course, which remains grounded in many of Conor’s concerns: the precarity of liberty in Britain's constitutional order; the long shadow of empire and the unresolved 'Irish Question'; the recurring tensions between Parliament, the courts and the executive when freedom and security are in play; and the role of police, prosecutors and the criminal law in marking the limits of dissent. We are carrying that project forward, and bringing our own preoccupations to it. Co-taught by Dr Richard Martin, whose research focuses on police powers, public order law and the legal regulation of policing, and Baroness Shami Chakrabarti, former Director of Liberty and Shadow Attorney-General, the course pairs doctrinal analysis with the perspective of a leading practitioner who has spent a career arguing for civil liberties in the courts, in Parliament and in public life. Running through the course is a sustained inquiry into the role of human rights law in protecting — and at times legitimating, channelling, or falling short of protecting — civil liberties in Britain. We approach this question with curiosity rather than a settled view: the Human Rights Act has reshaped police practice, public order doctrine and the law of personal data in ways that reward close and open-minded examination. Students will study the historical foundations of liberty in English law and its imperial inheritance; formative twentieth-century struggles, including in Ireland and Northern Ireland; freedom of speech and its legal limits; the law of protest under the Public Order Act 2023 and the Police, Crime, Sentencing and Courts Act 2022; police powers and freedom on the street, including stop and search; the regimes governing criminal records, personal data and surveillance; the rise of facial recognition technology in law enforcement; and the architecture of counter-terrorism law. The course closes with an assessment of where freedom under the law stands today, and what is at stake in current debates about the future of the Human Rights Act and the UK's membership of the European Convention on Human Rights. The goal is to equip students to assess critically the extent to which freedom is protected in UK law, both historically and at the present moment. Has protection genuinely declined, or has it shifted shape? Was there ever a 'golden age' for British freedom, or is that itself a useful myth? How relevant is Britain's colonial past to its civil liberties present? And what should we expect of lawyers — academic, practitioner, advocate, judge — in protecting freedom in the years ahead? The teaching of the course is by way of one two-hour seminar weekly, co-taught by Dr Martin and Baroness Chakrabarti. The course is built around statute and case-law together with academic readings. To complete it successfully, students must prepare for each class by working through the relevant materials in advance; seminars are conducted on the assumption that students are familiar with them. There is no comprehensive textbook for the course. Syllabus: The foundations of liberty in English law and its imperial inheritance; civil liberties in twentieth-century Britain; Ireland and Northern Ireland; freedom of speech; freedom of protest and the new public order legislation; police powers and freedom on the street; data, privacy and surveillance; facial recognition technology in law enforcement; counter-terrorism law; and the role of human rights law in the protection of liberty in Britain today.",
+ "teaching": "20 hours of seminars in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "Students will be expected to produce one formative essay.",
+ "indicativeReading": [
+  "Conor Gearty,",
+  "Civil Liberties",
+  "(OUP, 2007)",
+  "Tom Hickman,",
+  "Public Law after the Human Rights Act",
+  "(Hart, 2010),",
+  "Shami Chakrabarti,",
+  "Human Rights: The Case for the Defence",
+  "(Penguin, 2025)",
+  "Richard Martin,",
+  "Policing Human Rights",
+  "(OUP, 2021)",
+  "Aileen Kavanagh,",
+  "Constitutional Review under the UK Human Rights Act",
+  "(CUP, 2009).",
+  "Keith Ewing and Conor Gearty,",
+  "The Struggle for Civil Liberties",
+  "(Oxford, 2000)",
+  "Conor Gearty,",
+  "Homeland Insecurity. The Rise and Rise of Global Anti-terrorism Law",
+  "(Polity, 2024)"
+ ],
+ "assessmentText": "Exam (100%), duration: 150 minutes in the Spring exam period. Exam (100%), duration: 150 Minutes in the Spring exam period",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  },
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 27,
+  "avgClassSizePrevYear": 27,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL216.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

@@ -1,0 +1,99 @@
+{
+ "code": "SP373",
+ "title": "Policing, Security and Globalisation",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Social Policy",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Simon Tawfic"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in International Social and Public Policy, BSc in International Social and Public Policy with Economics, BSc in International Social and Public Policy with Politics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "This course focuses on global developments in modern policing, and on the issues and challenges those developments implicate. The course applies an international and comparative lens to study policing's role and function in the context of contemporary debates about security and globalisation: among other topics, these include the policing of transitional societies and emergent democracies, the privatisation of policing, policing public order, and the effects of social movements — such as the demand to defund the police — that call for radical change in policing and the provision of security.",
+ "teaching": "15 hours of lectures and 15 hours of classes in the Autumn Term. This course has a reading week in Week 6 of Autumn Term. All teaching will be in accordance with the LSE Academic Code (https://info.lse.ac.uk/current-students/lse-academic-code) which specifies a minimum of two hours taught contact time per week when the course is running in the Autumn Term (AT) and/or Winter Term (WT). Social Policy courses are predominantly taught through a combination of in-person lectures and in-person classes/seminars. Further information will be provided by the Course Convenor in the first lecture of the course.",
+ "formativeAssessment": "Presentation. Essay plan. The first piece of formative work will take the form of a short group presentation on 'policing developing democracies' that students will design and deliver before Reading Week. The second piece of formative work will take the form of essay outline - in effect an outline answer to the longer summative essay, including a full introductory paragraph.",
+ "indicativeReading": [
+  "Andreas, P. and Nadelmann, E. (2006).",
+  "Policing the Globe: Criminalization and crime control in international relations",
+  ". Oxford University Press.",
+  "Bell, M. C. (2017). Police reform and the dismantling of legal estrangement.",
+  "The Yale Law Journal",
+  ", 126(7), 2054.",
+  "Bowling, B., Reiner, R., & Sheptycki, J.W. (2019).",
+  "The politics of the police",
+  ". Oxford University Press.",
+  "Bradford, B., Jauregui, B., Loader, I. and Steinberg, J., (Eds). (2016).",
+  "The Sage Handbook of Global Policing",
+  ". Sage.",
+  "Brodeur, J.-P. (2010).",
+  "The Policing Web",
+  ". Oxford University Press.",
+  "Koehler, J., & Cheng, T. (2023). Settling institutional uncertainty: Policing Chicago and New York, 1877–1923.",
+  "Criminology",
+  ", 61(3), 518-545.",
+  "Newburn, T. (ed). (2004).",
+  "Policing: Key Readings",
+  ". Willan."
+ ],
+ "assessmentText": "Presentation (35%). Course participation (15%). Essay (50%, 2000 words). Essay (50%), Coursework (35%, a group presentation which is followed by individual written self-reflections of 1,000 words) & Class Participation (15%, using the best three seminar performances in a term).",
+ "assessment": [
+  {
+   "type": "Presentation",
+   "weight": 35
+  },
+  {
+   "type": "Course participation",
+   "weight": 15
+  },
+  {
+   "type": "Essay",
+   "weight": 50
+  },
+  {
+   "type": "Essay",
+   "weight": 50
+  },
+  {
+   "type": "Coursework",
+   "weight": 35
+  },
+  {
+   "type": "Class participation",
+   "weight": 15
+  }
+ ],
+ "skills": [
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 15,
+  "avgClassSizePrevYear": 15,
+  "capped": "Yes(15)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SP/2026_SP373.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

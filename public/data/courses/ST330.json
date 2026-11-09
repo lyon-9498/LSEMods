@@ -1,0 +1,90 @@
+{
+ "code": "ST330",
+ "title": "Stochastic and Actuarial Methods in Finance",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Statistics",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Erik Baurdoux"
+ ],
+ "prerequisites": "Before taking this course, students must have completed: (ST202 or ST206).",
+ "corequisites": "Students must complete ST302 either before taking this course or in the same year as this course.",
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Actuarial Science. This course is available on the BSc in Actuarial Science (with a Placement Year), BSc in Data Science, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "Theories of financial market behaviour. Applications of stochastic processes and actuarial models in finance. Utility theory. Stochastic dominance and portfolio selection. Measures of investment risk. Mean-variance portfolio theory. Single and multifactor models. The Capital Asset Pricing Model. The efficient market hypothesis. Introduction to financial markets. Model-free relationships. Stochastic models for security prices and interest rates and estimating their parameters. Option pricing: general framework in discrete and continuous time, the Black-Scholes analysis and numerical procedures (binomial models and Cox-Ross-Rubinstein models). The term structure of interest rates: the Vasicek, the Cox-Ingersoll-Ross and other models. Introduction to credit risk.",
+ "teaching": "10 hours of seminars and 20 hours of lectures in the Autumn Term. 10 hours of seminars and 20 hours of lectures in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term. Students will work on and submit formative coursework towards the end of Autumn term and a second set of formative coursework towards the end of Winter term. Feedback and solutions will be provided.",
+ "formativeAssessment": "Two sets of hand-in exercises will also be given during the year.",
+ "indicativeReading": [
+  "N H Bingham & R Kiesel, Risk Neutral Valuation; A Cerny, Mathematical Techniques in Finance: Tools for Incomplete Markets; J Hull, Options, Futures & Other Derivatives; R Jarrow & S Turnbull, Derivative Securities; D Luenberger, Investment Science; Institute of Actuaries core reading notes, Subject CT8."
+ ],
+ "assessmentText": "Exam (90%), duration: 180 minutes in the Spring exam period. Project (10%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 90
+  },
+  {
+   "type": "Project",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 57,
+  "avgClassSizePrevYear": 29,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/ST/2026_ST330.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "course",
+    "code": "ST202"
+   },
+   {
+    "type": "course",
+    "code": "ST206"
+   }
+  ]
+ },
+ "coreqTree": {
+  "type": "course",
+  "code": "ST302"
+ },
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "FM321",
+   "title": "Risk Management and Modelling",
+   "note": null
+  },
+  {
+   "code": "FM322",
+   "title": "Derivatives",
+   "note": null
+  }
+ ],
+ "unlocks": []
+}

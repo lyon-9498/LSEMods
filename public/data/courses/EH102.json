@@ -1,0 +1,74 @@
+{
+ "code": "EH102",
+ "title": "Pre-industrial Economic History",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economic History",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Prof Oliver Volckart"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Economic History and BSc in Economics and Economic History. This course is available on the Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students.",
+ "description": "This course surveys long-term processes of growth and development in late medieval and early modern Europe (eleventh to eighteenth centuries). It focuses on the transition from a hierarchical society of estates or corporate orders to a market society based on legal equality and freedom of contract. There are two core questions: First, why did this transition occur in an evolutionary way in England and the Netherlands, whereas it was severely delayed the rest of Europe? And second, how is it related to the ‘small divergence’ between the Dutch Republic and England on the one side and most of the Continent on the other, where the North-West enjoyed significantly higher living standards and per capita incomes than other countries long before the onset of industrialisation? The course thus raises fundamental questions about societies and economies: Was pre-industrial economic growth transitory and regional? Or was it a recurrent, even normal phenomenon, which however could occasionally be reversed? Was Dutch and British success the result of their social and institutional features? Or was it a combination of geographical factors and good fortune? To what degree did early modern governments help or hinder economic development? Did Europe’s political fragmentation hold back the continent’s development, or did competition between states have beneficial consequences? In conclusion, can we define an optimal combination of social, political, and economic institutions that sustained growth in the past (and thus, perhaps, in the future)? The course has a strong focus on skills training, in particular on essay writing.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. 10 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Students will be expected to produce 1 exercise and 1 other piece of coursework in the AT. Students are expected to produce two pieces of formative written coursework in the Autumn Term. They will give formative presentations on topics that form part of the course content. They will receive structured feedback on their formative coursework.",
+ "indicativeReading": [
+  "Anderson, J.L. (1991): Explaining long-term economic change, Cambridge (Cambridge University Press).",
+  "Cipolla, C.M. ed. (1971/72). The Fontana economic history of Europe, vols. 1 and 2, London (Fontana).",
+  "de Vries, J. (1976). The economy of Europe in an age of crisis, 1600-1750, Cambridge, London, New York etc. (Cambridge University Press).",
+  "Hatcher, J. and Bailey, M. (2001): Modelling the Middle Ages. The History and Theory of England’s Economic Development, Oxford (Oxford University Press).",
+  "Miskimin, H. (1969). The Economy of Early Renaissance Europe 1300-1460. Englewood Cliffs/NJ: Prentice-Hall.",
+  "Miskimin, H. (1977). The Economy of Later Renaissance Europe 1460-1600. Cambridge, London, New York, Melbourne: Cambridge University Press.",
+  "Persson, K. G. (2010). An Economic History of Europe: Knowledge, Institutions and Growth, 600 to the Present. Cambridge: Cambridge University Press."
+ ],
+ "assessmentText": "Exam (70%), duration: 120 minutes in the Spring exam period. Essay (30%, 2000 words). The summative essay is due in Winter Term.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 70
+  },
+  {
+   "type": "Essay",
+   "weight": 30
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 68,
+  "avgClassSizePrevYear": 14,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EH/2026_EH102.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

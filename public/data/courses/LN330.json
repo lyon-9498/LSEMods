@@ -1,0 +1,72 @@
+{
+ "code": "LN330",
+ "title": "French Language and Society 5 (mastery)",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Centre for Language Studies",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Francois Simon",
+  "Sandrine Victor"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": "Completion of the LN230 French Language and Society 4 (Proficiency) course or its equivalent is required. An interview with the course Co-ordinator prior to registration is compulsory. Please see here for information on seeking approval for undergraduate modern language degree courses : https://www.lse.ac.uk/language-centre/undergraduate-degree-courses/degree-courses-as-part-of-an-undergraduate-degree.",
+ "availability": "This course is available on the BA in Geography, BA in Social Anthropology, BSc in Economic History, BSc in Economic History and Geography, BSc in Economics and Economic History, BSc in Environment and Sustainable Development, BSc in Environment and Sustainable Development with Economics, BSc in International Relations, BSc in International Relations and History, BSc in Language, Culture and Society, BSc in Management, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and MA in Modern History. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course has a limited number of places (it is capped) and priority will be given to Centre for Language Studies BSc students and students from other Departments following a Language Specialism. This course is available as an outside option to students on other programmes where regulations permit and on the MA in Modern History. This course is available with permission to General Course students. All students should seek approval from the teacher responsible before completing course selection. Please see here for information on seeking approval for undergraduate modern language degree courses (https://www.lse.ac.uk/languages/undergraduate-degree-programmes/degree-courses-as-part-of-an-undergraduate-degree).",
+ "description": "Further advanced (up to the level of mastery) study of the French language within the framework of social sciences and culture. In a dynamic and communicative way the course develops all four language skills (i.e. speaking, listening, reading and writing) through individual and group work, topical discussions, authentic materials. The focus is on accuracy as well as communication that advance students’ language competence, transferable skills and cultural awareness.",
+ "teaching": "20 hours of seminars in the Autumn Term. 20 hours of seminars in the Winter Term. 2 hours of seminars in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term. Two hours per week. The course is based on a seminar approach and collaborative tasks. Students´ initiative and participation are essential.",
+ "formativeAssessment": "The continuous assessment includes a Research project and various marked tasks in Autumn Term and Winter Term (oral presentations in class, listening comprehension, writing, etc.)",
+ "indicativeReading": [
+  "Students will be advised on any relevant materials at the beginning of the course."
+ ],
+ "assessmentText": "Exam (30%), duration: 90 minutes in the Spring exam period. Oral examination (30%). Continuous assessment (40%). Language courses map to the Common European Framework for Language Learning. This framework defines linguistic proficiency in the four language skills (reading, writing, speaking and listening) at different levels. To pass this course, students are required to achieve a pass mark in each element of the assessment (continuous assessment, oral and written exams).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 30
+  },
+  {
+   "type": "Oral examination",
+   "weight": 30
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 40
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 7,
+  "avgClassSizePrevYear": 7,
+  "capped": "Yes(12)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LN/2026_LN330.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

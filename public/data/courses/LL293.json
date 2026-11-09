@@ -1,0 +1,67 @@
+{
+ "code": "LL293",
+ "title": "Tax and Tax Avoidance",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Eduardo Baistrocchi"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "Taxation is a topic that has throughout history pervaded political debate and is encountered in every area of life. Taxation was one of the very first subjects to be taught at LSE. The teaching of tax law as an academic subject started at LSE, where it was introduced by Professor GSA Wheatcroft in 1957. The syllabus is set out below, although there is some variation of topics selected from year to year, depending on the focus of current debate, and in the order of topics. • The first term of the course introduces the principles and practice of international taxation. It examines how tax law applies to cross-border transactions, with particular emphasis on the global standards that shape national regimes. We begin with the taxation of basic import and export activities, before advancing to the analysis of more complex and artificial structures. These examples serve as case studies for exploring key features of the international tax system, especially those found in double tax conventions and EU law. This transactional analysis is underpinned by the study of foundational concepts essential to the field. Comparative examples are drawn from a wide range of jurisdictions, including G20 countries and global tax hubs. • The second term of the course begins by analysing the value added tax legislation in the UK and the principles relating to UK VAT that derive from European Law and understanding why and how these principles are still relevant following BREXIT. The course then focuses on tax avoidance, looking at questions such as: What is tax avoidance and how does it differ from tax planning? What strategies do individuals and companies adopt to avoid tax? How do judges respond to tax avoidance through anti-avoidance doctrines and rules of interpretation and to what extent is that compatible with the judicial role? How effective can legislative responses to tax avoidance be and what are the limitations on such responses? How can companies be fairly taxed in the digital economy? How have public attitudes to tax avoidance changed over time? Should corporations behave ‘responsibly’ and pay their fair share of taxes, or are they obliged to do whatever they can to maximize shareholder returns? To what extent does professional ethics inform accountants and lawyers who advise on tax avoidance? The approach to these topics is first-and-foremost doctrinal, although it also includes a strong policy perspective. The UK tax code is long and complex. There are also many relevant cases that are required reading too. This course requires students to understand and apply difficult concepts and legislation. By taking this course you should develop the following skills and attributes (i) working with and analysing legislation; (ii) working with and analysing case law; (iii) research skills; (iv) communication skills; (v) professionalism. Students taking this course should be prepared to use a variety of sources ranging from statute and case law to literature on public policy. The precise balance of materials used varies from topic to topic. All the readings set will be accessible and non-mathematical. NO COMPUTATION is required and no knowledge of any discipline other than law is required. The course is open to second- and third-year law students, and experience suggests that it is equally suitable for both years.",
+ "teaching": "20 hours of seminars in the Autumn Term. 20 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term. A variety of methods will be used within the weekly seminars, typically a mix of lecture-style and interactive small group exercises. Student participation is central to both formats. Assistance will be given with methods for statute-based work. Substantial preparation by students will form an integral part of the course.",
+ "formativeAssessment": "Essay. Essay. Students are expected to produce 1 formative assignment per term.",
+ "indicativeReading": [
+  "News Corporation UK v Revenue and Customs Commissioners [2023] STC 446",
+  "Duke of Westminster v Commissioner of Inland Revenue (1935) 19 TC 490",
+  "HMRC v Vermilion Holdings Ltd [2023] UKSC 37",
+  "Dan Neidle, ‘Carried Too Far? A Challenge to the Tax Treatment of Carried Interest in the Private Equity Industry’ (2023) British Tax Review 1, 45-67",
+  "Michael Blackwell, ‘Case note: Unreasonably Limiting Access to the Courts? R (Haworth) v Revenue and Customs Commissioners’ (2022) 85(5) Modern Law Review 1562",
+  "Joshua D Blank, ‘What’s Wrong with Shaming Corporate Tax Abuse?’ (2009) 62(4) Tax Law Review 539",
+  "Reuven Avi-Yonah, ‘Corporate Taxation and Social Responsibility’ (2014) 11(1) NYU Journal of Law & Business 1"
+ ],
+ "assessmentText": "Exam (100%), duration: 210 minutes in the Spring exam period. Selected 'Legislation' may be taken into the exam, with non-verbal markings only.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Communication",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 30,
+  "avgClassSizePrevYear": 30,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL293.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

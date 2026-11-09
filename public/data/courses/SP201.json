@@ -1,0 +1,79 @@
+{
+ "code": "SP201",
+ "title": "Research Methods for Social Policy",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Social Policy",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Shuang Chen"
+ ],
+ "prerequisites": "Students must have completed SP101 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in International Social and Public Policy, BSc in International Social and Public Policy with Economics and BSc in International Social and Public Policy with Politics. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "This course introduces students to tools used by scholars and practitioners in the study of social policy. The focus is on the application of research methods to addressing real-world research questions and policy problems. The goal is to help students transform from consumers to producers of research. Through various hands-on activities, students will gain first-hand experience of the research process from start to finish, and, subsequently, build confidence and competence for conducting independent dissertation research in the third year. In the process, students will develop life-long problem-solving and analytical skills, not only essential for working in the field of social policy but also highly valued by and transferable to other sectors. This course is divided into two parts. SP201.2 in the Autumn Term focuses on research design and qualitative methods. SP201.1 in the Winter Term focuses on quantitative methods, including statistical programming using STATA.",
+ "teaching": "10 hours of lectures and 15 hours of classes in the Autumn Term. 10 hours of lectures and 15 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term. All teaching will be in accordance with the LSE Academic Code which specifies a \"minimum of two hours taught contact time per week when the course is running in the Autumn Term (AT) and/or Winter Term (WT)\". Social Policy courses are predominantly taught through a combination of in-person lectures and in-person classes/seminars. Further information will be provided by the Course Convenor in the first lecture of the course.",
+ "formativeAssessment": "Mock exam. Research design. Poster.",
+ "indicativeReading": [
+  "Weiss, Robert S.",
+  "Learning from strangers: The art and method of qualitative interview studies",
+  ". Simon and Schuster, 1995.",
+  "Imai, Kosuke, and Lori D. Bougher.",
+  "Quantitative Social Science: An Introduction in Stata",
+  ". Princeton University Press, 2021."
+ ],
+ "assessmentText": "Exam (50%), duration: 180 minutes in the Spring exam period. Research project (40%) in Spring Term Week 3. Course participation (10%) weekly.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 50
+  },
+  {
+   "type": "Research project",
+   "weight": 40
+  },
+  {
+   "type": "Course participation",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 58,
+  "avgClassSizePrevYear": 15,
+  "capped": "Yes(60)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SP/2026_SP201.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "course",
+  "code": "SP101"
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

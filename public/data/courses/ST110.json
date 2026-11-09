@@ -1,0 +1,76 @@
+{
+ "code": "ST110",
+ "title": "Elementary Statistical Theory II",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Statistics",
+ "units": 0.5,
+ "studyPeriod": "Winter and Spring Term",
+ "terms": [
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr James Abdey"
+ ],
+ "prerequisites": "Students must have completed ST109 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": "A-level Mathematics.",
+ "availability": "This course is available on the Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course cannot be taken with ST102 Elementary Statistical Theory or ST107 Quantitative Methods (Statistics).",
+ "description": "The course provides a precise and accurate treatment of statistical ideas, methods and techniques. Topics covered are sampling distributions of statistics, point estimation, interval estimation, hypothesis testing, analysis of variance (ANOVA) and linear regression.",
+ "teaching": "15 hours of classes, 10 hours of workshops and 20 hours of lectures in the Winter Term. 2 hours of lectures in the Spring Term. This course will be delivered through a combination of classes, lectures and workshops totalling a minimum of 45 hours in Winter Term. This course does not include a reading week.",
+ "formativeAssessment": "Weekly exercises will be set and students are expected to submit solutions to their class teacher each week for feedback.",
+ "indicativeReading": [
+  "All course materials are made available via Moodle, including notes to accompany the lectures, but this can be supplemented with additional background reading. The recommended supplementary text is:",
+  "Larsen R.J. and M.L. Marx (2017)",
+  "Introduction to Mathematical Statistics and Its Applications",
+  "(sixth edition), Pearson (earlier editions are also fine)."
+ ],
+ "assessmentText": "Exam (100%), duration: 120 minutes, reading time: 10 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 1,
+  "avgClassSizePrevYear": 1,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/ST/2026_ST110.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "course",
+  "code": "ST109"
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "ST102",
+   "title": "Elementary Statistical Theory",
+   "note": null
+  },
+  {
+   "code": "ST107",
+   "title": "Quantitative Methods (Statistics)",
+   "note": null
+  }
+ ],
+ "unlocks": []
+}

@@ -1,0 +1,83 @@
+{
+ "code": "SP399",
+ "title": "Dissertation",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Social Policy",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Anne West"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in International Social and Public Policy, BSc in International Social and Public Policy with Economics and BSc in International Social and Public Policy with Politics. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This is the Social Policy Undergraduate Programmes' Dissertation, and is only available to UG students on Programmes within the Social Policy Department.",
+ "description": "The course aims to equip students with the skills and knowledge needed to produce a dissertation which demonstrates their ability to conduct independent research and develop their own arguments in an academic, impartial way. Students will be required to submit a dissertation of 8,000 words on a topic to be approved by the candidate's Academic Mentor. The dissertation is designed to allow a detailed and thorough exploration of a social policy topic that is of interest to the student and within the field of the degree programme. It may involve original fieldwork, or the critical analysis and appraisal of existing literature.",
+ "teaching": "10 hours of workshops in the Autumn Term. 10 hours of workshops in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term. Students will be allocated an Academic Mentor who will supervise their dissertation. In addition to individual supervision meetings, there will be compulsory workshops in both the Autumn and Winter Term to help students plan and structure their work on the dissertation, as well as additional optional advice/troubleshooting sessions. In the Winter Term, there will also be compulsory presentation sessions: all students will be expected to make a brief presentation on their topic and will receive feedback from attending faculty and peers.",
+ "formativeAssessment": "Presentation. Research report. Students are required to submit research updates in AT and WT and give a mini presentation in WT. The research updates are threshold formative assessments. Students are required to agree their dissertation title with their Academic Mentor and submit it to the Department at a date which will be set by the Department.",
+ "indicativeReading": [
+  "Students will be expected to draw extensively from the reading they have undertaken throughout their programme of study.",
+  "Suggested reading on conducting research projects in Social Policy:",
+  "Alcock, P. et al, 2016.",
+  "The Student's Companion to Social Policy",
+  ". Chichester: John Wiley & Sons Ltd. (5th edition).",
+  "Brinkmann, S. and Kvale, S., 2018.",
+  "Doing Interviews",
+  ". London: SAGE Publications Ltd. (2nd edition).",
+  "Bryman, A., 2016.",
+  "Social Research Methods",
+  ". Oxford: Oxford University Press (5th edition).",
+  "Robson, C. and McCartan, K., 2016.",
+  "Real World Research",
+  ". Hoboken: Wiley-Blackwell (4th edition).",
+  "Seale, C., 2017.",
+  "Researching Society and Culture",
+  ". Thousand Oaks: SAGE Publications Ltd. (4th edition).",
+  "Thomas, G., 2017.",
+  "How To Do Your Research Project",
+  ". London: SAGE Publications Ltd. (3rd edition).",
+  "Yin, R. K., 2003.",
+  "Case Study Research",
+  ". Design and Methods. London: SAGE Publications Ltd. (3rd edition)."
+ ],
+ "assessmentText": "Dissertation (100%, 8000 words) in Spring Term Week 1. Submission is due in ST Week 1. Precise details on date of submission, format and presentation will be issued by the Department.",
+ "assessment": [
+  {
+   "type": "Dissertation",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 52,
+  "avgClassSizePrevYear": 52,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SP/2026_SP399.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

@@ -1,0 +1,79 @@
+{
+ "code": "PB312",
+ "title": "Research Apprenticeship",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Psychological and Behavioural Science",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Sakshi Ghai"
+ ],
+ "prerequisites": "Students must have completed PB130 and PB230 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Psychological and Behavioural Science. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. The number and type of apprenticeship places available each year will be governed by the research taking place in the department of Psychological and Behavioural Science We will do our best to provide apprenticeships to all students that wish to take this course but we may have to limit numbers. Where there are more students wanting to take the course than there are apprenticeships available places will be allocated on an application basis. Once students have a place on the course, they will be asked to shortlist their three preferred apprenticeships and provide a statement explaining why they would like to work in these labs. As far as possible, we hope to allocate students to one of their three choices. However, this may not always be possible; in these cases, we will use the statements provided to inform our decisions.",
+ "description": "This course offers students at the advanced stages of the BSc in Psychological and Behavioural Science to gain experience working as a research apprentice in an active research ‘lab’ within the department. Some labs will host one apprentice, some may host several. Research Apprenticeships offer students a hands-on introduction to research in the department. A lab can be anything from a qualitative study; to an analysis of real-world data; to the development of a theory or concept; to an experimental investigation taking place in the Behavioural Lab for Teaching and Research. A lab is distinct from a project in that it introduces rigour, standards and will have appropriate checks and balances. For each lab, an induction session will introduce the student(s) to the research topics and approach of the lab. After this, structured research training sessions will teach the student(s) the key skills and techniques needed to conduct the research. The student(s) will spend the bulk of their time providing research support; this may take the form of design and preparation of study materials, recruitment of participants, collection of data (e.g. through on-street surveys, running lab experiments, conduct of interviews/focus groups, online media analysis, etc.), and preparation of data for analysis. Where possible, students will also be exposed to training in how the data collected during their time in the lab will be analysed. The student(s) are expected to attend all lab meetings, during which research ongoing in the lab is presented and discussed. The goal of this course is to help students learn the skills needed to conduct successful research by taking part in the day-to-day tasks of a PBS lab. Students will benefit from structured mentoring and feedback from experienced researchers.",
+ "teaching": "The ‘teaching’ on this course will involve active training and participation in an ongoing lab. The specific activities will vary from one lab to another, but they will typically involve an introductory session, several lab meetings and training sessions. You should expect to spend the equivalent of ten term weeks as an apprentice. Given the nature of this course, the exact start and finish times, and how much time is required each week will vary between labs. As an indication, we expect most apprenticeships to start around the middle of Autumn Term and finish around the middle of Winter Term. Students will spend the bulk of their time working on structured research tasks.",
+ "formativeAssessment": "During the apprenticeship students will need to complete two pieces of formative work. This is designed to cement the training that the student will receive and prepare them for the summative assessments: Write a summary of a key text, discussing its implications for the lab’s research. Develop a piece of work support the chosen second assessment (draft of the research report; proposal for the poster; draft of the literature review / annotated bibliography; draft of the further research proposal; plan for the presentation).",
+ "indicativeReading": [
+  "Readings appropriate to the research topic of the labs will be provided by the lab lead(s) at the start of the course. Readings are specific to the labs offering this course, and will cover core readings on the theory, findings & research approaches pertinent to the lab in question."
+ ],
+ "assessmentText": "Learning Log / reflective learning report (50%). Project (50%, 3000 words).",
+ "assessment": [
+  {
+   "type": "Learning log / reflective learning report",
+   "weight": 50
+  },
+  {
+   "type": "Project",
+   "weight": 50
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 12,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PB/2026_PB312.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "course",
+    "code": "PB130"
+   },
+   {
+    "type": "course",
+    "code": "PB230"
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

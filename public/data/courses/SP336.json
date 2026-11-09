@@ -1,0 +1,66 @@
+{
+ "code": "SP336",
+ "title": "Behavioural Public Policy",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Social Policy",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Adam Oliver"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in International Social and Public Policy, BSc in International Social and Public Policy with Economics, BSc in International Social and Public Policy with Politics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students. This course is only available to third year undergraduate students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "The application of behavioural economics and behavioural science to public policy issues has been, and continues to be, a major theme in the policy discourse internationally. This course offers students a thorough grounding in the theory and findings that define behavioural economics, from the major violations of standard economic theory to prospect theory and the theories of human motivation. The course goes on to consider the conceptual policy frameworks that have been informed by behavioural economics, with examples – so called nudge, shove and budge policies – illustrated so as to highlight how these frameworks are applied in practice. Students will also be exposed to the different behavioural-informed schools of thought that have prescribed divergent paths for public sector governance. The course should interest anyone who is concerned with issues pertaining to social and public policy across any sector in any country. The literature consulted in this area is necessarily multidisciplinary, principally encompassing economics, psychology, political science, policy and ethics.",
+ "teaching": "15 hours of lectures and 15 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term. All teaching will be in accordance with the LSE Academic Code which specifies a minimum of two hours taught contact time per week when the course is running in the Autumn Term (AT) and/or Winter Term (WT). Social Policy courses are predominantly taught through a combination of in-person lectures and In person classes/seminars. Further information will be provided by the Course Convenor in the first lecture of the course.",
+ "formativeAssessment": "Essay plan in Winter Term Week 5. Students will be expected to produce 1 piece of coursework in the WT.",
+ "indicativeReading": [
+  "The course text is: Oliver, A. 2017. The Origins of Behavioural Public Policy. Cambridge: Cambridge University Press.",
+  "The above book consists of ten chapters. One chapter each week is essential reading. Additional readings will be given on the reading list, and via advice from the class teacher."
+ ],
+ "assessmentText": "Course participation (15%). Policy paper / report (85%, 2500 words) in Spring Term Week 2.",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 15
+  },
+  {
+   "type": "Policy paper / report",
+   "weight": 85
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 14,
+  "avgClassSizePrevYear": 14,
+  "capped": "Yes(15)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SP/2026_SP336.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

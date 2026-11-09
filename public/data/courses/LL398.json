@@ -1,0 +1,59 @@
+{
+ "code": "LL398",
+ "title": "Half-Unit Dissertation on an approved legal topic",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Stephen Humphreys"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the LLB in Laws. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is available to year 3 LLB students only.",
+ "description": "Students may write a half-unit dissertation on a legal topic approved by the Law School in their third year only. Students wishing to do a half-unit dissertation should first consult their Academic Mentor in the preceding Spring Term about: whether a dissertation is a suitable option for the student; the particular dissertation topic; who might be an appropriate dissertation supervisor. Because this option requires considerable independent study, it is generally not advisable to opt to write a half-unit dissertation unless the student has been achieving marks of an upper second class standard. The dissertation subject must be of a suitable academic character that has not already or will not have been explored in depth in any taught course taken by the student but is related to subjects taught in the School. In light of discussions with their Academic Mentor, a student wishing to pursue this option should approach a potential supervisor for approval. This must be a full-time academic member of staff in the Law School. Once they have their supervisor’s approval, students should select the relevant dissertation course on LSE for You. They will then need to complete the ‘Dissertation Topic Approval form’ (available on LLB Dissertation Moodle page) which needs to be signed off by the student’s Academic Mentor and proposed Dissertation Supervisor early in Autumn Term. Including the initial meeting, students will have four support meetings with their supervisor to guide them through the research process as follows: One initial meeting to establish the broad topic. A second meeting to agree a title, review an outline and see an initial bibliography. A third meeting to discuss progress and difficulties (optional for half-unit essays). A fourth meeting to give feedback on progress to date, to take place before the end of the Winter Term. In order for this feedback meeting to be of use, students will need to have made substantial progress with the preparation of a draft dissertation by the middle of the Winter Term. It is the student’s responsibility to arrange these meetings with the supervisor. Further information can be found on the LLB Dissertation Moodle page and in the LLB Dissertation Handbook (found on the Moodle page).",
+ "teaching": "3 hours of workshops in the Autumn Term. This course has a reading week in Week 6 of Autumn Term. There is no formal teaching for this course, however, there are three one-hour workshops held in the Autumn term for all half-unit and full-unit dissertation students, to orient them to the requirements of writing a dissertation. Beyond that, students will have four support meetings with their dissertation supervisor.",
+ "formativeAssessment": null,
+ "indicativeReading": [
+  "There is no essential reading as such. The LLB Dissertation Moodle page provides full information."
+ ],
+ "assessmentText": "Dissertation (100%, 8000 words). Word limit is 6000-8000 words.",
+ "assessment": [
+  {
+   "type": "Dissertation",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 5,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL398.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

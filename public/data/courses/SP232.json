@@ -1,0 +1,74 @@
+{
+ "code": "SP232",
+ "title": "Health and Social Care Policy",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Social Policy",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Tania Burchardt"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in International Social and Public Policy, BSc in International Social and Public Policy with Economics and BSc in International Social and Public Policy with Politics. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is not available to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "The course equips students with the concepts, tools and knowledge to understand the challenges of health and social care policy in the 21st century, in the differing contexts of the UK and other rich countries, and in low- and middle-income countries. In the first term, we consider the fundamental aims of health and social care policy, including for example health and well-being, health inequalities by ethnicity and social class, public health and health promotion, and health as a human right. We then examine policy approaches and healthcare regimes across different country contexts, including the strengths and weaknesses of different models of healthcare financing and provision, using case studies. In the second term, we move on to think about how to bring about change - both change in people's behaviour through regulation, 'nudge' and incentives, and change in health and social care systems, including an examination of the role played by global pharmaceutical and healthcare companies, and the potential for reform. We investigate the role that evaluations of health and social care play in shaping policy change. Finally, we turn to specific groups and needs, including for example the challenges of mental health policy, child protection, and healthcare needs of sexual minorities.",
+ "teaching": "15 hours of lectures and 13.5 hours of classes in the Autumn Term. 15 hours of lectures and 15 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term. All teaching will be in accordance with the LSE Academic Code which specifies a \"minimum of two hours taught contact time per week when the course is running in the Michaelmas and/or Lent terms\". Social Policy courses are predominantly taught through a combination of in-person Lectures and In person classes/seminars. Further information will be provided by the Course Convenor in the first lecture of the course.",
+ "formativeAssessment": "Continuous assessment. Essay plan in Autumn Term Week 8. There are two formative assignments. The first is to maintain a learning log throughout the course. Weekly prompts will be provided and you will be given time during the class to complete it. The second is to write two detailed essay plans (each approx 500 words plus bibliography) on questions provided about the first two blocks of topics on the course.",
+ "indicativeReading": [
+  "There is no course textbook. A list of selected texts and readings will be included in the reading lists for each week.",
+  "Greener (2021) Comparing Health Systems, Policy Press",
+  "Glasby (2019) The Short Guide to Health and Social Care, Policy Press",
+  "Birn et al (2017) Textbook of Global Health, OUP",
+  "Wouters O, Shadlen K, Salcher-Konrad, M et al (2021), Challenges in ensuring global access to COVID-19 vaccines: production, affordability, allocation, and deployment, The Lancet, Volume 397, Issue 10278, Pages 1023-1034",
+  "Valéry Ridde, Ludovic Queuille & Marame Ndour (2014) Nine misconceptions about free healthcare in sub-Saharan Africa, Development Studies Research, 1:1, 54-63"
+ ],
+ "assessmentText": "Oral examination (70%). Essay (30%, 2000 words) in Winter Term Week 11. There are two linked components of the summative assessment. Firstly, you will write a 2000-word, open-book, essay on a question chosen from a set of questions covering a selection of topics across the course. Secondly, you will have a one-to-one discussion (viva) with a teacher, for approximately 20 minutes, based on your essay. The teacher will ask questions to explore your understanding of what you have written and your ability to relate it to other topics in the course. The viva will be recorded and transcribed for moderation. You will not be assessed on your language or presentation skills.",
+ "assessment": [
+  {
+   "type": "Oral examination",
+   "weight": 70
+  },
+  {
+   "type": "Essay",
+   "weight": 30
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 9,
+  "avgClassSizePrevYear": 9,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SP/2026_SP232.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

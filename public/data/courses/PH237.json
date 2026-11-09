@@ -1,0 +1,61 @@
+{
+ "code": "PH237",
+ "title": "Logic, Machines, and Incompleteness",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Philosophy, Logic and Scientific Method",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Xinhe Wu"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Philosophy and Economics, BSc in Philosophy, Logic and Scientific Method, BSc in Philosophy, Politics and Economics, BSc in Politics and Philosophy, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students.",
+ "description": "This course will focus mainly on restrictive meta-theoretic results in mathematical logic: in particular, the compactness theorem, Gödel’s incompleteness theorems, and the halting problem. Along the way, the course also cover the soundness and completeness theorems of classical logic. In this course, we will also discuss the plethora of deep philosophical implications of these results, including but not limited to: Can we possibly obtain mathematical knowledge, or even just talk about the mathematical objects? How can we be certain that our knowledge of any formal system is reliable? Can mathematicians be replaced by machines/computers? Are human minds machines (computers)?",
+ "teaching": "15 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": null,
+ "indicativeReading": [
+  "Zach, R (2021). Sets, Logic, Computation. Available online.",
+  "Smith, P. (2016). Godel Without (Too Many) tears. Available online."
+ ],
+ "assessmentText": "Exam (100%), duration: 180 minutes in the Spring exam period. The exam questions are chosen from a list of questions that are made available at the beginning of the academic year (\"seen exam\").",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 18,
+  "avgClassSizePrevYear": 9,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PH/2026_PH237.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

@@ -1,0 +1,73 @@
+{
+ "code": "GV337",
+ "title": "Politics, Crime, and Criminal Justice in Comparative Perspective",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Nirvikar Jassal"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Social Anthropology, BSc in History and Politics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations, BSc in Politics and Philosophy and BSc in Social Anthropology. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "Newspaper reports often discuss “police reform” or “criminal justice reform.” Yet, these terms are likely to have different meanings across countries, and how states’ political systems are organized may help or hinder change. This course explores the intersection between politics and criminal justice (law enforcement and the judiciary) in the advanced industrialized democracies such as the United States as well as those in the Global South. Questions that the course will cover include: do judges make biased decisions based on race or gender? Can community policing improve citizen perceptions of law enforcement? Do government-mandated hiring quotas for women and minority groups affect police legitimacy? Broadly, the course grapples with empirical social science scholarship – primarily from political science and economics – that uses a variety of analytical techniques to explore inequities in citizen interactions with the police and courts, how inequalities are perpetuated, and which governmental reforms have been shown to be more effective than others in reducing crime, making law-and-order institutions accountable, and mitigating bias.",
+ "teaching": "20 hours of seminars in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "Essay plan. As a formative assessment, students will be expected to produce an outline for their final essay. This will enable them to gain feedback for their final or summative assessment.",
+ "indicativeReading": [
+  "Blair, Robert A., Sabrina M. Karim, and Benjamin S. Morse. 2019. “Establishing the Rule of Law in Weak and War-Torn States: Evidence from a Field Experiment with the Liberian National Police.”",
+  "American Political Science Review",
+  "113 (3): 641–57.",
+  "Abrams, David S., Marianne Bertrand, and Sendhil Mullainathan. 2012. “Do Judges Vary in Their Treatment of Race?”",
+  "The Journal of Legal Studies",
+  "41 (2): 347–83.",
+  "Vanden Eynde, Oliver, Patrick M. Kuhn, and Alexander Moradi. 2018. “Trickle-Down Ethnic Politics: Drunk and Absent in the Kenya Police Force (1957–1970).”",
+  "American Economic Journal: Economic Policy",
+  "10 (3): 388–417.",
+  "Blair, Graeme, Jeremy M. Weinstein, Fotini Christia, Eric Arias, Emile Badran, Robert A. Blair, Ali Cheema, Ahsan Farooqui, Thiemo Fetzer, and Guy Grossman. 2021. “Community Policing Does Not Build Citizen Trust in Police or Reduce Crime in the Global South.”",
+  "Science",
+  "374 (6571).",
+  "McCrary, Justin. 2007. “The Effect of Court-Ordered Hiring Quotas on the Composition and Quality of Police.”",
+  "American Economic Review",
+  "97 (1): 318–53."
+ ],
+ "assessmentText": "Essay (100%, 3000 words) in Winter Term Week 1. The summative assessment comprises one final take-home essay which will be either (a) an essay on the readings or, alternatively, (b) on an original research topic following discussion with the convenor.",
+ "assessment": [
+  {
+   "type": "Essay",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 16,
+  "avgClassSizePrevYear": 16,
+  "capped": "Yes(17)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV337.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

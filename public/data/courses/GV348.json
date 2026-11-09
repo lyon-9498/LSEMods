@@ -1,0 +1,67 @@
+{
+ "code": "GV348",
+ "title": "Advanced Topics in Political Science B: Political Violence",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Kasia Nalewajko"
+ ],
+ "prerequisites": "Students must have completed GV101 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Social Anthropology, BSc in History and Politics, BSc in International Social and Public Policy with Politics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations, BSc in Politics and Philosophy and BSc in Social Anthropology. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "This course is devoted to the advanced study of key themes in political science, providing students with critical understanding of theories and methods being applied in contemporary research in comparative politics, political economy, political behaviour, or public policy. The specific theme will vary from year to year depending on the instructor teaching on this course. For any given topic, the course will cover key foundational and advanced concepts, relevant academic literatures, theories and methods being used in political science research, and applications to contemporary political issues and debates. Theme for 2026-27 WT: Political Violence Although political violence is a long-standing social phenomenon, its systematic study has only recently become central within political science and related disciplines. Since the mid-1990s, the field has developed into one of the most dynamic areas of research, bringing together scholars with diverse regional expertise and methodological approaches. This course introduces students to the core debates as well as recent advances in the study of political violence. We will address a set of guiding questions: What is political violence? Are different forms of political violence – such as civil war, riots, state repression, or genocide – studied within a common framework? What are the main research questions shaping the field? How do methodological approaches, theoretical perspectives, and empirical findings differ between macro and micro-level analyses? To what extent is political violence a dynamic and endogenous process? And to what extent has the field succeeded in producing cumulative empirical knowledge?",
+ "teaching": "10 hours of lectures and 15 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Essay (1000 words).",
+ "indicativeReading": [
+  "Course readings will vary depending on the particular topic being offered in a given year, but will generally include readings from articles in political science journals such as:",
+  "American Political Science Review",
+  "World Politics",
+  "Comparative Political Studies",
+  "Perspectives on Politics"
+ ],
+ "assessmentText": "Exam (100%), duration: 120 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV348.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "course",
+  "code": "GV101"
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

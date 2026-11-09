@@ -1,0 +1,109 @@
+{
+ "code": "ST327",
+ "title": "Market Research: An Integrated Approach",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Statistics",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr James Abdey",
+  "Dr Karsten Shaw"
+ ],
+ "prerequisites": "Before taking this course, students must have completed: (MG205 or ST102 or ST107) or (EC1C1 and ST109).",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Actuarial Science, BSc in Actuarial Science (with a Placement Year), BSc in Data Science, BSc in Management, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "The main ideas and applications of market research techniques. ST327.1 Topics covered are introduction to market research, defining the market research problem, research design, internal secondary data and the use of databases, qualitative research: focus group discussions, projective techniques, survey and quantitative observation techniques, measurement and scaling: fundamentals, comparative and non-comparative scaling, questionnaire design, sampling: design and procedures, final and initial sample size determination, cross-tabulation and hypothesis testing, analysis of variance and covariance, correlation and regression, discriminant analysis, factor analysis, cluster analysis and conjoint analysis. ST327.2 Case Studies: Students use the information and techniques gained from ST327.1 to carry out a co-operative Market Research Case Study. Individual write up of the Case Study forms part of the assessment.",
+ "teaching": "10 hours of classes and 20 hours of lectures in the Autumn Term. 6 hours of lectures in the Winter Term. 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Winter Term. This course will be delivered through a combination of classes and lectures totalling a minimum of 36 hours across Autumn Term and Winter Term. This course does not include a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "Students are given weekly exercises to work on for discussion in class.",
+ "indicativeReading": [
+  "Abdey, J.S. (2023)",
+  "Business Analytics: Applied Modelling and Prediction",
+  "(1st edition), Sage Publications.",
+  "Malhotra, N.K. (2019)",
+  "Marketing Research: An Applied Orientation",
+  "(7th edition), Pearson (earlier editions are also fine)."
+ ],
+ "assessmentText": "Exam (60%), duration: 120 minutes in the Spring exam period. Presentation (20%). Case analysis / study (20%). The assessed Case Study work is split into two parts; a group presentation and an individual piece of coursework.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 60
+  },
+  {
+   "type": "Presentation",
+   "weight": 20
+  },
+  {
+   "type": "Case analysis / study",
+   "weight": 20
+  }
+ ],
+ "skills": [
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 73,
+  "avgClassSizePrevYear": 15,
+  "capped": "Yes(70)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/ST/2026_ST327.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "course",
+    "code": "MG205"
+   },
+   {
+    "type": "course",
+    "code": "ST102"
+   },
+   {
+    "type": "course",
+    "code": "ST107"
+   },
+   {
+    "type": "and",
+    "children": [
+     {
+      "type": "course",
+      "code": "EC1C1"
+     },
+     {
+      "type": "course",
+      "code": "ST109"
+     }
+    ]
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "ST307",
+   "title": "Aspects of Market Research",
+   "note": null
+  }
+ ],
+ "unlocks": []
+}

@@ -1,0 +1,81 @@
+{
+ "code": "EC331",
+ "title": "Quantitative Thesis",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economics",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Allison Green"
+ ],
+ "prerequisites": "Before taking this course, students must have completed: EC2C1 or (EC2C3 and EC2C4).",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Econometrics and Mathematical Economics. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "This course provides an opportunity to learn how to do independent quantitative economic research at an advanced level. Students are expected to pursue research on a question of their own choice under the supervision of a member of staff. They are expected to formulate an initial proposal near the start of AT in order to be matched with a supervisor, refining their choice into a manageable research question during that term. Following independent work during AT, a seminar in week 9 will review student progress. In the WT seminars, each student will present a preliminary outline of the results for comments by fellow students and teachers, and later a follow-up presentation on further, more final results and a draft thesis. Seminars in WT are formally timetabled as classes.",
+ "teaching": "4 hours of seminars in the Autumn Term. 20 hours of seminars in the Winter Term. In week 11 of the AT and the WT students will work independently (with supervisory advice).",
+ "formativeAssessment": "Students are required to prepare material for their presentations in the seminar, but this is not formally assessed. Students are additionally expected to participate in discussion on the presentations of other students as this is part of the training of a research economist, but this is also not formally assessed.",
+ "indicativeReading": [
+  "As each student chooses an individual research question, there is no common reading list for this course."
+ ],
+ "assessmentText": "Dissertation (100%, 10000 words). A dissertation (up to 10,000 words, not including abstract, footnotes, bibliography and tables) on an approved subject will be required to be submitted in the Spring term.",
+ "assessment": [
+  {
+   "type": "Dissertation",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Application of information skills",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 14,
+  "avgClassSizePrevYear": 14,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EC/2026_EC331.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "course",
+    "code": "EC2C1"
+   },
+   {
+    "type": "and",
+    "children": [
+     {
+      "type": "course",
+      "code": "EC2C3"
+     },
+     {
+      "type": "course",
+      "code": "EC2C4"
+     }
+    ]
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

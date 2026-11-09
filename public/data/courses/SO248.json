@@ -1,0 +1,72 @@
+{
+ "code": "SO248",
+ "title": "Gender and Society",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Sociology",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Michael Stack"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Language, Culture and Society, BSc in Sociology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is not available as an outside option to students on other programmes. This course is available with permission to General Course students. This course has a limited number of places (it is capped). Places are allocated on a first come first served basis.",
+ "description": "The course will explore the meaning of gender in contemporary society. It considers gendered relations of power and the articulation of gender with other kinds of social difference, such as race, class and sexuality. A variety of theoretical perspectives will be applied to a number of substantive issues of contemporary concern. Indicative topics include: feminism; masculinities; gender and sexuality; decolonising gender; queer theory; gender and the media.",
+ "teaching": "This course has a reading week in Week 6 of Winter Term. This course is usually delivered through a combination of lectures and seminars. There will be two hours or more of teaching each week in WT. There will also be a revision session in early ST.",
+ "formativeAssessment": "Students will be expected to prepare one piece of formative assessment.",
+ "indicativeReading": [
+  "S Benhabib et al, Feminist Contentions: A Philosophical Exchange, Routledge, 1995",
+  "S Ahmed, Living a Feminist Life, Durham and London: Duke University Press, 2017",
+  "C Mohanty, Feminism Without Borders: Decolonizing Theory, Practicing Solidarity, Durham Duke University Press, 2003",
+  "A Clarke and D Haraway (Eds.), Making Kin not Population, Chicago: Prickly Paradigm Press, 2018",
+  "A Davis, Are Prisons Obsolete? New York: Seven Stories Press, 2003",
+  "J Halberstam, Trans: A Quick and Quirky Account of Gender Variability, Berkeley, CA: University of California Press, 2018",
+  "A Kafer, Feminist, Queer, Crip, Bloomington, IN: Indiana University Press, 2013",
+  "C Thompson, Making Parents, Cambridge, MA: MIT Press, 2005",
+  "R Ray, J Carlson, A Andrews (Eds.), The Social Life of Gender, Thousand Oaks, CA: Sage, 2017",
+  "A more detailed reading list will be provided at the beginning of the course."
+ ],
+ "assessmentText": "Presentation (20%). This component of assessment includes an element of group work. Essay (80%). The group presentation to be completed in the WT. The essay assignment takes the form of a take home exam (from which two questions must be answered) in the spring exam period, to be completed within a specified five-day time period. Attendance at all classes and submission of all set coursework is required.",
+ "assessment": [
+  {
+   "type": "Presentation",
+   "weight": 20
+  },
+  {
+   "type": "Essay",
+   "weight": 80
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 25,
+  "avgClassSizePrevYear": 13,
+  "capped": "Yes(34)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SO/2026_SO248.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

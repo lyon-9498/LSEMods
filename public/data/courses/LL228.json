@@ -1,0 +1,62 @@
+{
+ "code": "LL228",
+ "title": "European Union Law",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Professor Floris De Witte"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. It is recommended that this course is taken in the second year of the LLB. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "The EU is central to all of the most pressing challenges that we face: migration, environment, Russia’s invasion of Ukraine, rule-of-law backsliding, AI regulation. It is the biggest and most ambitious experiment with governance beyond the state. This course focuses on how the EU works, and how it has navigated the tension between, on the one hand, the commitment to ‘do things together’, solve collective problems by cooperation and the creation of institutions beyond the state, and, on the other hand, the desire for domestic self-rule, national interests and political identities. It covers the basic institutional, constitutional, and substantive discussions that animate EU law and that influence the EU-UK relationship. It covers the EU law aspects of the GLD and SQE. The course is composed of two parts. In the first weeks, we look at the EU’s institutional and legal structure. It covers the legislative process, the judicial institutions and the doctrines that are central to its legal order. But these institutional discussions are the backdrop for the more pertinent questions that we ask: what is the ‘point’ of the EU? And how should the EU shape its institutional and judicial structures in accordance with that ‘point’? Is it about creating a federal Europe or about protecting Member State interests? Should it be about technocratic expertise or citizens preferences? Is and should law be used as a weapon to defend EU values against the Member States? The second part of the course moves us from questioning how the EU works to what it actually does. We look at the most important policy domains in which the EU engages, covering the free movement of persons, the internal market, fundamental rights and its relationship to the rest of the world, including the UK. At the end of the course you will be able to critically and independently assess both the legal structure of the EU as well as the political and social context within which it operates. Teaching and learning activities will include lecture elements as well as facilitated synchronous discussions and problem solving. Topics include: • Understanding EU Law • Institutions and Law-Making • Democracy • Legal Order • Judicial System • Internal Market • Free Movement of Persons • Values • Brexit I",
+ "teaching": "20 hours of lectures and 9 hours of classes in the Autumn Term. This course has a reading week in Week 6 of Autumn Term. Essays will be set around reading week to allow students to dedicate time to writing skills.",
+ "formativeAssessment": "Students will be expected to produce one essay of 1,500 words in the Autumn Term.",
+ "indicativeReading": [
+  "- Dawson & De Witte, EU Law and Governance (CUP 2022).",
+  "- K. Hayward, 'Flexible and Imaginative: The EU's Accommodation of Northern Ireland in the EU-UK Withdrawal Agreement' (2021) 58 International Studies 201.",
+  "- Pavone & Keleman, ‘The Evolving Judicial Politics of European Integration: The European Court of Justice and national courts revisited’ (2019) ELJ.",
+  "- Roederer-Rynning and Greenwood, ‘Black boxes and open secrets: trilogues as ‘politicised diplomacy’ (2021) 44 West European Politics 485.",
+  "- V. Perju, ‘Against Bidimensional Supremacy in EU Constitutionalism’ (2020) GLJ 1007."
+ ],
+ "assessmentText": "Exam (100%), duration: 150 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 179,
+  "avgClassSizePrevYear": 14,
+  "capped": "Yes(195)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL228.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

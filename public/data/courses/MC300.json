@@ -1,0 +1,65 @@
+{
+ "code": "MC300",
+ "title": "Media, Communication and Power",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Media and Communications",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Lee Edwards"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is not available to General Course students. The course is open to final-year students from all undergraduate programmes, where regulations permit.",
+ "description": "This course offers an opportunity to develop critical knowledge and expertise on media, communication and technology. Students learn to analyse how media and communication, as industries, technologies and practices, operate in contemporary societies. We will reflect on their social, political and cultural impact on the world around us and their role as a powerful mode of knowledge creation and public engagement. The course will familiarise students with key approaches of media and communication studies and pose questions around power when it comes to topics such as audiences and civic participation, platforms, algorithms and AI, or the politics of representation and identities. Students will be able to reflect on how different types of media power are associated with their ‘home’ discipline, and how media and communications matters for how various sectors are narrated, justified and understood as a result of the way they communicate, and the way media represent them. Learning outcomes By the end of this course, students will be able to: Critically reflect on the social, political and cultural impact of media and communication industries, technologies and practices on the world around us and its role as a powerful mode of knowledge creation and public engagement. Describe and analyse the use and impact of a variety of media and communication practices, technologies and industries. Synthesise and critically reflect on different aspects of their learning from the different theoretical, methodological and epistemological perspectives introduced in this course and across their studies. Demonstrate resilience, creativity and adaptability in their approach to their studies.",
+ "teaching": "10 hours of seminars and 10 hours of lectures in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Annotated Bibliography",
+ "indicativeReading": [
+  "Hodkinson, P. (2024). Media, Culture and Society. An Introduction. 3rd edition. London: SAGE."
+ ],
+ "assessmentText": "Exam (100%), duration: 120 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 16,
+  "avgClassSizePrevYear": 16,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MC/2026_MC300.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

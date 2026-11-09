@@ -1,0 +1,71 @@
+{
+ "code": "ST304",
+ "title": "Time Series and Forecasting",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Statistics",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Oliver Feng"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Actuarial Science, BSc in Actuarial Science (with a Placement Year), BSc in Data Science, BSc in Economics and Data Science, BSc in Mathematics with Data Science, BSc in Mathematics with Economics, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is not capped, any student that requests a place and meet the criteria will be given one.",
+ "description": "This course introduces core statistical models and methods for analysing univariate time series data. The theory and its applications are explored in detail, with an emphasis on quantifying temporal dependence. The following topics will be covered: Time series as stochastic processes; stationarity; autocovariance and autocorrelation: definitions, examples and estimation. Autoregressive moving average (ARMA) processes: causality, invertibility, autocorrelation and partial autocorrelation calculations. Statistical analysis: the Box–Jenkins methodology; trend and seasonality adjustments; ARMA model selection; parameter estimation via Yule–Walker, least squares and maximum likelihood; model diagnostics; forecasting via best linear prediction. Applications to real datasets using R. Introduction to financial time series and conditionally heteroscedastic models: ARCH, GARCH and extensions. Spectral analysis in the frequency domain (time permitting).",
+ "teaching": "10 hours of seminars and 20 hours of lectures in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Weekly problem sheets and a practice data analysis task.",
+ "indicativeReading": [
+  "Peter J. Brockwell and Richard A. Davis, Introduction to Time Series and Forecasting",
+  "Robert H. Shumway and David S. Stoffer, Time Series Analysis and Its Applications: With R Examples",
+  "Christopher Chatfield, The Analysis of Time Series: An Introduction",
+  "Ruey S. Tsay, An Introduction to Analysis of Financial Data with R",
+  "Peter J. Brockwell and Richard A. Davis, Time Series: Theory and Methods",
+  "Christian Francq and Jean-Michel Zakoïan, GARCH Models: Structure, Statistical Inference and Financial Applications"
+ ],
+ "assessmentText": "Exam (90%), duration: 120 minutes in the Spring exam period. Practical test (10%) in Winter Term Week 10.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 90
+  },
+  {
+   "type": "Practical test",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 56,
+  "avgClassSizePrevYear": 14,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/ST/2026_ST304.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

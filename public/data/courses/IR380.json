@@ -1,0 +1,76 @@
+{
+ "code": "IR380",
+ "title": "The Politics of Inequality and Development",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International Relations",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Julie Lespinasse"
+ ],
+ "prerequisites": "Students must have completed IR206 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": "Some background knowledge of international political economy, such as that provided in IR206 International Political Economy, will be useful to students taking this course.",
+ "availability": "This course is available on the BSc in International Relations, BSc in International Relations and Chinese, BSc in International Relations and History, BSc in Politics and International Relations, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is not available as an outside option to students on other programmes. This course is available with permission to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "This course examines the interaction between markets and states to understand the causes and consequences of economic development and inequality. We will explore these topics in light of contemporary theoretical, substantive, and methodological debates within the fields of international and comparative political economy. The empirical focus of this course is the developing world. We will cover case studies in a variety of regions, including Latin America, Africa, Middle East, Asia, and Eastern Europe. However, because the approach of this course is comparative, historical, and analytical, to disentangle patterns in these regions we will also discuss the trajectories of advanced economies such as the United States and England. The course is divided in two main parts. The first one is dedicated to exploring within country income and wealth inequalities. We will address the following questions: What are the political (and market) forces behind inequality? What can be done to curb down inequality and what is the role of the state in this process? How do citizens’ preferences affect and are affected by inequality? Furthermore, we will examine the political consequences associated with the growing spread of income and wealth inequalities, particularly, its effects on regime type, democratic backsliding, the political influence of the top 1%, and recent trends in political polarization. The second part of the course is devoted to addressing between countries economic inequality, in other words, why are some countries wealthier than others? To answer this question, we will study why some countries have developed earlier (and more) than others and why some have fell behind.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term. There will be 10 weekly lectures of one hour each, shared with IR480. In addition, starting in Week 1, lectures will be followed by a weekly one hour class, where the required readings and lecture content will be discussed. Students are expected to read all required readings before attending the lectures and to actively engage during both the lecture and the seminar sessions.",
+ "formativeAssessment": "A 2–3 page outline due by the end of Reading Week, including: research question, country selection, brief literature review, and proposed methodology.",
+ "indicativeReading": [
+  "Piketty, T. (2013). Capital in the 21st Century. Harvard University Press. (Chapter 1).",
+  "Milanovic, B. (2016). Global inequality: A New Approach for the Era of Globalization. Harvard University Press. (Chapters 1-3).",
+  "Lockwood, E. (2021). The international political economy of global inequality. Review of International Political Economy, 28(2), 421-445.",
+  "Atkinson, A. (2015). Inequality: What can be done? Harvard University Press (chapters 1-3).",
+  "Kuznets, S. (1955). Economic growth and income inequality. The American Economic Review, 45(1), 1-28.",
+  "Milanovic, B. (2010). The haves and the have-nots: A brief and idiosyncratic history of global inequality. Basic Books (AZ)."
+ ],
+ "assessmentText": "Presentation (10%). Research paper (90%, 3000 words). A research paper analysing inequality either as a single or comparative case between two countries or a subnational case within a country, applying course theory and empirical evidence. Due by: January 2025 (exact dates TBC). Students may draw on insights from their weekly case study presentations but must conduct independent research (90%, 3000 words)",
+ "assessment": [
+  {
+   "type": "Presentation",
+   "weight": 10
+  },
+  {
+   "type": "Research paper",
+   "weight": 90
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 25,
+  "avgClassSizePrevYear": 13,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/IR/2026_IR380.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "course",
+  "code": "IR206"
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

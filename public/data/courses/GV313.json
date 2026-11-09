@@ -1,0 +1,63 @@
+{
+ "code": "GV313",
+ "title": "Politics of Trade in Comparative Perspective",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Stephanie Rickard"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in History and Politics, BSc in International Social and Public Policy with Politics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations and BSc in Politics and Philosophy. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is not available to General Course students. This course is capped at two groups.",
+ "description": "The course focuses on the role of interests and institutions in the process and formulation of trade policy. We examine the influences of interests and institutions in trade policy-making, focusing predominantly on developed countries. We draw on theories from economics and political science and analyze these using both historical and contemporary examples, and do so from a comparative perspective, rather than an international relations perspective. The primary focus of the course is on policy outcomes.",
+ "teaching": "15 hours of lectures and 15 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Continuous assessment weekly. Weekly writing assignments in the WT.",
+ "indicativeReading": [
+  "Hiscox, Michael. (2002) “Commerce, Coalitions, and Factor Mobility: Evidence from Congressional Votes on Trade Legislation.” American Political Science Review 96(3): 593-608.",
+  "Grossman, Gene M. and Elhanan Helpman. (1994) “Protection for Sale.” The American Economic Review 84(4): 833-850.",
+  "Evans, Carolyn. (2009) “A Protectionist Bias in Majoritarian Politics: An Empirical Investigations.” Economics & Politics 21(2): 278-307.",
+  "Milner, Helen V. and Keiko Kubota. (2005) “Why the Move to Free Trade? Democracy and Trade Policy in the Developing Countries.” International Organization 59 (Winter): 107-144."
+ ],
+ "assessmentText": "Essay (100%, 3000 words) in Spring Term Week 1.",
+ "assessment": [
+  {
+   "type": "Essay",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 33,
+  "avgClassSizePrevYear": 17,
+  "capped": "Yes(34)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV313.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

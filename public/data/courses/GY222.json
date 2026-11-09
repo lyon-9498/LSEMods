@@ -1,0 +1,74 @@
+{
+ "code": "GY222",
+ "title": "Applied Environmental Economics",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Geography and Environment",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Eugenie Dugoua"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Environment and Sustainable Development with Economics. This course is available on the BA in Geography, BSc in Economic History and Geography, BSc in Environment and Sustainable Development, BSc in Geography with Economics, BSc in Psychological and Behavioural Science, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. The number of available spots in this course is limited, and enrolment is on a first-come, first-served basis. It is not necessary to seek authorization from the course instructors, nor should you contact them to be placed on a waiting list, as no waiting list exists for this course. Should the course reach full capacity, places may become available in Week 1 or later if some students decide to withdraw.",
+ "description": "This course is an introduction to economic principles in the analysis of environmental change and natural resource use and in designing appropriate policy responses. The first part of the course primarily covers the concepts and tools of environmental and resource economics, such as the evaluation of regulatory and market-based instruments in controlling pollution; moral suasion and voluntary regulation; the economics of renewable resources (e.g. fisheries); the economics of non-renewable resources (e.g., fossil fuels and minerals). The second part applies these concepts and tools to provide an economic perspective on real-world policy issues. Topics covered include the following: cost-benefit analysis and environmental valuation; stated and revealed preferences methods (and some behavioural considerations); sustainable development; biodiversity; climate change; energy; directed technological change and green innovation; health and the environment.",
+ "teaching": "15 hours of lectures and 7 hours of classes in the Autumn Term. 13.5 hours of lectures and 6 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term. In the Department of Geography and Environment, teaching will be delivered through a combination of classes/seminars, pre-recorded lectures, live online lectures and other supplementary interactive live activities.",
+ "formativeAssessment": "Students will be expected to produce non-assessed coursework throughout the year that will include at least one essay and may be asked to give class presentations.",
+ "indicativeReading": [
+  "Detailed reading lists will be provided to support each course component.",
+  "For an overview and introduction to the main issues covered by the course, students may wish to consult the following:",
+  "Field, B., & Field, M. K. (2016). Environmental economics. McGraw-Hill Education.",
+  "Keohane, N. O., & Olmstead, S. M. (2016). Markets and the Environment. Island Press.",
+  "Kolstad, C. (2011). Intermediate environmental economics: International edition. OUP Catalogue",
+  "OECD. (2018). Cost-Benefit Analysis and the Environment: Further Developments and Policy Use. OECD Publishing."
+ ],
+ "assessmentText": "Exam (90%), duration: 180 minutes in the Spring exam period. Quiz (10%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 90
+  },
+  {
+   "type": "Quiz",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 99,
+  "avgClassSizePrevYear": 33,
+  "capped": "Yes(100)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GY/2026_GY222.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": [
+  "GY329"
+ ]
+}

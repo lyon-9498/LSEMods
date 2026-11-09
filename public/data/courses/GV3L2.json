@@ -1,0 +1,82 @@
+{
+ "code": "GV3L2",
+ "title": "The Politics and Policy of Climate Change and Sustainability",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Michael Lerner"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Social Anthropology, BSc in History and Politics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations, BSc in Politics and Philosophy and BSc in Social Anthropology. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course has a limited number of places, and demand is typically very high. This course is capped at 1 group.",
+ "description": "This course introduces students to the policy interventions and underlying political dynamics that shape the pace and direction of efforts to mitigate climate change and improve sustainability. Students unpack the conceptual foundations of climate politics, assess climate and sustainability problems across a variety of practical cases, and learn to prescribe and justify policy interventions to accelerate sustainability transitions. A unifying theme of the course is its frequent attention to the political economy of climate (in)action. Specific topics include carbon lock-in; climate activism and obstruction; environmental authoritarianism; national climate institutions; corporate climate governance; just transition agreements; energy subsidies and carbon pricing; and geoengineering. The case studies in this course focus primarily, but not exclusively, on domestic environmental politics in advanced industrialized democracies. LSE is currently evaluating the use of edit tracking tools for AI-resilient assessment. This course might use edit tracking tools for assessments.",
+ "teaching": "10 hours of lectures and 15 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Mock exam. Video. Students will be expected to submit formative assessment in the WT.",
+ "indicativeReading": [
+  "• Carter, Neil.",
+  "The Politics of the Environment: Ideas, Activism, Policy",
+  ". Cambridge University Press (2018).",
+  "• Seto, Karen C., et al. “Carbon lock-in: Types, causes, and policy implications.”",
+  "Annual Review of Environment and Resources",
+  "41 (2016): 425-452.",
+  "• Colgan, Jeff D., Jessica F. Green, and Thomas N Hale. “Asset revaluation and the existential politics of climate change.”",
+  "International Organization",
+  "75.2 (2021): 586–610.",
+  "• Vormedal, Irja and Jonas Meckling. “How foes become allies: The shifting role of business in climate politics.”",
+  "Policy Sciences",
+  "57 (2024): 101–124.",
+  "• Breetz, Hanna, Matto Mildenberger, and Leah Stokes. “The political logics of clean energy transitions.”",
+  "Business and Politics",
+  "20.4 (2018): 492-522.",
+  "• Hochstetler, Kathryn (2021).",
+  "Political Economies of Energy Transition: Wind and Solar Power in Brazil and South Africa",
+  ". Cambridge University Press. Chapter 1."
+ ],
+ "assessmentText": "Exam (85%), duration: 120 Minutes in the Spring exam period. Video (15%) in Spring Term Week 2. Students will create up to two 4–6 minute video blog posts interpreting a recent event through the lens of course material (one must be uploaded in the first half of term, and one in the second half of term), of which one will be submitted for assessment.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 85
+  },
+  {
+   "type": "Video",
+   "weight": 15
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 18,
+  "avgClassSizePrevYear": 18,
+  "capped": "Yes(17)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV3L2.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

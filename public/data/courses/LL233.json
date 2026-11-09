@@ -1,0 +1,72 @@
+{
+ "code": "LL233",
+ "title": "Law of Evidence",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Abenaa Owusu-Bempah",
+  "Dr Federico Picinali"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "If a person is suspected of committing a crime, how does the prosecution go about proving that they are guilty? Are there any restrictions on the type of evidence that the prosecution can use to prove its case? What protections does the law offer to defendants in order to safeguard them against false conviction? Is accurate decision-making all that matters in the criminal trial? These are among the central questions in the law of criminal evidence, that is, the set of rules governing the production of evidence, as well as its admissibility and its use in criminal trials. This course concentrates on criminal, rather than civil, evidence. Emphasis is placed on matters of principle, conceptual issues and the most significant legal rules. The aims of the course are to teach students how to reason about evidence, and to encourage them to reflect critically on the modern law of criminal evidence. At a more detailed level, we consider how inferences are drawn from evidence, and how basic ideas of probability can give insights on this process. We study the standard of proof, asking whether a high standard such as ‘proof beyond reasonable doubt’ is justified. As far as pre-trial procedures are concerned, we examine – among other things – how the police gain confessions from suspects and produce eyewitness identification evidence; we also look at how the law regulates the admissibility of these types of evidence. A central theme on the course is the question as to what makes a trial fair. The European Convention on Human Rights is relevant to this question. In this context, we look – among other things – at whether courts should admit improperly obtained evidence, and we ask what the privilege against self-incrimination is and whether it can be justified. The study of trial fairness will also lead us to consider the roles that sexism and racism may play in the interpretation and application of the law of evidence. We will ask whether, beyond the veneer of neutrality, the law of evidence has been, and can be, used as an instrument of oppression of disadvantaged social groups. And we will discuss ways to prevent this from happening. As you will learn, much of the law of evidence consists of rules of admissibility. Among these we cover ‘traditional’ rules such as those regulating the admissibility of hearsay evidence (a topic that now has an important human rights angle) and of bad character evidence (can a defendant’s previous convictions be introduced against them at trial?). We also look at particular problems relating to testimony, ranging from the protections afforded to vulnerable witnesses to the admissibility of evidence concerning the sexual history of complainants in trials for sexual offences. Syllabus: While coverage may vary from year to year, we usually focus on the following themes and topics: Reasoning with Evidence: Analysing Evidence: Relevance and Exclusion of Evidence; Relevance and Probative Value Through the Lenses of Gender and of Race; The Presumption of Innocence, Burden and Standard of Proof; Trial Fairness and Defendant Cooperation: The Privilege Against Self-Incrimination; Drawing Inferences from Silence; Disclosure; Testimony: Examination of Witnesses Vulnerable and Intimidated Witnesses; Sexual History Evidence; Trial Fairness and the Gathering of the Evidence: Improperly Obtained Evidence; Eyewitness Identification; Confessions; Entrapment; Traditional Rules of Admissibility: Hearsay; Confrontation; Bad Character Evidence.",
+ "teaching": "10 hours of lectures and 9 hours of classes in the Autumn Term. 10 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Students will be expected to produce 1 essay in the Autumn Term and 1 essay in the Winter Term.",
+ "indicativeReading": [
+  "There is no set text for the course, but standard texts are useful on many topics. Consider, for instance,",
+  "I. H. Dennis,",
+  "The Law of Evidence",
+  "(London: Sweet & Maxwell, 8th ed, 2024);",
+  "A. Choo,",
+  "Evidence",
+  "(Oxford: OUP, 6th ed, 2021);",
+  "L. Campbell, A. Ashworth and M. Redmayne,",
+  "The Criminal Process",
+  "(Oxford: OUP, 5th ed, 2019);",
+  "P. Roberts,",
+  "Roberts and Zuckerman’s Criminal Evidence",
+  "(Oxford: OUP, 3rd ed, 2022)."
+ ],
+ "assessmentText": "Exam (100%), duration: 210 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 28,
+  "avgClassSizePrevYear": 14,
+  "capped": "Yes(45)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL233.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

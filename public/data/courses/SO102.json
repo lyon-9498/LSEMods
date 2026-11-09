@@ -1,0 +1,76 @@
+{
+ "code": "SO102",
+ "title": "Data in Society: Researching Social Life",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Sociology",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Nicholas Pang"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Sociology. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "This course explores how numbers are used in sociology to construct and challenge our understanding of the social world. The first part of the course familiarises students with how to ask sociological questions, develop qualitative and quantitative research designs, and introduces statistical methods used to describe single variables. Students will learn basic skills of quantitative data analysis, notably how to download large data sets, how to manipulate variables and carry out descriptive statistical analyses with software, and how to present statistical information in tabular and graphical form. In the second part of the course, students will learn about surveys and the importance of quantification in modern societies, how to use surveys to make explanatory arguments, and how to examine the association between two or more variables. Students will continue to develop skills in quantitative data analysis using statistical software in the context of sociological observation or hypothesis testing. Emphasis is given on the interpretation of the results and their comparison to the findings of key readings.",
+ "teaching": "This course has a reading week in Week 6 of Autumn and Winter Term. This course is usually delivered through a combination of lectures and classes. There will be two hours or more of teaching each week across AT and WT.",
+ "formativeAssessment": "Learning Log / reflective learning report (1500 words). Research design (1000 words). The AT formative is a 1500-word research journal that applies and reflects on concepts learnt in the course. The WT formative is a 1000-word research project proposal that includes a research question and hypotheses, proposed method, and descriptive statistical analysis using Stata.",
+ "indicativeReading": [
+  "Angrist, Joshua D. and Jörn-Steffen Pischke. (2009). Mostly Harmless Econometrics: An Empiricist’s Companion. Princeton: Princeton University Press.",
+  "Collins, Caitlyn et al. (2024). “‘Which Cases Do I Need?’ Constructing Cases and Observations in Qualitative Research.” Annual Review of Sociology 50(1), 21-40.",
+  "https://doi.org/10.1146/annurev-soc-031021-035000",
+  "Jackson, Michelle and Cox, D. R. (2013). The Principles of Experimental Design and Their Application in Sociology. Annual Review of Sociology, 39(1), 27–49.",
+  "https://doi.org/10.1146/annurev-soc-071811-145443",
+  "Martin, John Levi. (2017). Thinking Through Methods: A Social Science Primer. Chicago: University of Chicago Press.",
+  "Osborne, Thomas and Nikolas Rose. (1999). \"Do the Social Sciences Create Phenomena?: The Example of Public Opinion Research.\" British Journal of Sociology 50(3), 367-96.",
+  "Small, Mario L. “‘How Many Cases Do I Need? On Science and Logic of Case Selection in Field-Based Research.” Ethnography 10, 5-38.",
+  "Urdan, Timothy. (2016). Statistics in Plain English. New York: Routledge."
+ ],
+ "assessmentText": "Quiz (15%). Data analysis (35%, 2500 words) in January. Research report (50%, 3500 words) in May. Data analysis assessment (35%, 2500 words) in January: Students will conduct univariate descriptive statistical analyses using Stata, interpret the results, and then reflect on the vision of the social world implied by qualitative versus quantitative research designs. Quizzes (15%): There will be 4 in-person multiple-choice and short answer quizzes held in class in WT. Each quiz will cover the previous two weeks of course content with testable concepts provided in advance. Only the top 3 quiz marks will count towards each student’s final grade. Research Report (50%, 3500 words) in May: The assessment is a report that includes a review of key readings, research question and hypotheses, descriptive and explanatory analysis presented in tables and graphs, interpretation, and conclusions. An appendix will include Stata code used to conduct the analysis. Attendance at all classes and submission of all set coursework is required.",
+ "assessment": [
+  {
+   "type": "Quiz",
+   "weight": 15
+  },
+  {
+   "type": "Data analysis",
+   "weight": 35
+  },
+  {
+   "type": "Research report",
+   "weight": 50
+  },
+  {
+   "type": "Data analysis assessment",
+   "weight": 35
+  },
+  {
+   "type": "Quizzes",
+   "weight": 15
+  },
+  {
+   "type": "Research report",
+   "weight": 50
+  }
+ ],
+ "skills": [],
+ "stats": {
+  "totalStudentsPrevYear": 39,
+  "avgClassSizePrevYear": 20,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SO/2026_SO102.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

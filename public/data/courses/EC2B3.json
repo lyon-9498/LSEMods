@@ -1,0 +1,100 @@
+{
+ "code": "EC2B3",
+ "title": "Macroeconomics II",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economics",
+ "units": 0.5,
+ "studyPeriod": "Winter and Spring Term",
+ "terms": [
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Kevin Sheedy"
+ ],
+ "prerequisites": "Before taking this course, students must have completed: (EC1A3 and EC1B3) and (MA100 or MA107).",
+ "corequisites": null,
+ "additionalRequisites": "Students who have not taken the above pre-requisite courses may still qualify if equivalent courses have been taken. For example, MA108 instead of MA107 or MA100 would provide a suitable background in mathematics.",
+ "availability": "This course is compulsory on the BSc in Economics and Data Science, BSc in Economics and Economic History, BSc in Mathematics and Economics, BSc in Mathematics with Economics, BSc in Philosophy and Economics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad) and BSc in Politics and Economics. This course is available on the BSc in Accounting and Finance, BSc in Data Science, BSc in Environment and Sustainable Development, BSc in Environment and Sustainable Development with Economics, BSc in Geography with Economics, BSc in International Social and Public Policy with Economics, BSc in Management, BSc in Mathematics with Data Science, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students.",
+ "description": "This an intermediate-level course in macroeconomics that builds on the material you covered in EC1B3. You will learn about money and inflation, and how central banks can use monetary policy to control inflation. You will study business cycles - booms and recessions - and the potential role for fiscal and monetary policy in stabilising the economy. You will learn about the interaction between the economy and financial markets and banks, especially in times of crisis. You will also study the international aspects of macroeconomics arising from trade in goods and financial assets with the rest of the world. We will apply the tools developed in the course to historical and contemporary events.",
+ "teaching": "20 hours of lectures and 9 hours of classes in the Winter Term. 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Winter Term. Student learning will be supported through the EC2B3 Support Lab and through a dedicated discussion forum.",
+ "formativeAssessment": "Students are expected to work on weekly problem sets ahead of classes, two of which will be marked and feedback provided.",
+ "indicativeReading": [
+  "There is no set textbook for the course. Lecture material may be complemented by the supplementary readings provided."
+ ],
+ "assessmentText": "Exam (90%), duration: 120 minutes, reading time: 15 minutes in the Spring exam period. Continuous assessment (10%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 90
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 387,
+  "avgClassSizePrevYear": 19,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EC/2026_EC2B3.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "course",
+    "code": "EC1A3"
+   },
+   {
+    "type": "course",
+    "code": "EC1B3"
+   },
+   {
+    "type": "or",
+    "children": [
+     {
+      "type": "course",
+      "code": "MA100"
+     },
+     {
+      "type": "course",
+      "code": "MA107"
+     }
+    ]
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "EC2B5",
+   "title": "Macroeconomics II",
+   "note": null
+  }
+ ],
+ "unlocks": [
+  "EC321",
+  "EC334",
+  "EC339"
+ ]
+}

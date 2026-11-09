@@ -1,0 +1,80 @@
+{
+ "code": "SO235",
+ "title": "The Sociology of Homicide",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Sociology",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Janet Foster"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Language, Culture and Society, BSc in Sociology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is not available as an outside option to students on other programmes. This course is available with permission to General Course students. This course has a limited number of places (it is capped). Places are allocated on a first come first served basis.",
+ "description": "This half-unit course examines patterns of homicide in different contemporary societies with different social and political contexts (for example, Russia, Jamaica, USA, Colombia, South Africa, and Britain) and the explanations for their contrasting homicide incidence. We explore the differences between fictional representations of murder and its actualities both in terms of type/prevalence, as well as investigative practices. The importance of class, gender and race in patterns of homicide victimisation are explored, as well as the experiences of victims’ families and the significance of murder in contemporary society.",
+ "teaching": "This course has a reading week in Week 6 of Autumn Term. This course is usually delivered through workshops. There will be two hours or more of teaching each week in AT. Course Outline Week 1 Introduction: Myth busting - we explore perceptions of homicide, what these are based on, and how these images might differ from available evidence on patterns of victimisation Week 2 Researching Homicide: patterns, issues and problems - we explore how homicide is defined, what problems exist with these definitions and why these matter. We also discuss key theoretical explanations of homicide. Week 3 Sherlock Holmes & CSI: the impact of crime fiction and media portrayals Week 4 Patterns of homicide: Using case studies from different parts of the globe, with differing social and political contexts we explore patterns of homicide and the sociological explanations for these varying patterns Week 5 Intersectionalities: gender, race, and sexuality – the risk of homicide is not equal and in this session we explore how race, gender and sexuality feature in homicide victimisation. Week 6 Reading week W eek 7 Presentations Week 8 Investigating homicide – how do homicide investigations work and what factors affect the likelihood of perpetrators being caught? Week 9 Living a life sentence: victims’ families experiences Week 10 Homicide perpetrators: why do people kill? Week 11 Synthesis: The sociological significance of homicide",
+ "formativeAssessment": "Students will be expected to produce 1 piece of formative coursework in the AT. Students must complete either a 1,500 word essay, or a poster, to be submitted in week 8, on one of the topics covered in weeks 2-5 of the course. Students are expected to read, and prepare in advance, for each of the workshops.",
+ "indicativeReading": [
+  "Allsop, C. (2018) Cold Case Reviews: DNA, Detective Work and Unsolved Major Crimes Oxford: Oxford University Press",
+  "Allsop C & Pike S (eds.) (2024) The Routledge International Handbook of Homicide Investigation Abingdon",
+  "Brookman, F et al (2017) The Handbook of Homicide Chicester:Wiley",
+  "Brookman, F (2022, second addition) Understanding Homicide London: Sage",
+  "Innes, M (2003) Investigating Homicide Oxford: Oxford University Press",
+  "Leovy, J (2015) Ghettoside: investigating a homicide epidemic London: Random House",
+  "Pridemore, W (2005) ‘Social structure and homicide in post-Soviet Russia Social Science Research Vol. 34 (4) pp732-756",
+  "Morris, P and Graycar, A (2011) ‘Homicide through a different lens’ British Journal of Criminology Vol. 51 (5) pp823-838",
+  "Policing and Society (2013) Vol. 23, No. 3 Special Issue on homicide",
+  "UNODC (2019) Global Study on Homicide: Trends/Context/Data United Nations Office on Drugs and Crime",
+  "Wilson, D (2009) A History of British Serial Killing London: Sphere"
+ ],
+ "assessmentText": "Exam (60%), duration: 120 Minutes in the January exam period. Presentation (25%). This component of assessment includes an element of group work. Course participation (15%). Attendance at all classes and submission of all set coursework is required.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 60
+  },
+  {
+   "type": "Presentation",
+   "weight": 25
+  },
+  {
+   "type": "Course participation",
+   "weight": 15
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 28,
+  "avgClassSizePrevYear": 28,
+  "capped": "Yes(34)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SO/2026_SO235.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

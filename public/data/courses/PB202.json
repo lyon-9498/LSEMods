@@ -1,0 +1,101 @@
+{
+ "code": "PB202",
+ "title": "Developmental Psychology",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Psychological and Behavioural Science",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Miriam Tresh"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Psychological and Behavioural Science. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "This course will cover core approaches and phenomena in developmental psychology. It will begin by framing developmental psychology by reference to core explanatory approaches to development and outlining key theories, perspectives and frameworks. The course then covers a range of central empirical areas of development, illustrating the ways in which the major theories explain, or fail to explain, the phenomena in those areas. The course is also concerned with locating psychological development in a wider cultural and societal context, including the relations between typical and atypical development and considers developmental psychology as a paradigm for understanding and interpreting real-world issues. By the end of the course you should: Be able to critically appraise the philosophy, history and development of Developmental Psychology. Have a broad understanding of major classical theoretical approaches. Have a broad understanding of core explanatory approaches to development. Be able to locate psychological development in wider context.",
+ "teaching": "15 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Students will complete a number of pieces of formative work to cement learning and prepare for summative assessments. Develop a short case study Practice visual design",
+ "indicativeReading": [
+  "Banaji, M. & Gelman, S.A. (Eds.), (2013)",
+  "Navigating the social world: What infants, children, and other species can teach us.",
+  "New York, NY: Oxford University Press.",
+  "Coleman, J. ;Hagell, A. (Eds.) (2008)",
+  "Adolescence, Risk and Resilience: Against the Odds.",
+  "Hoboken NJ: Wiley",
+  "Greenfield, P. (2009) Linking Social Change and Developmental Change: Shifting Pathways of Human Development.",
+  "Developmental Psychology,",
+  "45, 401–418.",
+  "Lamb, M.E. (Ed.) (2015)",
+  "Handbook of child psychology and developmental science",
+  "(7th ed.) Volume 3: Socioemotional P",
+  "rocesses",
+  "(Editor in Chief: Learner, R.M.) Hoboken NJ: Wiley.",
+  "Lamb, M. E., & Freund, A. M. (Eds.) (2010)",
+  "Handbook of life span development,",
+  "Volume 2: Social and emotional development",
+  "(Editor in Chief: Lerner, R.M.). Hoboken, NJ: Wiley.",
+  "Leman, P. Bremner, A. Parke, R. & Gauvain, M. (2019)",
+  "Developmental Psychology.",
+  "New York, NY: McGraw Hill.",
+  "Liben, L.S. & Muller, U. (Eds.) (2019)",
+  "Handbook of child psychology and developmental science (7th ed.) Volume 2: Cognitive Processes",
+  "(Editor in Chief: Learner, R.M.) Hoboken NJ: Wiley.",
+  "McLean, K.C ;Syed, M (Eds.), (2015)",
+  "The Oxford handbook of identity development",
+  ". Oxford: Oxford University Press.",
+  "Music, G. (2017).",
+  "Nurturing natures: Attachment and children’s emotional, sociocultural and brain development",
+  ". London: Routledge",
+  "Overton, W.F. & Molenaar, P.C.M. (Eds.) (2015)",
+  "Handbook of child psychology and developmental science (7th ed.) Volume 1: Theory and Method",
+  "(Editor in Chief: Learner, R.M.) Hoboken NJ: Wiley.",
+  "Slater, A. ;Bremner, J. G (Eds) (2011)",
+  "An Introduction to Developmental Psychology.",
+  "2nd Edition, Chichester: Wiley-Breakwell."
+ ],
+ "assessmentText": "Essay (10%, 3000 words). Proposal (90%, 3000 words).",
+ "assessment": [
+  {
+   "type": "Essay",
+   "weight": 10
+  },
+  {
+   "type": "Proposal",
+   "weight": 90
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 48,
+  "avgClassSizePrevYear": 12,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PB/2026_PB202.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

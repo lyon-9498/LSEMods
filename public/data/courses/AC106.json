@@ -1,0 +1,73 @@
+{
+ "code": "AC106",
+ "title": "Introduction to Management Accounting",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Accounting",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Farooq Mahmood"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Accounting and Finance. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "This is a half-unit course that introduces students to the fundamental principles of management accounting. The course provides an introduction to management and cost accounting. It starts with an explanation of why a thorough understanding of costs is vital for businesses in various sectors and contexts. The course covers key costing concepts, including calculating costs reliably using various costing techniques for multiple costing systems. The discussion then leads to identifying the costs that are truly relevant for internal decision-making. This course then introduces students to tools for planning, controlling, performance evaluation, and cost and market-based pricing within the management accounting context. The overarching aim is to help managers make crucial decisions in a timely manner in a fast-changing competitive landscape and to lay strong foundations within the broad realm of costing and management accounting.",
+ "teaching": "33 hours of seminars in the Winter Term. This course is delivered through two one and a half hour sessions each week in the Winter Term (11 weeks). The pedagogical approach in each session is interactive, often involving case study analyses and group discussions. This mode of teaching requires good advance preparation by the students; hence, every student should be ready to contribute to the discussion when called upon. Active participation is expected and encouraged.",
+ "formativeAssessment": "There will be several online tests (“quizzes”) to test the student’s knowledge and progress on a formative basis for feedback. Written answers to numerical problems and discussion questions will be expected weekly; some of the written work will be collected for marking and feedback.",
+ "indicativeReading": [
+  "A detailed reading list will be made available on Moodle for each part of the course nearer the time of its scheduled start. Illustrative textbooks include:",
+  "Atrill, P and McLaney, E (2024)",
+  "Management Accounting for Decision Makers",
+  ", 11th edition, Pearson;"
+ ],
+ "assessmentText": "Exam (70%), duration: 120 Minutes, reading time: 15 minutes in the Spring exam period. Case analysis / study (30%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 70
+  },
+  {
+   "type": "Case analysis / study",
+   "weight": 30
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 156,
+  "avgClassSizePrevYear": 52,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AC/2026_AC106.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": [
+  "AC206",
+  "AC311"
+ ]
+}

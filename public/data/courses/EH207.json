@@ -1,0 +1,76 @@
+{
+ "code": "EH207",
+ "title": "China since 1800: Culture, institutions and economic growth",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economic History",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Melanie Xue"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": "A background in econometric methods is preferred but not required.",
+ "availability": "This course is available on the BA in History, BSc in Economic History, BSc in Economic History and Geography, BSc in Economics, BSc in Economics and Economic History, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "The first half of the course focuses on facts and follows a chronological order, covering major phases of historical China, including pre-1800 China, the Great Divergence, late Qing and Republican China, Communism, and post-1979 economic and political reform. The second half of the course is more analytical and examines a number of topics, including (1) Geography, (2) Institutions (3) States (4) Culture (5) Gender, (6) Education (7) Social Mobility (8) Trade and Markets (9) Environment and Disasters.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. 10 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Students are expected to write one formative essay in Autumn term.",
+ "indicativeReading": [
+  "• Deng, Kent, Mapping China’s Growth and Development in the Long Run, 221 BC to 2020 (London: World Scientific Press and Imperial College Press);",
+  "• Richard von Glahn, The Economic History of China: From Antiquity to the Nineteenth Century Cambridge University Press, 2016;",
+  "• Kenneth Pomeranz, The Great Divergence, China, Europe and the making of the modern world economy Princeton, New Jersey: Princeton UP, 2000;",
+  "• Wong, Roy Bin. China transformed: historical change and the limits of European experience. Cornell University Press, 1997",
+  "• Loren Brandt, Debin Ma, and Thomas G Rawski (2014). “From Divergence to Convergence: Re-evaluating the History Behind China’s Economic Boom”. Journal of Economic Literature.",
+  "• Stephen Broadberry, Hanhui Guan, and David Daokui Li (2018). “China, Europe, and the Great Divergence: a study in historical national accounting, 980–1850”. The Journal of Economic History 78.4, 955–1000",
+  "• Robert C Allen, Jean-Pascal Bassino, Debin Ma, Christine Moll-Murata, and Jan Luiten Van Zanden (2011). “Wages, prices, and living standards in China, 1738–1925: in comparison with Europe, Japan, and India”. The Economic History Review.",
+  "• Avner Greif and Guido Tabellini (2010). “Cultural and institutional bifurcation: China and Europe compared”. American Economic Review 100.2, 135–40",
+  "• Robert C Allen, Jean-Pascal Bassino, Debin Ma, Christine Moll-Murata, and Jan Luiten Van Zanden (2011). “Wages, prices, and living standards in China, 1738–1925: in comparison with Europe, Japan, and India”. The Economic History Review",
+  "• Benjamin A Elman (1991). “Political, social, and cultural reproduction via civil service examinations in late imperial China”. The Journal of Asian Studies 50.1, 7–28"
+ ],
+ "assessmentText": "Exam (60%), duration: 120 minutes in the Spring exam period. Essay (20%, 1800 words). Essay (20%, 1800 words). Coursework each term is made up of an essay (1,500 words) and a long answer (300 words) related to the methodology of the articles covered in the course.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 60
+  },
+  {
+   "type": "Essay",
+   "weight": 20
+  },
+  {
+   "type": "Essay",
+   "weight": 20
+  }
+ ],
+ "skills": [],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EH/2026_EH207.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "EH217",
+   "title": "Chinese Economic History since 1800: A Chronology",
+   "note": "Suspended 2026/27"
+  },
+  {
+   "code": "EH218",
+   "title": "Chinese Economic History since 1800: Economic Growth in a Historical Perspective",
+   "note": "Suspended 2026/27"
+  }
+ ],
+ "unlocks": []
+}

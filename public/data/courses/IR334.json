@@ -1,0 +1,82 @@
+{
+ "code": "IR334",
+ "title": "European Defence and Security",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International Relations",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Spyridon Economides"
+ ],
+ "prerequisites": "Students must have completed IR203 or IR205 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": "Students must have taken IR203 International Organisations or IR205 International Security in Year 2",
+ "availability": "This course is available on the BSc in International Relations. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "The course examines the evolution of the structures and institutions of European defence and security. Particular attention is given to the debates surrounding the need for the construction of an EU defence and security policy. The course will address European integration theories, such as intergovernmentalism and functionalism and IR theories, such as constructivism and rationalism, key to understanding European security and defence integration. Alongside this the course examines the EU's evolution as a civilian, normative, military and global actor in international relations. The course looks at what the European Defence Community attempted to achieve in the 1950s, at the implications for the evolution of a common and security defence at the end of the Cold War, NATO and the trajectory of the transatlantic relationship. The second part of the course addresses how and why the EU acts in the field of security and defence. Particular attention is given to the EU’s strategic culture and security strategies and the practice of conflict prevention and conflict and crisis management. Last but not least, the course will tackle the Russian invasion of Ukraine and its strategic consequences for European defence and security, including decision-making and defence economics and procurement issues.",
+ "teaching": "10 hours of lectures and 10 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Essay (1500 words). One essay of 1500 words including bibliography and references OR one timed essay of one hour (maximum 1000 words) Both standard and timed formative essays enable students to engage critically with key readings and receive feedback to support their preparation for the summative e-Exam. The timed essay additionally offers practice in writing under exam. conditions.",
+ "indicativeReading": [
+  "Anne Deighton (Ed), Western European Union: Defence Security Integration;",
+  "Andrew Cottey, Security in the New Europe;",
+  "Jolyon Howorth, Security and Defence Policy in the European Union;",
+  "Simon Duke, The Elusive Quest for European Security: From EDC to CFSP;",
+  "Paul Gebhard, The United States and European Security;",
+  "Heather Grabbe, The Sharp Edges of Europe;",
+  "Francois Heisbourg et al, European Defence: Making it Work;",
+  "Sean Kay, Nato and the Future of European Security;",
+  "Stanley Sloan, The United States and European Defence;"
+ ],
+ "assessmentText": "Exam (100%), duration: 120 Minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 8,
+  "avgClassSizePrevYear": 8,
+  "capped": "Yes(15)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/IR/2026_IR334.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "course",
+    "code": "IR203"
+   },
+   {
+    "type": "course",
+    "code": "IR205"
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

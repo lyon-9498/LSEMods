@@ -1,0 +1,91 @@
+{
+ "code": "HY334",
+ "title": "Communication Revolutions in Latin America, c.1539 to the Present",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International History",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Anna Cant"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in History, BA in Social Anthropology, BSc in History and Politics, BSc in International Relations and History, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is capped. Places will be assigned on a first come first served basis",
+ "description": "From the invention of the printing press to the explosion of social media, how and with whom we communicate has had powerful consequences throughout history. Spanning the early colonial period to the present day, this course provides an excellent overview of Latin American history, while its unique focus on communication provides for in-depth analysis of topics such as the construction of social hierarchy, the dissemination of new technologies and the struggle for political legitimacy in colonial and post-colonial contexts. Organised thematically around print, visual, electronic and digital communication revolutions, the course looks at how inventions such as the printing press, the camera and the radio helped connect Latin Americans to national and international networks and gave rise to new political and cultural identities. We also investigate how individuals and groups used new communication technologies to both push for and resist revolutionary change. For example, how did anti-colonial rebels of the eighteenth century utilise print culture to spread revolutionary ideas during the Atlantic Revolutions? How did women anarchists in ninetheenth-century Argentina use newspapers to voice their political agenda? What role did poster art play in the articulation and dissemination of the Cuban Revolution? Questions of gender, race and social class are recurrent throughout the course. Students will be introduced to an exciting range of primary sources spanning newspapers, photographs, posters, film and sound archives, alongside secondary literature from the fields of anthropology, history, art history, and cultural studies. This course enables students to reflect critically, from an historically informed perspective, on the relationship between communication media and social change, both in Latin America and beyond. The course has three main objectives: 1. To critically examine changes in communication systems and their impact on Latin American societies, predominantly in the post-Independence era. 2. To familiarise students with the conceptual frameworks and methodologies used to study the history of communication. 3. To enable students to develop skills in comparative history and the analysis of primary sources.",
+ "teaching": "20 hours of seminars in the Autumn Term. 20 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "One 2,000-word essay in the Autumn term. Two 10-minute presentations, one in the Autumn Term and one in the Winter Term. A discussion post (c. 300 words) each week on the Moodle discussion board.",
+ "indicativeReading": [
+  "Ades, Dawn, and Alison McClean. Revolution on Paper: Mexican Prints 1910–1960. Edited by Mark McDonald. (London: British Museum, 2009).",
+  "Bronfman, Alejandra and Andrew Grant Wood (eds), Media, Sound, and Culture in Latin America and the Caribbean (University of Pittsburgh Press, 2012).",
+  "Castro, Justin, Radio in Revolution: Wireless Technology and State Power in Mexico, 1897-1938 (University of Nebraska Press, 2016).",
+  "Davidson, Russ (ed.), Latin American Posters: Public Aesthetics and Mass Politics (Museum of New Mexico Press, 2006).",
+  "Ehrick, Christine, Radio and the Gendered Soundscape. Women and Broadcasting in Argentina and Uruguay, 1930-1950 (Cambridge University Press, 2015).",
+  "Geggus, David, “Print Culture and the Haitian Revolution : The Written and the Spoken Word,” Proceedings of the American Antiquarian Society 116, pt. 2 (2007): 299–314.",
+  "Ginsburg, Faye D., Lila Abu-Lughod; Brian Larkin, Media worlds: anthropology on new terrain (Berkeley: University of California Press, 2002).",
+  "Guerra, Lillian, Visions of power in Cuba: revolution, redemption, and resistance, 1959-1971 (Chapel Hill: University of North Carolina Press, 2012).",
+  "Medina, Eden, Ivan da Costa Marques and Christina Holmes (eds.) Beyond imported magic : essays on science, technology, and society in Latin America (The MIT Press, 2014).",
+  "Nájera, Luna, ‘Contesting the Word: The Crown and the Printing Press in Colonial Spanish America’, Bulletin of Spanish Studies, 89:4 (2012): 575-596.",
+  "Popkin, Jeremy D. ‘A Colonial Media Revolution: The Press in Saint-Domingue, 1789–1793,’ The Americas (Jan 2018): 3-25.",
+  "Poole, Deborah, Vision, Race, and Modernity: A Visual Economy of the Andean Image World (Princeton University Press, 1997).",
+  "Simón Salazar, Harry L., Television, Democracy, and the Mediatization of Chilean Politics (Bloomsbury, 2017).",
+  "Soriano, Cristina, Tides of Revolution: Information, Insurgencies, and the Crisis of Colonial Rule in Venezuela (University of New Mexico Press, 2018).",
+  "Zeltsman, Corinna, Ink Under the Fingernails: Printing Politics in Nineteenth-Century Mexico (University of California Press, 2021)."
+ ],
+ "assessmentText": "Course participation (15%). Essay (35%, 3500 words). Essay (35%, 3500 words). Source analysis (15%, 500 words).",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 15
+  },
+  {
+   "type": "Essay",
+   "weight": 35
+  },
+  {
+   "type": "Essay",
+   "weight": 35
+  },
+  {
+   "type": "Source analysis",
+   "weight": 15
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 12,
+  "avgClassSizePrevYear": 12,
+  "capped": "Yes(17)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/HY/2026_HY334.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

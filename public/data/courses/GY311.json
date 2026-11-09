@@ -1,0 +1,70 @@
+{
+ "code": "GY311",
+ "title": "The Political Economy of Urbanisation",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Geography and Environment",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Geography, BSc in Economic History and Geography, BSc in Environment and Sustainable Development, BSc in Environment and Sustainable Development with Economics, BSc in Geography with Economics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course is capped. Places will be assigned on a first come first served basis",
+ "description": "This course covers theories and processes of contemporary urban development from a critical political economy perspective, addressing urban problems and policy responses in our rapidly urbanizing world. The course examines what urbanisation means to the state, to (global/domestic) businesses, and ordinary citizens, focusing on a selected set of key themes that are pertinent to the understanding of urban injustice. Such themes may include, but not limited to, the understanding of the (social) production of unequal urban space, global circulations of urbanism, gentrification, displacement and dispossession. Case studies are largely drawn from a diverse range of cities across the world, providing opportunities for students to contest urban theories that have largely been rooted in the experiences of the advanced economies.",
+ "teaching": "15 hours of lectures and 9 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term. In the Department of Geography and Environment, teaching will be delivered through a combination of classes/seminars, pre-recorded lectures, live online lectures and other supplementary interactive live activities.",
+ "formativeAssessment": "Students will be expected to produce one formative essay outline in the Autumn Term.",
+ "indicativeReading": [
+  "Harvey, D. (1989) The Urban Experience. Johns Hopkins University Press;",
+  "Chen, Y-L. and Shin, H.B. (eds.) (2019) Neoliberal Urbanism, Contested Cities and Housing in Asia. The Contemporary City Series. Palgrave Macmillan;",
+  "Labbé, D. (2014) Land Politics and Livelihoods on the Margins of Hanoi, 1920-2010. UBC Press;",
+  "Lees, L., Shin, HB and López-Morales, E. (2016) Planetary Gentrification. Polity Press;",
+  "Mathews, G. (2011) Ghetto at hte Center of the World: Chungking Mansions, Hong Kong, The University of Chicago Press;",
+  "Park, B-G. et al. (Eds.) (2012) Locating Neoliberalism in East Asia. Wiley-Blackwell;",
+  "Shao, Q. (2013) Shanghai Gone: Domicide and Defiance in a Chinese Megacity. Rowman & Littlefield",
+  "Wu, F. (2015) Planning for Growth: Urban and Regional Planning in China. Routledge;"
+ ],
+ "assessmentText": "Presentation (30%). Essay (70%, 2500 words).",
+ "assessment": [
+  {
+   "type": "Presentation",
+   "weight": 30
+  },
+  {
+   "type": "Essay",
+   "weight": 70
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 43,
+  "avgClassSizePrevYear": 14,
+  "capped": "Yes(50)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GY/2026_GY311.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

@@ -1,0 +1,65 @@
+{
+ "code": "EH306",
+ "title": "Monetary and Financial History since 1750",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economic History",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Olivier Accominotti"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Economic History, BSc in Economic History and Geography and BSc in Economics and Economic History. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "This course covers international Monetary and Financial History since the mid-18th century. The course is designed to introduce students to the key issues around globalised finance and money. It will look into the rise and eventual demise of the Gold Standard, the emergence and occurrence of financial crises, the globalisation and geography of financial markets, and changes in policy responses and regulation over time.",
+ "teaching": "20 hours of seminars in the Autumn Term. 20 hours of seminars in the Winter Term. 2 hours of seminars in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "During the course students are expected to write three essays or equivalent pieces of written work",
+ "indicativeReading": [
+  "Kindleberger, Manias, Panics, and Crashes, Ferguson, Ascent of Money, Foreman-Peck, History of the World Economy, Eichengreen, Golden Fetters, Eichengreen, Globalising Capital."
+ ],
+ "assessmentText": "Exam (100%), duration: 180 Minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EH/2026_EH306.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

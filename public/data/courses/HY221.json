@@ -1,0 +1,73 @@
+{
+ "code": "HY221",
+ "title": "The History of the Russian Empire, 1676-1825",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International History",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Paul Keenan"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in History, BA in Social Anthropology, BSc in History and Politics, BSc in International Relations and History, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. May be taken by 3rd years, General Course students and as an outside option where regulations, timetabling constraints and teaching capacity permit. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "The course provides an introduction to the history of the Russian empire from the latter half of the seventeenth century to the death of Alexander I in 1825. This period is commonly considered to be transformational in terms of Russia’s development, both domestically and internationally. Successive Russian rulers throughout this period attempted to overcome the traditional weaknesses of the Russian state (with varying degrees of success) in what some historians have described as a process of ‘modernisation’. Yet the narrative of autocratic rule and centralising reforms masks a complex series of relationships and negotiations at work between the ruler, their attendant elite, the powerful influence of the Orthodox Church, the apparatus of the Russian state, and the various groups across Russian society. The complexity of these interactions was magnified as the Russian empire annexed neighbouring territories, with their own institutions and traditions, including Ukraine, Siberia, Poland, and Finland. This ambitious and aggressive imperial expansion helped to establish Russia as one of Europe’s ‘Great Powers’ by the end of this period, playing a key role in the defeat of Napoleon Bonaparte and establishing the post-war settlement in Europe after 1815, but this was achieved at a very significant cost. The Decembrist Revolt, which followed Alexander I’s death in 1825, arose from critical questions amongst a disaffected imperial elite about the nature and direction of Russia’s development over the preceding century, thereby providing a useful conclusion for the course. While the course is organised in a broadly chronological fashion, there are several major themes that are addressed throughout the period. They include: the nature and extent of autocratic rule in Russia; the role and influence of the Orthodox Church; the significance of serfdom for Russia’s economic, institutional and legal development; the aims and outcomes of major reform projects under successive Russian rulers; the impact and influence of European ideas (such as the Enlightenment) in Russia; the multi-ethnic nature of the Russian empire; resistance and accommodation in the Russian imperial context.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Autumn Term. 10 hours of lectures and 10 hours of classes in the Winter Term. 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Students will be required to write three essays, one of which will be done under examination conditions.",
+ "indicativeReading": [
+  "A full reading list will be provided at the start of the course. Useful introductory works include: E. Kimerling-Wirtschafter, Russia's Age of Serfdom; N. S. Kollman, The Russian Empire, 1450-1801; J. Hartley, A Social History of the Russian Empire 1650-1825; S. Dixon, The Modernisation of Russia: 1676-1825; M. Raeff, Understanding Imperial Russia: State and Society in the Old Regime; J. Billington, The Icon and the Axe; An Interpretive History of Russian Culture; A. Kahan, The Plow, the Hammer and the Knout: An Economic History of 18th-Century Russia; P. Dukes, The Making of Russian Absolutism, 1613-1801; D. Saunders, Russia in the Age of Reaction and Reform, 1801-1881."
+ ],
+ "assessmentText": "Exam (65%), duration: 120 minutes in the Spring exam period. Presentation (20%). Course participation (15%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 65
+  },
+  {
+   "type": "Presentation",
+   "weight": 20
+  },
+  {
+   "type": "Course participation",
+   "weight": 15
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 15,
+  "avgClassSizePrevYear": 15,
+  "capped": "Yes(15)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/HY/2026_HY221.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

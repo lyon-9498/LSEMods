@@ -1,0 +1,87 @@
+{
+ "code": "ST107",
+ "title": "Quantitative Methods (Statistics)",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Statistics",
+ "units": 0.5,
+ "studyPeriod": "Winter and Spring Term",
+ "terms": [
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr James Abdey"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": "A-level Mathematics.",
+ "availability": "This course is compulsory on the BSc in Accounting and Finance, BSc in Economics and Economic History, BSc in Environment and Sustainable Development with Economics, BSc in Geography with Economics, BSc in International Social and Public Policy with Economics, BSc in Management and BSc in Philosophy and Economics. This course is available on the BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics and Economics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course cannot be taken with ST102 Elementary Statistical Theory (nor its respective half-units ST109 and ST110).",
+ "description": "The elementary statistical tools necessary for further study in management and economics with an emphasis on the applicability of the methods to management and economic problems. Topics covered are data visualisation and descriptive statistics, probability theory, discrete probability distributions, continuous probability distributions, sampling distributions of statistics, point estimation, interval estimation, hypothesis testing, contingency tables and the chi-squared test, correlation and linear regression.",
+ "teaching": "15 hours of classes, 10 hours of workshops and 20 hours of lectures in the Winter Term. 2 hours of lectures in the Spring Term. This course will be delivered through a combination of classes, lectures and workshops totalling a minimum of 45 hours across Winter Term. This course does not include a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Weekly exercises will be set and students are expected to submit solutions to their class teacher each week for feedback.",
+ "indicativeReading": [
+  "All course materials are made available via Moodle, including notes to accompany the lectures, but this can be supplemented with additional background reading. The recommended supplementary text is:",
+  "Newbold, P., W.L. Carlson and B.M. Thorne (2019)",
+  "Statistics for Business and Economics",
+  ". (9th edition), Pearson (earlier editions are also fine)."
+ ],
+ "assessmentText": "Exam (100%), duration: 120 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 590,
+  "avgClassSizePrevYear": 26,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/ST/2026_ST107.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "ST102",
+   "title": "Elementary Statistical Theory",
+   "note": null
+  },
+  {
+   "code": "ST109",
+   "title": "Elementary Statistical Theory I",
+   "note": null
+  },
+  {
+   "code": "ST110",
+   "title": "Elementary Statistical Theory II",
+   "note": null
+  }
+ ],
+ "unlocks": [
+  "EC2C3",
+  "EC2C4",
+  "MA324",
+  "MG205",
+  "MG301",
+  "MG308",
+  "ST201",
+  "ST327"
+ ]
+}

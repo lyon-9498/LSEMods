@@ -1,0 +1,76 @@
+{
+ "code": "EC330",
+ "title": "Environmental Economics",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economics",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Clare Balboni",
+  "Prof Robin Burgess"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Econometrics and Mathematical Economics, BSc in Economics, BSc in Economics and Data Science, BSc in Environment and Sustainable Development with Economics, BSc in Geography with Economics, BSc in International Social and Public Policy with Economics, BSc in Philosophy and Economics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics and Economics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students. This course is suitable for students on Economics joint degree and other programmes who have followed the quantitative stream of the new economics curriculum.",
+ "description": "Climate change and associated widespread environmental degradation is considered to be the biggest challenge that we face this century. How we tackle this challenge whilst continuing to improve human living standards will require new insights from across economics. The first half of the course will be concerned with environmental damages and the design of policies to remedy them. It brings in key concepts such as how we value air pollution and climate change damages, how people adapt to these and how we harness environmental regulations, trade policy and behavioural economics to counter them. The second term focuses on the implementation and evaluation of different policies to counter climate change and environmental degradation. It brings in key concepts such as how we encourage social protection and environmental justice, how we promote biodiversity, clean air and clean water and how we encourage innovation and diffusion of clean energy. Taken together the course will give students a strong grounding in how frontier economics can be brought to bear on the key climate, environmental and energy challenges that we all face. Sustainability challenges loom ever larger in careers across the private sector, public sector and academia and the analytical capacity that students build in this course will help to prepare them for these different careers. This course is complementary to the courses Applied Environmental Economics (GY222) and Applied Economics of Environment and Development (GY329).",
+ "teaching": "15 hours of lectures and 10 hours of classes in the Autumn Term. 15 hours of lectures and 9 hours of classes in the Winter Term. 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Winter Term. There will be a reading week in Week 6 of WT (no lectures or classes that week). This course is delivered through a combination of classes and lectures totalling a minimum of 50 hours.",
+ "formativeAssessment": "Weekly classes will focus on academic papers alongside an assignment to guide your reading. These are designed to help deepen your analytical capacity. Students are expected to engage with weekly assignments and actively participate in class discussions. Two assignments will be marked, and feedback provided each term. Students are permitted to work in groups but must provide their own individual written attempt to each assignment.",
+ "indicativeReading": [
+  "The course combines theory and empirics and has a strong applied focus. There is no textbook for the course. Students will instead be required to engage with academic papers at the frontier of the literature, as well with historic seminal works.",
+  "The following are indicative of recent papers students can expect to engage with:",
+  "Carleton, T.A., Jina, A., Delgado, M.T., Greenstone, M., Houser, T., Hsiang, S.M., Hultgren, A., Kopp, R.E., McCusker, K.E., Nath, I.B. and Rising, J., 2020. Valuing the global mortality consequences of climate change accounting for adaptation costs and benefits. The Quarterly Journal of Economics, 137(4), 2037–2105.",
+  "Deryugina, T., Heutel, G., Miller, N. H., Molitor, D., & Reif, J. (2019). The mortality and medical costs of air pollution: Evidence from changes in wind direction. American Economic Review, 109(12), 4178-4219.",
+  "Desmet, K., Kopp, R.E., Kulp, S.A., Nagy, D.K., Oppenheimer, M., Rossi-Hansberg, E. and Strauss, B.H., 2021. Evaluating the Economic Cost of Coastal Flooding. American Economic Journal: Macroeconomics, 13(2).",
+  "Banzhaf, S., Ma, L. and Timmins, C., 2019. Environmental justice: The economics of race, place, and pollution. Journal of Economic Perspectives, 33(1), pp.185-208",
+  "Barreca, A., Clay, K., Deschenes, O., Greenstone, M., & Shapiro, J. S. (2016). Adapting to climate change: The remarkable decline in the US temperature-mortality relationship over the twentieth century. Journal of Political Economy, 124(1), 105-159.",
+  "Davis, L. W., & Kahn, M. E. (2010). International trade in used vehicles: The environmental consequences of NAFTA. American Economic Journal: Economic Policy, 2(4), 58-82.",
+  "Allcott, H., & Taubinsky, D. (2015). Evaluating behaviorally motivated policy: Experimental evidence from the lightbulb market. American Economic Review, 105(8), 2501-38.",
+  "Shapiro, J.S. and Walker, R., 2018. Why is pollution from US manufacturing declining? The roles of environmental regulation, productivity, and trade. American Economic Review, 108(12), pp.3814-54.",
+  "Balboni, C., Burgess, R. and Olken, B. (2021). The Origins and Control of Forest Fires in the Tropics. Mimeo LSE and MIT.",
+  "Balboni, C. A. (2019). In harm's way? Infrastructure investments and the persistence of coastal cities. Revise and resubmit American Economic Review",
+  "Burgess, R., Hansen, M., Olken, B. A., Potapov, P., & Sieber, S. (2012). The political economy of deforestation in the tropics. Quarterly Journal of Economics, 127(4), 1707-1754."
+ ],
+ "assessmentText": "Exam (100%), duration: 180 minutes, reading time: 15 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 26,
+  "avgClassSizePrevYear": 13,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EC/2026_EC330.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

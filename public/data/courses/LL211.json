@@ -1,0 +1,81 @@
+{
+ "code": "LL211",
+ "title": "Law, Poverty and Access to Justice",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Joseph Spooner"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law and LLB in Laws. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "This course will examine key issues in the relationships between law, poverty, and inequality. These include the way in which legal principles and policy may create and perpetuate inequality, and the manner in which legal process and method – and difficulties of accessing law - disadvantage the poor. It will also explore the progressive potential of law as a tool for alleviating poverty and inequality. The course aims to act as an academic counterpart to the Law School’s support of the pro bono work undertaken by our LLB students, and should be of particular contemporary relevance as challenging economic conditions impact household living standards across the UK. The course will be divided into two main parts. The first part will ask key overarching questions regarding the extent to which the law shapes the lives and can advance the interests of the poor. It considers how existing legal structures influence conditions of poverty and inequality, and explores how the work of legal scholars and practitioners can contribute to alleviating poverty through service, advocacy, and/or activism. Sessions will consider key questions such as • Law and Poverty: what is the role of the law in relation to contemporary problems of poverty and inequality? • Reflections on the limits of legal change: Is law for the rich? What can law do for the poor? • How can access to justice be achieved under endless Austerity? • What is the role of lawyers in an age of inequality? Treatments of these topics will consider a range of perspectives (including, for example, views from market-failure analysis, feminist theories, human rights, vulnerability theory, and political economy), and will aim to introduce students to contemporary and historical trends in poverty and inequality in and across the UK. The second part of the course will adopt a thematic approach to examine key areas where the law plays an important role in the lives of low-income households. Each session will take a snapshot focus on a different area of law, applying the ideas and theoretical perspectives from the first part of the course to concrete substantive legal fields. While the topics selected for the second part of the course may vary, proposed subjects include: • The poor pay more: law, inequality, and markets • Money and debt (including the regulation of high-cost credit, and the role of bankruptcy as a debt relief measure for over-indebted households) • Dispute resolution and alternatives to courts • Structural inequality and welfare conditionality: law, rhetoric, and reality • Housing and the case of the bedroom tax",
+ "teaching": "20 hours of seminars in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "1,500 word essay",
+ "indicativeReading": [
+  "• Philip Alston, ‘Visit to the United Kingdom of Great Britain and Northern Ireland: Report of the Special Rapporteur on Extreme Poverty and Human Rights’ (United Nations General Assembly 2019",
+  "• Meghan Campbell, ‘The Austerity of Lone Motherhood: Discrimination Law and Benefit Reform’ (2021) Oxford Journal of Legal Studies 41(4), 1197-1226",
+  "• Catrina Denvir and others, Legal Aid and the Future of Access to Justice (Bloomsbury 2023)",
+  "• Anne Fleming, ‘The Public Interest in the Private Law of the Poor’ (2019) 14 Harvard Law & Policy Review 159",
+  "• Marc Galanter, ‘Why the Haves Come out Ahead: Speculations on the Limits of Legal Change’ (1974) 9 Law and Society Review p.95 et seq.",
+  "• Duncan Kennedy, ‘Legal Education and the Reproduction of Hierarchy’ (1982) 32 Journal of Legal Education 591",
+  "• Jacqueline Kinghan, Lawyers, Networks and Progressive Social Change: Lawyers Changing Lives (Bloomsbury Academic 2021).",
+  "• Virginia Mantouvalou, ‘Welfare-to-Work, Structural Injustice and Human Rights’ (2020) The Modern Law Review 83(5), 929-954",
+  "• Katharina Pistor, The Code of Capital (Princeton University Press 2019)",
+  "• Pascoe Pleasence and Nigel J Balmer, ‘Justice & the Capability to Function in Society’ (2019) 148 Daedalus 140",
+  "• Tony Prosser, Test Cases for the Poor: Legal Techniques in the Politics of Social Welfare (Child Poverty Action Group 1983).",
+  "• Joseph Rowntree Foundation, UK Poverty 2023: The essential guide to understanding poverty in the UK",
+  "• Joe Spooner, Bankruptcy: The Case for Relief in an Economy of Debt (Cambridge University Press 2019)",
+  "• Joe Spooner. “Contract Law when the Poor Pay More”, [2024] Oxford Journal of Legal Studies",
+  "• Joe Spooner,",
+  "‘The local injustice of bankruptcy: geographical variation in access to debt relief in England’",
+  "(2025) 52 (4)",
+  "Journal of Law and Society",
+  "606-627 (with Saul Schwartz)",
+  "• Lisa Vanhala and Jacqueline Kinghan, ‘The “madness” of accessing justice: legal mobilisation, welfare benefits and empowerment’ (2022) Journal of Social Welfare and Family Law 44(1), 22-41"
+ ],
+ "assessmentText": "Exam (100%), duration: 150 Minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 19,
+  "avgClassSizePrevYear": 19,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL211.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

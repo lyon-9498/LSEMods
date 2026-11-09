@@ -1,0 +1,84 @@
+{
+ "code": "MA336",
+ "title": "Mathematics of Cryptocurrencies and the Blockchain",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Mathematics",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Andy Lewis-Pye"
+ ],
+ "prerequisites": "Students must have completed MA103 and MA214 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": "Students should be comfortable with proofs and proof techniques used in pure mathematics. Students who have completed MA102 rather than MA103 are also eligible. Students who have not done MA214 may be granted permission upon request.",
+ "availability": "This course is available on the BSc in Financial Mathematics and Statistics, BSc in Mathematics and Economics, BSc in Mathematics with Data Science, BSc in Mathematics with Economics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "The course will cover the core aspects of distributed computing that are relevant to blockchain technology, from the pioneering work of computer scientists such as Lamport, Dolev, Reischuk and others in the 1980s, right up to some of the state-of-the-art protocols that are in use today. In particular, the course will cover topics amongst: The definition of various `consensus' problems, such as Byzantine Agreement, Byzantine Broadcast, Atomic Broadcast, and State Machine Replication. Reductions between consensus problems. Timing models: the synchronous, partially synchronous, and asynchronous settings. Fault models: crash failures, omission faults and Byzantine faults. Protocols for consensus in synchrony: The Dolev-Strong and Phase-King protocols. Impossibility results for consensus protocols in the synchronous setting: the lower bounds of Dolev and Reishchuk and Fischer, Lynch and Merritt. Protocols for State Machine Replication in partial synchrony: Tendermint, PBFT and Hotstuff. Complexity measures: communication complexity and latency. The FLP impossibility theorem for the asynchronous setting: deterministic consensus is not possible. Reliable Broadcast in asynchrony. Payment systems. Randomised protocols for State Machine Replication in asynchrony. \"Layer 2\" solutions: rollups and the Lightning Network.",
+ "teaching": "20 hours of lectures and 10 hours of classes in the Winter Term. 2 hours of lectures in the Spring Term.",
+ "formativeAssessment": "Students will be set weekly home-works, which they are invited to hand in on Moodle. These home-works will be marked, with feedback given to the student each week.",
+ "indicativeReading": [
+  "Some relevant references are:",
+  "Consensus in 50 pages: https://lewispye.wordpress.com/wp-content/uploads/2023/01/consensus-in-50-pages7-1.pdf",
+  "Foundations of distributed consensus and blockchain, Elaine Shi: http://elaineshi.com/docs/blockchain-book.pdf",
+  "Distributed algorithms, Nancy Lynch.",
+  "Foundations of blockchains, Tim Roughgarden: https://timroughgarden.github.io/fob21/",
+  "Introduction to Reliable and Secure Distributed Programming, Cachin, Guerraoui, and Rodrigues.",
+  "Distributed Thoughts: https://decentralizedthoughts.github.io/"
+ ],
+ "assessmentText": "Exam (90%), duration: 120 minutes in the Spring exam period. Continuous assessment (10%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 90
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 8,
+  "avgClassSizePrevYear": 8,
+  "capped": "Yes(15)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MA/2026_MA336.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "course",
+    "code": "MA103"
+   },
+   {
+    "type": "course",
+    "code": "MA214"
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

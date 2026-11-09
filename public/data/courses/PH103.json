@@ -1,0 +1,66 @@
+{
+ "code": "PH103",
+ "title": "The Big Questions: An Introduction to Philosophy",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Philosophy, Logic and Scientific Method",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Hanika Froneman"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Philosophy and Economics, BSc in Philosophy, Logic and Scientific Method, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad) and BSc in Politics and Philosophy. This course is available on the BA in Social Anthropology, BSc in International Relations, BSc in International Social and Public Policy, BSc in Politics, BSc in Politics and International Relations, BSc in Psychological and Behavioural Science, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "At some point in our lives, we are all gripped by deep and fundamental questions. Questions about life, the universe and everything. Philosophers aim to make progress on these questions with clear and precise arguments. In this course, some of the big questions we may address include: (1) Do I know anything? (2) What is consciousness? (3) Do I have free will? (4) How can I tell right from wrong? (5) What's the best form of government? No one has definitive answers to these questions. But understanding the possible answers, and the arguments for and against them, is what philosophy is all about. By grappling with these questions, you will learn the essential skills of a philosopher. First, you will develop your ability to read philosophical texts, focusing on how to extract and present a philosophical thesis and argument in a clear, logical way. Second, you will develop your thinking skills and analytical abilities by participating in philosophical discussions with your peers. Finally, you will develop your ability to construct philosophical arguments of your own by writing philosophy essays. The questions of this course are some of the hardest that have ever been asked. We can't promise that you'll feel any closer to knowing the answers at the end of the course than you did at the beginning. But this course will help you understand the big questions, and to think about them in a reflective, philosophical way.",
+ "teaching": "10 hours of lectures and 15 hours of classes in the Autumn Term. 10 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term. In addition to the regular class content, the 90 minutes long AT classes will also provide you with practical advice and exercises to improve your writing style. This course is delivered through a combination of classes and lectures totalling a minimum of 45 hours across Autumn Term and Winter Term.",
+ "formativeAssessment": "You will do a formative in-class writing exercise to prepare you for your subsequent in-class writing assessments.",
+ "indicativeReading": [
+  "The readings will be articles and excerpts from books and will be made available via Moodle."
+ ],
+ "assessmentText": "Continuous assessment (60%). Video (40%). You will be assessed in class throughout the year with writing assignments. You will also produce coursework in the form of a video learning diary. This will consist of short segments on different topics recorded throughout the year, recorded in accordance with your teacher's instructions.",
+ "assessment": [
+  {
+   "type": "Continuous assessment",
+   "weight": 60
+  },
+  {
+   "type": "Video",
+   "weight": 40
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 239,
+  "avgClassSizePrevYear": 15,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PH/2026_PH103.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

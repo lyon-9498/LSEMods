@@ -1,0 +1,63 @@
+{
+ "code": "GY211",
+ "title": "Introduction to Global Development",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Geography and Environment",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Claire Mercer"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Environment and Sustainable Development. This course is available on the BA in Geography, BSc in Economic History and Geography, BSc in Environment and Sustainable Development with Economics, BSc in Geography with Economics, BSc in International Relations, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is capped. Places will be assigned on a first come first served basis",
+ "description": "An introduction to the key ideas, issues and actors in global development. Course content includes theories, histories and geographies of development, debt and structural adjustment, poverty, aid, civil society, diasporas.",
+ "teaching": "20 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term. In the Department of Geography and Environment, teaching will be delivered through a combination of classes/seminars, pre-recorded lectures, live online lectures and other supplementary interactive live activities.",
+ "formativeAssessment": "Students will produce one formative assignment of 1,000 words.",
+ "indicativeReading": [
+  "Kothari, U (ed) (2005), A Radical History of Development Studies: Individuals, Institutions and Ideologies, Zed, London.",
+  "Murrey, A. and P. Daley (2023) Learning disobedience: decolonizing development studies, Pluto Press,",
+  "Power, M (2003), Rethinking Development Geographies, Routledge.",
+  "Williams, G, P Meth, and K Willis (2009), Geographies of Developing Areas: The Global South in a Changing World, Routledge.",
+  "Willis, K (2011), Theories and Practices of Development, Routledge, 2nd edition."
+ ],
+ "assessmentText": "Exam (100%), duration: 120 minutes in the Spring exam period. Students will sit an exam (answer 2 questions from 5).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Application of information skills",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 46,
+  "avgClassSizePrevYear": 12,
+  "capped": "Yes(100)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GY/2026_GY211.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

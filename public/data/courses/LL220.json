@@ -1,0 +1,71 @@
+{
+ "code": "LL220",
+ "title": "Technology Law and Regulation",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Neli Frost"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, BSc in Data Science, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "The course explores the interactions between ‘law’ and ‘technology’ as two regulatory forces that shape the affordances and limitations of human societies. It encourages students to think critically about the variety of ways through which key digital and artificial intelligence (AI) technologies increasingly mediate political and legal interactions in a variety of contexts, and what the implications might be for long standing democratic legal values, principles, structures, and institutions. The first half of the course introduces students to theoretical frameworks and technical knowledge which allow them to analyse and evaluate how technology operates as a regulatory force in the world and with what implications. The second half turns to a critical interrogation of key legal frameworks enacted to regulate technology and their potentials and limits through the lens of contemporary challenges. The course therefore proceeds from thinking about ‘technology as regulation’ to the ‘regulation of technology’. By combining theoretical engagement with technical and legal knowledge, the course prepares students to critically analyse real-world interactions between law and technology.​ ​",
+ "teaching": "20 hours of lectures and 10 hours of classes in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": null,
+ "indicativeReading": [
+  "Langdon Winner, ‘Do Artifacts have Politics?’ (1980)",
+  "Luana Lund, ‘Cyber-regulatory theories: between retrospection and ideologies’ (2019)",
+  "Tarleton Gillespie, ‘The Politics of Platforms’ (2010)",
+  "Neli Frost, ‘The Impoverished Publicness of Algorithmic Decision Making’ (2024)",
+  "Shoshana Zuboff,",
+  "The Age of Surveillance Capitalism",
+  "(2018)",
+  "Julie E. Cohen,",
+  "Between Truth and Power",
+  "(2019)",
+  "Orla Lynskey,",
+  "The Foundations of EU Data Protection Law",
+  "(2015)",
+  "Ryan Calo, ‘Digital Market Manipulation’ (2014)"
+ ],
+ "assessmentText": "Exam (100%), duration: 150 minutes in the Spring exam period. This exam will consist of discursive essay questions.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 53,
+  "avgClassSizePrevYear": 13,
+  "capped": "Yes(90)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL220.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

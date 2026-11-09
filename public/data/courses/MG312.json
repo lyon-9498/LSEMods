@@ -1,0 +1,67 @@
+{
+ "code": "MG312",
+ "title": "Science of People in Workplaces",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Management",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Xiaoran Hu"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Management, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley, International Exchange (1 Term) and International Exchange (Full Year). This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course has a limited number of places (it is capped).",
+ "description": "Is conflict always detrimental to team and organisational performance? Can subtle changes in resume or job advertisement wording influence hiring outcomes? How can people navigate an increasingly complex workplace filled with technological advancements such as AI? Science of People in Organisations aims to help students gain a multidisciplinary science-based understanding of some of the most intriguing workplace phenomena that will help them succeed in their careers. This course is designed to help students develop analytical skills that are crucial for both academic and industry careers. Students who are interested in understanding the Asian business environment are especially encouraged to take this course. It will draw upon scientific research from various disciplines, including psychology, sociology, history, and anthropology, to critically examine topics such as creativity and innovation, emotions at work, leadership, cross-cultural differences, and management in an Asian context.",
+ "teaching": "20 hours of seminars in the Autumn Term. This course has a reading week in Week 6 of Autumn Term. In its Ethics Code, LSE upholds a commitment to intellectual freedom. This means we will protect the freedom of expression of our students and staff and the right to engage in healthy debate in the classroom.",
+ "formativeAssessment": "Students will be expected to produce 2 pieces of coursework (1 mini report and 1 presentation).",
+ "indicativeReading": [
+  "The course relies heavily on journal articles (for example, Academy of Management Journal, Organization Science, Journal of Applied Psychology, and Harvard Business Review). An extensive reading list is provided at the start of the course. Indicative readings include:",
+  "Ashforth, B. E., & Humphrey, R. H. 1993. Emotional Labor in Service Roles: The Influence of Identity. Academy of Management Review, 18(1): 88–115.",
+  "Bendersky, C., & Hays, N. A. 2011. Status Conflict in Groups. Organization Science, 23(2): 323–340.",
+  "Bitterly, T. B., Brooks, A. W., & Schweitzer, M. E. 2017. Risky business: When humor increases and decreases status. Journal of Personality and Social Psychology, 112(3): 431.",
+  "Greer, L. L., & Chu, C. 2020. Power struggles: When and why the benefits of power for individuals paradoxically harm groups. Current Opinion in Psychology, 33: 162–166.",
+  "Kakkar, H., & Sivanathan, N. 2017. When the appeal of a dominant leader is greater than a prestige leader. Proceedings of the National Academy of Sciences, 201617711.",
+  "Parke, M. R., Seo, M.-G., Hu, X., & Jin, S. 2021. The Creative and Cross-Functional Benefits of Wearing Hearts on Sleeves: Authentic Affect Climate, Information Elaboration, and Team Creativity. Organization Science.",
+  "Shin, J., & Grant, A. M. 2021. When Putting Work Off Pays Off: The Curvilinear Relationship between Procrastination and Creativity. Academy of Management Journal, 64(3): 772–798.",
+  "Wang, L., Restubog, S. L. D., Shao, B., Lu, V., & van Kleef, G. A. 2017. Does Anger Expression help or harm leader effectiveness? The role of competence-based versus integrity-based violations and abusive supervision. Academy of Management Journal."
+ ],
+ "assessmentText": "Project (100%, 3000 words). Assessment is based on a 3,000-word project which will be due at the beginning of WT and will account for 100% of the final grade in this course. For detailed assessment information, including all deadlines and timings, please see the relevant course Moodle page. Assessment timings will be available at the start of each term.",
+ "assessment": [
+  {
+   "type": "Project",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Application of information skills",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 38,
+  "avgClassSizePrevYear": 38,
+  "capped": "Yes(40)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MG/2026_MG312.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

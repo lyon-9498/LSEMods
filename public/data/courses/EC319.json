@@ -1,0 +1,82 @@
+{
+ "code": "EC319",
+ "title": "Games and Economic Behaviour",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economics",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Andrew Ellis",
+  "Dr Christopher Sandmann"
+ ],
+ "prerequisites": "Students must have completed EC2A1 or EC2A3 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": "Fluency in calculus is essential, and some knowledge of analysis, probability theory, linear algebra and set theory is advantageous. Students who took EC2A3 should contact the course convenors before enrolling in the course.",
+ "availability": "This course is available on the BSc in Econometrics and Mathematical Economics, BSc in Economics, BSc in Economics and Data Science, BSc in Mathematics and Economics, BSc in Mathematics with Economics, BSc in Mathematics, Statistics and Business, BSc in Philosophy and Economics, BSc in Politics and Economics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students.",
+ "description": "This course reviews fundamental concepts in economic theory and presents some of its most successful applications. The first part of the course will survey concepts in non-cooperative game theory and will introduce students to game theoretic modelling in economics. After setting up the primitives of the game theory framework, different solution concepts will be analysed with an emphasis on economic applications including bargaining, voting, communication, and matching. The second part of the course traces the ‘game theory revolution’ in economics whereby game theory has become the dominant paradigm in applied fields. The course will cover contract theory (lectures 1-2), auction theory (lecture 3-7), and banking and corporate finance (lecture 8-10). Topics may include: the hold-up problem; menu pricing with an application to income taxation (contract theory); the VCG mechanism, revenue equivalence theorem and revenue-maximising auctions; the drainage tract model; the linkage principle (auction theory); credit rationing and screening; incomplete contracts (why do banks exist?); moral hazard and renegotiation in start-ups.",
+ "teaching": "15 hours of lectures and 10 hours of classes in the Autumn Term. 15 hours of lectures and 9 hours of classes in the Winter Term. 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Winter Term. There will be a reading week in Week 6 of WT (no lectures or classes that week). This course is delivered through a combination of classes and lectures totalling a minimum of 50 hours across Autumn Term, Winter Term and Spring Term.",
+ "formativeAssessment": "Students are expected to attempt assigned problem sets ahead of the class, where these will be discussed. In addition, students are expected to submit up to four of the designated hand-in problem sets, two for each term, to receive feedback from class teachers.",
+ "indicativeReading": [
+  "M. Osborne, An Introduction to Game Theory, Oxford University Press, 2003.",
+  "P. Milgrom, Putting Auction Theory to Work, Cambridge, 2004",
+  "P. Bolton, M. Dewatripont, Contract Theory, The MIT Press, 2004",
+  "X. Freixas, J.-C. Rochet, Microeconomics of Banking, The MIT Press, 2008",
+  "J. Tirole, The Theory of Corporate Finance, Princeton, 2006"
+ ],
+ "assessmentText": "Exam (50%), duration: 90 minutes, reading time: 15 minutes in the Spring exam period. Continuous assessment (50%). The spring exam assesses AT course content only. The coursework assesses WT course content only and encompasses two equally weighted marked assignments, one individual and one group.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 50
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 50
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 37,
+  "avgClassSizePrevYear": 19,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EC/2026_EC319.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "course",
+    "code": "EC2A1"
+   },
+   {
+    "type": "course",
+    "code": "EC2A3"
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

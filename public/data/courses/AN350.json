@@ -1,0 +1,55 @@
+{
+ "code": "AN350",
+ "title": "The Anthropology of South Asia",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Anthropology",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Mukulika Banerjee"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": "You are required to be enrolled in a degree programme at LSE in which you are trained to write essays and read qualitative research. You may be asked to submit written work to determine your ability for this course.",
+ "availability": "This course is available on the BA in Anthropology and Law, BA in Social Anthropology, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley, Exchange Programme for Students in Anthropology (Cape Town), Exchange Programme for Students in Anthropology (Fudan), Exchange Programme for Students in Anthropology (Melbourne) and Exchange Programme for Students in Anthropology (Tokyo). This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "This course will aim to address issues of citizenship, inequality and social justice, religious faith and practices, migration and labour and consumption patterns in rural and urban South Asia. The course will cover both classic and current literature and weekly sessions will be organised thematically. South Asia is an ideal setting to examine many paradoxes that exist elsewhere - alongside some of the highest rates of economic growth there is growing inequality, there is a growing middle class but high rates of precarious poverty, the countries remain largely rural yet they will hold the largest urban population in the world in less than ten years and so on. In order to understand these paradoxes, it is essential that issues of macro economic policy, social inequality, infrastructural development, political mobilisation and popular culture, mobilisation along religious lines in each country and the rise of the 'threatened majorities' that behave like minority populations - be examined in greater detail. Using a rich body of anthropological research on South Asia, this course will examine several of these issues and more in this course. The literature on India is the largest available but every attempt will be made to cover the anthropological literature on Pakistan, Nepal, Sri Lanka and Bangladesh alongside. LSE is currently evaluating the use of edit tracking tools for AI-resilient assessment. This course might use edit tracking tools for assessments.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Essay (1500 words). Students will have the opportunity to submit one formative essay of up to 1500 words during the course. Students will be informed of their formative submission deadline by email by the end of Week 3 of term.",
+ "indicativeReading": [
+  "Please read at least TWO of the following background readings before the start of the course and certainly by the end of the second week of the course: Sunil Khilnani, The Idea of India; Ramachandra Guha, India After Gandhi; Corbridge, S. and Harris, J., Reinventing India: Liberalization, Hindu Politics and Popular Democracy; Rana Dasgupta, Capital: The Eruption of Delhi; Ammara Maqsood, The New Pakistani Middle class; Delwar Hussain, Boundaries Undermined: The ruins of progress on Bangladesh-India Border",
+  "Fiction: Vikram Seth, A Suitable Boy; Rohington Mistry, A Fine Balance; Bapsi Sidhwa, Ice Candy Man; Neel Mukherjee, The Lives of Others; Daniyal Mueenuddin, In Other Rooms, Other Wonders; Arundhati Roy, The God of Small Things; Saadat Hasan Manto, Toba Tek Singh: Stories",
+  "You will required to present your thoughts on the background readings you have done in Week 2 class/seminar."
+ ],
+ "assessmentText": "Essay (100%, 3000 words).",
+ "assessment": [
+  {
+   "type": "Essay",
+   "weight": 100
+  }
+ ],
+ "skills": [],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AN/2026_AN350.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "AN250",
+   "title": "The Anthropology of South Asia",
+   "note": "Withdrawn 2025/26"
+  }
+ ],
+ "unlocks": []
+}

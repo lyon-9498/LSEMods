@@ -1,0 +1,65 @@
+{
+ "code": "GY207",
+ "title": "Economy, Society and Place",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Geography and Environment",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Laura Antona"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Geography, BSc in Economic History and Geography, BSc in Environment and Sustainable Development, BSc in Environment and Sustainable Development with Economics, BSc in Geography with Economics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "Why do people choose to live in particular places? Is it simply a trade-off of affordability and housing space or are other factors at play? Through which other mechanisms is the choice of residential location influenced and how significant is the outcome? Employing the theory of Bourdieu throughout the half unit, we address these and other questions, examining the interrelatedness of economy, governance and society in influencing the choice of where we live. We focus on the role of culture in nuancing class-based explanations of the relationship between people and place. We consider how housing choices can confer social advantage or disadvantage on individual households. And we discuss the significance for policy makers of placing the social at the centre of our understanding of housing choices. We use a series of place-based typologies and phenomenon to relate theory to practice. Examples might include but are not limited to; suburbanisation, rural second homes and gentrification.",
+ "teaching": "10 hours of lectures and 9 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term. In the Department of Geography and Environment, teaching will be delivered through a combination of classes/seminars, pre-recorded lectures, live online lectures and other supplementary interactive live activities.",
+ "formativeAssessment": null,
+ "indicativeReading": [
+  "Bourdieu, P. (2005) ‘Habitus’. In Jean Hillier and Emma Rooksby (eds) Habitus: a sense of place. 43-5.",
+  "Mace, A. (2017), Spatial capital as a tool for planning practice.",
+  "Planning Theory",
+  "16(2) 119-132.",
+  "Peck, J. (2011). Neoliberal Suburbanism: Frontier Space. Urban Geography, 32(6), 884–919.",
+  "Savage, M. The Lost Urban Sociology of Pierre Bourdieu (chapter 45). In Gary Bridge and Sophie Watson (eds) The new Blackwell companion to the city. 511-520."
+ ],
+ "assessmentText": "Exam (100%), duration: 120 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 58,
+  "avgClassSizePrevYear": 15,
+  "capped": "Yes(70)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GY/2026_GY207.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

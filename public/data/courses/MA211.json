@@ -1,0 +1,83 @@
+{
+ "code": "MA211",
+ "title": "Algebra and Number Theory",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Mathematics",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Julia Boettcher"
+ ],
+ "prerequisites": "Students must have completed MA100 and MA103 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Mathematics and Economics, BSc in Mathematics with Data Science, BSc in Mathematics with Economics, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students.",
+ "description": "The aim of this course is to continue (from MA103) the study of abstract algebraic structures. There are two main strands in the course. First, we develop further the theory of groups, using permutation groups as a key example. We investigate the important concepts of normal subgroups and quotient groups. Secondly, we introduce rings, and study factorisation in rings, where we also look at some connections with number theory. Groups: Review of basic group theory; permutations and permutation groups; homomorphisms; conjugation, normal subgroups and quotient groups; the first isomorphism theorem for groups. Rings: basic properties of rings and examples (including polynomial rings, matrix rings, and number rings); subrings, ideals and ring homomorphisms; divisibility in integral domains; greatest common divisors; Euclidean rings and unique factorisation; applications to number theory; principal ideal domains.",
+ "teaching": "20 hours of lectures and 10 hours of classes in the Autumn Term.",
+ "formativeAssessment": "Written answers to set problems will be expected on a weekly basis.",
+ "indicativeReading": [
+  "A Book of Abstract Algebra",
+  ", Charles C Pinter, (Dover, 2nd edition, 2010);",
+  "Introduction to Algebra",
+  ", Peter J Cameron (OUP 1988);",
+  "Rings, Fields and Groups: Introduction to Abstract Algebra",
+  ", Reg Allenby (Butterworth-Heinemann, 2nd edition 1991)."
+ ],
+ "assessmentText": "Exam (90%), duration: 120 minutes in the Spring exam period. Continuous assessment (10%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 90
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 11,
+  "avgClassSizePrevYear": 11,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MA/2026_MA211.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "course",
+    "code": "MA100"
+   },
+   {
+    "type": "course",
+    "code": "MA103"
+   }
+  ]
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

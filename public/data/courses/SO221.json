@@ -1,0 +1,80 @@
+{
+ "code": "SO221",
+ "title": "Researching London: Advanced Social Research Methods",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Sociology",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Haley Mcavay",
+  "Dr Jana Reynolds"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Sociology. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "This course will provide students with a first understanding of social research design and analysis of social research data. It involves a dynamic introduction to a range of research methods, both qualitative and quantitative, through practical exercises in the context of London’s social life. By the end of the course students will: - Understand the key role of research design for conducting original empirical social research. In particular, taking into account relevant extant literature, they will develop a research question of their own interest and identify appropriate research method(s) to address it. - Have engaged with practical research strategies and methods including the design of interview guides and survey questionnaires, conducting qualitative interviews, ethnographic observation, and a survey in the context of London. - Have a sense of the urban sociology of London and a first-hand experience of its potential for exploring contemporary social issues. - Be able to analyse different types of data, using a range of methods, such as thematic analysis in the case of qualitative data and regression analysis in the case of quantitative data. - Be able to assess the quality of employed methodologies on the basis of formal criteria, such as reliability, validity and generalizability. - Understand the ethical issues involved in social research. - Have developed a research proposal which will strengthen their dissertation design, and might inform their dissertation topic.",
+ "teaching": "This course has a reading week in Week 6 of Autumn and Winter Term. This course is usually delivered through a combination of lectures and classes. There will be two hours or more of teaching each week across AT and WT.",
+ "formativeAssessment": "Literature review. Students will be expected to complete one formative assessment in AT.",
+ "indicativeReading": [
+  "A. Agresti & B. Finlay (2008) Statistical Methods for the Social Sciences. 4th edition. Pearson.",
+  "Bryman, A. (2014). Social research methods, 4th edition. Oxford University Press.",
+  "Converse, J. M., & Presser, S. (1986). Survey questions: Handcrafting the standardized questionnaire (No. 63). Sage.",
+  "Coffey, A. (1999) The Ethnographic Self: Fieldwork and the Representation of Identity. London: Sage.",
+  "Davidson, O’Connell, J., (2008). “If no means no, does yes mean yes? Consenting to research intimacies.”, History of the Human Sciences, 21(4), 49-67.",
+  "Duneier, M. (2006). “Ethnography, the Ecological Fallacy, and the 1995 Chicago Heat Wave.” American Sociological Review, 71(4), 679–88.",
+  "Groves, R. M., Fowler Jr, F. J., Couper, M. P., Lepkowski, J. M., Singer, E., & Tourangeau, R. (2011). Survey methodology. John Wiley & Sons.",
+  "Hammersley, M. & Atkinson, P. (1994) Ethnography: Principles in Practice. London: Tavistock",
+  "O'Reilly, K. (2004). Ethnographic methods. London, New York: Routledge.",
+  "Savage, M., & Burrows, R. (2007). The Coming Crisis of Empirical Sociology. Sociology : The Journal of the British Sociological Association, 41(5), 885-899.",
+  "Tourangeau, R., Rips, Lance J, & Rasinski, Kenneth A. (2000). The psychology of survey response. New York: Cambridge University Press."
+ ],
+ "assessmentText": "Essay (20%, 2000 words) in January. Project (30%) in March. This component of assessment includes an element of group work. Proposal (50%, 2000 words) in May. The first assessment, a qualitative interview transcript or ethnographic fieldnotes and a 2000 word essay (20%) will be carried out in Autumn Term. The second assessment, a survey design group presentation project (30%), will be carried out in Winter Term. The third assessment, a 2,000 word research proposal (50%), will be carried out in Spring Term. Attendance at all workshops and submission of all set coursework is required.",
+ "assessment": [
+  {
+   "type": "Essay",
+   "weight": 20
+  },
+  {
+   "type": "Project",
+   "weight": 30
+  },
+  {
+   "type": "Proposal",
+   "weight": 50
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Communication",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 33,
+  "avgClassSizePrevYear": 11,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SO/2026_SO221.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

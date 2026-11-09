@@ -1,0 +1,59 @@
+{
+ "code": "LL108",
+ "title": "Criminal Law",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Abenaa Owusu-Bempah"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BA in Anthropology and Law and LLB in Laws. This course is available on the Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "The course examines the 'general part' of criminal law and selected areas of the special part of criminal law in the context of theories of the aims and functions of criminalisation. The course will discuss the limits to criminalisation; the conceptual framework of criminal liability (conduct, responsibility, capacity, defences); homicide; non-fatal violence against the person; sexual offences; property offences; secondary participation in crime; inchoate offences; and strict liability offences.",
+ "teaching": "9 hours of classes and 16 hours of lectures in the Autumn Term. 20 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "A minimum of two pieces of written work will be required (one per term), usually one essay and one problem question.",
+ "indicativeReading": [
+  "A detailed reading list will be distributed at the start of the course. A number of criminal law textbooks are available, and students will be expected to read the relevant parts of the most recent editions of one of these, e.g. Nicola Lacey, Oliver Quick & Celia Wells, Reconstructing Criminal Law; Jeremy Horder, Ashworth's Principles of Criminal Law; Jonathan Herring, Criminal Law: Text, Cases and Materials; M. Allen, Introduction to Criminal Law. They will also be expected to read all cases and materials marked as essential on the reading lists provided."
+ ],
+ "assessmentText": "Exam (100%), duration: 180 minutes, reading time: 15 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 230,
+  "avgClassSizePrevYear": 16,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL108.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

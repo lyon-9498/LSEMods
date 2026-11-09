@@ -1,0 +1,101 @@
+{
+ "code": "EC1A1",
+ "title": "Microeconomics I",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economics",
+ "units": 0.5,
+ "studyPeriod": "Winter and Spring Term",
+ "terms": [
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Prof Dimitra Petropoulou"
+ ],
+ "prerequisites": "Students must have completed ST109 and EC1P1 before taking this course.",
+ "corequisites": "Students must complete MA108 or MA100 either before taking this course or in the same year as this course.",
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Econometrics and Mathematical Economics and BSc in Economics. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "This course introduces students to the principles of microeconomics analysis, including recent developments in thinking around decision-making. The first part of the course explores consumer rationality and decision-making under constraints and under uncertainty, including selected applications to savings and labour supply decisions. Students will also be introduced to behavioural economics and insights from psychology relating to consumer decisions. The second part of the course explores firm decision-making in different market structures. Insights from consumer and producer theory will be combined with evidence to address important policy-relevant questions and explore the role of government policy. Students will make use of quantitative methods covered in MA108 and MA100. Appropriate quantitative tools will be reviewed or taught as required. EC1A1, in combination with EC1B1, contributes towards certificate level exemptions from professional Chartered Institute of Management Accountants (CIMA) examinations. This course, combined with EC1B1, contributes to the CB2 Exemption of the Institute and Faculty of Actuaries (IFoA).",
+ "teaching": "20 hours of lectures and 9 hours of classes in the Winter Term. 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Winter Term. There will also be 6 hours of online interactive Question and Answer (Q&A) sessions in the WT, to discuss further examples and past paper questions, discuss related reading and tackle student questions. There will be a reading week in Week 6 of WT (no lectures, classes or support sessions that week). This course is delivered through a combination of classes and lectures totalling a minimum of 30 hours across Winter Term. Student learning will be supported through the EC1A1 Support Lab and through a dedicated discussion forum.",
+ "formativeAssessment": "Students are expected to complete the weekly problem sets and any required reading before attending class and are encouraged to work in small study groups. A mock exam will be marked by class teachers and feedback provided. Feedback will also be provided on a 10-minute video presentation exploring a policy-relevant theme. The diversity of tasks makes the course more inclusive and help students develop a broader range of skills.",
+ "indicativeReading": [
+  "There is no set textbook for this course. There will be required reading from journal articles or reports that will be made available as the course unfolds. Students will be expected to critically discuss the theoretical ideas and models taught by engaging with this required reading alongside working through microeconomic problems. There will be opportunities to discuss the readings in the Q&A sessions and/or in weekly classes.",
+  "Students wishing to complement their study of the lecture material can consult, among others, the following textbooks (though this is not required, and students need not purchase any textbooks). Any edition can be used.",
+  "Varian, H. Intermediate microeconomics: with calculus, W.W. Norton & Company",
+  "Perloff, J.M. Microeconomics: theory & applications with calculus, Pearson.",
+  "Students wishing to read further or refresh mathematical tools can consult:",
+  "Jacques, I. Mathematics for Economics and Business, Pearson."
+ ],
+ "assessmentText": "Exam (85%), duration: 120 Minutes, reading time: 15 minutes in the Spring exam period. Continuous assessment (15%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 85
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 15
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 219,
+  "avgClassSizePrevYear": 18,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EC/2026_EC1A1.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "course",
+    "code": "ST109"
+   },
+   {
+    "type": "course",
+    "code": "EC1P1"
+   }
+  ]
+ },
+ "coreqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "course",
+    "code": "MA108"
+   },
+   {
+    "type": "course",
+    "code": "MA100"
+   }
+  ]
+ },
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": [
+  "EC2A1",
+  "EC2B1",
+  "FM214",
+  "MG206",
+  "MG301"
+ ]
+}

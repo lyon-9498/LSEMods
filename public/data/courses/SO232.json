@@ -1,0 +1,88 @@
+{
+ "code": "SO232",
+ "title": "Sociology of Health and Illness",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Sociology",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Carrie Friese"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Language, Culture and Society, BSc in Sociology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is not available as an outside option to students on other programmes. This course is available with permission to General Course students. This course is not available as a first year option. This course has a limited number of places (it is capped). Places are allocated on a first come first served basis.",
+ "description": "Sociology of Health and Illness explores the ways in which experiences of health and illness are socially patterned. We will also ask how the management of health and illness organizes social life. To explore experiences of health and illness, we will look at how specific 'medical disorders' (e.g., ageing, cancer, mental health, disabilities, reproductive and sexual health, obesity etc.) are 'embodied' in socially patterned ways. Empirical studies of specific disorders will be read, in conjunction with analysis of other kinds of texts (e.g., popular writing, film, performance art, museum exhibits, etc.). To address how the management of health and illness organizes social life and vice versa, key theories in the sociology of health and illness will be explored. This will include Parsons's sick role; Weberian and feminist understandings of professional dominance; medicalization, demedicalization and biomedicalization; stigma and stigmatization; health inequalities and the social determinants of health; and Foucaultian notions of surveillance, biopolitics and governmentality. The goal of the course is to introduce students to the historical development of, and the contemporary debates within, the Sociology of Health and Illness as a subfield of Sociology.",
+ "teaching": "This course has a reading week in Week 6 of Winter Term. This course is usually delivered through a combination of lectures and seminars. There will be two hours or more of teaching each week in WT.",
+ "formativeAssessment": "Blog post. Students will be expected to complete one post on Moodle of no more than 300 words, and one response to another student's Moodle post, also of no more than 300 words.",
+ "indicativeReading": [
+  "A Pilnick.",
+  "Reconsidering patient centred care: between autonomy and abandonment",
+  "(2022)",
+  "C Mattingly.",
+  "Moral laboratories: family peril and the struggle for a good life",
+  "(2014)",
+  "Mason, KA",
+  "Infectious Change: Reinventing Chinese Public Health After and Epidemic",
+  "(2016)",
+  "A Frank,",
+  "The Wounded Storyteller: Body, Illness and Ethics",
+  "(1997)",
+  "E Martin",
+  "Bipolar Expeditions: Mania and Depression in American Culture",
+  "(2007)",
+  "K Littlejohn",
+  "Just get on the pill: the uneven burden of reproductive politics",
+  "S.L. Jain, Malignant: how cancer becomes us (2013)",
+  "C. Watkins-Hayes. Remaking a life: how women living with HIV/AIDS confront inequality (2019)",
+  "G Davis.",
+  "Contesting Intersex: The Dubious Diagnosis",
+  "(2015)",
+  "N Tousignant.",
+  "Edges of Exposure: Toxicology and the Problem of Capacity in Postcolonial Senegal",
+  "(2018)"
+ ],
+ "assessmentText": "Course participation (15%). Portfolio (85%, 4000 words) in May. The assessment consists of course participation throughout the term, and a learning portfolio of no more than 4000 words total, with individual words limits for the components. Attendance at all classes and submission of all set coursework is required.",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 15
+  },
+  {
+   "type": "Portfolio",
+   "weight": 85
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Application of information skills",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 34,
+  "avgClassSizePrevYear": 17,
+  "capped": "Yes(34)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SO/2026_SO232.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

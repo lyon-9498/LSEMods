@@ -1,0 +1,104 @@
+{
+ "code": "EC1C1",
+ "title": "Econometrics I",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economics",
+ "units": 0.5,
+ "studyPeriod": "Winter and Spring Term",
+ "terms": [
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Michael Gmeiner"
+ ],
+ "prerequisites": "Students must have completed ST109 and EC1P1 before taking this course.",
+ "corequisites": "Students must complete MA108 or MA100 either before taking this course or in the same year as this course.",
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Econometrics and Mathematical Economics and BSc in Economics. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "This course is an introduction to econometrics with both theory and applications. The aim is to introduce students to the principles of estimation, statistical inference, and the central tool of regression. The course draws on empirical questions. Students will learn some basic programming and data handling skills in the process. Students will learn how statistical tools can be used to answer causal questions (e.g., “What is the causal effect of electing a better educated politician on the quality of service delivery?”), with discussion of both underlying theoretical results as well as applied concepts regarding interpretation. Topics include: randomised experiments; OLS regression; omitted variable bias; statistical inference; standard errors; and hypothesis testing.",
+ "teaching": "20 hours of lectures, 9 hours of classes and 5 hours of workshops in the Winter Term. 1 hour of classes in the Spring Term. This course has a reading week in Week 6 of Winter Term. There will be a reading week in Week 6 of WT only (no lectures or classes that week). This course is delivered through a combination of classes and lectures totalling a minimum of 30 hours across the Winter and Spring Terms.",
+ "formativeAssessment": "There are weekly assignments and feedback will be given on two.",
+ "indicativeReading": [
+  "J. D. Angrist and J. S. Pischke Mastering ‘Metrics. The Path from Cause to Effect, Princeton University Press.",
+  "J. H. Stock and M. Watson Introduction to Econometrics, Pearson"
+ ],
+ "assessmentText": "Exam (85%), duration: 120 Minutes, reading time: 15 minutes in the Spring exam period. Continuous assessment (15%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 85
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 15
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 219,
+  "avgClassSizePrevYear": 18,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EC/2026_EC1C1.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "and",
+  "children": [
+   {
+    "type": "course",
+    "code": "ST109"
+   },
+   {
+    "type": "course",
+    "code": "EC1P1"
+   }
+  ]
+ },
+ "coreqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "course",
+    "code": "MA108"
+   },
+   {
+    "type": "course",
+    "code": "MA100"
+   }
+  ]
+ },
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": [
+  "EC2C1",
+  "EC336",
+  "FM214",
+  "ST206",
+  "ST226",
+  "ST227",
+  "ST308",
+  "ST310",
+  "ST311",
+  "ST327"
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "code": "AN369",
+ "title": "The Anthropology of Amazonia",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Anthropology",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Harry Walker"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": "Unless granted an exemption by the course teacher, students taking this course should have completed an introductory course in anthropology.",
+ "availability": "This course is available on the BA in Anthropology and Law, BA in Social Anthropology, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley, Exchange Programme for Students in Anthropology (Cape Town), Exchange Programme for Students in Anthropology (Fudan), Exchange Programme for Students in Anthropology (Melbourne) and Exchange Programme for Students in Anthropology (Tokyo). This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "The course will introduce students to selected themes in the anthropology of Amazonia. It will provide a grounding in the ethnographic literature of the region while seeking to engage with current theoretical debates, highlighting their potential importance to the discipline of anthropology. Topics to be covered include history, indigenous social movements; sexuality and gender; trade and inter-ethnic relations; politics and power; illness, well-being and death. Students will be encouraged to reflect on the broader relationship between ethnography and theory, to challenge common stereotypes of Amazonia and its inhabitants, and to explore ways in which the region has inscribed itself on the imagination of anthropologists and laypersons alike.",
+ "teaching": "10 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Essay (1500 words). Students will have the opportunity to submit one formative essay of up to 1500 words during the course. Students will be informed of their formative submission deadline by email by the end of Week 3 of term.",
+ "indicativeReading": [
+  "Overing, Joanna. & Alan Passes (eds). 2000. The Anthropology of Love and Anger: The Aesthetics of Conviviality in Native Amazonia.",
+  "Penfield, Amy. 2024. Predatory Economies: The Sanema and the Socialist State in Contemporary Amazonia.",
+  "Walker, Harry. 2012. Under a Watchful Eye: Self, Power and Intimacy in Amazonia.",
+  "Campbell, Jeremy. 2015. Conjuring Property: Speculation and Environmental Futures in the Brazilian Amazon.",
+  "Costa, Luiz. 2017. The Owners of Kinship: Asymmetrical Relations in Indigenous Amazonia.",
+  "Seeger, Anthony. 2004. Why Suyá Sing: A Musical Anthropology of an Amazonian People."
+ ],
+ "assessmentText": "Essay (100%, 3500 words).",
+ "assessment": [
+  {
+   "type": "Essay",
+   "weight": 100
+  }
+ ],
+ "skills": [],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AN/2026_AN369.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "AN269",
+   "title": "The Anthropology of Amazonia",
+   "note": "Withdrawn 2025/26"
+  }
+ ],
+ "unlocks": []
+}

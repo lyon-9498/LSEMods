@@ -1,0 +1,70 @@
+{
+ "code": "IR100",
+ "title": "International Relations: Theories, Concepts and Debates",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International Relations",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Katerina Dalacoura"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in International Relations, BSc in International Relations and Chinese, BSc in International Relations and History and BSc in Politics and International Relations. This course is available on the BSc in Environment and Sustainable Development, BSc in Politics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is not available as an outside option to students on other programmes. This course is available with permission to General Course students. Students who have this course as a compulsory course are guaranteed a place. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "This course offers an introduction to the study of International Relations (IR). It surveys key IR concepts and a a wide range of theories, placing them in in conversation with each other to highlight key debates in the study of IR. The second part of the course focuses on the application of theories to enable students to deepen their understanding.",
+ "teaching": "10 hours of lectures and 9 hours of classes in the Autumn Term. 10 hours of lectures and 10 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "Formative essay of 1500 words AT week 7. The formative essay provides students with an opportunity to write an essay and receive feedback to support their preparation for the summative essay. Students will sit a mock exam in WT week 7. The mock exam provides students with an opportunity to write a paper in class under simulated exam conditions and receive feedback to support their preparation for the summative e-Exam. The questions on the e-Exam paper will be of the same type as the questions for the formative and summative essays. The e-Exam answers will be in the form of essays. The e-Exam essays should be in the same format (albeit condensed) as the formative and summative essays.",
+ "indicativeReading": [
+  "A full course description and guide to reading will be provided. Relevant course texts include:",
+  "Baylis, John, Smith, Steve and Owens, Patricia. 2023. The globalization of world politics: an introduction to international relations. Ninth edition. Oxford: Oxford University Press",
+  "Dunne, Tim, Kurki, Milja and Smith, Steve. (eds.). 2020. International Relations Theories: Discipline and Diversity. Fifth edition. Oxford: Oxford University Press",
+  "Booth, Ken and Smith, Steve. (eds). 2016. International Relations Theory Today. 2nd edition. Cambridge: Polity Press."
+ ],
+ "assessmentText": "Exam (80%), duration: 180 Minutes in the Spring exam period. Essay (20%, 1500 words) in January.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 80
+  },
+  {
+   "type": "Essay",
+   "weight": 20
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 141,
+  "avgClassSizePrevYear": 13,
+  "capped": "Yes(150)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/IR/2026_IR100.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": [
+  "IR200"
+ ]
+}

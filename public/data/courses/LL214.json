@@ -1,0 +1,69 @@
+{
+ "code": "LL214",
+ "title": "Law and State Power",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Thomas Poole"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the LLB in Laws. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. Capped at 30 students. Guidelines for interpreting course guide information",
+ "description": "Outline: The course provides an opportunity to take a deep dive into the modern state. We investigate how the state organises and exercises power, and how such power is legitimated and controlled. At all times we remain alert to the pathologies of state power - corruption, mismanagement, capture by elites - and what might be done to prevent them. Classic themes surrounding law and state power - such as tensions between technocracy and democracy, bureaucratic rationality and charismatic authority, agency autonomy and political accountability - are given contemporary resonance by studying topical themes of importance, such as populism and illiberal democracy, citizenship deprivation and the politics of pandemic management. The course provides an opportunity to take a deep dive into the modern state. We investigate how the state organises and exercises power, and how such power is legitimated and controlled. At all times we remain alert to the pathologies of state power - corruption, mismanagement, capture by elites - and what might be done to prevent them. Classic themes surrounding law and state power - such as tensions between technocracy and democracy, bureaucratic rationality and charismatic authority, agency autonomy and political accountability - are given contemporary resonance by studying topical themes such as populism and illiberal democracy, the legitimacy of the fiscal constitution, and machine learning and the ‘re-enchantment’ of the administrative state. Syllabus: Theories of power. The nature of the modern state. Law and government. Power and prerogative. Soft law: the role of policies and guidance in governance structures. Technocracy and democracy. Corruption and administration. The ‘contracting state’. Risk and the regulatory state. Crisis management including COVID-19 case study. The legal control of state power. Biopolitics - citizenship deprivation and the Illegal Migration Bill. The nature of the modern state. Law and government. Power and prerogative. Soft law: the role of policies and guidance in governance. Technocracy and democracy. Corruption and administration. The fiscal constitution. The use of AI/machine learning in government and its impact on administrative law. Risk and regulation.",
+ "teaching": "20 hours of seminars in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "One formative essay.",
+ "indicativeReading": [
+  "Eden Sarid and Omri Ben-Zvi, ‘Machine Learning and the Re-enchantment of the Administrative State’ (2024) 87",
+  "Modern Law Review",
+  "371",
+  "Neli Frost, ‘The Impoverished Publicness of Algorithmic Decision-Making’ (2024) 44",
+  "Oxford Journal of Legal Studies",
+  "780",
+  "Paul Tucker,",
+  "Unelected Power: The Quest for Legitimacy in Central Banking and Regulatory State",
+  "(Princeton, 2018)",
+  "Carol Harlow and Richard Rawlings,",
+  "Law and Administration",
+  "(Cambridge, 4th ed., 2021)"
+ ],
+ "assessmentText": "Exam (100%), duration: 150 Minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": null,
+  "avgClassSizePrevYear": null,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL214.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

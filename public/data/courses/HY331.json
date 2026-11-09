@@ -1,0 +1,111 @@
+{
+ "code": "HY331",
+ "title": "Henry Kissinger and the Global 1970s",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International History",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Roham Alvandi"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in History, BA in Social Anthropology, BSc in History and Politics, BSc in International Relations and History, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is freely available to General Course students. It does not require permission. This course is capped. Places will be assigned on a first come first served basis",
+ "description": "Henry Kissinger might be the most controversial American statesman of the twentieth century. More than forty years since he left office, he remains the focus of intense popular and scholarly debate concerning the uses of American power during the Cold War. This course offers an introduction to these controversies in the study of ‘America and the World’ in the 1970s. The course begins by examining how Kissinger’s ideas about foreign policy evolved during his early life in wartime Germany and his career as a foreign policy intellectual at Harvard University. The majority of the course is then concerned with the central controversies of Kissinger’s time in office as national security adviser and secretary of state between 1969 and 1976. Each week students will examine Kissinger’s role in shaping and implementing American foreign policy in a particular theatre of the global Cold War, focusing on the major crises and conflicts of the decade. Students read and reflect on extracts from Kissinger’s memoirs as a primary source, in conjunction with the latest historical research on that topic. They are asked to engage with ongoing historiographical debates about Kissinger’s record and legacy and to form their own judgements, based on their reading of primary and secondary sources. Finally, students are asked to reflect on both Kissinger’s place in history and his place in contemporary politics.",
+ "teaching": "20 hours of seminars in the Autumn Term. 20 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "A presentation in either the AT or the WT.",
+ "indicativeReading": [
+  "Roham Alvandi, Nixon, Kissinger, and the Shah: The United States and Iran in the Cold War (New York: Oxford University Press, 2014)",
+  "Garry Bass, The Blood Telegram: Nixon, Kissinger, and a Forgotten Genocide (New York: Knopf, 2013)",
+  "Mario Del Pero, The Eccentric Realist: Henry Kissinger and the Shaping of American Foreign Policy (Ithaca: Cornell University Press, 2010)",
+  "Niall Ferguson, Kissinger: 1923-1968: The Idealist (New York: Penguin, 2015)",
+  "Jussi Hanhimäki, The Flawed Architect: Henry Kissinger and American Foreign Policy (New York: Oxford University Press, 2004)",
+  "Christopher Hitchens, The Trial of Henry Kissinger (London: Verso, 2001)",
+  "Barbara Keys, Reclaiming American Virtue: The Human Rights Revolution of the 1970s (Cambridge, MA: Harvard University Press, 2014)",
+  "Henry Kissinger, American Foreign Policy: Three Essays (New York: W. W. Norton, 1969)",
+  "Henry Kissinger, White House Years (Boston, Little, Brown, 1979)",
+  "Henry Kissinger, Years of Upheaval (Boston: Little, Brown, 1982)",
+  "Henry Kissinger, Diplomacy (New York: Simon & Schuster, 1994)",
+  "Henry Kissinger, Years of Renewal (New York: Simon & Schuster, 1999)",
+  "Henry Kissinger, Crisis: The Anatomy of Two Major Foreign Policy Crises (New York: Simon & Schuster, 2003)",
+  "Henry Kissinger, Ending the Vietnam War: A History of America’s Involvement in and Extrication from the Vietnam War (New York: Simon & Schuster, 2003)",
+  "Henry Kissinger, World Order (New York: Penguin, 2014)",
+  "Frederick Logevall and Andrew Preston (eds.), Nixon in the World: American Foreign Relations, 1969-1977 (New York: Oxford University Press, 2008)",
+  "Daniel Sargent, A Superpower Transformed: The Remaking of American Foreign Relations in the 1970s (Oxford: Oxford University Press, 2015)",
+  "Sarah Snyder, Human Rights Activism and the End of the Cold War: A Transnational History of the Helsinki Network (New York: Cambridge University Press, 2011)",
+  "Jeremi Suri, Henry Kissinger and the American Century (Cambridge, MA: Harvard University Press, 2007)"
+ ],
+ "assessmentText": "Course participation (15%). Essay (35%, 3500 words). Essay (35%, 3500 words). Essay (15%, 2000 words). 2,000-word review of a primary source, due in the Autumn Term (15%); 3,500-word review essay on a chapter from Kissinger’s memoirs, using primary sources, due in the Winter Term (35%); 3,500-word review essay on a chapter from Hitchens’s Trial of Henry Kissinger, using primary sources, due in the Spring Term (35%); Class participation (15%).",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 15
+  },
+  {
+   "type": "Essay",
+   "weight": 35
+  },
+  {
+   "type": "Essay",
+   "weight": 35
+  },
+  {
+   "type": "Essay",
+   "weight": 15
+  },
+  {
+   "type": "Autumn term",
+   "weight": 15
+  },
+  {
+   "type": "Winter term",
+   "weight": 35
+  },
+  {
+   "type": "Spring term",
+   "weight": 35
+  },
+  {
+   "type": "Class participation",
+   "weight": 15
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 14,
+  "avgClassSizePrevYear": 7,
+  "capped": "Yes(34)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/HY/2026_HY331.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

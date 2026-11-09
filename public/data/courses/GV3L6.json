@@ -1,0 +1,70 @@
+{
+ "code": "GV3L6",
+ "title": "The Political Economy of Inequality",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Government",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Valentino Larcinese"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Social Anthropology, BSc in History and Politics, BSc in International Social and Public Policy with Politics, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad), BSc in Politics, BSc in Politics and Economics, BSc in Politics and International Relations, BSc in Politics and Philosophy and BSc in Social Anthropology. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "The objective of this course is to provide an overview of the main theories, and related empirical evidence, regarding the determinants and consequences of the distribution of income and wealth. We will place a particular emphasis on the role played by political and institutional factors and the way inequality in material wealth shapes political influence, hence steering policy and institutions towards the creation and preservation of inequality. A central theme of the material covered in this course is the connection between economic and political inequality. We will draw on literature from political science, economic history and economics. We will cover the following topics: - Inequality: key concepts and measurement - Wealth and income inequality: evolution over time and across countries - Explanations of economic inequality: XIX and XX century thinkers - Inequality in the XXI century: globalization and technological change - The political economy of redistribution - Taxation, redistribution and the growth of the public sector - Inequality, democracy and political development - Political inequality",
+ "teaching": "15 hours of lectures and 13.5 hours of classes in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "Presentation. Students will be expected to give 2 presentations in the AT.",
+ "indicativeReading": [
+  "Branko Milanovic: Visions of Inequality, Harvard University Press 2023.",
+  "Thomas Piketty: Capital in the 21st Century, Harvard University Press 2014.",
+  "Roemer, J.E. et al., 2009. The Oxford Handbook of Economic Inequality. 1st ed., Oxford: Oxford University Press.",
+  "Atkinson, Anthony B, and François Bourguignon, 2000. Handbook of Income Distribution. Vol. 1, Oxford: Elsevier Science & Technology.",
+  "Angus Deaton: The Great Escape: Health, Wealth, and the Origins of Inequality, Princeton University Press 2015.",
+  "Carles Boix, Political Order and Inequality, Cambridge University Press 2015."
+ ],
+ "assessmentText": "Exam (75%), duration: 120 Minutes in the Spring exam period. Course participation (25%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 75
+  },
+  {
+   "type": "Course participation",
+   "weight": 25
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Communication",
+  "Application of numeracy skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 33,
+  "avgClassSizePrevYear": 17,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GV/2026_GV3L6.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

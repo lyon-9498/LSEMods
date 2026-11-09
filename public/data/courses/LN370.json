@@ -1,0 +1,91 @@
+{
+ "code": "LN370",
+ "title": "Discourse and Communication",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Centre for Language Studies",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Alison Standring"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students.",
+ "description": "LN370 Discourse and Communication This course explores how humans use language to communicate, persuade, and construct meaning. Students will develop analytical tools for examining discourse across a range of real-world contexts, from everyday conversation to political speeches and media texts. The course is divided into two terms, each focusing on a distinct but complementary dimension of communication. The Autumn Term examines how communication unfolds in real time. Drawing on frameworks such as Conversation Analysis and Discursive Psychology, students will examine how conversations are structured and how individuals use language to construct identity and meaning in interaction. The term also considers the role of voice and body language in shaping communication, and how these elements work together in social interaction. The Winter Term focuses on discourse that is crafted and structured with intention. Students will explore the foundations of classical and multimodal rhetoric, examining how language and other modes are used to persuade and frame meaning. The term also introduces genre analysis, considering how texts are shaped by, and in turn shape, relations of power and identity",
+ "teaching": "20 hours of seminars in the Autumn Term. 20 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term. Two hours per week integrating: (a) lecture input on a range of concepts and themes; (b) class discussion building on pre-set reading; (c) student presentations and tasks; (d) tutorials.",
+ "formativeAssessment": "The 2-hour weekly sessions will be task-based and these tasks will help prepare students for their summative assessment. Students will also have 1-2-1 sessions in office hours in order to discuss progress on summatively assessed coursework tasks. This is normal LSE practice for courses using continuous assessment.",
+ "indicativeReading": [
+  "A detailed reading list will be available at the first lecture. For general preparatory reading, students may wish to consult the following:",
+  "Goodwin, C. and Heritage, J. (1990). Conversation analysis.",
+  "Annual Review of Anthropology",
+  ",",
+  "19",
+  "(1), 283–307.",
+  "Mandelbaum, J. (2012). Storytelling in conversation. In J. Sidnell & T. Stivers (Eds.),",
+  "The handbook of conversation analysis",
+  "(1st ed., pp. 492–507).",
+  "Molder, H. T. (2015). Discursive psychology. In K. Tracey, T. Sandell & C. Ilie (Eds.),",
+  "The international encyclopedia of language and social interaction",
+  "(1st ed., pp. 1–11).",
+  "Tardy, C. M. (2021). Genre analysis. In K. Hyland, B. Paltridge & L. L. C. Wong (Eds.),",
+  "The Bloomsbury handbook of discourse analysis",
+  "(2nd ed., pp. 51–64). Bloomsbury Academic.",
+  "Toye, R. (2013).",
+  "Rhetoric: A very short introduction",
+  ". OUP Oxford.",
+  "Wiggins, S., Potter, J., & Wildsmith, A. (2001). Eating your words: Discursive psychology and the reconstruction of eating practices.",
+  "Journal of Health Psychology",
+  ",",
+  "6",
+  "(1), 5–15."
+ ],
+ "assessmentText": "Presentation (50%) in Winter Term Week 11. Project (50%, 3000 words) in Autumn Term Week 11.",
+ "assessment": [
+  {
+   "type": "Presentation",
+   "weight": 50
+  },
+  {
+   "type": "Project",
+   "weight": 50
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 8,
+  "avgClassSizePrevYear": 8,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LN/2026_LN370.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

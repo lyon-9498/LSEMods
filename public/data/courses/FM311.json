@@ -1,0 +1,98 @@
+{
+ "code": "FM311",
+ "title": "Corporate Finance, Investments and Financial Markets II",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Finance",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Constantin Charles"
+ ],
+ "prerequisites": "Before taking this course, students must have completed: ((FM215 and FM214) or (FM211 and FM210)).",
+ "corequisites": "Students must complete FM310 either before taking this course or in the same year as this course.",
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Accounting and Finance. This course is available on the BSc in Data Science, BSc in Econometrics and Mathematical Economics, BSc in Economics, BSc in Economics and Data Science, BSc in Management, BSc in Mathematics, Statistics and Business, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students. Permission forms from the General Course admin office should be submitted to the Department of Finance by email at finance.ug@lse.ac.uk with a copy of the transcript attached.",
+ "description": "This course is intended for third-year undergraduates and is a broad-based follow-up to Principles of Finance with an emphasis on the practical implementation of corporate financial policies. The course covers some topics in more depth than Principles of Finance and introduces several new topics that were not covered before. The course uses a combination of lectures, problem sets, and case studies such that students can apply the concepts using real-life situations. The course examines theory and evidence concerning major corporate financial policy decisions. The goal of corporations is to take on the best possible projects (e.g. a plant expansion) and finance them in the best way possible (e.g. through profits, debt, or equity). The time and uncertainty of investment payoffs make these problems nontrivial and essential for long-term success. The course will focus on answering the following questions: (a) Valuation: How can we value and choose projects? What is the value of a company? What should be the expected return for a project, division, and the whole firm? (b) Capital Structure: How should corporations obtain financing? For what projects?",
+ "teaching": "20 hours of lectures and 10 hours of classes in the Winter Term.",
+ "formativeAssessment": "Students are expected to complete weekly problem sets for classes and to make positive contributions to class discussion.",
+ "indicativeReading": [
+  "Detailed course programmes and reading lists are distributed at the start of the course. Illustrative texts include: Brealey, Myers, Allen, and Edmans, “Principles of Corporate Finance,” McGraw-Hill.",
+  "Berk and DeMarzo, “Corporate Finance,” Pearson."
+ ],
+ "assessmentText": "Exam (90%), duration: 90 minutes in the Spring exam period. Continuous assessment (10%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 90
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 10
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 208,
+  "avgClassSizePrevYear": 14,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/FM/2026_FM311.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "or",
+  "children": [
+   {
+    "type": "and",
+    "children": [
+     {
+      "type": "course",
+      "code": "FM215"
+     },
+     {
+      "type": "course",
+      "code": "FM214"
+     }
+    ]
+   },
+   {
+    "type": "and",
+    "children": [
+     {
+      "type": "course",
+      "code": "FM211"
+     },
+     {
+      "type": "course",
+      "code": "FM210"
+     }
+    ]
+   }
+  ]
+ },
+ "coreqTree": {
+  "type": "course",
+  "code": "FM310"
+ },
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

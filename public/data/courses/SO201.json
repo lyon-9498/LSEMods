@@ -1,0 +1,65 @@
+{
+ "code": "SO201",
+ "title": "Key Concepts: Advanced Social Theory",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Sociology",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Olivia Rutazibwa"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Language, Culture and Society and BSc in Sociology. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "This course engages key sociological issues through the critical reading of theoretical and analytical texts. Students will engage with advanced concepts in sociological thought, and will explore the connections between theoretical arguments and the practice of social enquiry and analysis. Students will read a combination of social theory texts in a range of traditions as well as contemporary research studies.",
+ "teaching": "This course has a reading week in Week 6 of Autumn and Winter Term. This course is usually delivered through a combination of lectures and classes. There will be two hours or more of teaching each week across AT and WT. There will also be a revision session in early ST.",
+ "formativeAssessment": "Essay. Students will be expected to complete one formative essay in AT.",
+ "indicativeReading": [
+  "There is no set textbook for this course - each week's teaching is based on the critical reading of key texts."
+ ],
+ "assessmentText": "Exam (50%), duration: 120 Minutes in the Spring exam period. Essay (50%, 3500 words) in January. Attendance at all classes and submission of all set coursework is required.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 50
+  },
+  {
+   "type": "Essay",
+   "weight": 50
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 45,
+  "avgClassSizePrevYear": 11,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SO/2026_SO201.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

@@ -1,0 +1,75 @@
+{
+ "code": "AC341",
+ "title": "Corporate Governance, Risk Management and Financial Audit",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Accounting",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Dr Nadia Matringe"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BSc in Accounting and Finance, BSc in Econometrics and Mathematical Economics, BSc in Economics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course is not capped. Any student that requests a place will be given one.",
+ "description": "What constrains the behaviour of profit-seeking corporations? What are the regulations that seek to prevent corporate disasters? This course attempts to answer these questions by critically examining the institutional and legal landscape of governance and accountability in which corporations operate. It takes students on a deep dive into the day-to-day practices of those charged with financial control and risk management within the organization. In addressing the financial accountability of corporations to their external stakeholders, the course critically evaluates the theory and practice of external financial audit, highlighting the structure of the market for audit, the practices of audit firms and the limits to the effectiveness of audit. Some of the questions we will be asking are: How does an organization’s purpose affect its governance? What disclosures are companies required to make concerning governance? Why have corporate governance systems evolved differently across countries? Which system more effectively addresses corporate governance issues? Will there be a convergence towards a uniform global corporate governance model? What are the implications of director remuneration structures on corporate performance and stakeholder confidence? How do organizations conceptualize and manage operational and financial risk? What do studies about corporate disasters tell us about risk management? (e.g., the cases of Challenger and Boeing 737 Max) To what extent does current risk management address global phenomena such as pandemics? Given recent financial collapses (e.g. Carillion), what’s the point in corporate financial audit? How might technology disrupt the market for risk management and corporate financial audit? The course will critically evaluate academic studies and practitioner guidance to establish the “rules of the game” for corporate governance and accountability, but will also examine media coverage of corporate governance and auditing. Senior practitioners will speak to students during the course, offering insights into the practice of risk management and auditing.",
+ "teaching": "30 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Students will submit one 750-word essay in week 3 on which they will receive written feedback.",
+ "indicativeReading": [
+  "No one book covers the entire syllabus. In addition to professional and academic journals, reading will cover the following:",
+  "• Tricker, B. (2025). Corporate governance. Principles, policies, and practices. Oxford University Press (fifth edition)",
+  "• Hopkin, P. (2024).",
+  "Fundamentals of risk management: Understanding, evaluating and implementing effective risk management",
+  "(6th ed.). Kogan Page.",
+  "• Gray, I., Manson, S., & Crawford, L. (2023).",
+  "The audit process: Principles, practice and cases",
+  "(8th ed.). Cengage Learning.",
+  "Students will also be provided with relevant examples of corporate and other reports and referred to relevant websites.",
+  "A detailed course outline and reading list will be made available at the beginning of the course."
+ ],
+ "assessmentText": "Exam (60%), duration: 120 minutes, reading time: 15 minutes in the Spring exam period. Project (40%) in Winter Term Week 11. Details of the project will be made available on Moodle nearer the scheduled start time of the course.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 60
+  },
+  {
+   "type": "Project",
+   "weight": 40
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Communication",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 21,
+  "avgClassSizePrevYear": 11,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AC/2026_AC341.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

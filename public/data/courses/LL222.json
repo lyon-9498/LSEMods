@@ -1,0 +1,71 @@
+{
+ "code": "LL222",
+ "title": "Data Law and Policy",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Damian Clifford"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course is available with permission as an outside option to students on other programmes where regulations permit. This course has a limited number of places and we cannot guarantee all students will get a place. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "This course will examine the role data plays in society: it is an indispensable input for artificial intelligence and other digital tools. Data is therefore an economic asset. It is also a source of power as inferences and predictions based on data shape individual and collective decisions and opportunities. Data laws seek to regulate the use of data to achieve an ‘appropriate’ balance between the various and interests that its usage engages. The course will use EU legislative instruments as its starting point, but the legal and policy issues identified and debated are of global significance. This course will proceed in three parts: (1) An introduction to the data law and policy landscape by highlighting the role played by data in society and the technological changes that have increased its salience before introducing the key concepts in data law and policy, (2) an examination of the core structure of data protection laws worldwide and evaluate critically the capacity and limits of data protection to regulate AI, and (3) an exploration recent developments in data law and policy, focusing on initiatives that complement or replace data protection laws. An indicative list of topics includes: Data as an Asset, Data Protection as a Right The Legal Distinction between Personal Data and non-Personal Data Fair Data Processing and Consent Fair Data Processing beyond Consent Individual Rights Attributing Responsibility for Data Processing Data Protection as a Tool to Regulate AI Data Intermediaries",
+ "teaching": "20 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "Essay (1500 words).",
+ "indicativeReading": [
+  "Andrew Murray,",
+  "Information Technology Law: Law and Society",
+  ", 5ed, Ch.22 and 23",
+  "Lee A. Bygrave, Information Concepts in Law: Generic Dreams and Definitional Daylight, (2015)",
+  "Oxford Journal of Legal Studies",
+  ", 35 (1), 91.",
+  "Karen Yeung and Lee Bygrave, ‘Demystifying the Modernized European Data Protection Regime: Cross- Disciplinary Insights from Legal and Regulatory Governance Scholarship’ (2022) 16 Regulation & Governance 137",
+  "Michal Gal and Orla Lynskey, ‘The Legal Implications of Synthetic Data’, (2024)",
+  "Iowa Law Review",
+  "109, 1087",
+  "Damian Clifford, Megan Richardson and Normann Witzleb, ‘Artificial Intelligence and Sensitive Inferences: Protecting Sensitive Personal Data in the Age of Anxiety’, in",
+  "Regulatory Insights on Artificial Intelligence: Research for Policy",
+  ", Findlay, Ford, Seoh and Thampapillai (eds.) (Edward Elgar, 2022)."
+ ],
+ "assessmentText": "Exam (100%), duration: 150 Minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Communication",
+  "Commercial awareness",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 22,
+  "avgClassSizePrevYear": 22,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL222.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

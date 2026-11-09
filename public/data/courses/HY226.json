@@ -1,0 +1,110 @@
+{
+ "code": "HY226",
+ "title": "The Greater War c. 1912-1923",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "International History",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Alex Mayhew"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in History, BA in Social Anthropology, BSc in History and Politics, BSc in International Relations, BSc in International Relations and History, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. May be taken by 3rd years where regulations permit. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "The First World War was a turning point in the history of conflict and moment in which many features of our world began to emerge. To fully appreciate these changes, the war needs to be studied in the broadest possible temporal, geographical, and human framework. It changed systems, cultures, maps, and landscapes. Ultimately, it transformed the character of war and forced millions of soldiers and civilians across the globe to confront the brutal reality of modern, industrial, warfare. The first half of the course is designed to provide an overview of the conduct of the First World War before, in the second term, we consider how combatants and civilians (from Europe and beyond) experienced and overcame the traumas of the war. In the first half of autumn term, students will explore the historiography of the war, and the key events of the ‘Greater War’ c. 1912-23, stretching from the outbreak of the Balkan Wars, through the global theatres of 1914-18, to the new conflicts that emerged between the collapse of Tsarist Russia in 1917 and the Treaty of Lausanne in 1923. After this, we will focus on five key themes that influenced the course of the conflict: political legitimacy and the home fronts; technology, tactics, and strategy; economics and economic warfare; diplomacy and neutrality; and challenges to international law. Next, in winter term, the module considers the varied experiences of war. In the first five weeks, seminars will interrogate military experiences (including those of frontline servicemen, colonial soldiers, and POWs), whilst the final five weeks of the year will focus on the ways that civilians (such as female factory workers, children, occupied populations, and migrants) were impacted by the conflict. Along the way, the module will provide varied opportunities to engage with the conflict’s cultural, economic, global, international, military, political, and social historiography.",
+ "teaching": "2 hours of lectures and 20 hours of seminars in the Autumn Term. 2 hours of lectures and 20 hours of seminars in the Winter Term. 1 hour of lectures in the Spring Term. This course has a reading week in Week 6 of Autumn and Winter Term.",
+ "formativeAssessment": "One 2000-word essay in the AT and one mock exam in the WT. An exam preparation workshop will be offered as part of exam revision arrangements.",
+ "indicativeReading": [
+  "H. Afflerbach,",
+  "On A Knife’s Edge: How Germany Lost the First World War",
+  "(Cambridge University Press, 2022)",
+  "S. Das (ed.),",
+  "Race, Empire and First World War Writing",
+  "(Cambridge University Press, orig. ed. 2011, 2013)",
+  "R. Gerwath and E. Manela,",
+  "Empires at War, 1911-1923",
+  "(Oxford University Press, orig. ed. 2014, 2015)",
+  "S.R. Grayzel and T.M. Proctor (eds.),",
+  "Gender and the Great War",
+  "(Oxford University Press, 2017)",
+  "A. Gregory,",
+  "A War of People’s, 1914-1919",
+  "(Oxford University Press, 2014)",
+  "J. Horne (ed.),",
+  "A Companion to World War I",
+  "(Blackwell Publishing, orig. ed. 2010, 2012)",
+  "J. Leonhard,",
+  "Pandora’s Box: A History of the First World War",
+  ", trans. P. Camiller (Belknap Press, 2018)",
+  "N. Lloyd,",
+  "The Western Front: A History of the First World War",
+  "(Viking, 2021) and",
+  "The Eastern Front: A History of the First World War",
+  "(Viking, 2024)",
+  "D. Stevenson,",
+  "1914-1918: The History of the First World War",
+  "(Penguin, 2012)",
+  "A. Watson,",
+  "Ring of Steel: Germany and Austria-Hungary at War, 1914-1918",
+  "(Penguin, 2015)",
+  "J. Winter (ed.),",
+  "The Cambridge History of the First World War",
+  ", Vols. 1-3 (Cambridge University Press, 2014)",
+  "J. Winter and A. Prost,",
+  "The Great War in History: Debates and Controversies, 1914 to the Present",
+  ", 2nd ed. (Cambridge University Press, 2020)."
+ ],
+ "assessmentText": "Exam (50%), duration: 120 minutes in the Spring exam period. Course participation (15%). Essay (35%, 3000 words).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 50
+  },
+  {
+   "type": "Course participation",
+   "weight": 15
+  },
+  {
+   "type": "Essay",
+   "weight": 35
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 13,
+  "avgClassSizePrevYear": 13,
+  "capped": "Yes(15)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/HY/2026_HY226.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

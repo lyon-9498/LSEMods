@@ -1,0 +1,80 @@
+{
+ "code": "GY247",
+ "title": "Field Methods in Geography with Economics",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Geography and Environment",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Geography with Economics. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+ "description": "The course aims to prepare second-year students to undertake field research, focusing specifically on qualitative methods. It is linked to the BSc Geography with Economics field trip that takes place at the end of WT, and offers key preparation for this and third-year Independent Research Projects (IRP). Attendance and active participation is crucial for appropriate preparation for the field trip. The course examines methodologies in field-based geographical research and evaluates their application to different kinds of research problems. It considers the choice of methods which may be used in the student’s own research, and how to plan research. It enables students to acquire familiarity with, and practice of, contemporary qualitative research techniques and to examine different ways of, and gain experience in, presenting research results. A further aim of the course is to enable students to evaluate critically the methodological validity of qualitative geographical research as distinct from quantitative approaches. The course covers the following qualitative approaches to social science methodologies: (i) techniques for qualitative data analysis including structured and unstructured interviewing, participant observation, and transecting, including ethics when conducting fieldwork; (ii) application of qualitative research techniques in the field; and (iii) techniques for designing, carrying out, and presenting field research, including both the course's field report and the third-year IRP. Topics covered: 1. Ethics, planning & qualitative methods in independent geography research projects 2. Observation ethnography in human geography 3. Interviews & focus groups as qualitative methods 4. Transecting in field research 5. Field journals 6. Topics related to field trip research planning and poster preparation. Field-course: The field course offers an opportunity to apply the methods studied on the first part of the course to research on the economic geography of a specific location. Students will embark on a series of orientation and research activities during the trip. In the past, the field trip has visited the state of Kerala in south India, in the area around Kochi (formerly Cochin). Kerala provides a rich and fascinating introduction to South Asian landscapes and culture, both new and old. Kerala is often described as a success story of economic development – the so called ‘Kerala model’ - with high levels of literacy and life expectancy, despite its relatively low per capita income. In other years the field trip has run to L'Aquila in Italy, a site of recent earthquakes, to learn about local economic development policy in the context of disaster recovery. The destination, duration and content of the field trip is subject to change, depending on the global situation regarding coronavirus and restrictions on travel.",
+ "teaching": "This course has a reading week in Week 6 of Winter Term. In the Department of Geography and Environment, teaching will be delivered through a combination of classes/seminars, pre-recorded lectures, live online lectures, in-person lectures and other supplementary interactive live activities. Field-course: The course includes a residential field trip, normally in the final week of the Winter Term. In the past the field course has visited Kerala, India, L'Aquila, Italy and Cagliari, Sardinia. The destination, duration and content of the field trip is subject to change, depending on the global situation and restrictions on travel. Students should be aware that, although the costs of this course are subsidised by the Department, they will be expected to make a substantial financial contribution themselves. There are bursaries available from the Department for students who can document financial need. An alternative field exercise will be undertaken by students who are unable to participate in the above one-week residential field-course. Students on this course will have a reading week in Week 6.",
+ "formativeAssessment": "Short exercises conducted in preparation for class sessions throughout the Winter Term.",
+ "indicativeReading": [
+  "• Chilson, P. and Mulcahy, J.B. (2017) Writing abroad: A guide for travelers. Chicago: University of Chicago Press.",
+  "• Bastian, H. (2019) Everyday adjustments in Havana: Economic reforms, mobility, and emerging inequalities. Lanham: Lexington Books.",
+  "• Becker, H. S. (1998) Tricks of the trade: How to think about your research while you’re doing it. Chicago: University of Chicago Press.",
+  "• Becker, H. S. (2007) Writing for social scientists: How to start and finish your thesis, book, or article (2nd edition). Chicago: University of Chicago Press.",
+  "• Cloke, P. et al (2004) Practising human geographies. London: Sage.",
+  "• Esterberg, K.G. (2002) Qualitative Methods in Social Research. Boston: McGraw-Hill.",
+  "• Flowerdew, R. and Martin, D. (eds.) (2005) Methods in human geography: A guide for students doing a research project (2nd edition). Harlow: Pearson/Prentice Hall.",
+  "• Hain, I. (2010) Qualitative research methods in human geography (3rd edition). Oxford: Oxford University Press.",
+  "• Hennink, M. et al (2011) Qualitative research methods. London: Sage.",
+  "• Jones, J., Quinn, S. and Brown, H. (2011) Writing for sociology (2nd edition). Berkeley: Department of Sociology, University of California at Berkeley.",
+  "• Luker, K. (2008) Salsa dancing into the social sciences: Research in an age of info-glut. Cambridge: Harvard University Press.",
+  "• Parsons, T. and Knight, P. (1995): How to do your dissertation in geography and related disciplines. London: Chapman & Hall."
+ ],
+ "assessmentText": "Course participation (20%). Poster (80%, 1000 words). This course has two assessment components: 80% is for a poster carried out as part of the course field trip (approximately 1000 words, but with graphical elements and images); and 20% is for participation in classes and field trip activities.",
+ "assessment": [
+  {
+   "type": "Course participation",
+   "weight": 20
+  },
+  {
+   "type": "Poster",
+   "weight": 80
+  }
+ ],
+ "skills": [
+  "Leadership",
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Commercial awareness",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 25,
+  "avgClassSizePrevYear": 8,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/GY/2026_GY247.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": [
+  "GY350"
+ ]
+}

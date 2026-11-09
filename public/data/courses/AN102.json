@@ -1,0 +1,58 @@
+{
+ "code": "AN102",
+ "title": "Anthropology through Mixed Media",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Anthropology",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Nick Long",
+  "Dr Johanna Perez Gomez"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BA in Social Anthropology and BSc in Social Anthropology. This course is available on the BSc in Politics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "This course introduces students to different modes and styles of anthropological representation, inviting critical analysis of their strengths and weaknesses. It does so by introducing students to detailed, holistic study of social and cultural practices within specific geographic and historical contexts and developing students’ skills in bringing together the various elements of cultural and social life analysed by anthropologists. The course is structured around a close engagement with full-length ethnographic monographs, which are read in parallel with the viewing and analysis of related films, articles, and materials in other media. These works may be developed by anthropologists or others (filmmakers, artists, members of the community in which the anthropologist was working, etc), and their genres may include, but are not limited to, photography, art, audio, poetry, fiction and material culture By the end of each term, successful students will have a detailed knowledge of several important texts and films, a rounded view of the settings studied in each ‘cycle’ of the course, and will have developed the capacity to think critically about ethnographic writing and filmmaking, about anthropological engagements with other media, the senses and collaborative work. Students will develop the ability to think critically about the ways multiple media may be drawn on to complement each other in developing and communicating anthropological knowledge, appreciating how these various forms are more than merely tools for documentation but mediums for analysis and creation in anthropology.",
+ "teaching": "17 hours of lectures, 4.5 hours of seminars and 7 hours of classes in the Autumn Term. 13 hours of lectures, 4.5 hours of seminars and 7 hours of classes in the Winter Term. This course has a reading week in Week 6 of Autumn and Winter Term. The contact hours listed above are the minimum expected.",
+ "formativeAssessment": "Position piece (1200 words). Students will have the opportunity to submit up to four position pieces during the course. Only the three position pieces with the highest marks will count towards the student’s final grade for the course. If a student submits all four position pieces, the position piece with the lowest mark will be treated as formative work. Students are not required to submit all four position pieces but are encouraged to do so to allow one position piece to count as formative coursework.",
+ "indicativeReading": [
+  "Detailed reading lists (including this year's set texts) will be provided at the beginning of the course.",
+  "For a general introduction to issues covered in the course, see the following:",
+  "• Cox, R., Irving, A., and Christopher Wright. 2016. Beyond text? Critical practices and sensory anthropology. Manchester: Manchester University Press.",
+  "• Edwards, E., C. Gosden, and R. Phillips 2020. Sensible Objects: Colonialism, Museums and Material Culture. London: Routledge.",
+  "• Gay y Blasco, P. and Wardle, H. 2019. How to Read Ethnography. London: Routledge.Grimshaw, A., and A. Ravetz. 2009. Observational Cinema: Anthropology, Film, and the Exploration of Social Life. Bloomington: Indiana University Press.",
+  "• Howes, David. 2003. Sensual Relations: Engaging the Senses In Culture and Social Theory, Ann Arbor: University of Michigan Press.Marcus, G. E., and M. M. J. Fischer. 1986. Anthropology as Cultural Critique: An Experimental Moment in the Human Sciences. Chicago: University of Chicago Press.",
+  "• Sanford, V. and A. Angel-Ajani. 2006. Engaged Observer: Anthropology, Advocacy, and Activism. New Brunswick: Rutgers University Press.",
+  "• Strathern, M. 2013. Learning to See in Melanesia. Chicago: HAU Books.",
+  "• Willow, A.J., & K.A. Yotebieng (Eds.). 2020. Anthropology and Activism: New Contexts, New Conversations. London: Routledge.",
+  "• Wolf, M. 1992. A Thrice-Told Tale: Feminism, Postmodernism, and Ethnographic Responsibility. Stanford: Stanford University Press."
+ ],
+ "assessmentText": "Portfolio (100%, 3600 words). All students will produce a portfolio of position pieces (worth 100% of the total mark), submitting a total of two position pieces in the Autumn Term and two position pieces in the Winter Term. Each position piece should be 1000-1200 words in length and constitute a focused personal response to the most recent cycle of teaching. Portfolios will be assessed periodically throughout the year, with the final grade determined after the end of Winter Term. The overall mark will be a weighted average of the three position pieces with the highest grades, including any zeroes for missed assessments. The two highest scoring position pieces will be weighted at 100% and the third highest scoring position piece will be weighted at 50%. If a student submits all four position pieces, the position piece with the lowest mark will be treated as formative work and will not contribute to the final mark. Students who submit at least one position piece and fail the course will be expected to add to their portfolio at resit in order to achieve a pass. Students who do not submit any position pieces (0 out of 4), will be awarded a Zero Absent for the whole course and cannot be awarded the degree until they submit sufficient work at resit to complete the course.",
+ "assessment": [
+  {
+   "type": "Portfolio",
+   "weight": 100
+  }
+ ],
+ "skills": [],
+ "stats": {
+  "totalStudentsPrevYear": 40,
+  "avgClassSizePrevYear": 13,
+  "capped": "Yes(60)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AN/2026_AN102.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

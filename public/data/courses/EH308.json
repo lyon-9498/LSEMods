@@ -1,0 +1,68 @@
+{
+ "code": "EH308",
+ "title": "Historical Economic Geography: Cities, Markets and Regions",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economic History",
+ "units": 1.0,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Tom Raster"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Economic History and Geography. This course is available on the BSc in Economic History and BSc in Economics and Economic History. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is capped. Places will be assigned on a first come first served basis",
+ "description": "The course explores how and why the location of economic activities changes across time and space from industrialization up to the present. One goal for this course is to demonstrate the importance of history in the formation of the present-day economic landscape. An equally important goal is to demonstrate the applicability of the study of economic geography to the understanding of historical patterns of development and underdevelopment. The course is not organized chronologically but thematically. Particular attention focuses on four major issues: the development of cities, the creation of national markets, the historical basis for manufacturing agglomeration, and the historical evolution and sources of regional inequality.",
+ "teaching": "20 hours of seminars in the Autumn Term. 20 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term. This course is delivered via 2-hour seminars in Autum and Winter Term.",
+ "formativeAssessment": null,
+ "indicativeReading": [
+  "Combes, Pierre-Philippe, Thierry Mayer and Jacques-François Thisse, Economic Geography: The Integration of Regions and Nations. Princeton University Press, 2008. Garretsen, Harry and Martin, Ron (2010), Rethinking (New) Economic Geography Models: Taking Geography and History More Seriously, Spatial Economic Analysis, 5, 2, pp. 127-160. Joan Ramón Rosés and Nikolaus Wolf (eds), The Economic Development of Europe's Regions: A Quantitative History since 1900, Routledge, 2018. Daniel A. Tirado-Fabregat, Marc Badia-Miro, Henry Willebald (eds) Time and Space: Latin American Regional Development in Historical Perspective, Palgrave, 2020. W.Walker Hanlon and Stephan Heblich (2022), History and urban economics, Regional Science and Urban Economics, 94."
+ ],
+ "assessmentText": "Exam (85%), duration: 180 Minutes in the Spring exam period. Continuous assessment (15%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 85
+  },
+  {
+   "type": "Continuous assessment",
+   "weight": 15
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 14,
+  "avgClassSizePrevYear": 14,
+  "capped": "Yes(18)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EH/2026_EH308.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

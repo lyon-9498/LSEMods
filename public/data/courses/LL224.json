@@ -1,0 +1,68 @@
+{
+ "code": "LL224",
+ "title": "Regulation of Social Media and Online Platforms",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 0.5,
+ "studyPeriod": "Winter Term",
+ "terms": [
+  "WT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Dr Martin Husovec"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "Digital services, such as social media, online marketplaces, app stores, and search engines, were left largely unregulated for twenty years. While users of the services were exposed to liability under typical content rules applicable to obscenity, defamation or intellectual property, the platforms were regulated only lightly. The first generation of content regulation focused on enabling companies to operate services that process user-generated content through a set of liability exemptions (US Communication Decency Act, EU E-Commerce Directive, etc.). The global norm was reliance on self-regulation of the technology industry when it comes to content issues. Following a number of controversies, in the early 2020s, legislatures around the world started introducing new comprehensive content-related regulations to address various problems, ranging from hate speech and terrorist content to child sexual abuse material and copyright infringements. This course covers new types of regulatory models dealing with platforms. It looks at questions such as content moderation, risk management, recommender systems, data protection, influencers, and transparency of online platforms, including social media. An indicative list of topics includes: Users, Content Creators, Platforms Freedom of Expression Online Platforms: Business Models and Regulatory Approaches Content Moderation Fair Process for Users Platform Design Practices Risk Management",
+ "teaching": "20 hours of seminars in the Winter Term. This course has a reading week in Week 6 of Winter Term.",
+ "formativeAssessment": "1,500 word essay.",
+ "indicativeReading": [
+  "A Murray: Information Technology Law: Law and Society 5ed (esp. Part II)",
+  "P Bernal, The Internet, Warts and All: Free Speech, Privacy and Truth (CUP 2018)",
+  "T Garton Ash, Free Speech: Ten Principles for a Connected World (Atlantic 2016)",
+  "M Husovec, Principles of the Digital Services Act (Oxford University Press, 2024, forthcoming)",
+  "M Husovec, Rising Above Liability: The Digital Services Act as a Blueprint for the Second Generation of Global Internet Rules (2023) Berkeley Technology Law Journal Vol. 38, No. 3 (2024), available at https://ssrn.com/abstract=4598426",
+  "J Riordan, The Liability of Internet Intermediaries (OUP 2016)",
+  "M Collins, Collins on Defamation (OUP 2014)",
+  "J Zittrain, ‘Be Careful What You Ask For: Reconciling a Global Internet and Local Law’ in A Thierer (ed.), Who Rules the Net?: Internet Governance and Jurisdiction (Cato Institute 2003).",
+  "J Balkin, ‘Free speech is a triangle’ (2018) 118 Columbia Law Review 2011",
+  "de Streel, Alexandre and Feasey, Richard and Kraemer, Jan and Monti, Giorgio, Making the Digital Markets Act More Resilient and Effective (May 26, 2021). Available at SSRN: https://ssrn.com/abstract=3853991 or http://dx.doi.org/10.2139/ssrn.3853991"
+ ],
+ "assessmentText": "Exam (100%), duration: 150 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 20,
+  "avgClassSizePrevYear": 20,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL224.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

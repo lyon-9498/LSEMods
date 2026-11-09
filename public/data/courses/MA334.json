@@ -1,0 +1,70 @@
+{
+ "code": "MA334",
+ "title": "Dissertation in Mathematics",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Mathematics",
+ "units": 0.5,
+ "studyPeriod": "Autumn and Winter Term",
+ "terms": [
+  "AT",
+  "WT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Graham Brightwell"
+ ],
+ "prerequisites": "Students must have completed MA203 before taking this course.",
+ "corequisites": null,
+ "additionalRequisites": "This course requires a high degree of independence and commitment from the student, and has to be completed on time by the end of WT. The expected workload is high but also rewarding, and is completed by the end of WT (no exam). Some dissertation topics might require additional pre-requisites which will be specified in the description of the topic provided by the member of staff supervising the dissertation.",
+ "availability": "This course is available on the BSc in Financial Mathematics and Statistics, BSc in Mathematics and Economics, BSc in Mathematics with Data Science and BSc in Mathematics with Economics. This course is not available as an outside option to students on other programmes. This course is not available to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "The dissertation in mathematics is an individual project that serves as an introduction to mathematical research. The student will investigate and study an area of mathematical research or apply advanced mathematical techniques to model and solve problems arising in other areas related to the student’s degree programme (e.g., in finance or economics). The student will write a report on their findings and present and discuss their findings in an oral examination. The project may include some programming. The dissertation topic will normally be proposed by the Department.",
+ "teaching": "5 hours of seminars in the Autumn Term. 4 hours of seminars in the Winter Term. This course is delivered through: (i) seminars totalling a minimum of 8 hours across Autumn and Winter Term, which give general and practical information, (ii) personal supervision time, which is scheduled independently with a student's academic supervisor. The seminars in AT will cover important aspects of writing a dissertation in mathematics, including: what plagiarism is and how to avoid it, the use of libraries for research, electronic research, general aspects of writing mathematics, managing a research project and the writing up process. Seminars in AT will also provide guidance on preparing a manuscript using mathematical text processing software (in particular, LaTeX). The seminars in WT will cover how to give a presentation about the findings in the dissertation. Each student will be assigned a supervisor who will monitor their progress and provide appropriate guidance throughout the AT and WT. Students will have at least three individual supervision meetings each term.",
+ "formativeAssessment": "Students will be expected to produce 1 presentation and 1 other piece of coursework in the WT.",
+ "indicativeReading": [
+  "This will depend on the topic of the dissertation. Students will be guided by their supervisor."
+ ],
+ "assessmentText": "Presentation (25%) in Winter Term Week 11. Dissertation (75%) in Winter Term Week 10. Assessment is based on the dissertation and the presentation, submitted in the form of a video.The dissertation must be submitted by week 10 of Winter Term. The submission may include some computer code relating to the project. The dissertation excluding the bibliography must not exceed 20 pages of A4 paper, where the dissertation is required to have 1.5 line spacing at a minimum (at most 33 lines of text/mathematical formulae per page), 11-point font and 1-inch margins all around. If the dissertation contains any computer code this should be placed in the appendix of the dissertation and does not count towards the page limit.The presentation must be submitted by week 11 of Winter Term, in the form of a 15-minute video, covering the main findings contained in the dissertation. Students will be given support in the seminars on how to prepare, how to present, and what is expected.",
+ "assessment": [
+  {
+   "type": "Presentation",
+   "weight": 25
+  },
+  {
+   "type": "Dissertation",
+   "weight": 75
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 14,
+  "avgClassSizePrevYear": 14,
+  "capped": "Yes(15)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/MA/2026_MA334.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": {
+  "type": "course",
+  "code": "MA203"
+ },
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

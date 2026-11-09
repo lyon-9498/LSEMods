@@ -1,0 +1,65 @@
+{
+ "code": "EC312",
+ "title": "Topics in Political Economy: Theory",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Economics",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 6,
+ "courseLevel": 3,
+ "convenors": [
+  "Prof Stephane Wolton"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": "This course makes use of key concepts in economic theory as well as econometric analysis. We welcome all students with background in quantitative courses, such as econometrics (EC220 or EC221 or EC2C1 or EC2C3 and EC2C4, or equivalent), statistics (ST107 or ST102, or ST109 combined with EC1C1, or equivalent) microeconomics (EC201 or EC202 or EC2A1 or EC2A3, or equivalent) , game theory (GV225, or equivalent), and mathematics (MA107 or MA100). Note that EC312 is mutually exclusive with EC302.",
+ "availability": "This course is available on the BSc in Econometrics and Mathematical Economics, BSc in Economics, BSc in Economics and Data Science, BSc in Economics and Economic History, BSc in International Social and Public Policy with Economics, BSc in Politics and Economics, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is available with permission to General Course students.",
+ "description": "The course introduces students to the main models in political economy. Students will cover three models of election: common value election, prospective voting, and retrospective voting/political agency models. Students will see empirical evidence in favour or against each of those models and some empirical implications of the theory we study. The course will also cover how the models we see can be useful to understand politics in autocratic regimes. This course is complemented by GV325 – Topics in Political Economy (in the WT) and students are very much encouraged to take both half units.",
+ "teaching": "15 hours of lectures and 10 hours of classes in the Autumn Term. 1 hour of lectures in the Spring Term. This course has a reading week in Week 6 of Autumn Term. There will be no lectures or classes at the reading week. There will be a 90-minute mock exam (plus 15 minutes of reading time) and 1 hour of lecture in the ST Week 1. This course is delivered through a combination of classes and lectures totalling a minimum of 26 hours across Autumn Term and Spring Term.",
+ "formativeAssessment": "One piece of written work will be handed in and assessed by class teachers. There will be a mock exam in the ST.",
+ "indicativeReading": [
+  "There is no textbook covering all the material in the course. The following books are recommended as supplements to lecture content:",
+  "• Analyzing Politics, Rationality, Behavior and Institutions, K.A. Shepsle and M.S. Bonchek. W. W. Norton & Company, New York, London.",
+  "• Principled Agents? Selection and Incentives in Politics, T Besley. Oxford University Press, Oxford"
+ ],
+ "assessmentText": "Exam (100%), duration: 90 Minutes, reading time: 15 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Problem solving",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 5,
+  "avgClassSizePrevYear": 3,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/EC/2026_EC312.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [
+  {
+   "code": "EC302",
+   "title": "Political Economy",
+   "note": null
+  }
+ ],
+ "unlocks": []
+}

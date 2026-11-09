@@ -1,0 +1,380 @@
+{
+ "name": "BSc in Language, Culture and Society",
+ "code": "UBLNCUSO",
+ "department": "Centre for Language Studies",
+ "years": [
+  {
+   "year": 1,
+   "papers": [
+    {
+     "label": "LSE100",
+     "lines": [
+      "LSE100 is a half unit taken by all students, running across Autumn and Winter Terms in the first year. The course provides one of the marks that is eligible to be included in the calculation of the First Year Average for purposes of classification.",
+      "Students will choose ONE of the three half-unit options below:",
+      "LSE100A The LSE Course: How can we transform our climate futures? (0.5)",
+      "LSE100B The LSE Course: How can we control AI? (0.5)",
+      "LSE100C The LSE Course: How can we create a fair society? (0.5)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "LSE100A",
+      "LSE100B",
+      "LSE100C"
+     ],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": true,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 1",
+     "lines": [
+      "SO100 Key Concepts: Introduction to Social Theory (1.0)"
+     ],
+     "compulsory": [
+      "SO100"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 2",
+     "lines": [
+      "SO110 Power, Inequality, and Difference: Contemporary Themes in Sociology (1.0)"
+     ],
+     "compulsory": [
+      "SO110"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 3",
+     "lines": [
+      "Courses to the value of 1 unit(s) from the following:",
+      "French:",
+      "LN130 French Language and Society 3 (advanced) (1.0)",
+      "LN131 French Language and Society 1 (beginner) (1.0)",
+      "LN132 French Language and Society 2 (intermediate) (1.0)",
+      "German:",
+      "LN110 German Language and Society 3 (advanced) (1.0)",
+      "LN112 German Language and Society 2 (Intermediate) (1.0)",
+      "Mandarin:",
+      "LN104 Mandarin Language and Society Level 1 (Beginner) (1.0)",
+      "LN140 Mandarin Language and Society 3 (Advanced) (1.0)",
+      "LN142 Mandarin Language and Society 2 (Intermediate) (1.0)",
+      "Russian:",
+      "LN100 Russian Language and Society 3 (advanced) (1.0)",
+      "LN101 Russian Language and Society 1 (beginner) (1.0)",
+      "LN102 Russian Language and Society 2 (intermediate) (1.0)",
+      "Spanish:",
+      "LN120 Spanish Language and Society 3 (advanced) (1.0)",
+      "LN121 Spanish Language and Society 1 (beginner) (1.0)",
+      "LN122 Spanish Language and Society 2 (intermediate) (1.0)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "LN130",
+      "LN131",
+      "LN132",
+      "LN110",
+      "LN112",
+      "LN104",
+      "LN140",
+      "LN142",
+      "LN100",
+      "LN101",
+      "LN102",
+      "LN120",
+      "LN121",
+      "LN122"
+     ],
+     "lists": [],
+     "unitsNeeded": 1.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 4",
+     "lines": [
+      "One from:",
+      "LN115 Intercultural Communication and Management (1.0)",
+      "LN250 English Literature and Society (1.0)"
+     ],
+     "compulsory": [
+      "LN115",
+      "LN250"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  },
+  {
+   "year": 2,
+   "papers": [
+    {
+     "label": "Paper 5",
+     "lines": [
+      "SO201 Key Concepts: Advanced Social Theory (1.0)"
+     ],
+     "compulsory": [
+      "SO201"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 6",
+     "lines": [
+      "Courses to the value of 1 unit(s) from the following:",
+      "SO203 Political Sociology (1.0)",
+      "SO232 Sociology of Health and Illness (0.5)",
+      "SO235 The Sociology of Homicide (0.5)",
+      "SO236 Urban Society (0.5)",
+      "SO237 Racial Borderscapes (0.5) (suspended 2026/27)",
+      "SO240 Crime, Deviance and Control (0.5) (withdrawn 2026/27)",
+      "SO243 Political Sociology: Nation-States Unravelled (0.5) (suspended 2026/27)",
+      "SO244 The Sociology of Race and Empire (0.5)",
+      "SO248 Gender and Society (0.5)",
+      "SO309 Atrocity and Justice (0.5) (suspended 2026/27)",
+      "SO310 The Sociology of Elites (0.5) (suspended 2026/27)",
+      "SO312 Work, Inequality and Society (0.5)",
+      "SO313 Material Culture and Everyday Life (0.5)",
+      "SO314 Class, Culture and Meritocracy (0.5)",
+      "SO315 The Sociology of Generations (0.5)",
+      "SO348 Family Diversity and Change (0.5) (suspended 2026/27)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "SO203",
+      "SO232",
+      "SO235",
+      "SO236",
+      "SO244",
+      "SO248",
+      "SO312",
+      "SO313",
+      "SO314",
+      "SO315"
+     ],
+     "lists": [],
+     "unitsNeeded": 1.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 7",
+     "lines": [
+      "French:",
+      "LN130 French Language and Society 3 (advanced) (1.0)",
+      "LN132 French Language and Society 2 (intermediate) (1.0)",
+      "LN230 French Language and Society 4 (proficiency) (1.0)",
+      "German:",
+      "LN110 German Language and Society 3 (advanced) (1.0)",
+      "LN112 German Language and Society 2 (Intermediate) (1.0)",
+      "LN210 German Language and Society 4 (proficiency) (1.0)",
+      "Mandarin:",
+      "LN140 Mandarin Language and Society 3 (Advanced) (1.0)",
+      "LN142 Mandarin Language and Society 2 (Intermediate) (1.0)",
+      "LN240 Mandarin Language and Society 4 (Proficiency) (1.0)",
+      "Russian:",
+      "LN100 Russian Language and Society 3 (advanced) (1.0)",
+      "LN102 Russian Language and Society 2 (intermediate) (1.0)",
+      "LN200 Russian Language and Society 4 (proficiency) (1.0)",
+      "Spanish:",
+      "LN120 Spanish Language and Society 3 (advanced) (1.0)",
+      "LN122 Spanish Language and Society 2 (intermediate) (1.0)",
+      "LN220 Spanish Language and Society 4 (proficiency) (1.0)"
+     ],
+     "compulsory": [
+      "LN130",
+      "LN132",
+      "LN230",
+      "LN110",
+      "LN112",
+      "LN210",
+      "LN140",
+      "LN142",
+      "LN240",
+      "LN100",
+      "LN102",
+      "LN200",
+      "LN120",
+      "LN122",
+      "LN220"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 8",
+     "lines": [
+      "One from:",
+      "LN251 Comparative Literature and 20th Century Political History (1.0)",
+      "LN254 Literature and Aspects of Ethics (1.0)",
+      "LN270 Society and Language: Linguistics for Social Scientists (1.0)"
+     ],
+     "compulsory": [
+      "LN251",
+      "LN254",
+      "LN270"
+     ],
+     "choice": false,
+     "options": [],
+     "lists": [],
+     "unitsNeeded": null,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  },
+  {
+   "year": 3,
+   "papers": []
+  },
+  {
+   "year": 4,
+   "papers": [
+    {
+     "label": "Papers 9 & 10",
+     "lines": [
+      "Courses to the value of 2 unit(s) from the following:",
+      "SO203 Political Sociology (1.0)",
+      "SO232 Sociology of Health and Illness (0.5)",
+      "SO235 The Sociology of Homicide (0.5)",
+      "SO236 Urban Society (0.5)",
+      "SO237 Racial Borderscapes (0.5) (suspended 2026/27)",
+      "SO240 Crime, Deviance and Control (0.5) (withdrawn 2026/27)",
+      "SO243 Political Sociology: Nation-States Unravelled (0.5) (suspended 2026/27)",
+      "SO244 The Sociology of Race and Empire (0.5)",
+      "SO248 Gender and Society (0.5)",
+      "SO309 Atrocity and Justice (0.5) (suspended 2026/27)",
+      "SO310 The Sociology of Elites (0.5) (suspended 2026/27)",
+      "SO311 Law and Violence (0.5)",
+      "SO312 Work, Inequality and Society (0.5)",
+      "SO313 Material Culture and Everyday Life (0.5)",
+      "SO314 Class, Culture and Meritocracy (0.5)",
+      "SO315 The Sociology of Generations (0.5)",
+      "SO348 Family Diversity and Change (0.5) (suspended 2026/27)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "SO203",
+      "SO232",
+      "SO235",
+      "SO236",
+      "SO244",
+      "SO248",
+      "SO311",
+      "SO312",
+      "SO313",
+      "SO314",
+      "SO315"
+     ],
+     "lists": [],
+     "unitsNeeded": 2.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 11",
+     "lines": [
+      "Courses to the value of 1 unit(s) from the following:",
+      "French:",
+      "LN230 French Language and Society 4 (proficiency) (1.0)",
+      "LN330 French Language and Society 5 (mastery) (1.0)",
+      "German:",
+      "LN210 German Language and Society 4 (proficiency) (1.0)",
+      "Mandarin:",
+      "LN240 Mandarin Language and Society 4 (Proficiency) (1.0)",
+      "LN340 Mandarin Language and Society 5 (Mastery) (1.0) (suspended 2026/27)",
+      "Russian:",
+      "LN200 Russian Language and Society 4 (proficiency) (1.0)",
+      "Spanish:",
+      "LN220 Spanish Language and Society 4 (proficiency) (1.0)",
+      "LN320 Spanish Language and Society 5 (mastery) (1.0)",
+      "LN303 Language Studies Dissertation (1.0)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "LN230",
+      "LN330",
+      "LN210",
+      "LN240",
+      "LN200",
+      "LN220",
+      "LN320",
+      "LN303"
+     ],
+     "lists": [],
+     "unitsNeeded": 1.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    },
+    {
+     "label": "Paper 12",
+     "lines": [
+      "Courses to the value of 1 unit(s) from the following:",
+      "LN252 Contemporary Literature and Global Society (1.0)",
+      "LN253 European Literature and Philosophy (1.0)",
+      "LN270 Society and Language: Linguistics for Social Scientists (1.0)"
+     ],
+     "compulsory": [],
+     "choice": true,
+     "options": [
+      "LN252",
+      "LN253",
+      "LN270"
+     ],
+     "lists": [],
+     "unitsNeeded": 1.0,
+     "pickOne": false,
+     "alternatives": false,
+     "outside": null
+    }
+   ]
+  }
+ ],
+ "lists": {},
+ "warnings": [],
+ "id": "2025-BScLanguageCultureAndSociety",
+ "cohort": 2025,
+ "url": "https://www.lse.ac.uk/resources/calendar2026-2027/programmeRegulations/undergraduate/2025/BScLanguage,CultureAndSociety.htm"
+}

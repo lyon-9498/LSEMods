@@ -1,0 +1,65 @@
+{
+ "code": "SO110",
+ "title": "Power, Inequality, and Difference: Contemporary Themes in Sociology",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Sociology",
+ "units": 1.0,
+ "studyPeriod": "Autumn, Winter and Spring Term",
+ "terms": [
+  "AT",
+  "WT",
+  "ST"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Prof Fran Tonkiss"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Language, Culture and Society and BSc in Sociology. This course is available on the BA in Geography, BA in Social Anthropology, BSc in International Social and Public Policy, BSc in Politics, BSc in Politics and International Relations, BSc in Social Anthropology, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission. This course has a limited number of places (it is capped). Students who have this course as a compulsory course are guaranteed a place. Places for all other students are allocated on a first come first served basis.",
+ "description": "The course provides an introduction to key areas of analysis in contemporary sociology. Students will gain an understanding of critical research and debates within the discipline, and of how sociology engages with topical real-world issues. The course centres on the ways in which power relations, social and economic inequalities, forms of identity and difference are shaped in contemporary societies – focusing on both political and socio-economic structures and everyday experiences and identities. These issues include: class, capitals and social mobility; race, ethnicity and culture; gender and sexual identities; politics, social movements and the nation-state.",
+ "teaching": "This course has a reading week in Week 6 of Autumn and Winter Term. This course is usually delivered through a combination of lectures and classes. There will be two hours or more of teaching each week across AT and WT. There will also be revision sessions in early ST.",
+ "formativeAssessment": "Essay. Essay. Essay. Students will be expected to complete two formative essays in AT and one formative essay in WT.",
+ "indicativeReading": [
+  "M. Savage (2015) Social Class in the 21st Century; B. Skeggs (1997) Formations of Class and Gender; L Back and J Solomos (Eds) (2000) Theories of Race and Racism: A Reader; A Gutmann (Ed) (1994) Multiculturalism: Examining the Politics of Recognition; K Woodward (Ed) (2004) Questioning Identity: Gender, Class and Ethnicity; Hill-Collins, P (1986), ‘Learning from the Outsider Within: The Sociological Significance of Black Feminist Thought’ in S Jackson & S Scott (Eds) (2002) Gender: A Sociological Reader; G Bhattacharyya (2002) Sexuality and Society; West, Candace, and Don H. Zimmerman (1987) ‘Doing Gender’ Gender & Society 1 (2): 125-51; B Anderson (1983) Imagined Communities; E Gellner (1983) Nations and Nationalism; M. Flinders (2012) Defending Politics: Why Democracy Matters in the Twenty-First Century."
+ ],
+ "assessmentText": "Exam (70%), duration: 180 Minutes in the Spring exam period. Essay (30%, 3000 words) in May. Attendance at all classes is required and submission of all set coursework is compulsory.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 70
+  },
+  {
+   "type": "Essay",
+   "weight": 30
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Communication",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 82,
+  "avgClassSizePrevYear": 14,
+  "capped": "Yes(90)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/SO/2026_SO110.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

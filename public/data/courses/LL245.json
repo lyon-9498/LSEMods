@@ -1,0 +1,79 @@
+{
+ "code": "LL245",
+ "title": "Feminist Legal Theory",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "LSE Law School",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 5,
+ "courseLevel": 2,
+ "convenors": [
+  "Prof Niki Lacey",
+  "Dr Sarah Trotter"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is available on the BA in Anthropology and Law, Erasmus Reciprocal Programme of Study, Exchange Programme for Students from University of California, Berkeley and LLB in Laws. This course is available with permission as an outside option to students on other programmes where regulations permit. This course is available with permission to General Course students. This course is capped. Places will be assigned on a first come first served basis.",
+ "description": "The purpose of this course is to examine the ways in which law acts on and shapes the lives and experiences of women and to reflect on how feminist legal thinking – and in particular its exposure of law’s role in the production and perpetuation of gender-related inequalities – has shaped and acted on law. Students would be challenged to identify and think critically about the assumptions that structure legal frameworks and to consider the effects of these assumptions in practice. The course would be structured in two parts: Part I of the course involves an analysis of the structuring effects of law and of the development of feminist legal thinking about this. Is law itself gendered, and if so, how? Conversely, how is law involved in gendering its subjects? We would study foundational texts of feminist legal theory and address the perspectives of different schools of thought on questions of power, subjectivity, agency, autonomy, equality, and intersectionality. Part II of the course is more applied, and involves consideration of topics including, for example (and subject to teaching availability): work, surrogacy, prostitution, pornography, sexual harassment, and domestic abuse. These topics would be addressed and debated in the light of the ideas and theoretical perspectives raised in the first part of the course, but through them we would also consider wider questions about legal constructions of – and assumptions about – care, agency, consent, freedom, and economic security.",
+ "teaching": "20 hours of seminars in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "2,000 word essay.",
+ "indicativeReading": [
+  "Readings include extracts from:",
+  "Joanne Conaghan, Law and Gender (2013, Oxford University Press)",
+  "Joanne Conaghan and Yvette Russell, Sexual History Evidence and The Rape Trial (2023, Bristol University Press)",
+  "Kimberlé Crenshaw, On Intersectionality: Essential Writings (2017, The New Press)",
+  "Martha Albertson Fineman, Jack E. Jackson, and Adam P. Romero (eds.), Feminist and Queer Legal Theory: Intimate Encounters, Uncomfortable Conversations (2010, Routledge)",
+  "bell hooks, Feminist Theory: From Margin to Center – Second Edition (2000, Pluto Press)",
+  "Rosemary Hunter, Clare McGlynn, and Erika Rackley (eds.), Feminist Judgments: From Theory to Practice (2010, Hart Publishing)",
+  "Nicola Lacey, Unspeakable Subjects: Feminist Essays in Legal and Social Theory (1998, Hart Publishing)",
+  "Catharine A. MacKinnon, Towards a Feminist Theory of the State (1991, Harvard University Press)",
+  "Vanessa Munro, Law and Politics at the Perimeter: Re-Evaluating Key Debates in Feminist Theory (2007, Hart Publishing)",
+  "Ngaire Naffine, Criminal Law and the Man Problem (2020, Hart Publishing)",
+  "Ngaire Naffine, Manning the Law (Hart Publishing 2026)",
+  "Jennifer Nedelsky, Law’s Relations: A Relational Theory of Self, Autonomy, and Law (2011, Oxford University Press)",
+  "Martha C. Nussbaum, Sex and Social Justice (1999, Oxford University Press)",
+  "Carole Pateman, The Sexual Contract (1988, Polity Press)",
+  "Carol Smart, Feminism and the Power of Law (1989, Routledge)",
+  "Rosemary Hunter, Clare McGlynn and. Erika Rackley, Feminist Legal Judgments: From Theory to Practice (Hart Publishing 2010)"
+ ],
+ "assessmentText": "Exam (100%), duration: 150 minutes in the Spring exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Team working",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 30,
+  "avgClassSizePrevYear": 30,
+  "capped": "Yes(30)"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LL/2026_LL245.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}

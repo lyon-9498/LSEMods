@@ -1,0 +1,71 @@
+{
+ "code": "PH111",
+ "title": "Introduction to Logic",
+ "status": "running",
+ "session": "2026/2027",
+ "department": "Philosophy, Logic and Scientific Method",
+ "units": 0.5,
+ "studyPeriod": "Autumn Term",
+ "terms": [
+  "AT"
+ ],
+ "fheqLevel": 4,
+ "courseLevel": 1,
+ "convenors": [
+  "Dr Xinhe Wu"
+ ],
+ "prerequisites": null,
+ "corequisites": null,
+ "additionalRequisites": null,
+ "availability": "This course is compulsory on the BSc in Philosophy and Economics, BSc in Philosophy, Logic and Scientific Method, BSc in Philosophy, Politics and Economics, BSc in Philosophy, Politics and Economics (with a Year Abroad) and BSc in Politics and Philosophy. This course is available on the BSc in Accounting and Finance, Erasmus Reciprocal Programme of Study and Exchange Programme for Students from University of California, Berkeley. This course is freely available as an outside option to students on other programmes where regulations permit. It does not require permission. This course is freely available to General Course students. It does not require permission.",
+ "description": "Arguments and inferences play a fundamental role in almost all areas of human life and society. For example, a scientist will test a theory by reasoning that if that theory is true then some other claim, one that can be checked experimentally, must be true as well. Or a politician will defend a policy by putting forward an argument in favour of it and criticising counterarguments. More mundanely, we reason, argue and draw inferences all the time and our actions are guided by the conclusions we draw. We are so used to this that we are often not even aware of it. Logic is the study of arguments and inferences – it therefore has an enormously broad scope. Its main task is to give an explicit characterisation of those arguments and inferences that are valid (and hence differentiate them from those that are invalid). Logic tells you exactly when some conclusion follows from some premises and when it does not. It turns out that most arguments we encounter in everyday life are far from the ideal of logical validity. However, good philosophers and scientists should be able to devise arguments satisfying that ideal. This skill can also be of great advantage in fields such as law or public policy. We train this skill based on classical theories of logical consequence. Among other things, the course provides rigorous answers to the following questions. What exactly are arguments and inferences and which quality criteria should they satisfy? Under what conditions is an argument or inference logically valid? How can one demonstrate that an argument or inference is valid? How can one demonstrate that an argument or inference is not valid? The course begins with a simple system called sentential or propositional logic, which despite its simplicity captures a significant range of important arguments. The course then focuses on (first-order) predicate logic, which is much more powerful and provides the logical basis for analysing a great variety of arguments and theories.",
+ "teaching": "15 hours of lectures and 10 hours of classes in the Autumn Term. This course has a reading week in Week 6 of Autumn Term.",
+ "formativeAssessment": "Formative coursework will take the form of problem sets and online quizzes. Students are required to complete problem sets before the associated class and to be ready to present and discuss their answers in class. Online quizzes serve as continuous formative assessment.",
+ "indicativeReading": [
+  "There will be comprehensive lecture slides and materials covering the entire course content. Indicative background readings include:",
+  "Button, T. and Magnus, P.D. (2017): forall x:",
+  "Cambridge",
+  ", URL= < http://www.homepages.ucl.ac.uk/~uctytbu/OERs.html>",
+  "Copi I.M., Cohen, C. and McMahon K. (2014):",
+  "Introduction to Logic",
+  ". Pearson.",
+  "Salmon, M.H. (2013):",
+  "Introduction to Logic and Critical Thinking",
+  ". Wadsworth."
+ ],
+ "assessmentText": "Exam (100%), duration: 180 minutes, reading time: 15 minutes in the January exam period.",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 100
+  }
+ ],
+ "skills": [
+  "Self-management",
+  "Problem solving",
+  "Application of information skills",
+  "Communication",
+  "Application of numeracy skills",
+  "Specialist skills",
+  "Copyright © LSE 2026",
+  "Report a page",
+  "|",
+  "Freedom of information",
+  "|",
+  "Terms of use",
+  "|",
+  "Social media"
+ ],
+ "stats": {
+  "totalStudentsPrevYear": 178,
+  "avgClassSizePrevYear": 14,
+  "capped": "No"
+ },
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/PH/2026_PH111.htm",
+ "lastScraped": "2026-11-09",
+ "prereqTree": null,
+ "coreqTree": null,
+ "prereqCheck": false,
+ "preclusions": [],
+ "unlocks": []
+}
