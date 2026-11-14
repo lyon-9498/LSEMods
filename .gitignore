@@ -32,9 +32,10 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env
+.env.*
+!.env.example
 .env.local
 .env.*.local
-!.env.example
 
 # vercel
 .vercel
@@ -49,3 +50,13 @@ test-results/
 playwright-report/
 blob-report/
 .playwright/
+.context/
+gitleaks-report.json
+skills-lock.json
+
+# Downloaded agent cyber skills (local only). Keep project-owned skills.
+.agents/skills/*
+!.agents/skills/humanizer/
+!.agents/skills/humanizer/**
+
+.taste-skill/

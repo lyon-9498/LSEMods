@@ -36,14 +36,6 @@
   {
    "type": "Project",
    "weight": 30
-  },
-  {
-   "type": "The course is assessed by a group project",
-   "weight": 30
-  },
-  {
-   "type": "Wt and an exam",
-   "weight": 70
   }
  ],
  "skills": [

@@ -34,15 +34,11 @@
  "assessmentText": "Exam (100%), duration: 180 Minutes in the Spring exam period. Student will submit one summative essay (20%) in AT, and sit an in-person e-Exam in Spring term (80%)",
  "assessment": [
   {
-   "type": "Exam",
-   "weight": 100
-  },
-  {
-   "type": "Student will submit one summative essay",
+   "type": "Essay",
    "weight": 20
   },
   {
-   "type": "Exam in spring term",
+   "type": "Exam",
    "weight": 80
   }
  ],

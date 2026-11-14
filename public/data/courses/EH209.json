@@ -48,6 +48,14 @@
    "weight": 60
   },
   {
+   "type": "Presentation",
+   "weight": 7.5
+  },
+  {
+   "type": "Presentation",
+   "weight": 7.5
+  },
+  {
    "type": "Essay",
    "weight": 25
   }

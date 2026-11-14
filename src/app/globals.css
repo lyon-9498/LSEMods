@@ -48,6 +48,9 @@
   --border: var(--line);
   --danger: var(--status-check-text);
   --danger-bg: var(--status-check-bg);
+  /* Destructive actions (Clear, Remove) — distinct from the amber "check this" status */
+  --destructive: #b42318;
+  --destructive-bg: #fef3f2;
 }
 
 html.dark {
@@ -93,6 +96,8 @@ html.dark {
   --border: var(--line);
   --danger: var(--status-check-text);
   --danger-bg: var(--status-check-bg);
+  --destructive: #ff8f87;
+  --destructive-bg: #3a1714;
 }
 
 @theme inline {
@@ -136,6 +141,8 @@ html.dark {
   --color-border: var(--border);
   --color-danger: var(--danger);
   --color-danger-bg: var(--danger-bg);
+  --color-destructive: var(--destructive);
+  --color-destructive-bg: var(--destructive-bg);
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --font-sans: var(--font-inter);
@@ -146,6 +153,8 @@ html.dark {
 html {
   overflow-x: clip;
   color-scheme: light;
+  /* Stop the nav jumping sideways when a tab's content adds/removes the scrollbar */
+  scrollbar-gutter: stable;
 }
 
 html.dark {
@@ -194,8 +203,14 @@ h3,
   padding-bottom: calc(5.25rem + env(safe-area-inset-bottom, 0px));
 }
 
+/* Course pages also have a fixed Add to Plan above the tab bar */
+.footer-pad-cta {
+  padding-bottom: calc(9.5rem + env(safe-area-inset-bottom, 0px));
+}
+
 @media (min-width: 1024px) {
-  .footer-pad {
+  .footer-pad,
+  .footer-pad-cta {
     padding-bottom: 1.5rem;
   }
 }
@@ -214,113 +229,223 @@ h3,
   outline-offset: 2px;
 }
 
-.field-input {
-  width: 100%;
-  min-height: 2.75rem;
-  border-radius: var(--radius-control);
-  border: 1px solid var(--line-strong);
-  background: var(--surface);
-  color: var(--foreground);
-  padding: 0.5rem 0.75rem;
+/* 16px+ avoids iOS zoom on focus (checkboxes/radios/files excluded) */
+input:where(
+  :not(
+    [type="checkbox"],
+    [type="radio"],
+    [type="range"],
+    [type="file"],
+    [type="hidden"],
+    [type="button"],
+    [type="submit"],
+    [type="reset"]
+  )
+),
+select,
+textarea {
+  font-size: 1rem;
+}
+
+/* Broken <img> falls back to alt text with these styles */
+img {
+  color: var(--muted);
+  font-family: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
   font-size: 0.875rem;
-  font-family: inherit;
 }
 
-.chip-code {
-  background: var(--lilac);
-  color: var(--indigo);
-  border-radius: var(--radius-badge);
-  font-family: var(--font-jetbrains), ui-monospace, monospace;
-  font-weight: 700;
-}
+/*
+ * Component classes live in the components layer so Tailwind utilities on the same element
+ * win (e.g. `field-input pl-9`, `field-input w-24`, `btn-ghost min-h-11`). Unlayered, these
+ * rules silently beat every utility, which is why padding/width overrides were being ignored.
+ */
+@layer components {
+  .field-input {
+    width: 100%;
+    min-height: 2.75rem; /* 44px touch target */
+    border-radius: var(--radius-control); /* 14px — not pill */
+    border: 1px solid var(--line-strong);
+    background: var(--surface);
+    color: var(--foreground);
+    padding: 0.5rem 0.75rem;
+    font-size: 1rem;
+    font-family: inherit;
+    appearance: none;
+    -webkit-appearance: none;
+  }
 
-.chip-unit {
-  background: var(--lilac-deep);
-  color: var(--text-2);
-  border-radius: var(--radius-chip);
-}
+  .field-input::placeholder {
+    color: var(--muted);
+    opacity: 1;
+  }
 
-.chip-term-at {
-  background: var(--term-at-bg);
-  color: var(--term-at);
-  border-radius: var(--radius-chip);
-}
+  /* Safari/WebKit search fields otherwise force a stadium/pill chrome */
+  .field-input::-webkit-search-decoration,
+  .field-input::-webkit-search-cancel-button,
+  .field-input::-webkit-search-results-button,
+  .field-input::-webkit-search-results-decoration {
+    -webkit-appearance: none;
+    appearance: none;
+  }
 
-.chip-term-wt {
-  background: var(--term-wt-bg);
-  color: var(--term-wt);
-  border-radius: var(--radius-chip);
-}
+  .chip-code {
+    background: var(--lilac);
+    color: var(--indigo);
+    border-radius: var(--radius-badge);
+    font-family: var(--font-jetbrains), ui-monospace, monospace;
+    font-weight: 700;
+  }
 
-.chip-term-st,
-.chip-term-sm {
-  background: var(--term-st-bg);
-  color: var(--term-st);
-  border-radius: var(--radius-chip);
-}
+  .chip-unit {
+    background: var(--lilac-deep);
+    color: var(--text-2);
+    border-radius: var(--radius-chip);
+  }
 
-.chip-capped {
-  background: var(--marigold);
-  color: var(--mint-fg);
-  border-radius: var(--radius-chip);
-}
+  .chip-term-at {
+    background: var(--term-at-bg);
+    color: var(--term-at);
+    border-radius: var(--radius-chip);
+  }
 
-.chip-in-plan {
-  background: var(--status-plan-bg);
-  border: 1px solid var(--status-plan-border);
-  color: var(--status-plan-text);
-  border-radius: var(--radius-chip);
-}
+  .chip-term-wt {
+    background: var(--term-wt-bg);
+    color: var(--term-wt);
+    border-radius: var(--radius-chip);
+  }
 
-.note-needs-checking {
-  background: var(--status-check-bg);
-  border: 1px solid var(--status-check-border);
-  color: var(--status-check-text);
-}
+  .chip-term-st,
+  .chip-term-sm {
+    background: var(--term-st-bg);
+    color: var(--term-st);
+    border-radius: var(--radius-chip);
+  }
 
-.btn-primary {
-  background: var(--mint);
-  color: var(--mint-fg);
-  font-weight: 700;
-  min-height: 48px;
-  border-radius: var(--radius-control);
-}
+  .chip-capped {
+    background: var(--marigold);
+    color: var(--mint-fg);
+    border-radius: var(--radius-chip);
+  }
 
-.btn-primary:hover {
-  background: var(--mint-hover);
-}
+  .chip-in-plan {
+    background: var(--status-plan-bg);
+    border: 1px solid var(--status-plan-border);
+    color: var(--status-plan-text);
+    border-radius: var(--radius-chip);
+  }
 
-.btn-dark {
-  background: var(--indigo);
-  color: #fff;
-  font-weight: 700;
-  min-height: 48px;
-  border-radius: var(--radius-control);
-}
+  .note-needs-checking {
+    background: var(--status-check-bg);
+    border: 1px solid var(--status-check-border);
+    color: var(--status-check-text);
+  }
 
-.btn-ghost {
-  background: var(--surface);
-  color: var(--indigo);
-  border: 1px solid var(--line-strong);
-  font-weight: 600;
-  min-height: 48px;
-  border-radius: var(--radius-control);
-}
+  .btn-primary {
+    background: var(--mint);
+    color: var(--mint-fg);
+    font-weight: 700;
+    min-height: 48px;
+    border-radius: var(--radius-control);
+  }
 
-.btn-ghost:hover {
-  background: var(--lilac);
-}
+  .btn-primary:hover {
+    background: var(--mint-hover);
+  }
 
-.card-hover {
-  transition: border-color 0.15s ease, box-shadow 0.15s ease;
-}
+  .btn-dark {
+    background: var(--indigo);
+    /* White in light mode; dark text on the lighter dark-mode indigo (white there is ~3:1) */
+    color: var(--surface);
+    font-weight: 700;
+    min-height: 48px;
+    border-radius: var(--radius-control);
+  }
 
-.card-hover:hover {
-  border-color: #c9c2ee;
-  box-shadow: 0 8px 24px rgba(27, 22, 64, 0.07);
-}
+  .btn-ghost {
+    background: var(--surface);
+    color: var(--indigo);
+    border: 1px solid var(--line-strong);
+    font-weight: 600;
+    min-height: 48px;
+    border-radius: var(--radius-control);
+  }
 
-html.dark .card-hover:hover {
-  border-color: var(--line-strong);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+  .btn-ghost:hover {
+    background: var(--lilac);
+  }
+
+  .card-hover {
+    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+  }
+
+  .card-hover:hover {
+    border-color: #c9c2ee;
+    box-shadow: 0 8px 24px rgba(27, 22, 64, 0.07);
+  }
+
+  html.dark .card-hover:hover {
+    border-color: var(--line-strong);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+  }
+
+  /* Builder: year cards are anchor targets from the requirements summary */
+  .plan-year {
+    scroll-margin-top: 6rem;
+  }
+
+  .btn-quiet {
+    background: var(--surface);
+    color: var(--indigo);
+    border: 1px solid var(--line-strong);
+    font-weight: 600;
+    min-height: 44px;
+    border-radius: var(--radius-control);
+  }
+
+  .btn-quiet:hover {
+    background: var(--lilac);
+  }
+
+  .btn-destructive {
+    background: var(--surface);
+    color: var(--destructive);
+    border: 1px solid var(--line-strong);
+    font-weight: 600;
+    min-height: 44px;
+    border-radius: var(--radius-control);
+  }
+
+  .btn-destructive:hover {
+    background: var(--destructive-bg);
+  }
+
+  /* Unit progress bar on each plan year */
+  .unit-meter {
+    height: 6px;
+    border-radius: 999px;
+    background: var(--lilac-deep);
+    overflow: hidden;
+  }
+
+  .unit-meter > span {
+    display: block;
+    height: 100%;
+    border-radius: inherit;
+    background: var(--indigo);
+    transition: width 0.2s ease;
+  }
+
+  .unit-meter[data-state="full"] > span {
+    background: var(--mint);
+  }
+
+  .unit-meter[data-state="over"] > span {
+    background: var(--destructive);
+  }
+
+  /* File inputs are visually hidden inside their <label>; show the focus ring on the label */
+  label:has(> input[type="file"]:focus-visible) {
+    outline: 3px solid var(--mint);
+    outline-offset: 2px;
+  }
 }

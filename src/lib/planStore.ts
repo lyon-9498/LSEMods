@@ -2,6 +2,8 @@
 
 import { useSyncExternalStore } from "react";
 import { debounce, isValidCourseCode } from "./async";
+import { canonicalCode } from "./courseAliases";
+import { isLSE100Variant } from "./plannerLogic";
 import { isValidProgrammeId } from "./urls";
 
 /** Where a course sits within its year: Autumn, Winter/Spring, or spanning the whole year. */
@@ -49,11 +51,19 @@ function parsePlan(raw: string | null): Plan | null {
       })
       .slice(0, MAX_ITEMS)
       .map((i: PlanItem) => ({
-        code: String(i.code).toUpperCase(),
+        code: canonicalCode(String(i.code).toUpperCase()),
         year: i.year,
         ...(i.slot && SLOTS.includes(i.slot) ? { slot: i.slot } : {}),
         ...(typeof i.paper === "string" && i.paper.length < 32 ? { paper: i.paper } : {}),
       }));
+    // Keep at most one LSE100 (themes A/B/C collapse to LSE100).
+    let seenLse100 = false;
+    const deduped = items.filter((i: PlanItem) => {
+      if (!isLSE100Variant(i.code)) return true;
+      if (seenLse100) return false;
+      seenLse100 = true;
+      return true;
+    });
     const exemptions = Array.isArray(p.exemptions)
       ? p.exemptions
           .filter((x: unknown) => typeof x === "string" && isValidCourseCode(x as string))
@@ -64,7 +74,7 @@ function parsePlan(raw: string | null): Plan | null {
       typeof p.programme === "string" && isValidProgrammeId(p.programme) ? p.programme : undefined;
     return {
       years: Math.min(Math.max(Number(p.years) || 3, 1), 6),
-      items,
+      items: deduped,
       exemptions,
       ...(programme ? { programme } : {}),
     };
@@ -73,10 +83,35 @@ function parsePlan(raw: string | null): Plan | null {
   }
 }
 
+/** True when disk still has pre-alias spellings (e.g. LSE100A) that parsePlan rewrites. */
+function planNeedsCanonicalRewrite(raw: string | null): boolean {
+  if (!raw) return false;
+  try {
+    const p = JSON.parse(raw) as { items?: unknown };
+    if (!Array.isArray(p?.items)) return false;
+    return p.items.some((i) => {
+      const code = (i as { code?: unknown })?.code;
+      if (typeof code !== "string" || !isValidCourseCode(code)) return false;
+      return canonicalCode(code) !== code.trim().toUpperCase();
+    });
+  } catch {
+    return false;
+  }
+}
+
 function load(): Plan {
   if (typeof window === "undefined") return EMPTY_PLAN;
   try {
-    return parsePlan(localStorage.getItem(PLAN_KEY)) ?? EMPTY_PLAN;
+    const raw = localStorage.getItem(PLAN_KEY);
+    const plan = parsePlan(raw) ?? EMPTY_PLAN;
+    if (planNeedsCanonicalRewrite(raw)) {
+      try {
+        localStorage.setItem(PLAN_KEY, JSON.stringify(plan));
+      } catch {
+        /* keep in-memory canonical plan even if rewrite fails */
+      }
+    }
+    return plan;
   } catch {
     return EMPTY_PLAN;
   }
@@ -178,10 +213,14 @@ export function importPlanJson(raw: string): boolean {
 export const planActions = {
   add(code: string, year: number, slot?: Slot, paper?: string) {
     ensureHydrated();
-    const normalized = code.trim().toUpperCase();
+    const normalized = canonicalCode(code.trim().toUpperCase());
     if (!isValidCourseCode(normalized)) return;
-    const existing = state.items.find((i) => i.code === normalized);
-    const items = state.items.filter((i) => i.code !== normalized);
+    const existing = state.items.find((i) => canonicalCode(i.code) === normalized);
+    // Only one LSE100 at a time — drop theme variants when picking it.
+    let items = state.items.filter((i) => canonicalCode(i.code) !== normalized);
+    if (isLSE100Variant(normalized)) {
+      items = items.filter((i) => !isLSE100Variant(i.code));
+    }
     if (items.length >= MAX_ITEMS && !existing) return;
     const keepSlot = slot ?? existing?.slot;
     const keepPaper = paper ?? existing?.paper;
@@ -200,8 +239,11 @@ export const planActions = {
   },
   remove(code: string) {
     ensureHydrated();
-    const normalized = code.trim().toUpperCase();
-    commit({ ...state, items: state.items.filter((i) => i.code !== normalized) });
+    const normalized = canonicalCode(code.trim().toUpperCase());
+    commit({
+      ...state,
+      items: state.items.filter((i) => canonicalCode(i.code) !== normalized),
+    });
   },
   setYears(n: number) {
     ensureHydrated();
@@ -232,16 +274,25 @@ export const planActions = {
     if (id && !isValidProgrammeId(id)) return;
     commit({ ...rest, items: [], ...(id ? { programme: id } : {}) });
   },
-  addMany(entries: { code: string; year: number }[]) {
+  addMany(entries: { code: string; year: number; paper?: string }[]) {
     ensureHydrated();
     const have = new Set(state.items.map((i) => i.code));
+    let hasLse100 = [...have].some(isLSE100Variant);
     const fresh: PlanItem[] = [];
     for (const e of entries) {
-      const code = e.code.trim().toUpperCase();
+      const code = canonicalCode(e.code.trim().toUpperCase());
       if (!isValidCourseCode(code) || have.has(code)) continue;
+      if (isLSE100Variant(code)) {
+        if (hasLse100) continue;
+        hasLse100 = true;
+      }
       if (state.items.length + fresh.length >= MAX_ITEMS) break;
       have.add(code);
-      fresh.push({ code, year: e.year });
+      fresh.push({
+        code,
+        year: e.year,
+        ...(typeof e.paper === "string" && e.paper.length < 32 ? { paper: e.paper } : {}),
+      });
     }
     if (fresh.length) commit({ ...state, items: [...state.items, ...fresh] });
     return fresh.length;

@@ -1,4 +1,5 @@
 import { isValidCourseCode, pLimit } from "./async";
+import { canonicalCode } from "./courseAliases";
 import type { Course, IndexEntry, Meta } from "./types";
 
 const limit = pLimit(5);
@@ -25,7 +26,7 @@ export const loadIndex = () => getJson<IndexEntry[]>("index.json", { cacheFailur
 export const loadMeta = () => getJson<Meta>("meta.json", { cacheFailures: true });
 
 export function loadCourse(code: string): Promise<Course> {
-  const normalized = code.trim().toUpperCase();
+  const normalized = canonicalCode(code);
   if (!isValidCourseCode(normalized)) {
     return Promise.reject(new Error(`Invalid course code: ${code}`));
   }

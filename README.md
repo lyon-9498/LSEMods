@@ -13,6 +13,17 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
+## Docker (desktop + phone on the same Wi‑Fi)
+
+```bash
+npm run docker:up
+```
+
+- Desktop: [http://localhost:3000](http://localhost:3000)
+- Phone: `http://<your-mac-lan-ip>:3000` (same Wi‑Fi). Find the IP with `ipconfig getifaddr en0`.
+
+Stop with `npm run docker:down`. Logs: `npm run docker:logs`.
+
 ## Environment
 
 Copy `.env.example` → `.env.local`:
@@ -66,7 +77,6 @@ This app is Next.js App Router — deploy on **Vercel** (not GitHub Pages).
 - GitHub = source of truth for code + JSON  
 - Yearly data tags / Release assets  
 - Vercel rollback  
-- Optional Netlify cold standby from the same repo  
 
 ## Disclaimer
 

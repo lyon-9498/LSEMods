@@ -30,6 +30,8 @@ export function AppShell({
   const pathname = usePathname();
   const active = (href: string) =>
     pathname === href || pathname.startsWith(`${href}/`);
+  /** Course detail has a fixed Add to Plan above the mobile tab bar. */
+  const courseDetail = /^\/courses\/[^/]+/.test(pathname);
 
   return (
     <div className="flex min-h-dvh flex-col bg-paper text-night">
@@ -86,12 +88,17 @@ export function AppShell({
         {children}
       </main>
 
-      <footer className="footer-pad w-full border-t border-line bg-surface px-4 pt-5 text-sm text-muted lg:px-8 lg:pb-6">
+      <footer
+        className={cn(
+          "w-full border-t border-line bg-surface px-4 pt-5 text-sm text-muted lg:px-8 lg:pb-6",
+          courseDetail ? "footer-pad-cta" : "footer-pad",
+        )}
+      >
         <div className="mx-auto flex w-full max-w-[1200px] flex-col gap-3 sm:flex-row sm:items-start sm:justify-between sm:gap-6">
           <p className="min-w-0 flex-1 leading-relaxed">
             <span className="font-semibold text-night">Disclaimer:</span> LSEmods is unofficial
-            and not affiliated with LSE or LSESU. Details here can be incomplete or out of date —
-            always check the{" "}
+            and not affiliated with LSE or LSESU. Details here can be incomplete or out of date.
+            Check the{" "}
             <a
               className="text-violet underline underline-offset-2 hover:text-indigo"
               href="https://www.lse.ac.uk/resources/calendar"
@@ -99,8 +106,8 @@ export function AppShell({
               rel="noreferrer"
             >
               official LSE Calendar
-            </a>{" "}
-            before you choose modules.
+            </a>
+            .
           </p>
           <Link
             href="/about"

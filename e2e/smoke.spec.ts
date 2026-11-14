@@ -24,12 +24,11 @@ test("community and support CTAs", async ({ page }) => {
 });
 
 test("slash focuses catalogue search on desktop", async ({ page }, testInfo) => {
-  test.skip(testInfo.project.name !== "chromium", "Desktop slash hint / shortcut");
+  test.skip(testInfo.project.name !== "chromium", "Desktop slash shortcut");
   await page.setViewportSize({ width: 1280, height: 900 });
   await page.goto("/courses");
   const search = page.getByRole("textbox", { name: /Search courses/i });
   await expect(search).toBeVisible();
-  await expect(page.locator("kbd", { hasText: "/" })).toBeVisible();
   await page.locator("body").click({ position: { x: 8, y: 8 } });
   await page.keyboard.press("/");
   await expect(search).toBeFocused();

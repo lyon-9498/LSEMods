@@ -35,14 +35,6 @@
   {
    "type": "Project",
    "weight": 40
-  },
-  {
-   "type": "Group project",
-   "weight": 40
-  },
-  {
-   "type": "Final exam",
-   "weight": 60
   }
  ],
  "skills": [

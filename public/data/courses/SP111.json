@@ -39,10 +39,6 @@
   {
    "type": "Essay",
    "weight": 40
-  },
-  {
-   "type": "Digi-exam",
-   "weight": 60
   }
  ],
  "skills": [],

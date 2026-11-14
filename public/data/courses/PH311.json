@@ -42,10 +42,6 @@
   {
    "type": "Essay",
    "weight": 10
-  },
-  {
-   "type": "These have relatively low weights",
-   "weight": 10
   }
  ],
  "skills": [

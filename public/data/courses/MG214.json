@@ -45,18 +45,6 @@
   {
    "type": "Essay",
    "weight": 50
-  },
-  {
-   "type": "Participation grade",
-   "weight": 15
-  },
-  {
-   "type": "The group project presentation",
-   "weight": 35
-  },
-  {
-   "type": "Multi-media essay",
-   "weight": 50
   }
  ],
  "skills": [

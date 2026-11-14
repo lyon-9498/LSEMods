@@ -57,18 +57,6 @@
   {
    "type": "Essay",
    "weight": 50
-  },
-  {
-   "type": "Essay",
-   "weight": 50
-  },
-  {
-   "type": "Coursework",
-   "weight": 35
-  },
-  {
-   "type": "Class participation",
-   "weight": 15
   }
  ],
  "skills": [

@@ -1,39 +1,26 @@
 import type { NextConfig } from "next";
-
-const disqus = "*.disqus.com *.disquscdn.com";
-
-const csp = [
-  "default-src 'self'",
-  `script-src 'self' 'unsafe-inline' ${disqus}`,
-  `style-src 'self' 'unsafe-inline'`,
-  `img-src 'self' data: blob: ${disqus}`,
-  `font-src 'self' data:`,
-  `frame-src 'self' ${disqus}`,
-  `connect-src 'self' ${disqus}`,
-  "frame-ancestors 'none'",
-  "base-uri 'self'",
-  "form-action 'self'",
-  "object-src 'none'",
-].join("; ");
+import { SECURITY_HEADERS } from "./src/lib/securityHeaders";
 
 const nextConfig: NextConfig = {
+  // Used by the Docker image (see Dockerfile). Vercel builds ignore this env.
+  ...(process.env.DOCKER === "1" ? { output: "standalone" as const } : {}),
+  poweredByHeader: false,
+  productionBrowserSourceMaps: false,
+  // minimatch/eslint ESM mismatch must not fail production image builds
+  eslint: { ignoreDuringBuilds: true },
   async headers() {
     return [
       {
         source: "/:path*",
+        headers: SECURITY_HEADERS,
+      },
+      // Never cache HTML shell with stale CSP; keep static assets cacheable via Next defaults.
+      {
+        source: "/data/:path*",
         headers: [
+          ...SECURITY_HEADERS,
+          { key: "Cache-Control", value: "public, max-age=3600, stale-while-revalidate=86400" },
           { key: "X-Content-Type-Options", value: "nosniff" },
-          { key: "Referrer-Policy", value: "strict-origin-when-cross-origin" },
-          { key: "X-Frame-Options", value: "DENY" },
-          {
-            key: "Permissions-Policy",
-            value: "camera=(), microphone=(), geolocation=()",
-          },
-          {
-            key: "Strict-Transport-Security",
-            value: "max-age=63072000; includeSubDomains; preload",
-          },
-          { key: "Content-Security-Policy", value: csp },
         ],
       },
     ];
@@ -43,6 +30,36 @@ const nextConfig: NextConfig = {
       {
         source: "/planner",
         destination: "/builder",
+        permanent: true,
+      },
+      {
+        source: "/courses/LSE100A",
+        destination: "/courses/LSE100",
+        permanent: true,
+      },
+      {
+        source: "/courses/LSE100B",
+        destination: "/courses/LSE100",
+        permanent: true,
+      },
+      {
+        source: "/courses/LSE100C",
+        destination: "/courses/LSE100",
+        permanent: true,
+      },
+      {
+        source: "/courses/lse100a",
+        destination: "/courses/LSE100",
+        permanent: true,
+      },
+      {
+        source: "/courses/lse100b",
+        destination: "/courses/LSE100",
+        permanent: true,
+      },
+      {
+        source: "/courses/lse100c",
+        destination: "/courses/LSE100",
         permanent: true,
       },
     ];

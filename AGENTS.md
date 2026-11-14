@@ -9,10 +9,10 @@ Persistent guidance for future work on this repo. Also mirrored in the user’s 
 - **Data**: port [lyon-9498/LSEMods](https://github.com/lyon-9498/LSEMods). Ship JSON in `public/data` only — never deploy `raw/` HTML; never scrape LSE from the browser.
 - **Yearly refresh**: offline scrapers → commit JSON → redeploy; ~1 req/s rate limit.
 - **Reuse** pure logic: `search`, `plannerLogic`, `degreeLogic`, `lsemods-plan-v1` plan store.
-- **LSE100** is **0.5 units** (half unit → 1 classification mark). Taken on top of the four papers — excluded from year unit totals (`isExcludedFromUnits`). Variants in data: `LSE100A` / `B` / `C`.
+- **LSE100** is **0.5 units** (half unit → 1 classification mark). Taken with the four Year 1 papers — **Year 1 = 4.5u** (`yearUnitCap(1)`). Variants collapse to `LSE100`.
 - **Grade calculator** follows official BA/BSc schemes (from 2018/19): 3-year = 18 marks (FYA×2 + 16); 4-year = 26 marks (FYA×2 + 24). Use `schemeForYears` + `analyse` in `gradeLogic.ts`; UI shows target First/2:1/2:2 and remaining marks/units needed.
 - **Disqus**: shortname `lsemods`; stable `identifier = CODE`; path URLs; lazy-load; failure must not crash the page.
-- **Release**: preview → `staging` → protected `main` → production. Backup: GitHub + data tags + Vercel rollback + Netlify standby.
+- **Release**: preview → `staging` → protected `main` → production. Backup: GitHub + data tags + Vercel rollback.
 - **Out of scope**: Supabase/RLS, JWT/service keys, payment backends.
 
 ## UI / mobile

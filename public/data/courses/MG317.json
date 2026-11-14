@@ -40,10 +40,6 @@
   {
    "type": "Project",
    "weight": 80
-  },
-  {
-   "type": "The participation grade",
-   "weight": 10
   }
  ],
  "skills": [

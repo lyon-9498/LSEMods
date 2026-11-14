@@ -41,10 +41,6 @@
   {
    "type": "Course participation",
    "weight": 10
-  },
-  {
-   "type": "Class participation",
-   "weight": 10
   }
  ],
  "skills": [

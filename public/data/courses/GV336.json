@@ -39,10 +39,6 @@
   {
    "type": "Project",
    "weight": 80
-  },
-  {
-   "type": "Group project",
-   "weight": 50
   }
  ],
  "skills": [

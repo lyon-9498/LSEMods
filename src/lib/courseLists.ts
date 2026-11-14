@@ -1,9 +1,9 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
-import { loadSharedLists, type CohortLists } from "./programmes";
+import { loadCoursesMeta, type CourseMeta } from "./coursesData";
 
-/** Outside options and shared subject lists for one start year (the most recent one by default). */
+/** Outside options derived from courses.csv (no longer from programmes/lists.json). */
 export interface ListInfo {
   cohort: number;
   outside1: Set<string>;
@@ -16,27 +16,35 @@ export const OUTSIDE23_KEY = "outside23";
 export const OUTSIDE1_LABEL = "Outside option · Year 1";
 export const OUTSIDE23_LABEL = "Outside option · Years 2 & 3";
 
-export function useSharedLists(cohort?: number): ListInfo | null {
-  const [all, setAll] = useState<Record<string, CohortLists> | null>(null);
+function outsideSet(meta: Map<string, CourseMeta>): Set<string> {
+  const out = new Set<string>();
+  for (const c of meta.values()) {
+    const status = (c.outsideOptionStatus ?? "").toLowerCase();
+    if (status.includes("available") && !status.includes("not available") && status !== "closed") {
+      out.add(c.code);
+    }
+  }
+  return out;
+}
+
+export function useSharedLists(_cohort?: number): ListInfo | null {
+  const [meta, setMeta] = useState<Map<string, CourseMeta> | null>(null);
   useEffect(() => {
-    loadSharedLists()
-      .then(setAll)
-      .catch(() => setAll({})); // no lists.json yet: features stay hidden
+    loadCoursesMeta()
+      .then(setMeta)
+      .catch(() => setMeta(new Map()));
   }, []);
 
   return useMemo(() => {
-    if (!all) return null;
-    const cohorts = Object.keys(all).map(Number).sort((a, b) => b - a);
-    if (cohorts.length === 0) return null;
-    const c = cohort !== undefined && all[String(cohort)] ? cohort : cohorts[0];
-    const d = all[String(c)];
+    if (!meta) return null;
+    const outside = outsideSet(meta);
     return {
-      cohort: c,
-      outside1: new Set(d.outsideYear1),
-      outside23: new Set(d.outsideYears23),
-      named: Object.entries(d.lists).map(([name, v]) => ({ name, codes: new Set(v.codes) })),
+      cohort: 2026,
+      outside1: outside,
+      outside23: outside,
+      named: [],
     };
-  }, [all, cohort]);
+  }, [meta]);
 }
 
 /** The lists a course is on, as {key, label} (keys are used in the Browse filter URL). */

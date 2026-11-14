@@ -1,0 +1,34 @@
+{
+ "code": "AC207",
+ "title": "Economics of Accounting: Research Methods and Evidence",
+ "department": "Accounting",
+ "prefix": "AC",
+ "units": 0.5,
+ "terms": [
+  "WT"
+ ],
+ "courseLevel": 2,
+ "fheqLevel": 5,
+ "convenors": [
+  "Prof Ane Tamayo"
+ ],
+ "status": "suspended",
+ "description": "Suspended in 2026/27. Remains on BSc Accounting and Finance Calendar regulations for 2026 entry (Year 2, taken in 2027/28).",
+ "assessmentText": "Exam (70%), duration: 120 Minutes in the Spring exam period. Course participation (10%). Problem sets (20%).",
+ "assessment": [
+  {
+   "type": "Exam",
+   "weight": 70
+  },
+  {
+   "type": "Course participation",
+   "weight": 10
+  },
+  {
+   "type": "Problem sets",
+   "weight": 20
+  }
+ ],
+ "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/AC/2026_AC207.htm",
+ "lastScraped": "2026-11-11"
+}

@@ -2,14 +2,16 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { readFile } from "fs/promises";
 import path from "path";
-import { AssessmentBar } from "@/components/AssessmentBar";
+import { AssessmentDetails } from "@/components/AssessmentDetails";
 import { AddToPlanButton } from "@/components/AddToPlanButton";
 import { PrereqTree } from "@/components/PrereqTree";
 import { Reviews } from "@/components/Reviews";
 import { isValidCourseCode } from "@/lib/async";
+import { canonicalCode } from "@/lib/courseAliases";
 import { getCourseCodes } from "@/lib/data";
-import { termChipClass, termLabel, unitLabel } from "@/lib/labels";
+import { isNonCreditUnits, termChipClass, termLabel, unitLabel } from "@/lib/labels";
 import { isMeaningfulListText } from "@/lib/listText";
+import { isLSE100Variant } from "@/lib/plannerLogic";
 import type { Course } from "@/lib/types";
 import { safeHttpsUrl } from "@/lib/urls";
 
@@ -24,14 +26,15 @@ export async function generateMetadata({
   params: Promise<{ code: string }>;
 }) {
   const { code } = await params;
-  return { title: code.toUpperCase() };
+  return { title: canonicalCode(code) };
 }
 
 async function loadCourseFile(code: string): Promise<Course | null> {
-  if (!isValidCourseCode(code)) return null;
+  const normalized = canonicalCode(code);
+  if (!isValidCourseCode(normalized)) return null;
   try {
     const raw = await readFile(
-      path.join(process.cwd(), "public", "data", "courses", `${code.toUpperCase()}.json`),
+      path.join(process.cwd(), "public", "data", "courses", `${normalized}.json`),
       "utf8",
     );
     return JSON.parse(raw) as Course;
@@ -46,7 +49,7 @@ export default async function CoursePage({
   params: Promise<{ code: string }>;
 }) {
   const { code: raw } = await params;
-  const code = raw.toUpperCase();
+  const code = canonicalCode(raw);
   const course = await loadCourseFile(code);
   if (!course) notFound();
   const sourceHref = safeHttpsUrl(course.sourceUrl);
@@ -66,7 +69,7 @@ export default async function CoursePage({
   ];
 
   return (
-    <article className="pb-24 lg:pb-8">
+    <article className="pb-36 lg:pb-8">
       <Link
         href="/courses"
         className="inline-flex min-h-11 items-center text-sm font-medium text-violet underline-offset-2 hover:text-indigo hover:underline"
@@ -90,11 +93,12 @@ export default async function CoursePage({
               FHEQ Level {course.fheqLevel}
             </span>
           )}
-          {course.stats?.capped && (
-            <span className="chip-capped px-2.5 py-0.5 text-xs font-medium">
-              Capped · {course.stats.capped}
-            </span>
-          )}
+          {course.stats?.capped &&
+            !/^no$/i.test(String(course.stats.capped).trim()) && (
+              <span className="chip-capped px-2.5 py-0.5 text-xs font-medium">
+                Capped · {course.stats.capped}
+              </span>
+            )}
         </div>
         <h1 className="mt-3 font-display text-3xl font-extrabold leading-[1.05] tracking-[-0.03em] sm:text-4xl">
           {course.title}
@@ -104,7 +108,7 @@ export default async function CoursePage({
           {course.department ?? "Department unknown"}
         </p>
         <div className="mt-5 hidden flex-wrap gap-3 lg:flex">
-          <AddToPlanButton code={course.code} />
+          <AddToPlanButton code={course.code} units={course.units} title={course.title} />
           {sourceHref && (
             <a
               href={sourceHref}
@@ -117,6 +121,24 @@ export default async function CoursePage({
           )}
         </div>
       </header>
+
+      {isNonCreditUnits(course.units) && (
+        <p className="note-needs-checking mt-4 inline-flex w-full items-start gap-2 rounded-[var(--radius)] px-4 py-3 text-sm">
+          <span>
+            <span className="font-semibold">Non-credit bearing.</span> LSE lists this course as 0
+            units — it does not count toward your year&apos;s 4.0 unit total or classification
+            marks. Often a short skills course with no summative assessment.
+          </span>
+        </p>
+      )}
+
+      {isLSE100Variant(course.code) && (
+        <p className="mt-4 rounded-[var(--radius)] border border-line bg-lilac-deep/50 px-4 py-3 text-sm text-night">
+          <span className="font-semibold">Taken with your four papers.</span> LSE100 is a half
+          unit for all first years. Year 1 is 4.5 units in total (four papers plus LSE100), and
+          LSE100 also counts toward classification.
+        </p>
+      )}
 
       <div className="mt-6 grid gap-6 lg:grid-cols-[1fr_320px]">
         <div className="space-y-6">
@@ -217,19 +239,19 @@ export default async function CoursePage({
             ) : (
               "LSE Calendar"
             )}
-            {course.lastScraped ? ` · scraped ${course.lastScraped}` : ""}. Unofficial — verify on the Calendar before
-            choosing courses.
+            {course.lastScraped ? ` · scraped ${course.lastScraped}` : ""}.
           </p>
         </div>
 
         <aside className="space-y-4 lg:sticky lg:top-20 lg:self-start">
           <div className="rounded-[var(--radius)] border border-line bg-surface p-4">
             <h2 className="font-display text-lg text-night">Assessment</h2>
-            {course.assessmentText && (
-              <p className="mt-2 text-justify text-sm text-night/90">{course.assessmentText}</p>
-            )}
             <div className="mt-3">
-              <AssessmentBar items={course.assessment} />
+              <AssessmentDetails
+                code={course.code}
+                text={course.assessmentText}
+                items={course.assessment}
+              />
             </div>
           </div>
           {(course.stats?.totalStudentsPrevYear || course.stats?.capped) && (
@@ -247,12 +269,23 @@ export default async function CoursePage({
             </div>
           )}
           <div className="hidden lg:block">
-            <AddToPlanButton code={course.code} className="w-full" />
+            <AddToPlanButton
+              code={course.code}
+              units={course.units}
+              title={course.title}
+              className="w-full"
+            />
           </div>
         </aside>
       </div>
 
-      <AddToPlanButton code={course.code} sticky className="w-[calc(100%-2rem)] lg:hidden" />
+      <AddToPlanButton
+        code={course.code}
+        units={course.units}
+        title={course.title}
+        sticky
+        className="w-[calc(100%-2rem)] lg:hidden"
+      />
     </article>
   );
 }

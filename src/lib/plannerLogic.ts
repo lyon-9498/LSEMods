@@ -1,6 +1,8 @@
+import type { CourseMeta } from "./coursesData";
 import type { Course, IndexEntry, Req } from "./types";
 import type { Plan, PlanItem, Slot } from "./planStore";
 import type { Programme } from "./programmes";
+import { canonicalCode, codeAliases } from "./courseAliases";
 
 export type Severity = "error" | "warn";
 export interface Issue {
@@ -110,15 +112,26 @@ export interface OutsideContext {
 }
 
 export function outsidePapers(prog: Programme): OutsideContext["outsidePapers"] {
-  const papers = prog.years.flatMap((y) => y.papers);
-  if (!papers.some((p) => p.outside !== undefined)) return null; // scraped before this was recorded
   const out = new Map<number, { label: string; rule: "allowed" | "exceptional" }[]>();
-  for (const y of prog.years)
-    out.set(
-      y.year,
-      y.papers.filter((p) => p.outside).map((p) => ({ label: p.label, rule: p.outside as "allowed" | "exceptional" })),
-    );
-  return out;
+  const add = (year: number, label: string) => {
+    const list = out.get(year) ?? [];
+    list.push({ label, rule: "allowed" });
+    out.set(year, list);
+  };
+  for (const y of prog.years) {
+    for (const s of y.slots) {
+      if (s.ruleType !== "outside_option") continue;
+      add(y.year, s.text || `Outside option (${s.units ?? "?"}u)`);
+    }
+  }
+  for (const rule of prog.crossYearRules ?? []) {
+    if (rule.ruleType !== "outside_option") continue;
+    const label =
+      rule.text ||
+      `Outside option (${rule.units ?? "?"}u) · Years ${rule.years}`;
+    for (const year of rule.appliesToYears) add(year, label);
+  }
+  return out.size ? out : null;
 }
 
 export const coursePrefix = (code: string) => code.match(/^[A-Z]+/)?.[0] ?? "";
@@ -162,13 +175,20 @@ export function degreePrefixes(name: string, department: string | null): Set<str
 
 export function degreeCourseCodes(prog: Programme): Set<string> {
   const s = new Set<string>();
-  for (const y of prog.years)
-    for (const p of y.papers) {
-      p.compulsory.forEach((c) => s.add(c));
-      p.options.forEach((c) => s.add(c));
-      for (const name of p.lists)
-        if (!/outside options list/i.test(name)) (prog.lists[name] ?? []).forEach((c) => s.add(c));
+  for (const c of prog.optionPool?.compulsory ?? []) s.add(canonicalCode(c));
+  for (const c of prog.optionPool?.available ?? []) s.add(canonicalCode(c));
+  for (const y of prog.years) {
+    for (const slot of y.slots) {
+      if (slot.ruleType === "outside_option") continue;
+      for (const c of slot.courses) s.add(canonicalCode(c));
+      if (slot.ruleType === "LSE100") {
+        for (const a of codeAliases("LSE100")) s.add(a);
+      }
     }
+  }
+  for (const t of prog.lse100Themes ?? []) {
+    for (const a of codeAliases(t)) s.add(a);
+  }
   return s;
 }
 
@@ -183,13 +203,24 @@ export function courseIssues(
   details: Map<string, Course | null>,
   byCode: Map<string, IndexEntry>,
   outside?: OutsideContext,
+  courseMeta?: Map<string, CourseMeta>,
 ): Map<string, Issue[]> {
   const out = new Map<string, Issue[]>();
   const planned = new Set(plan.items.map((i) => i.code));
 
   for (const item of plan.items) {
     const issues: Issue[] = [];
-    if (!byCode.has(item.code)) issues.push({ severity: "warn", text: "Not in the current catalogue data" });
+    const canon = canonicalCode(item.code);
+    if (!byCode.has(item.code) && !byCode.has(canon)) {
+      issues.push({ severity: "warn", text: "Not in the current catalogue data" });
+    }
+    const meta = courseMeta?.get(canon) ?? courseMeta?.get(item.code);
+    if (meta && meta.assessmentOk === false) {
+      issues.push({
+        severity: "warn",
+        text: "Assessment data needs checking against the official course guide",
+      });
+    }
 
     // Outside options (only judged once a degree is chosen, and only for courses the degree doesn't name itself)
     if (outside && !outside.degreeCodes.has(item.code)) {
@@ -275,9 +306,11 @@ export interface YearSummary {
   year: number;
   codes: string[];
   bySlot: Record<Slot, string[]>;
-  /** planned but not counted in unit totals (LSE100) */
+  /** @deprecated kept empty — LSE100 now counts in Year 1’s 4.5u total */
   excluded: string[];
   units: number;
+  /** Expected / soft cap for this year (4.5 in Year 1, else 4.0). */
+  maxUnits: number;
   unknownUnits: boolean;
   autumn: number;
   winter: number;
@@ -286,14 +319,28 @@ export interface YearSummary {
 
 export const fmtUnits = (n: number) => String(Math.round(n * 100) / 100);
 
-/** LSE caps: no more than 4 units in a year; terms should be balanced at about 2 units each. */
+/** Papers-year cap (Years 2+). Year 1 is 4.5 with LSE100 — see yearUnitCap. */
 export const YEAR_MAX_UNITS = 4;
+/** Year 1 load: four papers (4.0) + LSE100 (0.5). */
+export const YEAR1_MAX_UNITS = 4.5;
 export const TERM_MAX_UNITS = 2;
 /** LSE describes term balance as expected rather than an absolute rule, so this is a warning by default. */
 export const TERM_LIMIT_SEVERITY: Severity = "warn";
 
-/** LSE100 is taken on top of the four papers, so it's left out of every unit total. */
-export const isExcludedFromUnits = (code: string) => code.startsWith("LSE100");
+/** LSE100 (and legacy A/B/C themes) are mutually exclusive — only one in a plan. */
+export const isLSE100Variant = (code: string) => /^LSE100[A-Z]?$/i.test(code.trim());
+
+/**
+ * Formerly excluded LSE100 from totals. Year 1 is 4.5u including LSE100, so nothing is
+ * excluded anymore — kept as a no-op for callers/tests.
+ */
+export const isExcludedFromUnits = (_code: string) => false;
+
+/** Soft unit cap for a plan year. */
+export function yearUnitCap(year: number): number {
+  return year === 1 ? YEAR1_MAX_UNITS : YEAR_MAX_UNITS;
+}
+
 const unitsWord = (n: number) => `${fmtUnits(n)} unit${n === 1 ? "" : "s"}`;
 
 export function yearSummaries(plan: Plan, byCode: Map<string, IndexEntry>): YearSummary[] {
@@ -304,13 +351,13 @@ export function yearSummaries(plan: Plan, byCode: Map<string, IndexEntry>): Year
     const bySlot: Record<Slot, string[]> = { AT: [], WS: [], BOTH: [] };
     for (const i of inYear) bySlot[slotOf(i, byCode)].push(i.code);
     for (const k of Object.keys(bySlot) as Slot[]) bySlot[k].sort();
-    const excluded = codes.filter(isExcludedFromUnits);
+    const excluded: string[] = [];
+    const maxUnits = yearUnitCap(y);
     let units = 0;
     let unknownUnits = false;
     let autumn = 0;
     let winter = 0;
     for (const i of inYear) {
-      if (isExcludedFromUnits(i.code)) continue;
       const e = byCode.get(i.code);
       if (!e || e.units === null) {
         unknownUnits = true;
@@ -327,24 +374,32 @@ export function yearSummaries(plan: Plan, byCode: Map<string, IndexEntry>): Year
       }
     }
     const issues: Issue[] = [];
-    const counted = codes.length - excluded.length;
     if (unknownUnits) {
       issues.push({ severity: "warn", text: `${unitsWord(units)} counted; some courses have no unit value in the data.` });
     }
-    if (units > YEAR_MAX_UNITS) {
-      issues.push({ severity: "error", text: `${unitsWord(units)} in this year: the maximum is ${YEAR_MAX_UNITS}.` });
-    } else if (counted > 0 && !unknownUnits && units < YEAR_MAX_UNITS) {
-      issues.push({ severity: "warn", text: `${unitsWord(units)} planned. LSE undergraduate years are normally ${YEAR_MAX_UNITS} units.` });
+    if (units > maxUnits) {
+      issues.push({ severity: "error", text: `${unitsWord(units)} in this year: the maximum is ${fmtUnits(maxUnits)}.` });
+    } else if (codes.length > 0 && !unknownUnits && units < maxUnits) {
+      issues.push({
+        severity: "warn",
+        text:
+          y === 1
+            ? `${unitsWord(units)} planned. Year 1 is normally ${fmtUnits(YEAR1_MAX_UNITS)} units (four papers plus LSE100).`
+            : `${unitsWord(units)} planned. LSE undergraduate years are normally ${YEAR_MAX_UNITS} units.`,
+      });
     }
+    // Half the year's normal load per term: 2u, or 2.25u in Year 1 (four papers + LSE100).
+    // A flat 2u limit flagged every compulsory-only Year 1 (4.5u split evenly).
+    const termMax = Math.max(TERM_MAX_UNITS, maxUnits / 2);
     for (const [name, load] of [["Autumn", autumn], ["Winter / Spring", winter]] as const) {
-      if (load > TERM_MAX_UNITS) {
+      if (load > termMax + 1e-9) {
         issues.push({
           severity: TERM_LIMIT_SEVERITY,
-          text: `${name}: ${unitsWord(load)}, more than ${TERM_MAX_UNITS}. LSE expects terms to be balanced; check with your department.`,
+          text: `${name}: ${unitsWord(load)}, more than ${fmtUnits(termMax)}. LSE expects terms to be balanced; check with your department.`,
         });
       }
     }
-    out.push({ year: y, codes, bySlot, excluded, units, unknownUnits, autumn, winter, issues });
+    out.push({ year: y, codes, bySlot, excluded, units, maxUnits, unknownUnits, autumn, winter, issues });
   }
   return out;
 }

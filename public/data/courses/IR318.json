@@ -39,14 +39,6 @@
   {
    "type": "Essay",
    "weight": 75
-  },
-  {
-   "type": "Blog post",
-   "weight": 25
-  },
-  {
-   "type": "Essay",
-   "weight": 75
   }
  ],
  "skills": [

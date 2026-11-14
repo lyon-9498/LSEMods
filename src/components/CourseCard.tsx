@@ -2,14 +2,15 @@
 
 import Link from "next/link";
 import { Check } from "lucide-react";
+import { codesMatch } from "@/lib/courseAliases";
 import type { IndexEntry } from "@/lib/types";
 import { termChipClass, termLabel, unitLabel } from "@/lib/labels";
 import { usePlan } from "@/lib/planStore";
-import { AssessmentBar } from "./AssessmentBar";
+import { AssessmentOkBar } from "./AssessmentOkBar";
 
 export function CourseCard({ course }: { course: IndexEntry }) {
   const plan = usePlan();
-  const inPlan = plan.items.some((i) => i.code === course.code);
+  const inPlan = plan.items.some((i) => codesMatch(i.code, course.code));
 
   return (
     <Link
@@ -39,7 +40,7 @@ export function CourseCard({ course }: { course: IndexEntry }) {
         {course.convenors?.[0] ? ` · ${course.convenors[0]}` : ""}
       </p>
       <div className="mt-4">
-        <AssessmentBar items={course.assessment} legendInline />
+        <AssessmentOkBar code={course.code} items={course.assessment} legendInline />
       </div>
     </Link>
   );

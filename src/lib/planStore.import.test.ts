@@ -45,4 +45,48 @@ describe("importPlanJson", () => {
     expect(importPlanJson(raw)).toBe(true);
     expect(exportPlanJson()).toContain("EC100");
   });
+
+  it("collapses legacy LSE100A/B/C to a single LSE100 on import", async () => {
+    const { importPlanJson, exportPlanJson } = await import("./planStore");
+    expect(
+      importPlanJson(
+        JSON.stringify({
+          years: 3,
+          items: [
+            { code: "LSE100A", year: 1 },
+            { code: "LSE100B", year: 1 },
+            { code: "SP100", year: 1 },
+          ],
+          exemptions: [],
+        }),
+      ),
+    ).toBe(true);
+    const parsed = JSON.parse(exportPlanJson()) as { items: { code: string }[] };
+    expect(parsed.items.map((i) => i.code).sort()).toEqual(["LSE100", "SP100"]);
+  });
+
+  it("stores LSE100 when adding a legacy theme code", async () => {
+    const { planActions, exportPlanJson, importPlanJson } = await import("./planStore");
+    expect(importPlanJson(JSON.stringify({ years: 3, items: [], exemptions: [] }))).toBe(true);
+    planActions.add("LSE100C", 1);
+    planActions.add("LSE100A", 1);
+    const parsed = JSON.parse(exportPlanJson()) as { items: { code: string }[] };
+    expect(parsed.items).toEqual([{ code: "LSE100", year: 1 }]);
+  });
+
+  it("rewrites localStorage when hydrate finds legacy LSE100 themes", async () => {
+    localStorage.setItem(
+      "lsemods-plan-v1",
+      JSON.stringify({
+        years: 3,
+        items: [{ code: "LSE100A", year: 1 }],
+        exemptions: [],
+      }),
+    );
+    const { planActions, exportPlanJson, PLAN_KEY } = await import("./planStore");
+    planActions.setYears(3);
+    expect(JSON.parse(localStorage.getItem(PLAN_KEY)!).items[0].code).toBe("LSE100");
+    expect(exportPlanJson()).toContain('"LSE100"');
+    expect(exportPlanJson()).not.toContain("LSE100A");
+  });
 });

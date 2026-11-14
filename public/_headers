@@ -2,6 +2,10 @@
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
   X-Frame-Options: DENY
-  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=(), interest-cohort=()
   Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' *.disqus.com *.disquscdn.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: *.disqus.com *.disquscdn.com; font-src 'self' data:; frame-src 'self' *.disqus.com *.disquscdn.com; connect-src 'self' *.disqus.com *.disquscdn.com; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'
+  Cross-Origin-Opener-Policy: same-origin-allow-popups
+  Cross-Origin-Resource-Policy: same-site
+  X-DNS-Prefetch-Control: off
+  X-Permitted-Cross-Domain-Policies: none
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' *.disqus.com *.disquscdn.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: *.disqus.com *.disquscdn.com; font-src 'self' data:; frame-src 'self' *.disqus.com *.disquscdn.com; connect-src 'self' *.disqus.com *.disquscdn.com; worker-src 'self' blob:; manifest-src 'self'; media-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests

@@ -51,10 +51,6 @@
   {
    "type": "Exam",
    "weight": 100
-  },
-  {
-   "type": "Exam",
-   "weight": 100
   }
  ],
  "skills": [

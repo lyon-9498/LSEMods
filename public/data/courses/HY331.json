@@ -61,22 +61,6 @@
   {
    "type": "Essay",
    "weight": 15
-  },
-  {
-   "type": "Autumn term",
-   "weight": 15
-  },
-  {
-   "type": "Winter term",
-   "weight": 35
-  },
-  {
-   "type": "Spring term",
-   "weight": 35
-  },
-  {
-   "type": "Class participation",
-   "weight": 15
   }
  ],
  "skills": [

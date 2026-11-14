@@ -1,0 +1,17 @@
+# Secret scanning baseline (mukul975 / gitleaks skill).
+# Run: docker run --rm -v "$PWD:/repo" zricethezav/gitleaks:latest detect --source=/repo --no-git --verbose
+
+title = "lsemods"
+
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Benign project paths"
+paths = [
+  '''(?i)\.agents/skills/''',
+  '''(?i)skills-lock\.json$''',
+  '''(?i)public/data/''',
+  '''(?i)\.context/''',
+  '''(?i)package-lock\.json$''',
+]

@@ -1,0 +1,78 @@
+{
+  "code": "LSE100",
+  "title": "The LSE Course",
+  "status": "running",
+  "session": "2026/2027",
+  "department": "London School of Economics",
+  "units": 0.5,
+  "studyPeriod": "Autumn and Winter Term",
+  "terms": [
+    "AT",
+    "WT"
+  ],
+  "fheqLevel": 4,
+  "courseLevel": 1,
+  "convenors": [
+    "Dr Jillian Terry",
+    "Dr Christopher Blunt"
+  ],
+  "prerequisites": null,
+  "corequisites": null,
+  "additionalRequisites": null,
+  "availability": "All first year undergraduate students take LSE100. This course is not available as an outside option to students on other programmes. This course is not available to General Course students.",
+  "description": "LSE100 is LSE’s flagship interdisciplinary course taken by all first-year undergraduate students as part of your degree programme. Before registering at LSE, you select one of three themes to focus on during the course.",
+  "teaching": "7.5 hours of seminars in the Autumn Term. 7.5 hours of seminars in the Winter Term. 90-minute seminars take place in alternate weeks. Students will attend an LSE100 seminar in either weeks 1, 3, 5, 7 and 9 or weeks 2, 4, 6, 8 and 10 of Autumn Term, and weeks 1, 3, 5, 7 and 9 or weeks 2, 4, 6, 8 and 10 of Winter Term. In addition to seminars students will engage with bespoke video lectures featuring academics from across the School (approx. 20 minutes per seminar).",
+  "formativeAssessment": "In seminars throughout both terms, students will practice: analysing quantitative and qualitative data using systems thinking and systems change tools constructing and communicating evidence-based academic arguments Teachers will provide feedback during seminars and in post-seminar communications to groups and individuals. During the Winter Term, groups will have the opportunity to submit and receive formative feedback on a project brief, summarising their research project. Students will also try out the tools of systems thinking and systems change that they will use in their summative group research project.",
+  "indicativeReading": [
+    "The following readings are indicative of the texts students will be assigned. The total amount of reading assigned for each seminar will be a maximum of 20 pages.",
+    "Jason Hickel (2021) Less is More: how degrowth will save the world (London: Penguin Random House)",
+    "Elinor Ostrom (2008). ‘Tragedy of the commons', in Steven N. Durlauf and Lawrence E. Blume (eds.) The New Palgrave Dictionary of Economics, 2nd edition.",
+    "Kate Ervine (2012). ‘The politics and practice of carbon offsetting: Silencing dissent', New Political Science, 34(1), pp.1-20.",
+    "Camila Moreno, Daniel Speich Chasse & Lili Fuhr (2016). Carbon Metrics: global abstractions and ecological epistemicide (Heinrich Boll Stiftung: Publication Series Ecology, Vol.42).",
+    "Jessie Kindig (ed.) (2022). Property Will Cost Us the Earth: Direct Action and the Future of the Global Climate Movement. (London: Verso)",
+    "Naomi Klein (2014). This Changes Everything: Capitalism vs the Climate, (London: Allen Lane)",
+    "Murray, A., Skene, K. & Haynes, K. (2017). ‘The Circular Economy: An Interdisciplinary Exploration of the Concept and Application in a Global Context’. J Bus Ethics, 140, 369–380.",
+    "Walter R. Stahel (2016). ‘The circular economy’. Nature 531, 435–438.",
+    "Oran R. Young (2017). ‘The age of complexity’ in Governing Complex Systems: Social Capital for the Anthropocene (MIT Press)"
+  ],
+  "assessmentText": "Critical evaluation (50%, 1000 words). Project (50%, 3000 words).",
+  "assessment": [
+    {
+      "type": "Critical evaluation",
+      "weight": 50
+    },
+    {
+      "type": "Project",
+      "weight": 50
+    }
+  ],
+  "skills": [
+    "Leadership",
+    "Self-management",
+    "Team working",
+    "Problem solving",
+    "Application of information skills",
+    "Communication",
+    "Application of numeracy skills",
+    "Copyright © LSE 2026",
+    "Report a page",
+    "|",
+    "Freedom of information",
+    "|",
+    "Terms of use",
+    "|",
+    "Social media"
+  ],
+  "stats": {
+    "totalStudentsPrevYear": 201,
+    "avgClassSizePrevYear": 25,
+    "capped": "No"
+  },
+  "sourceUrl": "https://www.lse.ac.uk/resources/calendar2026-2027/courseGuides/LS/2026_LSE100A.htm",
+  "lastScraped": "2026-11-09",
+  "prereqTree": null,
+  "coreqTree": null,
+  "prereqCheck": false,
+  "preclusions": [],
+  "unlocks": []
+}

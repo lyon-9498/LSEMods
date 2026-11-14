@@ -1,11 +1,10 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useMemo, useRef, useState, type KeyboardEvent } from "react";
 import { toast } from "sonner";
 import {
   analyse,
   marksFor,
-  marksToUnitsApprox,
   parseMarkInput,
   schemeForYears,
   statusLabel,
@@ -16,21 +15,120 @@ import {
   type TargetResult,
 } from "@/lib/gradeLogic";
 import { isValidCourseCode } from "@/lib/async";
-import {
-  exportGradesJson,
-  gradeActions,
-  importGradesJson,
-  useGrades,
-} from "@/lib/gradeStore";
+import { gradeActions, useGrades } from "@/lib/gradeStore";
 import type { Plan } from "@/lib/planStore";
 import type { IndexEntry } from "@/lib/types";
 import { unitLabel } from "@/lib/labels";
 import { cn } from "@/lib/cn";
+import { MenuSelect } from "./MenuSelect";
 
-function statusTone(status: TargetResult["status"]) {
-  if (status === "secured") return "border-status-plan-border bg-status-plan-bg";
-  if (status === "possible") return "note-needs-checking";
-  return "border-line bg-lilac-deep";
+function TargetClassSegment({
+  value,
+  onChange,
+  labelledBy,
+}: {
+  value: TargetClass;
+  onChange: (next: TargetClass) => void;
+  labelledBy: string;
+}) {
+  const groupRef = useRef<HTMLDivElement>(null);
+  const index = Math.max(0, TARGET_OPTIONS.indexOf(value));
+  const count = TARGET_OPTIONS.length;
+
+  const select = (next: TargetClass) => {
+    onChange(next);
+    const i = TARGET_OPTIONS.indexOf(next);
+    requestAnimationFrame(() => {
+      const radios = groupRef.current?.querySelectorAll<HTMLElement>('[role="radio"]');
+      radios?.[i]?.focus();
+    });
+  };
+
+  const onKeyDown = (e: KeyboardEvent) => {
+    if (e.key === "ArrowRight" || e.key === "ArrowDown") {
+      e.preventDefault();
+      select(TARGET_OPTIONS[(index + 1) % count]!);
+      return;
+    }
+    if (e.key === "ArrowLeft" || e.key === "ArrowUp") {
+      e.preventDefault();
+      select(TARGET_OPTIONS[(index - 1 + count) % count]!);
+      return;
+    }
+    if (e.key === "Home") {
+      e.preventDefault();
+      select(TARGET_OPTIONS[0]!);
+      return;
+    }
+    if (e.key === "End") {
+      e.preventDefault();
+      select(TARGET_OPTIONS[count - 1]!);
+    }
+  };
+
+  return (
+    <div
+      ref={groupRef}
+      role="radiogroup"
+      aria-labelledby={labelledBy}
+      className="relative grid w-full grid-cols-3 gap-1 rounded-[var(--radius-control)] border border-line bg-lilac-deep p-1 md:grid-cols-6 md:gap-0"
+      onKeyDown={onKeyDown}
+    >
+      {/* Desktop sliding thumb; mobile uses per-cell mint fill instead */}
+      <span
+        aria-hidden
+        className="pointer-events-none absolute inset-y-1 left-1 z-0 hidden w-[calc((100%-0.5rem)/6)] rounded-[calc(var(--radius-control)-4px)] bg-mint shadow-sm transition-transform duration-300 ease-[cubic-bezier(0.22,1,0.36,1)] motion-reduce:transition-none md:block"
+        style={{ transform: `translateX(${index * 100}%)` }}
+      />
+      {TARGET_OPTIONS.map((cls) => {
+        const active = cls === value;
+        return (
+          <button
+            key={cls}
+            type="button"
+            role="radio"
+            aria-checked={active}
+            aria-label={targetLabel(cls)}
+            tabIndex={active ? 0 : -1}
+            className={cn(
+              "relative z-10 min-h-11 rounded-[calc(var(--radius-control)-4px)] px-1.5 text-sm font-semibold transition-colors duration-200 motion-reduce:transition-none",
+              active
+                ? "bg-mint text-night md:bg-transparent"
+                : "text-muted hover:bg-lilac hover:text-night md:hover:bg-transparent md:hover:text-night",
+            )}
+            onClick={() => select(cls)}
+          >
+            {cls}
+          </button>
+        );
+      })}
+    </div>
+  );
+}
+
+function AimOption({
+  label,
+  headline,
+  detail,
+}: {
+  label?: string;
+  headline: string;
+  detail?: string;
+}) {
+  return (
+    <div className="min-w-0">
+      {label ? <p className="text-xs font-medium text-muted">{label}</p> : null}
+      <p
+        className={cn(
+          "text-base font-semibold leading-snug text-night",
+          label ? "mt-1" : null,
+        )}
+      >
+        {headline}
+      </p>
+      {detail ? <p className="mt-1 text-sm leading-relaxed text-muted">{detail}</p> : null}
+    </div>
+  );
 }
 
 function TargetSummaryBody({
@@ -41,61 +139,99 @@ function TargetSummaryBody({
   remaining: number;
 }) {
   if (t.note && (t.cls === "Pass" || t.cls === "Fail")) {
-    return <p className="mt-2 text-sm text-muted">{t.note}</p>;
+    return <p className="mt-3 text-sm leading-relaxed text-muted">{t.note}</p>;
   }
 
   if (t.status === "secured") {
     return (
-      <p className="mt-2 text-sm text-muted">
-        You already have enough classification marks for this class (subject to fail
-        penalties).
+      <p className="mt-3 text-sm leading-relaxed text-muted">
+        You've already got enough scores at this level — subject to fail penalties.
       </p>
     );
   }
 
   if (t.status === "out_of_reach") {
     return (
-      <p className="mt-2 text-sm text-muted">
-        Not reachable with the marks left, even if everything remaining is 100.
+      <p className="mt-3 text-sm leading-relaxed text-muted">
+        Not reachable with the scores left, even if everything remaining is 100.
       </p>
     );
   }
 
-  const needs: string[] = [];
+  const options: { label?: string; headline: string; detail?: string }[] = [];
+
   if (t.routeMarks != null && t.routeMarks > 0) {
-    const units =
+    const unitBit =
       t.routeUnitsApprox != null
-        ? ` (≈ ${t.routeUnitsApprox} unit${t.routeUnitsApprox === 1 ? "" : "s"})`
-        : "";
-    needs.push(
-      `${t.threshold}+ in ${t.routeMarks} more mark${t.routeMarks === 1 ? "" : "s"}${units}`,
-    );
-  }
-  if (t.routeAggMarks != null && t.routeAggAverage != null && t.aggregate != null) {
-    needs.push(
-      `or ${t.threshold}+ in ${t.routeAggMarks} and average ≥ ${t.routeAggAverage} across the ${remaining} remaining (aggregate ≥ ${t.aggregate})`,
-    );
-  }
-  if (t.routeMarks === 0) {
-    needs.push("mark count met — watch the aggregate as remaining marks land");
+        ? `about ${t.routeUnitsApprox} unit${t.routeUnitsApprox === 1 ? "" : "s"}`
+        : null;
+    const leftBit =
+      remaining > 0
+        ? `${remaining} score${remaining === 1 ? "" : "s"} still to enter`
+        : null;
+    options.push({
+      headline: `Need ${t.routeMarks} more score${t.routeMarks === 1 ? "" : "s"} of ${t.threshold}+`,
+      detail: [unitBit, leftBit].filter(Boolean).join(" · ") || undefined,
+    });
   }
 
-  if (!needs.length) {
-    return <p className="mt-2 text-sm text-muted">{t.note ?? "Enter marks to see what you need."}</p>;
+  if (t.routeAggMarks != null && t.routeAggAverage != null && t.aggregate != null) {
+    options.push({
+      headline: `${t.routeAggMarks} score${t.routeAggMarks === 1 ? "" : "s"} of ${t.threshold}+ and keep your average at least ${t.routeAggAverage}`,
+      detail: `On the ${remaining} left. Official rule also needs a total of ${t.aggregate}+ across all scores.`,
+    });
+  }
+
+  if (t.routeMarks === 0 && options.length === 0) {
+    options.push({
+      headline: "You've hit the score count",
+      detail:
+        t.aggregate != null
+          ? `Keep an eye on your running total as the rest come in (official bar is ${t.aggregate}+).`
+          : "Keep an eye on your running total as the rest come in.",
+    });
+  }
+
+  if (!options.length) {
+    return (
+      <p className="mt-3 text-sm leading-relaxed text-muted">
+        {t.note ?? "Enter scores to see what you need."}
+      </p>
+    );
+  }
+
+  if (options.length >= 2) {
+    options[0]!.label = "Option A";
+    options[1]!.label = "Option B · easier bar";
   }
 
   return (
-    <p className="mt-2 text-sm text-muted">
-      Next:{" "}
-      <span className="font-semibold text-night">
-        {needs[0]}
-        {remaining > 0 && t.routeMarks != null && t.routeMarks > 0
-          ? ` of ${remaining} still to come`
-          : ""}
-      </span>
-      {needs[1] ? <> · {needs[1]}</> : null}
-    </p>
+    <div className="mt-3 space-y-3">
+      <p className="text-sm leading-relaxed text-night">
+        To get a {targetLabel(t.cls)} you could:
+      </p>
+      <div
+        className={cn(
+          "grid gap-4",
+          options.length > 1 ? "sm:grid-cols-2 sm:gap-6" : null,
+        )}
+      >
+        {options.map((opt, i) => (
+          <AimOption key={opt.label ?? `aim-${i}`} {...opt} />
+        ))}
+      </div>
+    </div>
   );
+}
+
+function statusChipClass(status: TargetResult["status"]) {
+  if (status === "secured") {
+    return "border-status-plan-border bg-status-plan-bg text-status-plan-text";
+  }
+  if (status === "out_of_reach") {
+    return "border-status-check-border bg-status-check-bg text-status-check-text";
+  }
+  return "border-line bg-lilac text-indigo";
 }
 
 export function GradesPanel({
@@ -144,7 +280,7 @@ export function GradesPanel({
   return (
     <div className="flex flex-col gap-4">
       <div className="rounded-[var(--radius)] border border-line bg-surface p-4 sm:p-6">
-        <div className="flex flex-col gap-3">
+        <div className="flex flex-col gap-4">
           <div>
             <h2 className="font-display text-xl text-night">Grade tracker</h2>
             <p className="mt-1 text-sm text-muted">
@@ -160,162 +296,163 @@ export function GradesPanel({
             </p>
           </div>
 
-          <div className="flex flex-wrap items-center gap-2">
-            <span id="grade-target-lead" className="text-sm text-muted">
-              Show path to
+          <div className="flex flex-col gap-2">
+            <span id="grade-target-lead" className="text-sm font-medium text-night">
+              Aim for
             </span>
-            <select
-              id="grade-target"
-              aria-labelledby="grade-target-lead"
-              className="field-input min-h-11 w-full min-w-[14rem] border-2 border-mint font-semibold text-night sm:w-auto"
+            <TargetClassSegment
               value={target}
-              onChange={(e) => setTarget(e.target.value as TargetClass)}
-            >
-              {TARGET_OPTIONS.map((c) => (
-                <option key={c} value={c}>
-                  {targetLabel(c)}
-                </option>
-              ))}
-            </select>
+              onChange={setTarget}
+              labelledBy="grade-target-lead"
+            />
           </div>
         </div>
 
         <div
           className={cn(
-            "mt-4 rounded-[var(--radius-inner)] border p-4",
-            selected ? statusTone(selected.status) : "border-line bg-lilac-deep",
+            "mt-5 space-y-5 rounded-[var(--radius-inner)] border border-line bg-surface p-4 sm:p-5",
+            selected?.status === "out_of_reach" && "note-needs-checking",
+            selected?.status === "secured" && "border-status-plan-border bg-status-plan-bg",
           )}
           aria-live="polite"
         >
           {analysis.final ? (
-            <>
-              <p className="font-display text-lg text-night">
-                Classification: {targetLabel(analysis.final.cls)}
-              </p>
-              <p className="mt-1 text-sm text-muted">
-                Aggregate {analysis.final.aggregate} across {scheme.laterMarks + 2}{" "}
-                classification marks.
+            <div className="space-y-2">
+              <div className="flex flex-wrap items-center gap-2">
+                <p className="font-display text-2xl tracking-tight text-night">
+                  {targetLabel(analysis.final.cls)}
+                </p>
+                <span className="inline-flex min-h-8 items-center rounded-full border border-line bg-lilac px-3 text-xs font-semibold text-indigo">
+                  Final result
+                </span>
+              </div>
+              <p className="text-sm text-muted">
+                Based on all {scheme.laterMarks + 2} scores for a {scheme.years}-year degree
+                (running total{" "}
+                <span className="font-data tabular text-night">
+                  {analysis.final.aggregate}
+                </span>
+                ).
               </p>
               {selected && selected.cls !== analysis.final.cls && (
-                <p className="mt-2 text-sm text-muted">
-                  Looking at {targetLabel(selected.cls)}: {statusLabel(selected.status)}.
+                <p className="text-sm text-muted">
+                  Checking {targetLabel(selected.cls)}: {statusLabel(selected.status)}.
                   {selected.note ? ` ${selected.note}` : null}
                 </p>
               )}
-            </>
+            </div>
           ) : (
-            <>
-              <div className="flex flex-wrap items-baseline justify-between gap-2">
-                <p className="font-display text-lg text-night">
+            <div className="space-y-1">
+              <div className="flex flex-wrap items-center justify-between gap-3">
+                <p className="font-display text-2xl tracking-tight text-night">
                   {targetLabel(target)}
                 </p>
                 {selected && (
-                  <p className="text-sm font-semibold capitalize text-night">
+                  <span
+                    className={cn(
+                      "inline-flex min-h-8 items-center rounded-full border px-3 text-xs font-semibold",
+                      statusChipClass(selected.status),
+                    )}
+                  >
                     {statusLabel(selected.status)}
-                  </p>
+                  </span>
                 )}
               </div>
-              {analysis.known.length > 0 && (
-                <p className="mt-1 text-sm text-muted">
-                  Average so far {analysis.average!.toFixed(1)}
-                  {analysis.projected
-                    ? ` · keep averaging ~${Math.round(analysis.average!)} → ${targetLabel(analysis.projected)}`
-                    : ""}
+
+              {analysis.known.length > 0 ? (
+                <p className="text-sm leading-relaxed text-muted">
+                  Average so far{" "}
+                  <span className="font-data tabular font-semibold text-night">
+                    {analysis.average!.toFixed(1)}
+                  </span>
+                  {analysis.projected ? (
+                    <>
+                      {" "}
+                      — on pace for a {targetLabel(analysis.projected)}
+                    </>
+                  ) : null}
+                  .
+                </p>
+              ) : (
+                <p className="text-sm leading-relaxed text-muted">
+                  Enter scores below to see how you're doing.
                 </p>
               )}
+
               {selected && (
                 <TargetSummaryBody t={selected} remaining={analysis.remaining} />
               )}
-            </>
+            </div>
           )}
 
-          <dl className="mt-3 flex flex-wrap gap-x-4 gap-y-1 text-sm tabular">
-            <div className="flex gap-1.5">
-              <dt className="text-muted">Known</dt>
-              <dd className="font-semibold text-night">{analysis.known.length}</dd>
-            </div>
-            <div className="flex gap-1.5">
-              <dt className="text-muted">Remaining</dt>
-              <dd className="font-semibold text-night">
-                {analysis.remaining}
-                {analysis.remaining
-                  ? ` · ≈ ${marksToUnitsApprox(analysis.remaining)}u`
-                  : ""}
-              </dd>
-            </div>
-            <div className="flex gap-1.5">
-              <dt className="text-muted">FYA</dt>
-              <dd className="font-semibold text-night">
-                {analysis.fya != null ? analysis.fya : "—"}
-              </dd>
-            </div>
-            <div className="flex gap-1.5">
-              <dt className="text-muted">Scheme</dt>
-              <dd className="font-semibold text-night">{scheme.years}-year</dd>
-            </div>
-          </dl>
+          {(() => {
+            const total = scheme.laterMarks + 2;
+            const filled = analysis.known.length;
+            const laterFilled = Math.max(0, filled - (analysis.fya != null ? 2 : 0));
+            const laterLeft = Math.max(0, scheme.laterMarks - laterFilled);
+            return (
+              <div className="space-y-4 border-t border-line pt-4">
+                <div className="flex flex-wrap items-end justify-between gap-2">
+                  <div>
+                    <p className="text-xs font-medium text-muted">
+                      Progress · {scheme.years}-year degree
+                    </p>
+                    <p className="mt-1 font-data text-2xl tabular font-semibold leading-none text-night">
+                      {filled}
+                      <span className="text-base font-medium text-muted"> / {total}</span>
+                    </p>
+                  </div>
+                  <p className="text-sm text-muted">
+                    {analysis.remaining === 0
+                      ? "All scores in"
+                      : `${analysis.remaining} still to enter`}
+                  </p>
+                </div>
+
+                <div className="grid gap-4 sm:grid-cols-2 sm:gap-6">
+                  <div className="min-w-0">
+                    <p className="text-xs font-medium text-muted">Year 1 average</p>
+                    <p className="mt-1 font-data text-lg tabular font-semibold text-night">
+                      {analysis.fya != null ? analysis.fya : "—"}
+                    </p>
+                    <p className="mt-1 text-sm leading-snug text-muted">
+                      {analysis.fya != null
+                        ? `Best 6 of your Year 1 scores, written twice → counts as 2 of ${total}.`
+                        : `Enter Year 1 scores first. Best 6 become one average, written twice → 2 of ${total}.`}
+                    </p>
+                  </div>
+                  <div className="min-w-0">
+                    <p className="text-xs font-medium text-muted">
+                      Scores from Years 2–{scheme.years}
+                    </p>
+                    <p className="mt-1 font-data text-lg tabular font-semibold text-night">
+                      {laterFilled}
+                      <span className="text-sm font-medium text-muted">
+                        {" "}
+                        / {scheme.laterMarks}
+                      </span>
+                    </p>
+                    <p className="mt-1 text-sm leading-snug text-muted">
+                      {laterLeft === 0
+                        ? "All later-year scores entered."
+                        : `${laterLeft} left · each full unit adds 2 scores.`}
+                    </p>
+                  </div>
+                </div>
+              </div>
+            );
+          })()}
         </div>
 
         {analysis.warnings.length > 0 && (
-          <ul className="mt-3 space-y-1 text-sm text-muted">
+          <ul className="mt-3 space-y-1.5 text-sm leading-snug text-muted">
             {analysis.warnings.map((w) => (
-              <li key={w} className="rounded-[var(--radius-badge)] border border-line px-3 py-2">
+              <li key={w} className="pl-0">
                 {w}
               </li>
             ))}
           </ul>
         )}
-
-        <div className="mt-4 flex flex-wrap gap-2">
-          <button
-            type="button"
-            className="btn-ghost px-4 text-sm"
-            onClick={() => {
-              const blob = new Blob([exportGradesJson()], { type: "application/json" });
-              const url = URL.createObjectURL(blob);
-              const a = document.createElement("a");
-              a.href = url;
-              a.download = "lsemods-grades.json";
-              a.click();
-              URL.revokeObjectURL(url);
-              toast.success("Grades exported");
-            }}
-          >
-            Export Marks
-          </button>
-          <label className="btn-ghost inline-flex cursor-pointer items-center px-4 text-sm">
-            Import Marks
-            <input
-              type="file"
-              accept="application/json,.json"
-              className="sr-only"
-              onChange={async (e) => {
-                const file = e.target.files?.[0];
-                if (!file) return;
-                if (file.size > 100_000) {
-                  toast.error("File too large");
-                  return;
-                }
-                const text = await file.text();
-                if (importGradesJson(text)) toast.success("Grades imported");
-                else toast.error("Couldn’t import that file");
-                e.target.value = "";
-              }}
-            />
-          </label>
-          <button
-            type="button"
-            className="min-h-12 rounded-[var(--radius-control)] border border-line px-4 text-sm text-danger"
-            onClick={() => {
-              if (confirm("Clear all saved marks?")) {
-                gradeActions.clear();
-                toast.message("Marks cleared");
-              }
-            }}
-          >
-            Clear Marks
-          </button>
-        </div>
       </div>
 
       {courses.length === 0 ? (
@@ -333,15 +470,29 @@ export function GradesPanel({
                 key={y}
                 className="overflow-x-auto rounded-[var(--radius)] border border-line bg-surface"
               >
-                <div className="flex flex-wrap items-center justify-between gap-2 border-b border-line bg-lilac-deep px-3 py-3">
+                <div className="flex flex-col gap-1 border-b border-line bg-lilac-deep px-3 py-3 sm:flex-row sm:flex-wrap sm:items-center sm:justify-between sm:gap-2">
                   <h3 className="font-display text-base text-night">Year {y}</h3>
-                  {y === 1 && analysis.fya != null && (
-                    <p className="text-sm text-muted tabular">
-                      First Year Average:{" "}
-                      <span className="font-semibold text-night">{analysis.fya}</span> (best six
-                      of nine · counted twice)
+                  {y === 1 ? (
+                    <p className="text-sm text-muted">
+                      {analysis.fya != null ? (
+                        <>
+                          Year 1 average{" "}
+                          <span className="font-data tabular font-semibold text-night">
+                            {analysis.fya}
+                          </span>
+                          {" "}
+                          (best 6 of 9, written twice) →{" "}
+                          <span className="font-semibold text-night">2 of {scheme.laterMarks + 2}</span>{" "}
+                          scores overall
+                        </>
+                      ) : (
+                        <>
+                          Best 6 of 9 Year 1 scores become one average, written twice — only 2 of{" "}
+                          {scheme.laterMarks + 2} scores overall.
+                        </>
+                      )}
                     </p>
-                  )}
+                  ) : null}
                 </div>
                 {rows.length === 0 ? (
                   <p className="px-3 py-4 text-sm text-muted">No courses planned for this year.</p>
@@ -351,7 +502,7 @@ export function GradesPanel({
                       <col className="w-[6.5rem]" />
                       <col />
                       <col className="w-[5.5rem]" />
-                      <col className="w-[5.5rem]" />
+                      <col className="w-[6.5rem]" />
                       <col className="w-[7.5rem]" />
                     </colgroup>
                     <thead className="border-b border-line text-xs uppercase tracking-wide text-muted">
@@ -359,14 +510,27 @@ export function GradesPanel({
                         <th className="px-3 py-2.5 font-semibold">Code</th>
                         <th className="px-3 py-2.5 font-semibold">Course</th>
                         <th className="px-3 py-2.5 text-right font-semibold">Units</th>
-                        <th className="px-3 py-2.5 text-right font-semibold">Class</th>
-                        <th className="px-3 py-2.5 text-right font-semibold">Your mark</th>
+                        <th
+                          className="px-3 py-2.5 text-right font-semibold"
+                          title={
+                            y === 1
+                              ? "Weight in the Year 1 average pool (not a direct share of the final 18 marks)"
+                              : "How many classification marks this course contributes (full unit = 2, half = 1)"
+                          }
+                        >
+                          {y === 1 ? "Avg weight" : "Marks"}
+                        </th>
+                        <th className="px-3 py-2.5 text-right font-semibold">Your score</th>
                       </tr>
                     </thead>
                     <tbody>
                       {rows.map((c) => {
                         const entry = byCode.get(c.code);
                         const classMarks = marksFor(c.units);
+                        const usedInFya =
+                          y === 1 && analysis.fyaMarks
+                            ? analysis.fyaMarks.some((m) => m.code === c.code && m.used)
+                            : null;
                         return (
                           <tr key={`${c.year}-${c.code}`} className="border-b border-line last:border-0">
                             <td className="px-3 py-2.5 align-middle">
@@ -376,6 +540,9 @@ export function GradesPanel({
                             </td>
                             <td className="truncate px-3 py-2.5 align-middle text-muted">
                               {entry?.title ?? "—"}
+                              {usedInFya === false ? (
+                                <span className="ml-2 text-xs text-muted">(not in best 6)</span>
+                              ) : null}
                             </td>
                             <td className="px-3 py-2.5 text-right align-middle tabular text-muted">
                               {unitLabel(c.units)}
@@ -455,35 +622,33 @@ export function GradesPanel({
             />
           </div>
           <div className="flex flex-col gap-1">
-            <label htmlFor="grades-extra-year" className="text-xs text-muted">
+            <span id="grades-extra-year-label" className="text-xs text-muted">
               Year
-            </label>
-            <select
+            </span>
+            <MenuSelect
               id="grades-extra-year"
-              className="field-input min-h-11 w-24"
+              labelledBy="grades-extra-year-label"
+              className="w-28"
               value={extraYear}
-              onChange={(e) => setExtraYear(Number(e.target.value))}
-            >
-              {years.map((y) => (
-                <option key={y} value={y}>
-                  {y}
-                </option>
-              ))}
-            </select>
+              onChange={setExtraYear}
+              options={years.map((y) => ({ value: y, label: String(y) }))}
+            />
           </div>
           <div className="flex flex-col gap-1">
-            <label htmlFor="grades-extra-units" className="text-xs text-muted">
+            <span id="grades-extra-units-label" className="text-xs text-muted">
               Units
-            </label>
-            <select
+            </span>
+            <MenuSelect
               id="grades-extra-units"
-              className="field-input min-h-11 w-28"
+              labelledBy="grades-extra-units-label"
+              className="w-32"
               value={extraUnits}
-              onChange={(e) => setExtraUnits(Number(e.target.value) as 0.5 | 1)}
-            >
-              <option value={1}>1.0</option>
-              <option value={0.5}>0.5</option>
-            </select>
+              onChange={setExtraUnits}
+              options={[
+                { value: 1 as const, label: "1.0", description: "Full unit" },
+                { value: 0.5 as const, label: "0.5", description: "Half unit" },
+              ]}
+            />
           </div>
           <div className="flex flex-col justify-end gap-1">
             <button type="submit" className="btn-dark px-4 text-sm">

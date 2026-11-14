@@ -26,8 +26,12 @@ export function safeHttpsUrl(raw: string | null | undefined): string | null {
   }
 }
 
-/** Programme ids look like 2026-BScInternationalSocialAndPublicPolicy */
-export const PROGRAMME_ID_RE = /^\d{4}-[A-Za-z][A-Za-z0-9-]{0,120}$/;
+/**
+ * Programme ids are kebab slugs from programmes.json (e.g. bsc-finance),
+ * or legacy scraped ids like 2026-BScEconomics.
+ */
+export const PROGRAMME_ID_RE =
+  /^(?:\d{4}-[A-Za-z][A-Za-z0-9-]{0,120}|[a-z][a-z0-9-]{2,120})$/;
 
 export function isValidProgrammeId(id: string): boolean {
   return PROGRAMME_ID_RE.test(id) && !id.includes("..") && !id.includes("/") && !id.includes("\\");

@@ -10,6 +10,8 @@
  * Unofficial helper — always verify on your programme regulations.
  */
 
+import { isLSE100Variant } from "./plannerLogic";
+
 export type ClassName = "First" | "2:1" | "2:2" | "Third" | "Pass";
 export type HonoursTarget = "First" | "2:1" | "2:2";
 export type TargetClass = HonoursTarget | "Third" | "Pass" | "Fail";
@@ -88,7 +90,7 @@ export interface GradeCourse {
   mark: number | null;
 }
 
-export const isLSE100 = (code: string) => code.toUpperCase().startsWith("LSE100");
+export const isLSE100 = (code: string) => isLSE100Variant(code);
 
 /** Full unit → 2 classification marks; half → 1; non-credit → 0. */
 export const marksFor = (units: number | null | undefined) =>
@@ -416,8 +418,8 @@ export function targetLabel(cls: TargetClass | ClassName): string {
 }
 
 export function statusLabel(status: TargetResult["status"]): string {
-  if (status === "secured") return "Secured";
-  if (status === "possible") return "Possible";
+  if (status === "secured") return "Already secured";
+  if (status === "possible") return "Still possible";
   return "Out of reach";
 }
 

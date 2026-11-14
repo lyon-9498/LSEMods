@@ -39,18 +39,6 @@
   {
    "type": "Essay",
    "weight": 40
-  },
-  {
-   "type": "Course participation",
-   "weight": 10
-  },
-  {
-   "type": "Essay",
-   "weight": 40
-  },
-  {
-   "type": "Exam",
-   "weight": 50
   }
  ],
  "skills": [

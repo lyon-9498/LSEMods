@@ -67,19 +67,103 @@ def split_sections(lines: list[str]) -> dict[str, list[str]]:
     return out
 
 
-# One assessment component: a capitalised name, then "(NN%" and anything up to the closing bracket,
-# e.g. "Exam (50%)", "Essay (65%, 2500 words)", "Project (100%, 5000 words)".
-ASSESSMENT_RE = re.compile(r"([A-Z][A-Za-z\-/ ]{1,40}?)\s*\((\d{1,3})\s*%[^)]*\)")
+# One assessment component: a capitalised name, then "(NN%" / "(NN.N%" and anything up to ")".
+# e.g. "Exam (50%)", "Essay (65%, 2500 words)", "Presentation (7.5%)".
+ASSESSMENT_RE = re.compile(r"([A-Z][A-Za-z0-9\-/ ]{1,60}?)\s*\((\d{1,3}(?:\.\d+)?)\s*%[^)]*\)")
+
+_BAD_ASSESSMENT_NAME = re.compile(
+    r"^(the |student |one |the other|other |these |this |autumn|winter|spring|wt |at |st |"
+    r"summatively|programming project with|multi-media|digi-|group project|"
+    r"research essay paper|data analysis assessment|quizzes|"
+    r"participation grade|the participation|the continuous|the project|the group|"
+    r"the course is|classroom|in person|assessed )",
+    re.I,
+)
 
 
-def parse_assessment(lines: list[str]) -> list[dict]:
+def _assessment_name_quality(name: str) -> int:
+    """Lower is better. Penalise narrative restatements the Calendar appends after the real list."""
+    tl = name.lower().strip()
+    score = 0
+    if len(name) > 28:
+        score += 3
+    if _BAD_ASSESSMENT_NAME.search(tl):
+        score += 8
+    if " term" in tl or "week" in tl:
+        score += 4
+    return score
+
+
+def _weight_value(raw):
+    w = float(raw)
+    return int(w) if abs(w - int(w)) < 1e-9 else w
+
+
+def parse_assessment(lines):
+    """Extract weights from Assessment text.
+
+    LSE guides often list components once, then restate them in prose (sums to 200%).
+    Prefer the earliest contiguous window whose weights sum to 100%.
+    """
     text = " ".join(lines)
     items = []
     for m in ASSESSMENT_RE.finditer(text):
         name = m.group(1).strip()
-        # Components are listed separately even when they look alike (e.g. two 25% essays), so keep every one.
-        items.append({"type": name[0].upper() + name[1:].lower(), "weight": int(m.group(2))})
-    return items
+        items.append(
+            {
+                "type": name[0].upper() + name[1:].lower(),
+                "weight": _weight_value(m.group(2)),
+            }
+        )
+    if not items:
+        return []
+
+    windows = []
+    n = len(items)
+    for i in range(n):
+        total = 0.0
+        for j in range(i, n):
+            total += float(items[j]["weight"])
+            if abs(total - 100) < 0.05:
+                windows.append((i, items[i : j + 1]))
+            if total > 100.05:
+                break
+    if not windows:
+        return items
+
+    def sort_key(w):
+        start, part = w
+        quality = sum(_assessment_name_quality(x["type"]) for x in part)
+        # Prefer clean names, then the earliest listing, then the shortest window.
+        return (quality, start, len(part))
+
+    # Calendar pages often print "Exam (100%)" then restate the real split
+    # ("essay 20% + exam 80%"). Prefer a multi-component 100% window when present.
+    multi = [w for w in windows if len(w[1]) >= 2]
+    lone100 = [
+        w
+        for w in windows
+        if len(w[1]) == 1 and abs(float(w[1][0]["weight"]) - 100) < 0.05
+    ]
+    chosen = sorted(multi if multi and lone100 else windows, key=sort_key)[0][1]
+    return [_tidy_assessment_item(x) for x in chosen]
+
+
+def _tidy_assessment_item(item):
+    """Normalise noisy restatement labels ("Exam in Spring term" → "Exam")."""
+    t = item["type"].strip()
+    tl = t.lower()
+    if "essay" in tl:
+        t = "Essay"
+    elif re.match(r"^(e-)?exam\b", tl) or tl.startswith("exam "):
+        t = "Exam"
+    elif "presentation" in tl:
+        t = "Presentation"
+    elif "participation" in tl:
+        t = "Course participation"
+    elif tl.startswith("project") or " project" in tl:
+        t = "Project"
+    return {"type": t, "weight": item["weight"]}
 
 
 def parse_key_facts(lines: list[str]) -> dict:

@@ -46,18 +46,6 @@
   {
    "type": "Research report",
    "weight": 50
-  },
-  {
-   "type": "Data analysis assessment",
-   "weight": 35
-  },
-  {
-   "type": "Quizzes",
-   "weight": 15
-  },
-  {
-   "type": "Research report",
-   "weight": 50
   }
  ],
  "skills": [],

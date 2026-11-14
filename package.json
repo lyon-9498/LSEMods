@@ -10,7 +10,12 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "test:e2e": "playwright test",
-    "data:sync": "node scripts/sync-data.mjs"
+    "data:sync": "node scripts/sync-data.mjs",
+    "docker:up": "docker compose up --build -d",
+    "docker:down": "docker compose down",
+    "docker:logs": "docker compose logs -f web",
+    "security:audit": "npm audit --omit=dev",
+    "security:secrets": "docker run --rm -v \"$PWD:/repo\" zricethezav/gitleaks:latest detect --source=/repo --no-git --config=/repo/.gitleaks.toml --report-path=/repo/gitleaks-report.json --verbose"
   },
   "dependencies": {
     "clsx": "^2.1.1",
@@ -22,6 +27,9 @@
     "sonner": "^2.0.8",
     "tailwind-merge": "^3.7.0",
     "zod": "^4.6.7"
+  },
+  "overrides": {
+    "postcss": "^8.5.32"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",

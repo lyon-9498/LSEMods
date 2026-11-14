@@ -36,14 +36,6 @@
   {
    "type": "Continuous assessment",
    "weight": 10
-  },
-  {
-   "type": "Continuous assessment",
-   "weight": 10
-  },
-  {
-   "type": "Exam",
-   "weight": 90
   }
  ],
  "skills": [

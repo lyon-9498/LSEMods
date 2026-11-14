@@ -6,6 +6,7 @@ import type { IndexEntry, Meta } from "@/lib/types";
 import { prepare, searchCourses } from "@/lib/search";
 import { cn } from "@/lib/cn";
 import { CourseCard } from "./CourseCard";
+import { MenuSelect } from "./MenuSelect";
 
 function examBucket(c: IndexEntry): "none" | "low" | "high" | "unknown" {
   const exams = c.assessment.filter((a) => /exam/i.test(a.type));
@@ -48,8 +49,8 @@ export function CatalogueClient({
   const [exam, setExam] = useState("");
   const [sheetOpen, setSheetOpen] = useState(false);
   const [page, setPage] = useState(1);
-  const searchRef = useRef<HTMLInputElement>(null);
   const listTopRef = useRef<HTMLDivElement>(null);
+  const searchRef = useRef<HTMLInputElement>(null);
   const sheetCloseRef = useRef<HTMLButtonElement>(null);
   const sheetTriggerRef = useRef<HTMLButtonElement>(null);
 
@@ -58,13 +59,11 @@ export function CatalogueClient({
 
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
-      if (e.key === "Escape" && sheetOpen) {
-        setSheetOpen(false);
-        return;
-      }
+      if (e.key === "Escape" && sheetOpen) setSheetOpen(false);
       if (e.key !== "/" || e.metaKey || e.ctrlKey || e.altKey) return;
-      const tag = (e.target as HTMLElement)?.tagName;
-      if (tag === "INPUT" || tag === "TEXTAREA" || (e.target as HTMLElement)?.isContentEditable) return;
+      const target = e.target as HTMLElement | null;
+      const tag = target?.tagName;
+      if (tag === "INPUT" || tag === "TEXTAREA" || target?.isContentEditable) return;
       e.preventDefault();
       searchRef.current?.focus();
     };
@@ -77,9 +76,10 @@ export function CatalogueClient({
     const prev = document.body.style.overflow;
     document.body.style.overflow = "hidden";
     sheetCloseRef.current?.focus();
+    const trigger = sheetTriggerRef.current;
     return () => {
       document.body.style.overflow = prev;
-      sheetTriggerRef.current?.focus();
+      trigger?.focus();
     };
   }, [sheetOpen]);
 
@@ -156,8 +156,8 @@ export function CatalogueClient({
   };
 
   return (
-    <div className="flex flex-col gap-6">
-      <section className="band-grid rounded-[var(--radius)] px-5 py-8 text-white sm:px-8 sm:py-10">
+    <div className="flex flex-col gap-4 lg:gap-6">
+      <section className="band-grid rounded-[var(--radius)] px-5 py-6 text-white sm:px-8 sm:py-8 lg:py-10">
         <h1 className="font-display text-[2rem] font-extrabold leading-[1.02] tracking-[-0.03em] sm:text-5xl">
           Browse LSE courses and sketch your degree plan.
         </h1>
@@ -170,7 +170,7 @@ export function CatalogueClient({
             </>
           ) : null}
         </p>
-        <label className="relative mt-6 block">
+        <label className="relative mt-4 block sm:mt-5 lg:mt-6">
           <span className="sr-only">Search courses</span>
           <Search className="pointer-events-none absolute left-4 top-1/2 size-5 -translate-y-1/2 text-muted" />
           <input
@@ -178,11 +178,8 @@ export function CatalogueClient({
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             placeholder="Search a code, title or convenor"
-            className="h-14 w-full rounded-[18px] border-0 bg-white py-3 pl-12 pr-14 text-sm font-medium text-night shadow-[0_12px_32px_rgba(10,6,40,0.28)] placeholder:text-muted/70 sm:h-16 sm:text-base"
+            className="h-14 w-full rounded-[18px] border-0 bg-white py-3 pl-12 pr-4 text-base font-medium text-night shadow-[0_12px_32px_rgba(10,6,40,0.28)] placeholder:text-muted/70 sm:h-16"
           />
-          <kbd className="pointer-events-none absolute right-4 top-1/2 hidden -translate-y-1/2 rounded-md border border-line-strong bg-lilac px-2 py-0.5 font-data text-xs text-muted sm:inline">
-            /
-          </kbd>
         </label>
       </section>
 
@@ -274,7 +271,7 @@ export function CatalogueClient({
                   type="button"
                   className="btn-ghost inline-flex min-h-11 items-center justify-center gap-1 px-3 text-sm disabled:opacity-40"
                   disabled={safePage <= 1}
-                  aria-label="Previous page"
+                  aria-label="Prev"
                   onClick={() => goToPage(safePage - 1)}
                 >
                   <ChevronLeft className="size-4" aria-hidden />
@@ -292,7 +289,7 @@ export function CatalogueClient({
                       className={cn(
                         "inline-flex min-h-11 min-w-11 items-center justify-center rounded-[var(--radius-control)] text-sm font-semibold tabular",
                         item === safePage
-                          ? "bg-indigo text-white"
+                          ? "bg-indigo text-surface"
                           : "border border-line-strong bg-surface text-night hover:bg-lilac",
                       )}
                       aria-label={`Page ${item}`}
@@ -307,7 +304,7 @@ export function CatalogueClient({
                   type="button"
                   className="btn-ghost inline-flex min-h-11 items-center justify-center gap-1 px-3 text-sm disabled:opacity-40"
                   disabled={safePage >= pageCount}
-                  aria-label="Next page"
+                  aria-label="Next"
                   onClick={() => goToPage(safePage + 1)}
                 >
                   Next
@@ -404,19 +401,16 @@ function FilterFields({
   return (
     <div className="flex flex-col gap-4">
       <Field label="Department" htmlFor={deptId}>
-        <select
+        <MenuSelect
           id={deptId}
-          className="field-input"
+          aria-label="Department"
           value={dept}
-          onChange={(e) => setDept(e.target.value)}
-        >
-          <option value="">All departments</option>
-          {departments.map((d) => (
-            <option key={d} value={d}>
-              {d}
-            </option>
-          ))}
-        </select>
+          onChange={setDept}
+          options={[
+            { value: "", label: "All departments" },
+            ...departments.map((d) => ({ value: d, label: d })),
+          ]}
+        />
       </Field>
       <Field label="Term">
         <div className="flex flex-wrap gap-2" role="group" aria-label="Term">
@@ -433,7 +427,7 @@ function FilterFields({
               className={cn(
                 "min-h-11 rounded-full px-3 text-sm font-medium",
                 term === v
-                  ? "bg-indigo text-white"
+                  ? "bg-indigo text-surface"
                   : "border border-line-strong bg-surface text-night",
               )}
               onClick={() => setTerm(v)}
@@ -457,7 +451,7 @@ function FilterFields({
               className={cn(
                 "min-h-11 rounded-full px-3 text-sm font-medium",
                 units === v
-                  ? "bg-indigo text-white"
+                  ? "bg-indigo text-surface"
                   : "border border-line-strong bg-surface text-night",
               )}
               onClick={() => setUnits(v)}
@@ -482,7 +476,7 @@ function FilterFields({
               className={cn(
                 "min-h-11 rounded-full px-3 text-sm font-medium",
                 level === v
-                  ? "bg-indigo text-white"
+                  ? "bg-indigo text-surface"
                   : "border border-line-strong bg-surface text-night",
               )}
               onClick={() => setLevel(v)}

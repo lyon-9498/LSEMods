@@ -17,13 +17,15 @@ describe("safeHttpsUrl", () => {
 });
 
 describe("isValidProgrammeId", () => {
-  it("accepts catalogue-style ids", () => {
+  it("accepts kebab and legacy catalogue-style ids", () => {
     expect(isValidProgrammeId("2026-BScEconomics")).toBe(true);
+    expect(isValidProgrammeId("bsc-finance")).toBe(true);
+    expect(isValidProgrammeId("ba-anthropology-and-law")).toBe(true);
   });
 
   it("rejects path traversal and junk", () => {
     expect(isValidProgrammeId("../etc")).toBe(false);
     expect(isValidProgrammeId("2026-BSc/Economics")).toBe(false);
-    expect(isValidProgrammeId("short")).toBe(false);
+    expect(isValidProgrammeId("ab")).toBe(false);
   });
 });
