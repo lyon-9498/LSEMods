@@ -107,14 +107,19 @@ export default async function CoursePage({
           {course.convenors?.[0] ? `${course.convenors[0]} · ` : ""}
           {course.department ?? "Department unknown"}
         </p>
-        <div className="mt-5 hidden flex-wrap gap-3 lg:flex">
-          <AddToPlanButton code={course.code} units={course.units} title={course.title} />
+        <div className="mt-5 flex flex-wrap gap-3">
+          <AddToPlanButton
+            code={course.code}
+            units={course.units}
+            title={course.title}
+            className="hidden lg:inline-flex"
+          />
           {sourceHref && (
             <a
               href={sourceHref}
               target="_blank"
               rel="noreferrer"
-              className="inline-flex min-h-12 items-center justify-center rounded-[var(--radius-control)] border border-white/36 px-6 py-3 text-sm font-semibold text-white"
+              className="inline-flex min-h-12 flex-1 items-center justify-center rounded-[var(--radius-control)] border border-white/36 px-6 py-3 text-sm font-semibold text-white sm:flex-none"
             >
               Official Guide
             </a>

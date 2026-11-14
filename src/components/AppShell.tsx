@@ -136,8 +136,10 @@ export function AppShell({
                 <Link
                   href={href}
                   className={cn(
-                    "flex min-h-14 w-full flex-col items-center justify-center gap-0.5 px-1 text-[11px] font-medium",
-                    active(href) ? "text-indigo" : "text-muted",
+                    "relative flex min-h-14 w-full flex-col items-center justify-center gap-0.5 px-1 text-[11px] font-medium",
+                    active(href)
+                      ? "text-indigo after:absolute after:inset-x-4 after:bottom-1 after:h-0.5 after:rounded-full after:bg-indigo"
+                      : "text-muted",
                   )}
                   aria-current={active(href) ? "page" : undefined}
                   aria-label={label}

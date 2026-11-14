@@ -202,11 +202,17 @@ export function DegreePanel({ byCode }: { byCode: Map<string, IndexEntry> }) {
       aria-label="Your degree"
     >
       <div className="space-y-3">
-        <DegreeSearchSelect
-          options={options}
-          value={plan.programme}
-          onChange={switchTo}
-        />
+        <div className="space-y-1.5">
+          <p id="degree-search-label" className="text-sm font-semibold text-night">
+            Your degree
+          </p>
+          <DegreeSearchSelect
+            options={options}
+            value={plan.programme}
+            onChange={switchTo}
+            labelledBy="degree-search-label"
+          />
+        </div>
         {!plan.programme && (
           <p className="text-xs text-muted">
             Pick your degree to drop in its compulsory courses and see what’s left to choose in

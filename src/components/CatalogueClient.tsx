@@ -178,8 +178,14 @@ export function CatalogueClient({
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             placeholder="Search a code, title or convenor"
-            className="h-14 w-full rounded-[18px] border-0 bg-white py-3 pl-12 pr-4 text-base font-medium text-night shadow-[0_12px_32px_rgba(10,6,40,0.28)] placeholder:text-muted/70 sm:h-16"
+            className="h-14 w-full rounded-[18px] border-0 bg-white py-3 pl-12 pr-4 text-base font-medium text-night shadow-[0_12px_32px_rgba(10,6,40,0.28)] placeholder:text-muted/70 sm:h-16 sm:pr-14"
           />
+          <kbd
+            className="pointer-events-none absolute right-4 top-1/2 hidden h-7 min-w-7 -translate-y-1/2 items-center justify-center rounded-md border border-line-strong bg-lilac-deep px-1.5 font-data text-xs font-medium text-muted sm:inline-flex"
+            aria-hidden
+          >
+            /
+          </kbd>
         </label>
       </section>
 
@@ -333,8 +339,8 @@ export function CatalogueClient({
             aria-label="Close filters"
             onClick={() => setSheetOpen(false)}
           />
-          <div className="absolute inset-x-0 bottom-0 max-h-[85dvh] overflow-y-auto rounded-t-[var(--radius)] bg-surface p-4 pb-[calc(5rem+env(safe-area-inset-bottom))] shadow-xl">
-            <div className="mb-4 flex items-center justify-between">
+          <div className="absolute inset-x-0 bottom-0 flex max-h-[85dvh] flex-col rounded-t-[var(--radius)] bg-surface shadow-xl">
+            <div className="flex shrink-0 items-center justify-between px-4 pt-4">
               <h2 id="filter-sheet-title" className="font-display text-lg text-night">
                 Filters
               </h2>
@@ -348,14 +354,18 @@ export function CatalogueClient({
                 <X className="size-5" aria-hidden />
               </button>
             </div>
-            <FilterFields {...filterProps} />
-            <button
-              type="button"
-              className="btn-primary mt-6 flex w-full items-center justify-center px-6"
-              onClick={() => setSheetOpen(false)}
-            >
-              Show {filtered.length} Courses
-            </button>
+            <div className="min-h-0 flex-1 overflow-y-auto px-4 py-4">
+              <FilterFields {...filterProps} />
+            </div>
+            <div className="shrink-0 border-t border-line px-4 pt-3 pb-[calc(0.75rem+env(safe-area-inset-bottom,0px))]">
+              <button
+                type="button"
+                className="btn-primary flex w-full items-center justify-center px-6"
+                onClick={() => setSheetOpen(false)}
+              >
+                Show {filtered.length} Courses
+              </button>
+            </div>
           </div>
         </div>
       )}
@@ -403,7 +413,11 @@ function FilterFields({
       <Field label="Department" htmlFor={deptId}>
         <MenuSelect
           id={deptId}
-          aria-label="Department"
+          aria-label={
+            dept
+              ? `Department: ${dept}`
+              : "Department: All departments"
+          }
           value={dept}
           onChange={setDept}
           options={[

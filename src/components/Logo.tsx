@@ -6,7 +6,10 @@ export function Logo({ className }: { className?: string }) {
   return (
     <Link
       href="/courses"
-      className={cn("inline-flex items-center gap-2.5 text-white", className)}
+      className={cn(
+        "inline-flex min-h-11 items-center gap-2.5 py-1.5 text-white",
+        className,
+      )}
       aria-label="LSEmods home"
     >
       <span

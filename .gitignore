@@ -60,3 +60,4 @@ skills-lock.json
 !.agents/skills/humanizer/**
 
 .taste-skill/
+.env*

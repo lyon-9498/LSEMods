@@ -47,7 +47,7 @@ export function AddToPlanButton({
           "inline-flex min-h-12 items-center justify-center gap-2 px-6 py-3 transition",
           inPlan ? "btn-ghost border-status-plan-border bg-status-plan-bg text-status-plan-text" : "btn-primary",
           sticky &&
-            "fixed inset-x-4 z-30 bottom-[calc(3.75rem+env(safe-area-inset-bottom))] shadow-lg lg:static lg:inset-auto lg:z-auto lg:shadow-none",
+            "fixed inset-x-4 z-30 bottom-[calc(4.25rem+env(safe-area-inset-bottom,0px))] shadow-lg lg:static lg:inset-auto lg:z-auto lg:shadow-none",
           className,
         )}
         onClick={() => {
